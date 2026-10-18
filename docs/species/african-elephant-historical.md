@@ -54,3 +54,9 @@ Observe from designated public areas, noting the actual date/time, site map grid
 2. [Supporting dated record](https://www.taronga.org.au/dubbo-zoo/map)
 
 General zoo map: [Taronga Western Plains Zoo](https://www.taronga.org.au/dubbo-zoo/map). Scientific evidence and IUCN listing require periodic reassessment. **Unknown:** exact current animals, photo identification and any unreported husbandry, health or breeding outcomes.
+
+## Q0007 — verified IUCN extinction-risk and wild-trend answer
+
+**African savanna elephant (*Loxodonta africana*) is Endangered (EN), global trend decreasing**, according to the [IUCN 2022 amendment](https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T181008073A223031019.en), based on an assessment dated 13 November 2020. IUCN estimates a roughly **60% historical decline** over its assessed time frame, driven chiefly by ivory poaching, habitat loss and human conflict. **African forest elephant (*Loxodonta cyclotis*) is a different species**, **Critically Endangered (CR), decreasing** [IUCN 2021 assessment](https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T181007989A181019888.en). [IUCN 2025 forest-elephant report](https://iucn.org/press-release/202511/dna-methods-help-uncover-further-african-forest-elephants-species-remains) cautions that larger figures arising from improved DNA sampling are **not equivalent to recovery**. The 2016 estimate of ~415,000 was for both elephant species **combined** and should not be presented as a current 2026 count or a savanna-only count.
+
+The historic Dubbo Zoo animals Cuddles and Yum Yum were confirmed as *Loxodonta africana* by period tribunal and Taronga publications. **This question was answerable and was incorrectly labelled unresolved in the original 622-question atlas.**

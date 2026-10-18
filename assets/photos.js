@@ -172,7 +172,10 @@
       const taxon=normalize(observation.taxon?.name);
       if(!taxon || !(taxon===scientific || taxon.startsWith(scientific+' ')))continue;
       for(const p of observation.photos||[]){
-        const license=ccLicense(String(p.license_code||'').toUpperCase().replaceAll('-',' '),p.license_code==='cc0'?'https://creativecommons.org/publicdomain/zero/1.0/': 'https://creativecommons.org/licenses/'+String(p.license_code||'').replace('cc-','')+'/4.0/');
+        const photoLicense=String(p.license_code||'').toLowerCase();
+        const titles={'cc0':'CC0','cc-by':'CC BY','cc-by-sa':'CC BY-SA'};
+        const path=photoLicense==='cc0'?'https://creativecommons.org/publicdomain/zero/1.0/':'https://creativecommons.org/licenses/'+photoLicense.replace(/^cc-/,'')+'/4.0/';
+        const license=titles[photoLicense]?ccLicense(titles[photoLicense],path):null;
         const url=(p.url||'').replace(/\/square\./,'/medium.');
         if(!license||!allowedPhoto(url))continue;
         const artist=String(p.attribution||observation.user?.login||'See observation for creator').slice(0,160);

@@ -6,6 +6,11 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 
 ## Start here
 
+## Comprehensive unanswered-question research atlas (18 October 2026)
+
+**[Open the massive 622-question research atlas](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md)** — a source-linked review of all 61 historical animal leads, 46 newer draft species profiles, existing observation records and structured data. Each primary question records the best supported answer or explicitly unresolved status **and exactly three additional research questions** (1,866 follow-ups; 2,488 total questions). This is a pinned research snapshot, not a completed proof of every unknown and not a current zoo census.
+
+
 - **[Platypus — species and Dubbo Rescue HQ guide](docs/platypus.md)**
 - **[Full platypus 2026 evidence audit: status, ecology, local and national research](docs/platypus-2026-evidence-review.md)**
 - **[Machine-readable platypus research entry (no invented photo)](data/platypus.json)**

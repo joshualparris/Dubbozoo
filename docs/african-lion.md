@@ -29,3 +29,7 @@ Keeping and breeding endangered or vulnerable zoo species requires animal-welfar
 - [Taronga animal welfare commitments](https://www.taronga.org.au/wildlife-and-conservation/animal-welfare)
 
 **Not established:** current Dubbo pride membership, birth histories, individual animal identities, a personal lion sighting.
+
+## Historical 'Asiatic lion' enclosure — original lineage unresolved
+
+A [6 May 1995 Dubbo Zoo visitor diary](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) explicitly describes an **'Asiatic Lions'** paddock at Western Plains Zoo. A [2008 discussion with former staff/long-time zoo observers](https://www.zoochat.com/community/threads/asiastic-lions-in-australia.15749/) describes disputed hybrid lineage; accounts disagree over whether the animals were Asian-African hybrids or of African lineage. No verified Dubbo studbook has been retrieved. **Historical sign wording is not genetic evidence**. Both Asian and African lions are populations/subspecies within *Panthera leo* under commonly used modern species taxonomy, so a separate species count would double count lions. Retain this as a *subspecies/ancestry research lead*, distinct from Taronga's verified contemporary African lion programme.

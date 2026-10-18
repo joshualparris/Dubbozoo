@@ -11,7 +11,7 @@ This document records **new source checks**, corrects errors in prior versions o
 | Unresearched entries on *this* list | 0 | Unknown historical species could still be missing |
 | Dubbo-specific holding not established | 4 | Not confirmed as zoo-owned/displayed, see below |
 | Historic Dubbo rehabilitation only | 1 | Explicitly not a permanent zoo exhibit |
-| Precise taxa/lineages unverified | 7 | Cannot assign subspecies-level IUCN ranking without confirmation |
+| Precise taxa/lineages unverified | 6 | Cannot assign subspecies-level IUCN ranking without confirmation |
 
 [Numbered checklist](all-time-animal-inventory.md) · [Machine-readable historical records](../data/all-time-animal-inventory.json) · [Guide catalogue](../data/species-catalogue.json)
 
@@ -60,15 +60,18 @@ This document records **new source checks**, corrects errors in prior versions o
 - [ ] **#53 Southern hairy-nosed wombat** — [research](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md); [currently weak/source-general evidence](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). Obtain dated Taronga Western Plains-specific holding or definitive negative response; avoid treating a free-roaming wild bird or Taronga Sydney patient as a Dubbo collection animal.
 - [ ] **#58 White-browed woodswallow** — [research](../docs/species/white-browed-woodswallow-holding-unverified.md); [currently weak/source-general evidence](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf). Obtain dated Taronga Western Plains-specific holding or definitive negative response; avoid treating a free-roaming wild bird or Taronga Sydney patient as a Dubbo collection animal.
 
-## Seven taxonomic questions
+## Six taxonomic questions
 
 - [ ] **#2 African elephant** — [guide](../docs/species/african-elephant-historical.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
-- [ ] **#11 Dromedary camel (map just says 'Camel')** — [guide](../docs/species/camel-taxon-unverified.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
 - [ ] **#14 Helmeted guineafowl (map says 'Guineafowl')** — [guide](../docs/species/guineafowl-taxon-unverified.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
 - [ ] **#23 Galápagos tortoise** — [guide](../docs/galapagos-giant-tortoise.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
 - [ ] **#64 African forest buffalo (historical)** — [guide](../docs/species/african-forest-buffalo.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
 - [ ] **#65 Tiger historically labelled Bengal** — [guide](../docs/species/bengal-tiger-historical.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
 - [ ] **#66 Dingo (historical)** — [guide](../docs/species/dingo-historical.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
+
+### Newly resolved species identity
+
+[Taronga keeper Ruby Cullen, 24 June 2023](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day), personally identifies camel Samera as *Camelus dromedarius* and dates her arrival at Dubbo to 2007. The historic camel taxon is confirmed for this animal; don't infer the identity of all other old camel records.
 
 ## Scientific validation still outstanding
 

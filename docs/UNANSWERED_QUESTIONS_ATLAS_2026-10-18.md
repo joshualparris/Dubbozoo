@@ -335,7 +335,7 @@
 
 **Q0027. What is the current conservation status and wild-population trend of Black rhinoceros?**
 
-**Best answer — category and direction supported by IUCN announcement:** The **black rhinoceros (*Diceros bicornis*) remains Critically Endangered**. IUCN reports the **total wild population was slowly increasing during the monitored recovery years**, despite a catastrophic historical decline and continuing poaching. That means **CR does not automatically mean its most recent wild trend is decreasing**. [IUCN African rhino recovery announcement](https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list). The current all-Africa wild count and precise IUCN species trend require their own dated survey. [species research](../docs/black-rhinoceros.md).
+**Best answer — dated IUCN recovery context:** **Black rhinoceros (*Diceros bicornis*) is Critically Endangered (CR)**, but [IUCN's March 2020 recovery report](https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list) documents a **slow increase in estimated wild animals, from about 4,845 in 2012 to 5,630 in 2018**. This is a dated recovery window, not proof of a fully recovered population or an October 2026 census. [Guide](black-rhinoceros.md).
 
 **Evidence:** [inventory #7](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/black-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/black-rhinoceros.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1203,7 +1203,7 @@
 
 **Q0099. What is the current conservation status and wild-population trend of Asian small-clawed otter?**
 
-**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Aonyx cinereus*. A species research guide exists ([species research](../docs/species/asian-small-clawed-otter.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
+**Best answer — taxon-matched IUCN assessment:** **Asian small-clawed otter (*Aonyx cinereus*) is Vulnerable (VU), global trend decreasing**, according to the [IUCN 2021 account assessed 19 February 2020](https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T44166A164580923.en). Wetland conversion and exploitation contribute to its decline. This is about wild otters, not the zoo's current group size. [Guide](species/asian-small-clawed-otter.md).
 
 **Evidence:** [inventory #25](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1299,7 +1299,7 @@
 
 **Q0107. What is the current conservation status and wild-population trend of Banteng?**
 
-**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Bos javanicus*. A species research guide exists ([species research](../docs/species/banteng.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
+**Best answer — revised IUCN category with trend caveat:** **Banteng (*Bos javanicus*) is now Critically Endangered (CR) in the IUCN's 2025 assessment**, as indicated by the official [older IUCN account's latest-assessment field](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T2888A46362970.en) and an independent [2026 scientific study](https://www.sciencedirect.com/science/article/abs/pii/S1617138126001342). The **2016 assessment** recorded an **Endangered (EN), decreasing** population, but the 2025 detailed trend and criteria have **not yet been read**. Do not silently present EN as the current status. [Updated guide](species/banteng.md).
 
 **Evidence:** [inventory #27](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 

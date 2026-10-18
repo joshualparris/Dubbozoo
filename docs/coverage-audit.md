@@ -85,3 +85,7 @@ This document records **new source checks**, corrects errors in prior versions o
 Get **Taronga Dubbo-only historical animal collection/ARKS/ZIMS accession-and-transfer inventories covering 1977–2026**, with species-level dates and the treatment of temporary hospital patients, sanctuary animals, historic signage and zoo wildlife. Scan old maps from the 1980s–2000s and cross-check every claimed taxon. Without these documents a publicly assembled list is necessarily a **minimum documented set, not a definitive exhaustive total**.
 
 **Additional candidate leads, not added as verified species:** collared peccary (1990s visitor photos), nilgai (historical exhibit discussions), South American capybara, Indian peafowl, smooth yabby, and formerly used generic labels that may disguise multiple taxa. Each needs primary Dubbo collection evidence.
+
+## Research handoff: original archival records
+
+[Prepared a precise, **unsent** archive enquiry and research checklist](archival-records-request.md) for Taronga's historical Dubbo species holdings and additional NSW library visitor pamphlets. No archival reply or complete ARKS/ZIMS file has been obtained. Until it is obtained, the **72-entry set remains an evidence-backed working sample**, not a certified complete all-time collection.

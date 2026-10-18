@@ -1,0 +1,237 @@
+{
+  "review_date": "2026-10-18",
+  "venue": "Taronga Western Plains Zoo, Dubbo, NSW",
+  "source_map": "https://taronga.org.au/dubbo-zoo/map",
+  "source_animals": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
+  "scope_note": "Zoo map labels indicate candidates for research, not individual sightings, live animal inventory, species classification or exact 2026 occupancy; 'research only' is not user-observed.",
+  "researched_species": [
+    {
+      "common_name": "African wild dog",
+      "scientific_name": "Lycaon pictus",
+      "guide": "docs/african-wild-dog.md",
+      "record_type": "photographed",
+      "conservation_note": "Endangered"
+    },
+    {
+      "common_name": "Giraffe",
+      "scientific_name": "Giraffa sp.",
+      "guide": "docs/giraffe.md",
+      "record_type": "photographed",
+      "conservation_note": "not assigned without verified species"
+    },
+    {
+      "common_name": "Siamang",
+      "scientific_name": "Symphalangus syndactylus",
+      "guide": "docs/siamang.md",
+      "record_type": "photographed",
+      "conservation_note": "Endangered"
+    },
+    {
+      "common_name": "Platypus",
+      "scientific_name": "Ornithorhynchus anatinus",
+      "guide": "docs/platypus.md",
+      "record_type": "research only",
+      "conservation_note": "Near Threatened"
+    },
+    {
+      "common_name": "Black rhinoceros",
+      "scientific_name": "Diceros bicornis",
+      "guide": "docs/black-rhinoceros.md",
+      "record_type": "research only",
+      "conservation_note": "Critically Endangered"
+    },
+    {
+      "common_name": "White rhinoceros",
+      "scientific_name": "Ceratotherium simum",
+      "guide": "docs/white-rhinoceros.md",
+      "record_type": "research only",
+      "conservation_note": "assessment/subspecies recheck"
+    },
+    {
+      "common_name": "Cheetah",
+      "scientific_name": "Acinonyx jubatus",
+      "guide": "docs/cheetah.md",
+      "record_type": "research only",
+      "conservation_note": "Vulnerable"
+    },
+    {
+      "common_name": "African lion",
+      "scientific_name": "Panthera leo",
+      "guide": "docs/african-lion.md",
+      "record_type": "research only",
+      "conservation_note": "Vulnerable"
+    },
+    {
+      "common_name": "Common hippopotamus",
+      "scientific_name": "Hippopotamus amphibius",
+      "guide": "docs/common-hippopotamus.md",
+      "record_type": "research only",
+      "conservation_note": "Vulnerable"
+    },
+    {
+      "common_name": "Plains zebra",
+      "scientific_name": "Equus quagga",
+      "guide": "docs/plains-zebra.md",
+      "record_type": "research only",
+      "conservation_note": "conflicting Taronga assessments; recheck"
+    },
+    {
+      "common_name": "Asian elephant",
+      "scientific_name": "Elephas maximus",
+      "guide": "docs/asian-elephant.md",
+      "record_type": "research only",
+      "conservation_note": "Endangered"
+    },
+    {
+      "common_name": "Sumatran tiger",
+      "scientific_name": "Panthera tigris sumatrae",
+      "guide": "docs/sumatran-tiger.md",
+      "record_type": "research only",
+      "conservation_note": "Critically Endangered per Taronga"
+    },
+    {
+      "common_name": "Greater one-horned rhinoceros",
+      "scientific_name": "Rhinoceros unicornis",
+      "guide": "docs/greater-one-horned-rhinoceros.md",
+      "record_type": "research only",
+      "conservation_note": "Vulnerable"
+    }
+  ],
+  "pending_map_labels": [
+    {
+      "common_name": "Addax",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Barbary sheep",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Banteng",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Black-and-white ruffed lemur",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Blackbuck",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Bongo (eastern form - verify)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Camel (species verification needed)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Eland",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Emu",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Echidna",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Fallow deer",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Galápagos tortoise",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Koala",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Meerkat",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Oryx (exact species verification needed)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Ostrich",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Otter (exact species verification needed)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Persian onager",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Pygmy goat",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Quokka",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Regent honeyeater",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Ring-tailed lemur",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Spider monkey (exact species verification needed)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Takhi (Przewalski's horse)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Tasmanian devil",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Wallaby (species verification needed)",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    },
+    {
+      "common_name": "Water buffalo",
+      "status": "needs_species_verification_and_deep_research",
+      "photo_observed": false
+    }
+  ]
+}

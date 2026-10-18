@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "curated_at": "2026-10-18",
-  "notes": "88 of 89 file-specific CC/PD Commons image references in static HTML; #73 Northern hairy-nosed wombat intentionally deferred because the sole Commons photo labelled L. krefftii is explicitly disputed as a southern hairy-nosed wombat. No false species image.",
+  "notes": "89 file-specific freely licensed wildlife images, 88 from Wikimedia Commons and one Northern Hairy-nosed Wombat from Queensland Government original 2025 wildlife camera trap. Reference animals, not Dubbo historic individual proof. Individual on-device HTTP rendering still to verify.",
   "entries": [
     {
       "number": 1,
@@ -865,6 +865,18 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus_canadensis_(North_American_elk)_1_(15725801161).jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 73,
+      "file": "rcnx0080.jpg",
+      "author": "© State of Queensland (Department of the Environment, Tourism, Science and Innovation)",
+      "licence": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "file_page": "https://www.detsi.qld.gov.au/our-department/news-media/mediareleases/2025/first-wild-born-wombats-sighted",
+      "image_url": "https://www.detsi.qld.gov.au/__data/assets/image/0015/410118/rcnx0080.jpg",
+      "source": "Queensland Government DETSI, 2025 camera trap",
+      "method": "Queensland Government original 2025 published northern hairy-nosed wombat identification; department copyright CC BY 4.0 default unless otherwise marked; visibly original trail camera image",
       "historical_animal_claim": false
     },
     {

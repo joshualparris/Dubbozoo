@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0.0",
+  "last_reviewed": "2026-10-18",
+  "observations": [
+    {
+      "id": "dubbozoo-obs-0001",
+      "common_name": "African wild dog",
+      "aliases": [
+        "African painted dog",
+        "painted wolf"
+      ],
+      "scientific_name": "Lycaon pictus",
+      "taxon_rank": "species",
+      "iucn_status": "EN",
+      "iucn_assessment_year": 2025,
+      "iucn_estimated_mature_individuals": 1676,
+      "population_trend": "decreasing",
+      "subjects_visible": 2,
+      "subjects_visible_confidence": "high",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-10-18",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW, African wild dog habitat",
+      "venue_evidence": "Photographs and user-supplied Dubbozoo repo context; not independently geo-verified",
+      "venue_verified": false,
+      "visitor_map_reference": "19B",
+      "map_ref_source": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/african-adventure",
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "observable_behaviours": [
+        "walking",
+        "standing",
+        "turning head",
+        "co-presence"
+      ],
+      "behaviour_interpretation_limits": "Do not infer identities, pack hierarchy, health, sex, stress or specific social roles",
+      "photos": [
+        {
+          "original_filename": "1000104120.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 600601,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "c0a7c4f98977f836430f627213fc839a61ce364c3cb08a9f75c71b753a9a6f91",
+          "exif_present": false,
+          "description": "Wide view from visitor area; two painted dogs on lawn with mature trees and a pale tree trunk.",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104121.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 439214,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "a617da9f4f82ad2d64cf789c651af105a9445164fb8d2fcde94f82346d8b4466",
+          "exif_present": false,
+          "description": "One dog facing camera in foreground; second dog behind; facial markings and white tail tip.",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104122.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 429329,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "9da05a7d828dc9932f1567baabbcde17fcf382dcf48d562c9b945ef4531397da",
+          "exif_present": false,
+          "description": "One dog walking in profile, other behind; mottled coat and pale tail tips.",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104123.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 631920,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "4e12ad4f7f20906ab4cf1888e51e26d8755a1f2331abc0d15b548ed6a51e1ecd",
+          "exif_present": false,
+          "description": "Two dogs moving across grass, with fallen timber, pale-trunked tree and woods.",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104124.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 385740,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "4a7e71113221167dab3523579b05ed09dff493ddfb45325ad0688c1f35da802f",
+          "exif_present": false,
+          "description": "Two dogs seen from behind near foliage; ears up and tails with pale ends.",
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "sources": [
+        {
+          "type": "authoritative_conservation_status",
+          "url": "https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T12436A221299510.en",
+          "last_assessed": "2025-06-10"
+        },
+        {
+          "type": "zoo_historic_news",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/world-african-wild-dog-day",
+          "published": "2023-08-30"
+        },
+        {
+          "type": "zoo_historic_news",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/zoo-undertakes-next-project",
+          "published": "2024-02-02"
+        },
+        {
+          "type": "current_zoo_visitor_itinerary",
+          "url": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/african-adventure"
+        },
+        {
+          "type": "conservation_ngo",
+          "url": "https://www.painteddog.org/who-we-are"
+        }
+      ]
+    }
+  ]
+}

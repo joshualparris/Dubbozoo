@@ -4117,3 +4117,567 @@
 2. Which competing explanation or taxonomic interpretation needs ruling out?
 3. How should the confidence, individual identity and photo provenance be recorded before publication?
 
+
+
+---
+
+## File-by-file audit: remaining main research guides, field observations and photo manifest (batch B)
+
+### `docs/platypus-2026-evidence-review.md`
+
+4 explicit questions; 0 uncertainty statements.
+
+**Q0345. Guarantee of seeing animal?**
+
+**Best answer — partly answered:** | No — Taronga says visitors may spot Mackenzie. | This explanation is a guide statement, not necessarily evidence about the photographed individual.
+
+**Evidence:** [`docs/platypus-2026-evidence-review.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — research and conservation field guide for Dubbo?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0346. Observe the bill: is it rigid like a duck's?**
+
+**Best answer — partly answered:** No — it's an extraordinarily sensitive, fleshy organ. This explanation is a guide statement, not necessarily evidence about the photographed individual.
+
+**Evidence:** [`docs/platypus-2026-evidence-review.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — research and conservation field guide for Dubbo?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0347. Find conservation clues: does the exhibit include water, natural vegetation, burrow space and hiding places?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`docs/platypus-2026-evidence-review.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — research and conservation field guide for Dubbo?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0348. Care for local waterways: which things can kids safely do to keep plastic, fishing line and rubbish out of rivers?**
+
+**Best answer — unresolved:** This species/visitor-specific fact needs a dated primary record; the available image and catalogue do not settle it.
+
+**Evidence:** [`docs/platypus-2026-evidence-review.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — research and conservation field guide for Dubbo?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+### `docs/platypus.md`
+
+5 explicit questions; 0 uncertainty statements.
+
+**Q0349. Did you actually see an animal?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0350. Can you spot how the broad front feet propel it and the tail follows as a rudder?**
+
+**Best answer — unresolved observation:** No specific time-stamped visual or audio evidence is attached to this exercise that can establish the answer beyond the existing photo notes.
+
+**Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0351. Does the information panel distinguish electroreception from hearing or echolocation?**
+
+**Best answer — answered:** Electroreception detects weak electrical fields using the platypus bill; it is not reflected-sound navigation.
+
+**Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0352. How might an upstream barrier alter a platypus population even when a waterhole remains?**
+
+**Best answer — unresolved:** This species/visitor-specific fact needs a dated primary record; the available image and catalogue do not settle it.
+
+**Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0353. What is the difference between 65-place disaster capacity and animals currently housed?**
+
+**Best answer — answered:** A 65-place maximum emergency facility capacity is not a present zoo platypus count.
+
+**Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Platypus — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+### `docs/research-method.md`
+
+0 explicit questions; 2 uncertainty statements.
+
+**Q0354. What evidence would settle the outstanding # Research and maintenance methodology claim "I — Inferred: plausible but unverified (e.g. the place from appearance and project title)."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`docs/research-method.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Research and maintenance methodology?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0355. What evidence would settle the outstanding # Research and maintenance methodology claim "U — Unknown: cannot determine with available sources; store as null instead of fabricating data."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`docs/research-method.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Research and maintenance methodology?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+### `docs/siamang.md`
+
+4 explicit questions; 2 uncertainty statements.
+
+**Q0356. What evidence would settle the outstanding # Siamangs at Taronga Western Plains Zoo — deep research field guide claim "An identification as siamang is strongly supported by the pictured exhibit's resemblance to Taronga's published Siamang Islands and the animal's appearance, although the photograph"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Siamangs at Taronga Western Plains Zoo — deep research field gu?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0357. Ropes: can you see a siamang grip a rope with one hand? Does it use both arms in sequence?**
+
+**Best answer — partly answered:** Does it use both arms in sequence? This explanation is a guide statement, not necessarily evidence about the photographed individual.
+
+**Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Siamangs at Taronga Western Plains Zoo — deep research field gu?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0358. Throat sac: if it sings, does the pouch inflate?**
+
+**Best answer — partly answered:** Do not confuse the pouch with an injury. This explanation is a guide statement, not necessarily evidence about the photographed individual.
+
+**Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Siamangs at Taronga Western Plains Zoo — deep research field gu?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0359. Duet: can you distinguish two sets of calls?**
+
+**Best answer — unverified from photographs:** The uploaded images cannot supply sound; Taronga separately documents that a duetting pair existed in 2026.
+
+**Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Siamangs at Taronga Western Plains Zoo — deep research field gu?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0360. Rainforest: what would happen if roads and farms separated forest trees into isolated patches?**
+
+**Best answer — ecological principle:** Habitat fragmentation, disruption of ecological flows and depleted resources can harm dispersal and survival; exact local effects need matched surveys.
+
+**Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Siamangs at Taronga Western Plains Zoo — deep research field gu?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0361. What evidence would settle the outstanding # Siamangs at Taronga Western Plains Zoo — deep research field guide claim "Unknown (U): exact photo date/GPS, pictured animal name and sex, any unseen additional animals, current breeding outcome, whether hammock occupied, whether a duet occurred."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Siamangs at Taronga Western Plains Zoo — deep research field gu?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `docs/sumatran-tiger.md`
+
+4 explicit questions; 1 uncertainty statements.
+
+**Q0362. What is a Sumatran tiger?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Sumatran tiger — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0363. Can a forest with fragmented corridors sustain enough prey and breeding territories?**
+
+**Best answer — ecological principle:** Habitat fragmentation, disruption of ecological flows and depleted resources can harm dispersal and survival; exact local effects need matched surveys.
+
+**Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Sumatran tiger — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0364. Why is this animal not simply 'an endangered tiger' with a single global taxon count?**
+
+**Best answer — ecological principle:** Habitat fragmentation, disruption of ecological flows and depleted resources can harm dispersal and survival; exact local effects need matched surveys.
+
+**Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Sumatran tiger — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0365. Which visible behaviours can be documented without assuming stress or boredom?**
+
+**Best answer — unresolved:** This species/visitor-specific fact needs a dated primary record; the available image and catalogue do not settle it.
+
+**Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Sumatran tiger — Dubbo Zoo deep research guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0366. What evidence would settle the outstanding # Sumatran tiger — Dubbo Zoo deep research guide claim "Unknown: which tigers are currently housed in Dubbo, birth dates, publicly visible individuals, precise latest wild number matched to a single taxonomic assessment."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Sumatran tiger — Dubbo Zoo deep research guide?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `docs/white-rhinoceros.md`
+
+4 explicit questions; 0 uncertainty statements.
+
+**Q0367. Is it mostly eating grass with a broad flat mouth, or selecting leaves with a hooked lip?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`docs/white-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # White rhinoceros — Dubbo Zoo researched guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0368. Are there several adults within sight, and are young present?**
+
+**Best answer — partly answered:** Do not infer parentage. This explanation is a guide statement, not necessarily evidence about the photographed individual.
+
+**Evidence:** [`docs/white-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # White rhinoceros — Dubbo Zoo researched guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0369. How does a heavy grazing animal remain cool?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`docs/white-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # White rhinoceros — Dubbo Zoo researched guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0370. Why might poaching statistics, wild global estimates and zoo breeding counts tell different stories?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`docs/white-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # White rhinoceros — Dubbo Zoo researched guide?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+### `observations/african-wild-dogs-undated.md`
+
+5 explicit questions; 0 uncertainty statements.
+
+**Q0371. Was the visit on 18 October 2026, or were these photographs taken on an earlier date?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`observations/african-wild-dogs-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/african-wild-dogs-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Field observation — two African wild dogs, undated photographs?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0372. Was this definitely the Taronga Western Plains Zoo African wild dog exhibit (Taronga map 19B)?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`observations/african-wild-dogs-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/african-wild-dogs-undated.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Field observation — two African wild dogs, undated photographs?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0373. Were there any other dogs in the enclosure that were outside the frame?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`observations/african-wild-dogs-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/african-wild-dogs-undated.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Field observation — two African wild dogs, undated photographs?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+**Q0374. Did a keeper or sign provide the names of the two dogs?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`observations/african-wild-dogs-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/african-wild-dogs-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Field observation — two African wild dogs, undated photographs?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0375. Can original files with intact date/time or GPS metadata be located?**
+
+**Best answer — partly answered:** These uploaded copies have no EXIF. This explanation is a guide statement, not necessarily evidence about the photographed individual.
+
+**Evidence:** [`observations/african-wild-dogs-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/african-wild-dogs-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Field observation — two African wild dogs, undated photographs?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `observations/asian-elephants-undated.md`
+
+0 explicit questions; 2 uncertainty statements.
+
+**Q0376. What evidence would settle the outstanding # Asian elephant photographs — 18 October 2026 submission (capture date unknown) claim "Asian elephant photographs — 18 October 2026 submission (capture date unknown)"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/asian-elephants-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/asian-elephants-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Asian elephant photographs — 18 October 2026 submission (captur?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0377. What evidence would settle the outstanding # Asian elephant photographs — 18 October 2026 submission (capture date unknown) claim "Record: dubbozoo-obs-0005. Species: Elephas maximus (high confidence). At least two elephants are separately visible in frames 54317–54319. Animal names/sexes: unknown. Site: consi"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/asian-elephants-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/asian-elephants-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Asian elephant photographs — 18 October 2026 submission (captur?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `observations/galapagos-tortoise-undated.md`
+
+0 explicit questions; 2 uncertainty statements.
+
+**Q0378. What evidence would settle the outstanding # Giant tortoise photographs — 18 October 2026 submission (capture date unknown) claim "Giant tortoise photographs — 18 October 2026 submission (capture date unknown)"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/galapagos-tortoise-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/galapagos-tortoise-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Giant tortoise photographs — 18 October 2026 submission (captur?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0379. What evidence would settle the outstanding # Giant tortoise photographs — 18 October 2026 submission (capture date unknown) claim "Record: dubbozoo-obs-0004. Identification: Galápagos giant tortoise group, Chelonoidis sp. (likely; high zoo-context confidence); precise island lineage, age, name and sex unknown."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/galapagos-tortoise-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/galapagos-tortoise-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Giant tortoise photographs — 18 October 2026 submission (captur?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `observations/giraffes-undated.md`
+
+0 explicit questions; 4 uncertainty statements.
+
+**Q0380. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "Giraffe observation — two photographs (capture date unknown)"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Giraffe observation — two photographs (capture date unknown)?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0381. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "Species identification: giraffe, Giraffa sp. (high confidence for genus; unverified for specific species/lineage)."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Giraffe observation — two photographs (capture date unknown)?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0382. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "Photo capture date: unknown. Uploaded/submitted on 18 October 2026 ≠ taken on that date."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Giraffe observation — two photographs (capture date unknown)?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0383. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "These checksums are for the two supplied JPEG copies (not any unverified camera originals). The image binaries have not been committed to the public repository. They have no EXIF c"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Giraffe observation — two photographs (capture date unknown)?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `observations/meerkat-undated.md`
+
+0 explicit questions; 2 uncertainty statements.
+
+**Q0384. What evidence would settle the outstanding # Probable meerkat photograph — 18 October 2026 submission (capture date unknown) claim "Probable meerkat photograph — 18 October 2026 submission (capture date unknown)"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/meerkat-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/meerkat-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Probable meerkat photograph — 18 October 2026 submission (captu?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0385. What evidence would settle the outstanding # Probable meerkat photograph — 18 October 2026 submission (capture date unknown) claim "Unknown: species independently confirmed, exact capture date, GPS, sex, age, animal name, behavior, group size, welfare status, and image-publication permission."?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/meerkat-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/meerkat-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Probable meerkat photograph — 18 October 2026 submission (captu?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+### `observations/siamang-undated.md`
+
+1 explicit questions; 2 uncertainty statements.
+
+**Q0386. What evidence would settle the outstanding # Siamang Islands — six photographs, capture date unknown claim "Siamang Islands — six photographs, capture date unknown"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/siamang-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/siamang-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Siamang Islands — six photographs, capture date unknown?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0387. What evidence would settle the outstanding # Siamang Islands — six photographs, capture date unknown claim "Observation ID: dubbozoo-obs-0003. Added: 18 October 2026 (Australia/Sydney). Likely species: Symphalangus syndactylus, high contextual confidence. Likely venue: Taronga Western Pl"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`observations/siamang-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/siamang-undated.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Siamang Islands — six photographs, capture date unknown?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0388. Original supplied JPEG | Size (bytes) | Dimensions | SHA-256 | Recognisable visitors?**
+
+**Best answer — partially researched:** The guide supplies relevant natural-history context but does not document this prompt as a verified event in the observation record.
+
+**Evidence:** [`observations/siamang-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/siamang-undated.md).
+
+**Three follow-up questions:**
+1. What dated primary research or Taronga record directly supports an answer for # Siamang Islands — six photographs, capture date unknown?
+2. Which taxonomic, geographic or observational alternative interpretation could change the conclusion?
+3. What measurable evidence would distinguish a genuine conservation outcome from a historical anecdote?
+
+### `photos/README.md`
+
+0 explicit questions; 2 uncertainty statements.
+
+**Q0389. What evidence would settle the outstanding # Submitted photographs — integrity and publication status claim "The photo binaries are not yet hosted in this GitHub repository. The hashes below document the copies analysed, not a verified GitHub image upload. The site deliberately does not p"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`photos/README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/photos/README.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Submitted photographs — integrity and publication status?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+
+**Q0390. What evidence would settle the outstanding # Submitted photographs — integrity and publication status claim "Neither JPEG has retained EXIF. The new images are catalogued, not published as binaries; an uploaded GitHub asset must be verified before switching committedbinary to true. No peo"?**
+
+**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+
+**Evidence:** [`photos/README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/photos/README.md).
+
+**Three follow-up questions:**
+1. Can a verified time-stamped camera original or keeper identification settle this question for # Submitted photographs — integrity and publication status?
+2. What alternative viewing-angle or animal-identity explanation must be ruled out?
+3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
+

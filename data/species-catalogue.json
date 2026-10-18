@@ -79,8 +79,9 @@
       "common_name": "Asian elephant",
       "scientific_name": "Elephas maximus",
       "guide": "docs/asian-elephant.md",
-      "record_type": "research only",
-      "conservation_note": "Endangered"
+      "record_type": "photographed",
+      "conservation_note": "Endangered",
+      "photo_evidence_path": "observations/asian-elephants-undated.md"
     },
     {
       "common_name": "Sumatran tiger",
@@ -95,6 +96,20 @@
       "guide": "docs/greater-one-horned-rhinoceros.md",
       "record_type": "research only",
       "conservation_note": "Vulnerable"
+    },
+    {
+      "common_name": "Galápagos tortoise",
+      "scientific_name": "Chelonoidis sp. (Galápagos complex)",
+      "guide": "docs/galapagos-giant-tortoise.md",
+      "record_type": "photographed",
+      "conservation_note": "island lineage and lineage-specific IUCN classification unverified"
+    },
+    {
+      "common_name": "Meerkat",
+      "scientific_name": "Suricata suricatta",
+      "guide": "docs/meerkat.md",
+      "record_type": "photographed_probable",
+      "conservation_note": "Least Concern; photo identification medium confidence"
     }
   ],
   "pending_map_labels": [
@@ -154,17 +169,7 @@
       "photo_observed": false
     },
     {
-      "common_name": "Galápagos tortoise",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
       "common_name": "Koala",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Meerkat",
       "status": "needs_species_verification_and_deep_research",
       "photo_observed": false
     },

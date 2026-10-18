@@ -2,10 +2,10 @@
 
 **Audited:** 18 October 2026 · **Scope:** animal names with published evidence of being held, displayed, bred or managed at **Taronga Western Plains Zoo in Dubbo** since 1977, including conservation and historical holdings. **This is not a complete 1977–2026 animal register.** It excludes one-off wildlife patients, wild visitors, and animals merely in Taronga Sydney unless specifically traced to Dubbo.
 
-**61 distinct checklist entries: 13 with deep species guides, 48 not yet deeply researched. 12 entries presently rely only on a secondary list and require primary confirmation.** A name on a map, including a current map, does not independently prove it is alive or on show in October 2026.
+**61 distinct checklist entries: 15 with deep species guides, 46 not yet deeply researched. 12 entries presently rely only on a secondary list and require primary confirmation.** A name on a map, including a current map, does not independently prove it is alive or on show in October 2026.
 
 ## Reading the list
-- ✅ Detailed `docs/` research guide already exists. Photo records are separate and only three kinds of animals have user-supplied photos.
+- ✅ Detailed `docs/` research guide already exists. Photo records are separate and six animal groups now have user-supplied photos.
 - ⬜ No deep guide yet, even if the species has an official zoo mention.
 - ⚠️ **Secondary-list only** or exact taxon unverified; check against Taronga's archival holdings.
 - **Historical/sanctuary** means on premises previously, behind the scenes or under conservation management, **not necessarily on public display today**.
@@ -30,7 +30,7 @@
 | 12 | Eastern bongo | ⬜ | [2026 official zoo map](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo) |
 | 13 | [Giraffe (Giraffa, exact zoo taxon unverified)](../docs/giraffe.md) | ✅ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/map) |
 | 14 | Helmeted guineafowl (map says 'Guineafowl') | ⬜ | [2024 map (precise taxon unconfirmed)](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) ⚠️ |
-| 15 | Meerkat | ⬜ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole) |
+| 15 | [Meerkat](../docs/meerkat.md) | ✅ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole) |
 | 16 | Ostrich | ⬜ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/map) |
 | 17 | [Plains zebra](../docs/plains-zebra.md) | ✅ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/map) |
 | 18 | Ring-tailed lemur | ⬜ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/map) |
@@ -43,7 +43,7 @@
 |---:|---|:---:|---|
 | 21 | American bison | ⬜ | [Taronga historic zoo report](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf) |
 | 22 | Black-handed spider monkey | ⬜ | [Taronga zoo-specific annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf) |
-| 23 | Galápagos tortoise | ⬜ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/map) |
+| 23 | [Galápagos tortoise](../docs/galapagos-giant-tortoise.md) | ✅ | [2026 official zoo map](https://www.taronga.org.au/dubbo-zoo/map) |
 
 ## Asia
 

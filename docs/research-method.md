@@ -68,3 +68,12 @@ Old Taronga news pages contain potentially inconsistent combinations of website 
 - Treat UNSW projected future declines as **model-dependent scenarios**. The [2026 NSW study](https://doi.org/10.1071/AZ25060) comparing **1987 and 2006** questionnaires does not prove that wild populations have been stable up to 2026.
 - The [May 2026 Royal National Park report](https://www.unsw.edu.au/newsroom/news/2026/05/platypus-population-expands-to-20-in-royal-national-park-latest-survey) refers to a **Sydney-area reintroduction with multiple releases**, not population counts for the Dubbo zoo or the Macquarie River.
 - Do not disclose any future observed precise nest location in a public dataset; generalise sensitive wildlife coordinates.
+
+## October 2026 photo batch: verification/ethics
+
+- Source-copy original filenames and SHA-256 are reproduced in the relevant species observation files; the JPEG binaries are **not in public GitHub**. Do not expose children/visitor faces as public assets without permission or properly redacted images.
+- All ten images lack retained EXIF. User upload/submission date is **not** their actual photo capture date; do not fabricate GPS or encounter chronology.
+- **Galápagos tortoise**: confirmed zoo-held group and visually appropriate morphology but exact island taxon/lineage unknown. The [2025 Turtle Taxonomy Working Group](https://iucn-tftsg.org/wp-content/uploads/crm.10.checklist.atlas_.v10.2025.pdf) and [Galápagos Conservancy](https://www.galapagos.org/about_galapagos/biodiversity/) use different ranks for island forms; avoid a fabricated single IUCN category.
+- **Asian elephant**: five real photo records; signs about Gung don't confirm the elephant's identity. The [IUCN assessment](https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en) is EN (2020 publication; 2019 assessment).
+- **Meerkat**: a single mostly rear/side shot behind glass; mark as probable and **medium** species-identification confidence rather than a confident sex, age or zoo mob membership. Smithsonian lists LC: [source](https://nationalzoo.si.edu/animals/meerkat).
+- Preserve [historical zoo list](../data/all-time-animal-inventory.json) as a collection of past and present documented species, not an on-site census. The increase in deep guides does not imply additional animals present today.

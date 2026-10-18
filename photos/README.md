@@ -53,3 +53,20 @@ Neither JPEG has retained EXIF. The new images are **catalogued, not published a
 | `1000104129.jpg` | 429,977 | 1152 × 1536 | `77cef6e4fbb884465fdefdb0782aba5a710638f328189ecf12930c4a27a4d1fc` |
 
 All six copies have no retained EXIF. **Photos remain inventoried, not committed as binaries.** Four frames show recognisable visitors; publication of intact images to this public repo would require their permission or privacy-safe derivatives, and rights verification. A photo crop or blur would produce a different SHA-256. See the [siamang photo notes](../observations/siamang-undated.md).
+
+## New batch: tortoise, Asian elephants and probable meerkat — 18 October 2026
+
+| File | Observation type | Size bytes | SHA-256 | People visible |
+| --- | --- | ---: | --- | --- |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54306.jpg` | Galapagos tortoise | 734980 | `94c3fab24e0c0d9aed03848dda92c9e9a9401ce3ac543803016c51a4d24ebe2a` | Yes |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54307.jpg` | Galapagos tortoise | 768158 | `442e392fd9f2dbcad4deab433f89831ed3756f3eb9d115d3fdb7fa26a0ec341b` | Yes |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54308.jpg` | Galapagos tortoise | 378279 | `338de06b8ff3f86842f01b3556fc95e9a43a890d53052b1d02343d79445e5869` | None noted |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54309.jpg` | Galapagos tortoise | 424316 | `72c1743efd6672e935953941b4f83f97ed8a251052e0c40dcb65fa3fcc362808` | None noted |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54314.jpg` | Asian elephant | 387288 | `74ba655a01ff7b19acc6ec7aca88e11f4539f438c81abcd463dbd0a6890ba8a6` | Yes |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54315.jpg` | Asian elephant | 449956 | `223427f74df273ae26ed344a8bf757737d578dd4958659ff15cfc8a68fa1aa2f` | Yes |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54317.jpg` | Asian elephant | 746714 | `b97a108d39fe4fe40082dc3108f60a07c1fa8d1a914737768cee0a1e45b9003a` | None noted |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54318.jpg` | Asian elephant | 572869 | `e5da4027f8eda3477cb4e04c966cc1422b77268e8c83c450b7d55ede7f7146a6` | Yes |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54319.jpg` | Asian elephant | 413152 | `adbfb2af10bf9fd4f5b5a668d8d8b401f10103ddffd0ca8033a8f7b589d79567` | Yes |
+| `ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_52258.jpg` | Meerkat (probable) | 438383 | `099ad88e2b887c6dc1b7095788815643e4e9d82b39752fee84e1fd1e75f06c3c` | Yes |
+
+All ten submitted copies are **1152 × 1536**, JPEG, with **no retained EXIF tags**, capture date or GPS. These exact-copy hashes are for the images received in conversation, not for camera-original RAW/JPEG files. Source photos have **not been published as binaries** in the public repository. Several show children's faces, and one shows other visitors/keeper; a future gallery needs consent or privacy-safe derivatives with **new separate checksums**. Full photo analysis in [tortoise](../observations/galapagos-tortoise-undated.md), [elephant](../observations/asian-elephants-undated.md) and [meerkat](../observations/meerkat-undated.md) notes.

@@ -2,7 +2,7 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Photographed subjects:** African wild dogs / African painted dogs (*Lycaon pictus*), giraffes (*Giraffa* sp.; exact lineage unknown), and siamangs (*Symphalangus syndactylus*). **Additional researched zoo species:** ten Taronga-listed species are documented from published evidence, without claiming Josh photographed or visited their exhibits.
+**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Additional researched zoo species:** ten Taronga-listed species are documented from published evidence, without claiming Josh photographed or visited their exhibits.
 
 ## Start here
 
@@ -24,11 +24,11 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
 
 
-### Research library — 13 species
+### Research library — 15 species
 
-Previously photographed species: [African wild dog](docs/african-wild-dog.md), [giraffe](docs/giraffe.md), [siamang](docs/siamang.md).
+Photo-backed species: [African wild dog](docs/african-wild-dog.md), [giraffe](docs/giraffe.md), [siamang](docs/siamang.md), [Galápagos tortoise](docs/galapagos-giant-tortoise.md), [Asian elephant](docs/asian-elephant.md) and [probable meerkat](docs/meerkat.md).
 
-Newly researched Taronga Dubbo species (research-only; **not personal sightings**):
+Other Taronga Dubbo research records (no personal sightings unless separately indicated):
 
 - [Platypus](docs/platypus.md)
 - [Black rhinoceros](docs/black-rhinoceros.md)
@@ -37,17 +37,17 @@ Newly researched Taronga Dubbo species (research-only; **not personal sightings*
 - [African lion](docs/african-lion.md)
 - [Common hippopotamus](docs/common-hippopotamus.md)
 - [Plains zebra](docs/plains-zebra.md)
-- [Asian elephant](docs/asian-elephant.md)
+- [Asian elephant — five-photo field record](docs/asian-elephant.md)
 - [Sumatran tiger](docs/sumatran-tiger.md)
 - [Greater one-horned rhinoceros](docs/greater-one-horned-rhinoceros.md)
 
-- [**Species coverage audit**](docs/coverage-audit.md) — 13 guides and 27 map-listed labels still pending verification and deeper research.
+- [**Species coverage audit**](docs/coverage-audit.md) — 15 guides and 25 map-listed labels still pending verification and deeper research.
 - [Machine-readable guide catalogue](data/species-catalogue.json) — links, conservation cautions and evidence classification.
 
 
 ## All-time animal checklist (1977–2026)
 
-**[Open the 61-entry numbered historical checklist](docs/all-time-animal-inventory.md)**. Research status: **13 deeply researched; 48 still pending**, including **12 entries requiring primary-source verification**. Covers current zoo maps, historical publications and behind-the-scenes conservation holdings; not a certified list of every species ever kept. [Machine-readable inventory](data/all-time-animal-inventory.json).
+**[Open the 61-entry numbered historical checklist](docs/all-time-animal-inventory.md)**. Research status: **15 deeply researched; 46 still pending**, including **12 entries requiring primary-source verification**. Covers current zoo maps, historical publications and behind-the-scenes conservation holdings; not a certified list of every species ever kept. [Machine-readable inventory](data/all-time-animal-inventory.json).
 
 ## What we know
 
@@ -67,6 +67,10 @@ Six new photos document a pond-and-ropes island habitat and at least one likely 
 
 Taronga Western Plains Zoo opened **Platypus Rescue HQ in February 2024**. It has **capacity for 65 platypuses during emergencies** (not an occupancy count), map **21M**, and Taronga lists an adult male public ambassador named **Mackenzie**. Platypus remains **Near Threatened internationally**; federal legal listing and state classifications differ. The Commonwealth's **2026 Vulnerable nomination was not prioritised for assessment**, with possible reconsideration in 2027. There were **no platypus photos or personally verified sightings supplied**, so this is intentionally a **species research record**, not a fourth photographic observation. See [full study](docs/platypus.md) for ecological research, rescue timelines, modelling uncertainties and cited primary sources.
 
+### New field photography (10 photos, October 2026 submission)
+
+Four photographs of a **Galápagos giant tortoise**, five of **Asian elephants**, and one **probable meerkat** are catalogued with exact-copy SHA-256, dimensions, image notes and privacy restrictions. [Tortoise photos](observations/galapagos-tortoise-undated.md) · [Elephant photos](observations/asian-elephants-undated.md) · [Meerkat photo](observations/meerkat-undated.md). Zoo documentation, including historic Gung signage, does not establish individual animal identity. The source JPEG binaries are **not** published because visitors and children appear in them and photo rights have not been verified.
+
 ## Evidence standard
 
 - **Verified source:** an attributed and dated published zoo or scientific source.
@@ -78,6 +82,6 @@ No animal should be named or sexed based solely on coat pattern or a photograph.
 
 ## Credits and permissions
 
-Research and curation prepared on 18 October 2026. Thirteen submitted photographs (five wild dog, two giraffe, six siamang) are inventoried but **not included as binaries in the GitHub repository**; this avoids claiming they have been published when they have not. Their SHA-256 hashes are recorded for later matching. This repo cannot display images that are not actually uploaded. **Photo copyright/licence is not specified**, so publishing or reusing the images outside this owner's repo should be confirmed before licensing them.
+Research and curation prepared on 18 October 2026. Twenty-three submitted photographs (five wild dog, two giraffe, six siamang, four tortoise, five elephant, one probable meerkat) are inventoried but **not included as binaries in the GitHub repository**; this avoids claiming they have been published when they have not. Their SHA-256 hashes are recorded for later matching. This repo cannot display images that are not actually uploaded. **Photo copyright/licence is not specified**, so publishing or reusing the images outside this owner's repo should be confirmed before licensing them.
 
 This is an **independent field journal, not an official Taronga website**. Species and zoo claims are linked to their sources in the profile. For current visitor information consult [Taronga's official website](https://www.taronga.org.au/).

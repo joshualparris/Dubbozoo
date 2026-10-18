@@ -426,6 +426,256 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5776786/"
         }
       ]
+    },
+    {
+      "id": "dubbozoo-obs-0004",
+      "common_name": "Galápagos giant tortoise",
+      "scientific_name": "Chelonoidis sp. (Galápagos complex)",
+      "taxon_rank": "species_complex",
+      "iucn_status": null,
+      "photo_species_identification_confidence": "high_contextual",
+      "subjects_visible_minimum": 1,
+      "subjects_visible_exact": null,
+      "subjects_visible_note": "One apparently same giant tortoise across four photos; not individually verified",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-10-18",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo Galápagos Tortoise exhibit (likely)",
+      "venue_verified": false,
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "behaviour_interpretation_limits": "Zoo lineage, island taxon, sex, age, name, current conservation listing and image dates unverified.",
+      "photos": [
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54306.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 734980,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "94c3fab24e0c0d9aed03848dda92c9e9a9401ce3ac543803016c51a4d24ebe2a",
+          "exif_present": false,
+          "description": "A giant domed-shell tortoise facing the camera near an arrangement of upright wooden boundary logs; a small child also appears close to the barrier.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54307.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 768158,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "442e392fd9f2dbcad4deab433f89831ed3756f3eb9d115d3fdb7fa26a0ec341b",
+          "exif_present": false,
+          "description": "Same-looking large domed tortoise photographed from above and front; child visible from behind.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54308.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 378279,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "338de06b8ff3f86842f01b3556fc95e9a43a890d53052b1d02343d79445e5869",
+          "exif_present": false,
+          "description": "Detail of the animal's heavy scaly front leg, visible shell scutes and grassy/straw-covered ground.",
+          "recognisable_people_visible": false,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54309.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 424316,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "72c1743efd6672e935953941b4f83f97ed8a251052e0c40dcb65fa3fcc362808",
+          "exif_present": false,
+          "description": "Side-on close-up of the tortoise extending head/neck near vegetation; pale shell and thick forelimb visible.",
+          "recognisable_people_visible": false,
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "sources": [
+        {
+          "type": "research",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/where-are-the-tortoises"
+        },
+        {
+          "type": "research",
+          "url": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons"
+        },
+        {
+          "type": "research",
+          "url": "https://iucn-tftsg.org/wp-content/uploads/crm.10.checklist.atlas_.v10.2025.pdf"
+        }
+      ]
+    },
+    {
+      "id": "dubbozoo-obs-0005",
+      "common_name": "Asian elephant",
+      "scientific_name": "Elephas maximus",
+      "taxon_rank": "species",
+      "iucn_status": "EN",
+      "photo_species_identification_confidence": "high",
+      "subjects_visible_minimum": 2,
+      "subjects_visible_exact": null,
+      "subjects_visible_note": "At least two distinct elephants simultaneously visible in three wider images, names not verified",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-10-18",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo elephant paddock (likely)",
+      "venue_verified": false,
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "behaviour_interpretation_limits": "Sign mentions Gung but cannot verify which photographed animal is Gung; sex and relationships unknown.",
+      "photos": [
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54314.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 387288,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "74ba655a01ff7b19acc6ec7aca88e11f4539f438c81abcd463dbd0a6890ba8a6",
+          "exif_present": false,
+          "description": "Child at visitor barrier; one elephant directly behind in sunlit paddock and distant second shape not confidently verified.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54315.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 449956,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "223427f74df273ae26ed344a8bf757737d578dd4958659ff15cfc8a68fa1aa2f",
+          "exif_present": false,
+          "description": "Child in foreground and Asian elephant with large upright ears and trunk in sunlit paddock.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54317.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 746714,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "b97a108d39fe4fe40082dc3108f60a07c1fa8d1a914737768cee0a1e45b9003a",
+          "exif_present": false,
+          "description": "Two distinct Asian elephants stand in open grass/dirt exhibit with post and fence, one facing front and another to the right.",
+          "recognisable_people_visible": false,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54318.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 572869,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "e5da4027f8eda3477cb4e04c966cc1422b77268e8c83c450b7d55ede7f7146a6",
+          "exif_present": false,
+          "description": "Two elephants in paddock, visitor/keeper in broad-brimmed hat walking in supervised visitor area; foreground partial visitors.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_54319.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 413152,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "adbfb2af10bf9fd4f5b5a668d8d8b401f10103ddffd0ca8033a8f7b589d79567",
+          "exif_present": false,
+          "description": "Two elephants and a visitor/keeper; photo of sign appears to read Meet Gung and Born: 2000, but this does not identify which elephant is Gung.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "sources": [
+        {
+          "type": "research",
+          "url": "https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en"
+        },
+        {
+          "type": "research",
+          "url": "https://www.taronga.org.au/wildlife-and-conservation/animals/detail/asian-elephant"
+        },
+        {
+          "type": "research",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/celebrate-world-elephant-day-at-taronga-western-plains-zoo"
+        }
+      ]
+    },
+    {
+      "id": "dubbozoo-obs-0006",
+      "common_name": "Meerkat (probable)",
+      "scientific_name": "Suricata suricatta",
+      "taxon_rank": "species",
+      "iucn_status": "LC",
+      "photo_species_identification_confidence": "medium",
+      "subjects_visible_minimum": 1,
+      "subjects_visible_exact": null,
+      "subjects_visible_note": "One meerkat-like individual visible behind glass; taxon not independently confirmed",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-10-18",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo meerkat enclosure, exact precinct unknown (likely)",
+      "venue_verified": false,
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "behaviour_interpretation_limits": "Animal partly turned away; eyes/tail-tip not clear enough for high-confidence photographic species identification",
+      "photos": [
+        {
+          "original_filename": "ef628ed6-e70d-4596-aa7b-829b8d3bdc4a-1_all_52258.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 438383,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "099ad88e2b887c6dc1b7095788815643e4e9d82b39752fee84e1fd1e75f06c3c",
+          "exif_present": false,
+          "description": "Small tan, brown-banded mongoose-like mammal with pointed snout in sandy enclosure behind viewing glass; child visible at left.",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "sources": [
+        {
+          "type": "research",
+          "url": "https://nationalzoo.si.edu/animals/meerkat"
+        },
+        {
+          "type": "research",
+          "url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole"
+        },
+        {
+          "type": "research",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/new-meerkat-exhibit-now-open"
+        }
+      ]
     }
   ]
 }

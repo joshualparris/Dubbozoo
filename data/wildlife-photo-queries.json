@@ -1,0 +1,733 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-18",
+  "purpose": "Source and display instructions to retrieve actual CC-licensed or public-domain wildlife photographs from Wikimedia Commons/Wikipedia at visitor runtime, with licence metadata and artist credit. Photos are not user-supplied original Dubbo photographs.",
+  "validation": "Runtime image metadata must be checked before publication. Image searches and Wikipedia lead images are automated candidate matches, not manually verified biological identifications. No 89-image success guarantee until live visual review.",
+  "allow_licences": [
+    "CC0",
+    "Public domain",
+    "CC BY",
+    "CC BY-SA"
+  ],
+  "exclude_licences": [
+    "CC BY-NC",
+    "CC BY-ND",
+    "All rights reserved",
+    "unknown"
+  ],
+  "photo_policy": "Never claim the represented animal is personally observed in Dubbo. Exact taxon and historical lineage may remain unverified.",
+  "image_queries": [
+    {
+      "number": 1,
+      "name": "Addax",
+      "wikipedia_title": "Addax",
+      "commons_search": "Addax",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 2,
+      "name": "African savanna elephant (historical; Cuddles/Yum Yum documented)",
+      "wikipedia_title": "African bush elephant",
+      "commons_search": "Loxodonta africana",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 3,
+      "name": "African lion",
+      "wikipedia_title": "Lion",
+      "commons_search": "Lion",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 4,
+      "name": "African wild dog",
+      "wikipedia_title": "African wild dog",
+      "commons_search": "African wild dog",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 5,
+      "name": "Barbary sheep (aoudad)",
+      "wikipedia_title": "Barbary sheep",
+      "commons_search": "Ammotragus lervia",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 6,
+      "name": "Black-and-white ruffed lemur",
+      "wikipedia_title": "Black-and-white ruffed lemur",
+      "commons_search": "Varecia variegata",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 7,
+      "name": "Black rhinoceros",
+      "wikipedia_title": "Black rhinoceros",
+      "commons_search": "Black rhinoceros",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 8,
+      "name": "Cheetah",
+      "wikipedia_title": "Cheetah",
+      "commons_search": "Cheetah",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 9,
+      "name": "Common eland",
+      "wikipedia_title": "Common eland",
+      "commons_search": "Common eland",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 10,
+      "name": "Common hippopotamus",
+      "wikipedia_title": "Hippopotamus",
+      "commons_search": "Hippopotamus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 11,
+      "name": "Dromedary (Arabian) camel",
+      "wikipedia_title": "Dromedary",
+      "commons_search": "Camelus dromedarius",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 12,
+      "name": "Eastern bongo",
+      "wikipedia_title": "Bongo (antelope)",
+      "commons_search": "Tragelaphus eurycerus",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 13,
+      "name": "Giraffe (Giraffa, exact zoo taxon unverified)",
+      "wikipedia_title": "Giraffe",
+      "commons_search": "Giraffa giraffe",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Exact historical giraffe lineage is unresolved: photo depicts a giraffe, not a particular Dubbo lineage."
+    },
+    {
+      "number": 14,
+      "name": "Helmeted guineafowl (map says 'Guineafowl')",
+      "wikipedia_title": "Helmeted guineafowl",
+      "commons_search": "guineafowl",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Taronga's historic label only says guineafowl. Helmeted identification is provisional; photo is a representative guineafowl."
+    },
+    {
+      "number": 15,
+      "name": "Meerkat",
+      "wikipedia_title": "Meerkat",
+      "commons_search": "Meerkat",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 16,
+      "name": "Ostrich",
+      "wikipedia_title": "Common ostrich",
+      "commons_search": "Common ostrich",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 17,
+      "name": "Plains zebra",
+      "wikipedia_title": "Plains zebra",
+      "commons_search": "Plains zebra",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 18,
+      "name": "Ring-tailed lemur",
+      "wikipedia_title": "Ring-tailed lemur",
+      "commons_search": "Ring-tailed lemur",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 19,
+      "name": "Scimitar-horned oryx (map says 'Oryx')",
+      "wikipedia_title": "Scimitar oryx",
+      "commons_search": "Oryx dammah",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 20,
+      "name": "White rhinoceros",
+      "wikipedia_title": "White rhinoceros",
+      "commons_search": "White rhinoceros",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 21,
+      "name": "American bison",
+      "wikipedia_title": "American bison",
+      "commons_search": "American bison",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 22,
+      "name": "Black-handed spider monkey",
+      "wikipedia_title": "Geoffroy's spider monkey",
+      "commons_search": "Ateles geoffroyi",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 23,
+      "name": "Galápagos tortoise",
+      "wikipedia_title": "Galápagos tortoise",
+      "commons_search": "Galapagos giant tortoise",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Island lineage and tortoise species are unknown; photo is a representative Galápagos giant tortoise."
+    },
+    {
+      "number": 24,
+      "name": "Asian elephant (including historic Sri Lankan-origin animals)",
+      "wikipedia_title": "Asian elephant",
+      "commons_search": "Asian elephant",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 25,
+      "name": "Asian small-clawed otter",
+      "wikipedia_title": "Asian small-clawed otter",
+      "commons_search": "Asian small-clawed otter",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 26,
+      "name": "Asian water buffalo",
+      "wikipedia_title": "Water buffalo",
+      "commons_search": "domestic water buffalo",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Photograph is of a domestic water buffalo, not the unrelated wild water buffalo IUCN species."
+    },
+    {
+      "number": 27,
+      "name": "Banteng",
+      "wikipedia_title": "Banteng",
+      "commons_search": "Banteng",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 28,
+      "name": "Blackbuck",
+      "wikipedia_title": "Blackbuck",
+      "commons_search": "Blackbuck",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 29,
+      "name": "Greater one-horned rhinoceros",
+      "wikipedia_title": "Indian rhinoceros",
+      "commons_search": "Indian rhinoceros",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 30,
+      "name": "Indian peafowl",
+      "wikipedia_title": "Indian peafowl",
+      "commons_search": "Indian peafowl",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 31,
+      "name": "Persian onager",
+      "wikipedia_title": "Onager",
+      "commons_search": "Equus hemionus onager",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Historical onager lineage is not established by the photograph."
+    },
+    {
+      "number": 32,
+      "name": "Siamang",
+      "wikipedia_title": "Siamang",
+      "commons_search": "Siamang",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 33,
+      "name": "Sumatran tiger",
+      "wikipedia_title": "Sumatran tiger",
+      "commons_search": "Sumatran tiger",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 34,
+      "name": "Takhi (Przewalski's horse)",
+      "wikipedia_title": "Przewalski's horse",
+      "commons_search": "Przewalski's horse",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 35,
+      "name": "White-handed gibbon",
+      "wikipedia_title": "Lar gibbon",
+      "commons_search": "Hylobates lar",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 36,
+      "name": "Australian zebra finch",
+      "wikipedia_title": "Zebra finch",
+      "commons_search": "Taeniopygia guttata",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 37,
+      "name": "Brush-tailed rock-wallaby",
+      "wikipedia_title": "Brush-tailed rock-wallaby",
+      "commons_search": "Brush-tailed rock-wallaby",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 38,
+      "name": "Eastern whipbird",
+      "wikipedia_title": "Eastern whipbird",
+      "commons_search": "Psophodes olivaceus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 39,
+      "name": "Emu",
+      "wikipedia_title": "Emu",
+      "commons_search": "Emu",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 40,
+      "name": "Greater bilby",
+      "wikipedia_title": "Greater bilby",
+      "commons_search": "Macrotis lagotis",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 41,
+      "name": "Koala",
+      "wikipedia_title": "Koala",
+      "commons_search": "Koala",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 42,
+      "name": "Little lorikeet",
+      "wikipedia_title": "Little lorikeet",
+      "commons_search": "Glossopsitta pusilla",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 43,
+      "name": "Malleefowl",
+      "wikipedia_title": "Malleefowl",
+      "commons_search": "Leipoa ocellata",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 44,
+      "name": "Plains-wanderer",
+      "wikipedia_title": "Plains-wanderer",
+      "commons_search": "Pedionomus torquatus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 45,
+      "name": "Platypus",
+      "wikipedia_title": "Platypus",
+      "commons_search": "Platypus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 46,
+      "name": "Quokka",
+      "wikipedia_title": "Quokka",
+      "commons_search": "Quokka",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 47,
+      "name": "Red kangaroo",
+      "wikipedia_title": "Red kangaroo",
+      "commons_search": "Red kangaroo",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 48,
+      "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
+      "wikipedia_title": "Red-necked wallaby",
+      "commons_search": "Notamacropus rufogriseus",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Historic display species is provisionally identified; representative red-necked wallaby reference."
+    },
+    {
+      "number": 49,
+      "name": "Regent honeyeater",
+      "wikipedia_title": "Regent honeyeater",
+      "commons_search": "Anthochaera phrygia",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 50,
+      "name": "Scaly-breasted lorikeet",
+      "wikipedia_title": "Scaly-breasted lorikeet",
+      "commons_search": "Trichoglossus chlorolepidotus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 51,
+      "name": "Short-beaked echidna",
+      "wikipedia_title": "Short-beaked echidna",
+      "commons_search": "Short-beaked echidna",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 52,
+      "name": "Smooth yabby",
+      "wikipedia_title": "Common yabby",
+      "commons_search": "Cherax destructor yabby",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "A smooth yabby Dubbo holding remains unverified; photo is a reference image only."
+    },
+    {
+      "number": 53,
+      "name": "Southern hairy-nosed wombat",
+      "wikipedia_title": "Southern hairy-nosed wombat",
+      "commons_search": "Southern hairy-nosed wombat",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 54,
+      "name": "Southern purple-spotted gudgeon",
+      "wikipedia_title": "Southern purple-spotted gudgeon",
+      "commons_search": "Mogurnda adspersa",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Small native fish; photo must depict southern purple-spotted gudgeon rather than a generic freshwater fish."
+    },
+    {
+      "number": 55,
+      "name": "Swamp wallaby (precise displayed wallaby species unverified)",
+      "wikipedia_title": "Swamp wallaby",
+      "commons_search": "Wallabia bicolor",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Historic wallaby identification needs further verification."
+    },
+    {
+      "number": 56,
+      "name": "Tasmanian devil",
+      "wikipedia_title": "Tasmanian devil",
+      "commons_search": "Tasmanian devil",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 57,
+      "name": "Western quoll (chuditch)",
+      "wikipedia_title": "Western quoll",
+      "commons_search": "Dasyurus geoffroii",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 58,
+      "name": "White-browed woodswallow",
+      "wikipedia_title": "White-browed woodswallow",
+      "commons_search": "Artamus superciliosus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 59,
+      "name": "White-winged chough",
+      "wikipedia_title": "White-winged chough",
+      "commons_search": "Corcorax melanorhamphos",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 60,
+      "name": "Domestic pygmy goat",
+      "wikipedia_title": "Pygmy goat",
+      "commons_search": "Pygmy goat",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 61,
+      "name": "European fallow deer",
+      "wikipedia_title": "Fallow deer",
+      "commons_search": "Fallow deer",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 62,
+      "name": "Waterbuck",
+      "wikipedia_title": "Waterbuck",
+      "commons_search": "Kobus ellipsiprymnus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 63,
+      "name": "Sitatunga",
+      "wikipedia_title": "Sitatunga",
+      "commons_search": "Tragelaphus spekii",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 64,
+      "name": "African forest buffalo (historical)",
+      "wikipedia_title": "African forest buffalo",
+      "commons_search": "Syncerus caffer nanus",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "African forest buffalo precise modern taxonomic rank and captive lineage unresolved."
+    },
+    {
+      "number": 65,
+      "name": "Tiger historically labelled Bengal",
+      "wikipedia_title": "Tiger",
+      "commons_search": "Panthera tigris",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Bengal ancestry in historical tiger exhibit is unverified; tiger species reference only."
+    },
+    {
+      "number": 66,
+      "name": "Dingo (historical)",
+      "wikipedia_title": "Dingo",
+      "commons_search": "dingo",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Taxonomic nomenclature and captive genetic ancestry unresolved."
+    },
+    {
+      "number": 67,
+      "name": "Maned wolf (historical)",
+      "wikipedia_title": "Maned wolf",
+      "commons_search": "Chrysocyon brachyurus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 68,
+      "name": "Brazilian tapir (historical)",
+      "wikipedia_title": "South American tapir",
+      "commons_search": "Tapirus terrestris",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 69,
+      "name": "Guanaco (historical)",
+      "wikipedia_title": "Guanaco",
+      "commons_search": "Lama guanicoe",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 70,
+      "name": "Greater rhea (historical)",
+      "wikipedia_title": "Greater rhea",
+      "commons_search": "Rhea americana",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 71,
+      "name": "Patagonian mara / cavy (historical)",
+      "wikipedia_title": "Patagonian mara",
+      "commons_search": "Dolichotis patagonum",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 72,
+      "name": "Wapiti / elk (historical)",
+      "wikipedia_title": "Elk",
+      "commons_search": "Cervus canadensis",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Historic cervid name/ancestry unresolved; elk/wapiti reference only."
+    },
+    {
+      "number": 73,
+      "name": "Northern hairy-nosed wombat (historical 1996–97)",
+      "wikipedia_title": "Northern hairy-nosed wombat",
+      "commons_search": "Lasiorhinus krefftii",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 74,
+      "name": "Common (bare-nosed) wombat (historical)",
+      "wikipedia_title": "Common wombat",
+      "commons_search": "Vombatus ursinus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 75,
+      "name": "Superb parrot (historical visitor aviary)",
+      "wikipedia_title": "Superb parrot",
+      "commons_search": "Polytelis swainsonii",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 76,
+      "name": "Diamond firetail (historical visitor aviary)",
+      "wikipedia_title": "Diamond firetail",
+      "commons_search": "Stagonopleura guttata",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 77,
+      "name": "Bridled nailtail wallaby",
+      "wikipedia_title": "Bridled nail-tail wallaby",
+      "commons_search": "Onychogalea fraenata",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 78,
+      "name": "Mala (rufous hare-wallaby)",
+      "wikipedia_title": "Rufous hare-wallaby",
+      "commons_search": "Lagorchestes hirsutus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 79,
+      "name": "Collared peccary",
+      "wikipedia_title": "Collared peccary",
+      "commons_search": "Dicotyles tajacu",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 80,
+      "name": "Nilgai",
+      "wikipedia_title": "Nilgai",
+      "commons_search": "Boselaphus tragocamelus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 81,
+      "name": "Sambar deer",
+      "wikipedia_title": "Sambar deer",
+      "commons_search": "Rusa unicolor",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 82,
+      "name": "Chital / spotted deer",
+      "wikipedia_title": "Chital",
+      "commons_search": "Axis axis",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 83,
+      "name": "Capybara (historic 1995 report)",
+      "wikipedia_title": "Capybara",
+      "commons_search": "Hydrochoerus hydrochaeris",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 84,
+      "name": "Western grey kangaroo (historical)",
+      "wikipedia_title": "Western grey kangaroo",
+      "commons_search": "Macropus fuliginosus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 85,
+      "name": "Whiptail wallaby",
+      "wikipedia_title": "Whiptail wallaby",
+      "commons_search": "Notamacropus parryi",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 86,
+      "name": "Yellow-footed rock-wallaby",
+      "wikipedia_title": "Yellow-footed rock-wallaby",
+      "commons_search": "Petrogale xanthopus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 87,
+      "name": "Eastern wallaroo (historic visitor label)",
+      "wikipedia_title": "Common wallaroo",
+      "commons_search": "Osphranter robustus",
+      "identity_scope": "representative_taxon_or_unverified_historic_lineage",
+      "note": "Common wallaroo image cannot verify the captive historical eastern geographic lineage."
+    },
+    {
+      "number": 88,
+      "name": "Domestic guinea pig",
+      "wikipedia_title": "Guinea pig",
+      "commons_search": "Cavia porcellus",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    },
+    {
+      "number": 89,
+      "name": "Leopard tortoise (Waterhole planned 2020)",
+      "wikipedia_title": "Leopard tortoise",
+      "commons_search": "Stigmochelys pardalis",
+      "identity_scope": "taxon_reference_not_individual_animal",
+      "note": "Freely licensed illustration of the named taxon; never evidence this actual animal was photographed at Dubbo Zoo."
+    }
+  ]
+}

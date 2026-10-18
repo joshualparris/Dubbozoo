@@ -3,6 +3,11 @@
 **Number:** 58/61 · **Scientific taxon:** *Artamus superciliosus* · **Conservation/context:** Least Concern likely; confirm authority/version.  
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
+
+## Holdings evidence check: cross-site confusion remains unresolved
+
+In [Taronga's 2014–15 annual report, Appendix 3](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2014-15.pdf), the White-browed Woodswallow listing belongs to the Taronga-wide species-management table, and transfers listed in Appendix 4 are **not expressly identified as departures from Dubbo**. Until a site-specific record is found, **Dubbo holdings remain unverified**. Similar-sounding **White-winged Chough** is separately confirmed at the Dubbo aviary and must not be conflated.
+
 ## Scientific identification and adaptations
 
 Small swallow-like insectivorous bird with white brow over dark face, pointed wings and short bill. A woodswallow is not a true swallow (different family), despite sharing aerial flight habits.

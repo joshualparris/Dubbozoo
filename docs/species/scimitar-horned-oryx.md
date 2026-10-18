@@ -27,6 +27,13 @@ A 2008 Dubbo news release documents hand-rearing an orphaned male calf **Bou** w
 
 **This is not a current 2026 zoo census.** A public map establishes an exhibit label, while a dated Taronga news release supports only the event stated for that date. Animals may be transferred, housed behind the scenes or absent from public view; no names, sexes, photo dates or exact current herd sizes are invented here.
 
+
+### IUCN status cross-check — important source conflict
+
+The [IUCN's December 2023 Red List update](https://iucn.org/press-release/202312/freshwater-fish-highlight-escalating-climate-impacts-species-iucn-red-list) formally **changed scimitar-horned oryx from Extinct in the Wild (EW) to Endangered (EN)** following reintroductions in Chad. Its 2023 summary cites **at least 140 mature free-ranging individuals** and **331 calves born by 2021**. These are dated measures and not an October 2026 census. [Sahara Conservation's project statement](https://saharaconservation.org/news/milestone-the-scimitar-horned-oryx-downlisted-from-extinct-in-the-wild-to-endangered-by-iucn/) corroborates EN on 11 December 2023.
+
+Taronga's [15 January 2026 article](https://www.taronga.org.au/about/newsroom/posts/new-arrivals-make-a-splash) says the species was 'reclassified as critically endangered', which **conflicts with the IUCN's actual 2023 Endangered announcement**. For IUCN category use **EN (2023)** unless a newer matching Red List assessment explicitly supersedes it; retain Taronga's wording as a documented discrepancy rather than silently repeating it. Zoo births and wild reintroduced births are different population measures.
+
 ## Zoo-field observation and evidence protocol
 
 Observe from designated public areas, noting the actual date/time, site map grid, number visible and visible feeding/resting/moving/social interactions. Record habitat features, weather and vantage point when known. Do not diagnose health, captivity stress or breeding success from one still photo. Conservation breeding supports genetic management but does not replace protection of wild habitat or prove reintroduced survival.

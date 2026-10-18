@@ -54,7 +54,7 @@
   function commonsCandidate(page, fallbackName) {
     const info = fields(page);
     if (!info || !(info.mime === 'image/jpeg' || info.mime === 'image/png' || info.mime === 'image/webp')) return null;
-    if (info.width < 350 || info.height < 250) return null;
+    if (info.width < 260 || info.height < 180) return null;
     const rawName = (page.title || fallbackName || '').replace(/^File:/i, '');
     if (/skull|skeleton|taxidermy|illustration|drawing|painting|engraving|statue|logo|poster|coat.of.arms|diagram|signboard|anatomy|fossil|map.of|flag|cartoon|clipart|stamp|specimen|museum.display/i.test(rawName)) return null;
     const m = info.extmetadata || {};
@@ -83,6 +83,7 @@
     cover.src=info.url;cover.alt='Openly licensed African wild dog reference photograph';
     cover.decoding='async';cover.loading='eager';cover.referrerPolicy='no-referrer';
     cover.addEventListener('load',()=>{hero.classList.add('has-real-photo');hero.setAttribute('aria-label','African wild dog reference photograph, credited to its original creator; not a verified photograph of Dubbo Zoo animals.');});
+    cover.addEventListener('error',()=>{cover.remove();hero.querySelector('.plate-photo-credit')?.remove();});
     hero.insertBefore(cover,hero.firstChild);
     const footer=hero.querySelector('.plate-bottom div');
     if(footer){const credit=document.createElement('small');credit.className='plate-photo-credit';

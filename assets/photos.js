@@ -65,6 +65,33 @@
     const filePage = info.descriptionurl || 'https://commons.wikimedia.org/wiki/File:' + encodeURIComponent(rawName.replace(/ /g,'_'));
     return {url:image,artist,licence,filePage,repository:'Wikimedia Commons',width:info.thumbwidth || info.width,height:info.thumbheight || info.height};
   }
+  let matchedPhotos = 0, unavailablePhotos = 0;
+  const photoStatus=document.getElementById('photo-status');
+  function countProgress() {
+    if (!photoStatus) return;
+    const pending=Math.max(0,cards.size-matchedPhotos-unavailablePhotos);
+    photoStatus.textContent=matchedPhotos+' / '+cards.size+' open-licence photo sources matched'
+      +(pending?' · '+pending+' being checked':'')
+      +(unavailablePhotos?' · '+unavailablePhotos+' without a verified match':'')
+      +'. All photos are species references, not verified Dubbo animal portraits.';
+  }
+  function upgradeHero(entry,info) {
+    if(entry.number!==4)return;
+    const hero=document.querySelector('.plate');
+    if(!hero||hero.querySelector('.plate-real-photo'))return;
+    const cover=document.createElement('img');cover.className='plate-real-photo';
+    cover.src=info.url;cover.alt='Openly licensed African wild dog reference photograph';
+    cover.decoding='async';cover.loading='eager';cover.referrerPolicy='no-referrer';
+    cover.addEventListener('load',()=>{hero.classList.add('has-real-photo');hero.setAttribute('aria-label','African wild dog reference photograph, credited to its original creator; not a verified photograph of Dubbo Zoo animals.');});
+    hero.insertBefore(cover,hero.firstChild);
+    const footer=hero.querySelector('.plate-bottom div');
+    if(footer){const credit=document.createElement('small');credit.className='plate-photo-credit';
+      const link=document.createElement('a');link.href=info.filePage;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Photo: '+info.artist;
+      const lic=document.createElement('a');lic.href=info.licence.url;lic.target='_blank';lic.rel='noopener noreferrer';lic.textContent=info.licence.text;
+      credit.append(link,document.createTextNode(' · '),lic,document.createTextNode(' · display cropped'));
+      footer.append(credit);
+    }
+  }
   function putImage(entry, info) {
     const card = cards.get(entry.number);
     const slot = card?.querySelector('.animal-photo-slot');
@@ -79,10 +106,11 @@
     const fig = document.createElement('figcaption');
     const credit = document.createElement('a');credit.href=info.filePage;credit.target='_blank';credit.rel='noopener noreferrer';credit.textContent='Photo: '+info.artist;
     const licence = document.createElement('a');licence.href=info.licence.url;licence.target='_blank';licence.rel='noopener noreferrer';licence.textContent=info.licence.text;
-    fig.append(credit, document.createTextNode(' · '),licence);
+    fig.append(credit, document.createTextNode(' · '),licence,document.createTextNode(' · cropped to fit'));
     const note = document.createElement('span');note.className='photo-reference';note.textContent='Species reference · not a Dubbo sighting';
     figure.append(image, fig,note);slot.replaceChildren(figure);
     slot.dataset.photoStatus='licensed-reference';
+    matchedPhotos++;countProgress();upgradeHero(entry,info);
   }
   function failPhoto(entry) {
     const card=cards.get(entry.number);
@@ -92,7 +120,9 @@
     const a=document.createElement('a');a.href=target;a.target='_blank';a.rel='noopener noreferrer';a.className='photo-fallback';
     const span=document.createElement('span');span.textContent='Browse Wikimedia Commons photos ↗';
     const small=document.createElement('small');small.textContent='No licence-verified match loaded for this animal';
-    a.append(span,small);slot.replaceChildren(a);slot.dataset.photoStatus='unavailable';
+    a.append(span,small);slot.replaceChildren(a);
+    if(slot.dataset.photoStatus==='licensed-reference')matchedPhotos=Math.max(0,matchedPhotos-1);
+    slot.dataset.photoStatus='unavailable';unavailablePhotos++;countProgress();
   }
   async function getCommonsImages(imageNames) {
     if(!imageNames.length)return new Map();
@@ -166,13 +196,17 @@
     failPhoto(item);
   }
   async function run(){
+    countProgress();
     let manifest;
     try{
       const r=await fetch('data/wildlife-photo-queries.json',{credentials:'omit'});
       if(!r.ok)throw new Error('photo manifest '+r.status);
       manifest=await r.json();
     }catch(e){cards.forEach((c,id)=>failPhoto({number:id,commons_search:c.dataset.photoQuery||c.dataset.photoName||'animal'}));return;}
-    if(!Array.isArray(manifest.image_queries)||manifest.image_queries.length!==cards.size) return;
+    if(!Array.isArray(manifest.image_queries)||manifest.image_queries.length!==cards.size) {
+      if(photoStatus)photoStatus.textContent='Photo list is incomplete. Open the research photo manifest on GitHub for details.';
+      return;
+    }
     const batches=[];
     for(let n=0;n<manifest.image_queries.length;n+=18)batches.push(manifest.image_queries.slice(n,n+18));
     const fallbackQueue=[];

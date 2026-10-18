@@ -3,6 +3,11 @@
 **Number:** 53/61 · **Scientific taxon:** *Lasiorhinus latifrons* · **Conservation/context:** Near Threatened often cited; confirm contemporary state and IUCN categories.  
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
+
+## Historical attribution check: Sydney, not confirmed Dubbo
+
+The [Taronga 2013–14 annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2013-14.pdf) distinguishes Dubbo tortoise/cheetah births from **Taronga Zoo Sydney**'s southern hairy-nosed wombat joey. A later [October 2022 zoo newsletter](https://www.taronga.org.au/sites/default/files/content/documents/Tales_from_the_Wild_Newsletter_Issue_007_October_2022.pdf) explicitly places wombat Wadu and mother Jedda in **Sydney's Backyard to Bush**. Neither proves a Dubbo wombat holding. Correct status: **Dubbo unverified**; don't migrate cross-zoo species records simply because Taronga is the operator.
+
 ## Scientific identification and adaptations
 
 Burrowing marsupial with sandy/grey coat, broad blunt skull and hairy muzzle. It differs from the bare-nosed/common wombat and northern hairy-nosed wombat; photographs require facial detail and keeper ID.

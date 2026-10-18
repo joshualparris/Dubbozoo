@@ -140,15 +140,16 @@
     {
       "number": 11,
       "region": "Africa",
-      "name": "Dromedary camel (map just says 'Camel')",
-      "evidence_type": "map_taxon_uncertain",
-      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "name": "Dromedary (Arabian) camel",
+      "evidence_type": "dated_keeper_taxon_provenance",
+      "source_url": "https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day",
       "research_status": "guide_present",
       "guide": "docs/species/camel-taxon-unverified.md",
-      "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "needs_species_or_subspecies_verification",
+      "holding_evidence_status": "historic_exhibit_breeding_verified",
+      "taxon_verification": "species_identification_confirmed_from_taronga",
       "last_researched": "2026-10-18",
-      "user_photo_status": "not_recorded"
+      "user_photo_status": "not_recorded",
+      "scientific_name": "Camelus dromedarius"
     },
     {
       "number": 12,
@@ -971,7 +972,7 @@
     "guides_present": 72,
     "guides_missing": 0,
     "dubbo_holding_unverified": 4,
-    "taxon_or_subspecies_unverified": 7,
+    "taxon_or_subspecies_unverified": 6,
     "rehabilitation_only_confirmed": 1,
     "note": "Research guides cover a working historical record set, NOT a definitive all-time inventory. Unverified holdings remain explicitly separated from historically confirmed or rehabilitation-only records."
   }

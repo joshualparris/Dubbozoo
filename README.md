@@ -2,7 +2,7 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** the working historical animal catalogue now contains 76 evidence-labelled, linked profiles. Zoo-holding evidence and personal-photo observations are separately classified; ten historical holdings remain unverified.
+**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** the working historical animal catalogue now contains **89 evidence-labelled, linked profiles**. Visitor-derived candidates, government-confirmed sanctuary holdings and personal-photo observations have separate evidence grades.
 
 ## Start here
 
@@ -29,30 +29,31 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
 
 
-### Research library — 76 historical animal records
+### Research library — 89 historical animal leads and profiles
 
-**[Browse the numbered 76-entry catalogue](docs/all-time-animal-inventory.md)**. Each entry links to a researched guide; this is **not a complete, certified count of every species ever held at Dubbo Zoo**.
+**[Browse all 89 numbered entries and their linked research guides](docs/all-time-animal-inventory.md)**. This is **not** proof that exactly 89 species were ever held at Dubbo Zoo or that they're displayed today.
 
-- **[Deep research and historical evidence audit](docs/coverage-audit.md)** — new wombat archives, disputed zoo holdings, zoo-photo evidence and science correction log.
-- **[Conservation-status audit — 76 entries](docs/iucn-assessment-audit-2026-10-18.md)** — dated IUCN checks, direct vs indirect sources, 57 assessments awaiting an individual source check.
-- [Historical animal inventory JSON](data/all-time-animal-inventory.json) — 76 numbered animal names, dates where known, source-confidence and holdings status.
-- [Research catalogue JSON](data/species-catalogue.json) — all 76 guide paths and verified/unverified flags.
-- [Unsent archive records request](docs/archival-records-request.md) — what Taronga would need to supply to verify a truly complete 1977–2026 collection history.
+- [New discovery: historical 1995 diary, 1999 photos and two confirmed zoo conservation programmes](docs/historical-leads-1995-1999-2026-10-18.md).
+- [Full historic evidence audit and outstanding leads](docs/coverage-audit.md).
+- [IUCN source-grade audit across 89 entries](docs/iucn-assessment-audit-2026-10-18.md) — 10 individually read original Red List records, one official category-change table, other graded/indirect evidence and **68 remaining individual assessment checks**.
+- [Machine-readable 89-entry historical animal inventory](data/all-time-animal-inventory.json) and [species profile catalogue](data/species-catalogue.json).
+- [Prepared but unsent archival records request](docs/archival-records-request.md).
 
-**Photo-backed entries supplied by the journal owner** remain separate: African wild dog, giraffe, siamang, Galápagos giant tortoise, Asian elephant and probable meerkat. The historical guides don't claim the owner photographed the other animals.
+**Major fresh evidence:** A 1996 NSW parliamentary answer directly documents **nine Bridled Nailtail Wallabies** in Western Plains Zoo's conservation sanctuary. An Australian Government recovery plan confirms a former **mala** breeding programme that ended after enclosure-related losses in 2001.
 
-## What changed in the October 2026 historical research
+**Further historical leads:** collared peccary, nilgai, sambar, chital, 1990s capybaras, several additional wallabies and kangaroos, domestic guinea pigs and possibly leopard tortoises. These visitor/plan-based entries **require accession confirmation**. Chester the white tiger's Dubbo visit is first-party government confirmed, but a white tiger is **not an extra species**.
 
-- Four additional historical entries: **northern hairy-nosed wombat**, **common wombat**, **superb parrot**, and **diamond firetail**.
-- Specialist wombat manuals support a historical **southern hairy-nosed wombat** holding previously marked unverified.
-- Australian legal/zoo sources confirm the older African elephant species as **African savanna elephant, *Loxodonta africana***.
-- **Only three proposed *managed* zoo holdings remain unverified:** Indian peafowl, smooth yabby and white-browed woodswallow. Peafowl and woodswallow have on-site reported/photo evidence, which is not the same as zoo ownership.
-- **Five precise taxonomic or captive-lineage questions remain** (guineafowl, Galápagos tortoise, forest buffalo, Bengal-labelled tiger and dingo).
-- New IUCN documentation corrects older status reporting for southern hairy-nosed wombat, plains zebra and white rhinoceros. **Ten** IUCN primary assessment records were directly checked, five have indirect or announcement evidence, four are inapplicable/unresolved at wild-taxon level, and 57 still need direct checks.
+### Outstanding archival and scientific verification
 
-## All-time historical checklist (1977–2026)
+**14 formal collection/provenance questions** now include the **three earlier unverified holdings** (Indian peafowl, smooth yabby and white-browed woodswallow) plus **11 new visitor/photo or planned-arrival leads**. **Six exact taxon/lineage questions** remain, including the newly sourced historic eastern wallaroo label. The 1997 map's possible giant anteater must **not** be counted as held without additional proof.
 
-**76/76 profile links written and inventoried**. This does **not** prove there were exactly 76 species at the zoo across its history. The official year-by-year Taronga accession/animal holdings archives and records for historic exhibits and conservation facilities are still necessary for an exhaustive claim.
+An IUCN original [2025-1 change table](https://nc.iucnredlist.org/redlist/content/attachment_files/2025-1_RL_Table_7.pdf) records **mala's change from Vulnerable to Near Threatened**, while Australian legal conservation categories must be handled independently.
+
+**Photo-backed journal species** are separate: African wild dog, giraffe, siamang, Galápagos tortoise, Asian elephant and probable meerkat. Original photographs showing visitors are not assumed fit for public upload.
+
+## All-time animal research checklist
+
+**89/89 existing catalogue links have guides**, not 89 certified historical zoo species. A definitive list from the **1977 opening to 2026** requires Dubbo-only year-by-year animal accession, transfers and historical map evidence, including pre-digital records.
 
 ## What we know
 

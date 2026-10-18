@@ -1,0 +1,560 @@
+{
+  "method": "Primary Taronga records preferred; secondary records flagged. Research status pertains only to whether a substantive species guide exists in this repository.",
+  "sources": [
+    "https://www.taronga.org.au/dubbo-zoo/map",
+    "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
+    "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
+    "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf"
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "region": "Africa",
+      "name": "Addax",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 2,
+      "region": "Africa",
+      "name": "African elephant",
+      "evidence_type": "history",
+      "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 3,
+      "region": "Africa",
+      "name": "African lion",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/african-lion.md"
+    },
+    {
+      "number": 4,
+      "region": "Africa",
+      "name": "African wild dog",
+      "evidence_type": "history_map",
+      "source_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
+      "research_status": "deep_guide_present",
+      "guide": "docs/african-wild-dog.md"
+    },
+    {
+      "number": 5,
+      "region": "Africa",
+      "name": "Barbary sheep (aoudad)",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 6,
+      "region": "Africa",
+      "name": "Black-and-white ruffed lemur",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 7,
+      "region": "Africa",
+      "name": "Black rhinoceros",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/black-rhinoceros.md"
+    },
+    {
+      "number": 8,
+      "region": "Africa",
+      "name": "Cheetah",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/cheetah.md"
+    },
+    {
+      "number": 9,
+      "region": "Africa",
+      "name": "Common eland",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 10,
+      "region": "Africa",
+      "name": "Common hippopotamus",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/common-hippopotamus.md"
+    },
+    {
+      "number": 11,
+      "region": "Africa",
+      "name": "Dromedary camel (map just says 'Camel')",
+      "evidence_type": "map_taxon_uncertain",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 12,
+      "region": "Africa",
+      "name": "Eastern bongo",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 13,
+      "region": "Africa",
+      "name": "Giraffe (Giraffa, exact zoo taxon unverified)",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/giraffe.md"
+    },
+    {
+      "number": 14,
+      "region": "Africa",
+      "name": "Helmeted guineafowl (map says 'Guineafowl')",
+      "evidence_type": "history_map_taxon_uncertain",
+      "source_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 15,
+      "region": "Africa",
+      "name": "Meerkat",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 16,
+      "region": "Africa",
+      "name": "Ostrich",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 17,
+      "region": "Africa",
+      "name": "Plains zebra",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/plains-zebra.md"
+    },
+    {
+      "number": 18,
+      "region": "Africa",
+      "name": "Ring-tailed lemur",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 19,
+      "region": "Africa",
+      "name": "Scimitar-horned oryx (map says 'Oryx')",
+      "evidence_type": "annual_report",
+      "source_url": "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 20,
+      "region": "Africa",
+      "name": "White rhinoceros",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/white-rhinoceros.md"
+    },
+    {
+      "number": 21,
+      "region": "Americas",
+      "name": "American bison",
+      "evidence_type": "history",
+      "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 22,
+      "region": "Americas",
+      "name": "Black-handed spider monkey",
+      "evidence_type": "annual_report",
+      "source_url": "https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 23,
+      "region": "Americas",
+      "name": "Galápagos tortoise",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 24,
+      "region": "Asia",
+      "name": "Asian elephant (including historic Sri Lankan-origin animals)",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/asian-elephant.md"
+    },
+    {
+      "number": 25,
+      "region": "Asia",
+      "name": "Asian small-clawed otter",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 26,
+      "region": "Asia",
+      "name": "Asian water buffalo",
+      "evidence_type": "directory",
+      "source_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 27,
+      "region": "Asia",
+      "name": "Banteng",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 28,
+      "region": "Asia",
+      "name": "Blackbuck",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 29,
+      "region": "Asia",
+      "name": "Greater one-horned rhinoceros",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/greater-one-horned-rhinoceros.md"
+    },
+    {
+      "number": 30,
+      "region": "Asia",
+      "name": "Indian peafowl",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 31,
+      "region": "Asia",
+      "name": "Persian onager",
+      "evidence_type": "history",
+      "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 32,
+      "region": "Asia",
+      "name": "Siamang",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
+      "research_status": "deep_guide_present",
+      "guide": "docs/siamang.md"
+    },
+    {
+      "number": 33,
+      "region": "Asia",
+      "name": "Sumatran tiger",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
+      "research_status": "deep_guide_present",
+      "guide": "docs/sumatran-tiger.md"
+    },
+    {
+      "number": 34,
+      "region": "Asia",
+      "name": "Takhi (Przewalski's horse)",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 35,
+      "region": "Asia",
+      "name": "White-handed gibbon",
+      "evidence_type": "history_map",
+      "source_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 36,
+      "region": "Australia",
+      "name": "Australian zebra finch",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 37,
+      "region": "Australia",
+      "name": "Brush-tailed rock-wallaby",
+      "evidence_type": "historical_annual_transfer",
+      "source_url": "https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 38,
+      "region": "Australia",
+      "name": "Eastern whipbird",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 39,
+      "region": "Australia",
+      "name": "Emu",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 40,
+      "region": "Australia",
+      "name": "Greater bilby",
+      "evidence_type": "sanctuary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 41,
+      "region": "Australia",
+      "name": "Koala",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 42,
+      "region": "Australia",
+      "name": "Little lorikeet",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 43,
+      "region": "Australia",
+      "name": "Malleefowl",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 44,
+      "region": "Australia",
+      "name": "Plains-wanderer",
+      "evidence_type": "sanctuary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 45,
+      "region": "Australia",
+      "name": "Platypus",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "deep_guide_present",
+      "guide": "docs/platypus.md"
+    },
+    {
+      "number": 46,
+      "region": "Australia",
+      "name": "Quokka",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 47,
+      "region": "Australia",
+      "name": "Red kangaroo",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 48,
+      "region": "Australia",
+      "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 49,
+      "region": "Australia",
+      "name": "Regent honeyeater",
+      "evidence_type": "annual_report",
+      "source_url": "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 50,
+      "region": "Australia",
+      "name": "Scaly-breasted lorikeet",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 51,
+      "region": "Australia",
+      "name": "Short-beaked echidna",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 52,
+      "region": "Australia",
+      "name": "Smooth yabby",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 53,
+      "region": "Australia",
+      "name": "Southern hairy-nosed wombat",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 54,
+      "region": "Australia",
+      "name": "Southern purple-spotted gudgeon",
+      "evidence_type": "conservation_habitat",
+      "source_url": "https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 55,
+      "region": "Australia",
+      "name": "Swamp wallaby (precise displayed wallaby species unverified)",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 56,
+      "region": "Australia",
+      "name": "Tasmanian devil",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 57,
+      "region": "Australia",
+      "name": "Western quoll (chuditch)",
+      "evidence_type": "sanctuary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 58,
+      "region": "Australia",
+      "name": "White-browed woodswallow",
+      "evidence_type": "historical_annual_transfer",
+      "source_url": "https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 59,
+      "region": "Australia",
+      "name": "White-winged chough",
+      "evidence_type": "secondary_only",
+      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 60,
+      "region": "Europe and domesticated",
+      "name": "Domestic pygmy goat",
+      "evidence_type": "map",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
+      "research_status": "not_researched",
+      "guide": null
+    },
+    {
+      "number": 61,
+      "region": "Europe and domesticated",
+      "name": "European fallow deer",
+      "evidence_type": "precinct",
+      "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds",
+      "research_status": "not_researched",
+      "guide": null
+    }
+  ]
+}

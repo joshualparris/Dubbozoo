@@ -2,7 +2,7 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** the working historical animal catalogue now contains 72 evidence-labelled, linked profiles. Zoo-holding evidence and personal-photo observations are separately classified; ten historical holdings remain unverified.
+**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** the working historical animal catalogue now contains 76 evidence-labelled, linked profiles. Zoo-holding evidence and personal-photo observations are separately classified; ten historical holdings remain unverified.
 
 ## Start here
 
@@ -29,21 +29,30 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
 
 
-### Research library — 72 documented animals
+### Research library — 76 historical animal records
 
-**[Browse the numbered 72-animal historical catalogue](docs/all-time-animal-inventory.md)**, grouped by continent and domestic holdings. Every working-list entry has a research guide, but **this is a historically sourced subset, not a certified complete inventory of every species held since 1977**.
+**[Browse the numbered 76-entry catalogue](docs/all-time-animal-inventory.md)**. Each entry links to a researched guide; this is **not a complete, certified count of every species ever held at Dubbo Zoo**.
 
-- **[Deep historical evidence audit](docs/coverage-audit.md)** — archival discoveries, corrections, sources, and scientific uncertainties.
-- [Structured all-time inventory](data/all-time-animal-inventory.json) — dated sources and separately classified evidence.
-- [Machine-readable research guide catalogue](data/species-catalogue.json) — 72 links, observation status and taxonomic uncertainty.
+- **[Deep research and historical evidence audit](docs/coverage-audit.md)** — new wombat archives, disputed zoo holdings, zoo-photo evidence and science correction log.
+- **[Conservation-status audit — 76 entries](docs/iucn-assessment-audit-2026-10-18.md)** — dated IUCN checks, direct vs indirect sources, 59 assessments awaiting an individual source check.
+- [Historical animal inventory JSON](data/all-time-animal-inventory.json) — 76 numbered animal names, dates where known, source-confidence and holdings status.
+- [Research catalogue JSON](data/species-catalogue.json) — all 76 guide paths and verified/unverified flags.
+- [Unsent archive records request](docs/archival-records-request.md) — what Taronga would need to supply to verify a truly complete 1977–2026 collection history.
 
-Photo-backed entries remain independently catalogued: African wild dog, giraffe, siamang, Galápagos tortoise, Asian elephant, and probable meerkat. Historical profiles do **not** claim Josh photographed the species.
+**Photo-backed entries supplied by the journal owner** remain separate: African wild dog, giraffe, siamang, Galápagos giant tortoise, Asian elephant and probable meerkat. The historical guides don't claim the owner photographed the other animals.
 
-## All-time animal checklist (1977–2026 working list)
+## What changed in the October 2026 historical research
 
-**72/72 research guides written**. **4 Dubbo holding claims remain unverified**, **6 scientific taxa/lineages unresolved** and **1 red kangaroo case documented as temporary rehabilitation rather than the permanent collection**.
+- Four additional historical entries: **northern hairy-nosed wombat**, **common wombat**, **superb parrot**, and **diamond firetail**.
+- Specialist wombat manuals support a historical **southern hairy-nosed wombat** holding previously marked unverified.
+- Australian legal/zoo sources confirm the older African elephant species as **African savanna elephant, *Loxodonta africana***.
+- **Only three proposed *managed* zoo holdings remain unverified:** Indian peafowl, smooth yabby and white-browed woodswallow. Peafowl and woodswallow have on-site reported/photo evidence, which is not the same as zoo ownership.
+- **Five precise taxonomic or captive-lineage questions remain** (guineafowl, Galápagos tortoise, forest buffalo, Bengal-labelled tiger and dingo).
+- New IUCN documentation corrects older status reporting for southern hairy-nosed wombat, plains zebra and white rhinoceros. **Ten** IUCN primary assessment records were directly checked in this audit; the others remain explicitly source graded.
 
-The original 61-guide database has now expanded with 11 previously omitted historical species, such as Brazilian tapirs, sitatunga, waterbuck, maned wolves and wapiti. Current maps alone cannot establish the full zoo history. Definitive completeness needs Taronga's 1977–2026 Dubbo-only archival accession records.
+## All-time historical checklist (1977–2026)
+
+**76/76 profile links written and inventoried**. This does **not** prove there were exactly 76 species at the zoo across its history. The official year-by-year Taronga accession/animal holdings archives and records for historic exhibits and conservation facilities are still necessary for an exhaustive claim.
 
 ## What we know
 

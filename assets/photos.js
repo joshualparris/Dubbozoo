@@ -65,7 +65,7 @@
     const filePage = info.descriptionurl || 'https://commons.wikimedia.org/wiki/File:' + encodeURIComponent(rawName.replace(/ /g,'_'));
     return {url:image,artist,licence,filePage,repository:'Wikimedia Commons',width:info.thumbwidth || info.width,height:info.thumbheight || info.height};
   }
-  let matchedPhotos = 0, unavailablePhotos = 0;
+  let matchedPhotos = [...cards.values()].filter(c => c.querySelector('.animal-photo-slot')?.dataset.photoStatus === 'curated').length, unavailablePhotos = 0;
   const photoStatus=document.getElementById('photo-status');
   function countProgress() {
     if (!photoStatus) return;
@@ -206,13 +206,34 @@
       const r=await fetch('data/wildlife-photo-queries.json',{credentials:'omit'});
       if(!r.ok)throw new Error('photo manifest '+r.status);
       manifest=await r.json();
-    }catch(e){cards.forEach((c,id)=>failPhoto({number:id,commons_search:c.dataset.photoQuery||c.dataset.photoName||'animal'}));return;}
+    }catch(e){cards.forEach((c,id)=>{if(c.querySelector('.animal-photo-slot')?.dataset.photoStatus !== 'curated')failPhoto({number:id,commons_search:c.dataset.photoQuery||c.dataset.photoName||'animal'});});return;}
     if(!Array.isArray(manifest.image_queries)||manifest.image_queries.length!==cards.size) {
       if(photoStatus)photoStatus.textContent='Photo list is incomplete. Open the research photo manifest on GitHub for details.';
       return;
     }
+    // Hand-curated licensed images are embedded directly in HTML for reliability.
+    // Never overwrite them with the API lookup that failed on some Android browsers.
+    const curatedIds = new Set([...cards].filter(([id,c])=>c.querySelector('.animal-photo-slot')?.dataset.photoStatus==='curated').map(([id])=>id));
+    if(curatedIds.has(4)){
+      fetch('data/curated-wildlife-images.json',{credentials:'omit'}).then(r=>r.json()).then(d=>{
+        const image=d.entries?.find(x=>x.number===4);
+        if(image)upgradeHero({number:4},{url:image.image_url,artist:image.author,licence:{text:image.licence,url:image.license_url},filePage:image.file_page});
+      }).catch(()=>{});
+    }
+    const pending = manifest.image_queries.filter(item=>!curatedIds.has(item.number));
+    // A fixed reference image that fails to load can still try automated lookup.
+    for(const item of manifest.image_queries.filter(x=>curatedIds.has(x.number))){
+      const slot=cards.get(item.number)?.querySelector('.animal-photo-slot');
+      const photo=slot?.querySelector('img');
+      if(photo)photo.addEventListener('error',()=>{
+        if(slot.dataset.photoStatus!=='curated')return;
+        slot.dataset.photoStatus='loading';
+        matchedPhotos=Math.max(0,matchedPhotos-1);countProgress();
+        fallback(item);
+      },{once:true});
+    }
     const batches=[];
-    for(let n=0;n<manifest.image_queries.length;n+=18)batches.push(manifest.image_queries.slice(n,n+18));
+    for(let n=0;n<pending.length;n+=18)batches.push(pending.slice(n,n+18));
     const fallbackQueue=[];
     // One batch at a time avoids flooding MediaWiki. All 89 get a chance at a licensed photograph.
     for(const batch of batches){

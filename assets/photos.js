@@ -9,9 +9,9 @@
   const cards = new Map([...document.querySelectorAll('.animal-card[data-photo-id]')].map(el => [Number(el.dataset.photoId), el]));
   if (!cards.size) return;
   const api = {
-    wikipedia: 'https://en.wikipedia.org/w/api.php',
-    commons: 'https://commons.wikimedia.org/w/api.php',
-    inat: 'https://api.inaturalist.org/v1/observations'
+    wikipedia: location.origin + '/api/wildlife-metadata?site=wiki',
+    commons: location.origin + '/api/wildlife-metadata?site=commons',
+    inat: location.origin + '/api/wildlife-metadata?site=inat'
   };
   const normalize = v => String(v || '').replace(/_/g, ' ').replace(/^File:/i, '').trim().toLowerCase();
   const strip = v => {
@@ -232,18 +232,40 @@
         fallback(item);
       },{once:true});
     }
-    const batches=[];
-    for(let n=0;n<pending.length;n+=18)batches.push(pending.slice(n,n+18));
-    const fallbackQueue=[];
-    // One batch at a time avoids flooding MediaWiki. All 89 get a chance at a licensed photograph.
-    for(const batch of batches){
-      try{fallbackQueue.push(...await wikiLeadBatch(batch));}
-      catch(e){fallbackQueue.push(...batch);}
+    // Mobile-friendly lazy resolution: only load visible cards, and the next set after
+    // search/filter/show-more. Wikimedia requests are cached by the same-origin proxy.
+    const pendingMap=new Map(pending.map(item=>[item.number,item]));
+    const inProgress=new Set();
+    let scheduled=false;
+    async function resolveVisible(){
+      const visible=[...pendingMap].filter(([id])=>{
+        const card=cards.get(id),slot=card?.querySelector('.animal-photo-slot');
+        return card && !card.hidden && slot?.dataset.photoStatus==='loading' && !inProgress.has(id);
+      }).slice(0,22).map(([,item])=>item);
+      if(!visible.length)return;
+      for(const item of visible)inProgress.add(item.number);
+      const batches=[];
+      for(let n=0;n<visible.length;n+=14)batches.push(visible.slice(n,n+14));
+      const fallbackQueue=[];
+      for(const batch of batches){
+        try{fallbackQueue.push(...await wikiLeadBatch(batch));}
+        catch(e){fallbackQueue.push(...batch);}
+      }
+      for(let n=0;n<fallbackQueue.length;n+=3){
+        await Promise.all(fallbackQueue.slice(n,n+3).map(item=>fallback(item)));
+      }
+      for(const item of visible){pendingMap.delete(item.number);inProgress.delete(item.number);}
+      if(pendingMap.size)queueWork();
     }
-    // Limit search requests if a title has no freely reusable article thumbnail.
-    for(let n=0;n<fallbackQueue.length;n+=3){
-      await Promise.all(fallbackQueue.slice(n,n+3).map(item=>fallback(item)));
+    function queueWork(){
+      if(scheduled)return;
+      scheduled=true;
+      setTimeout(()=>{scheduled=false;resolveVisible().catch(()=>{});},120);
     }
+    const watch=new MutationObserver(queueWork);
+    for(const card of cards.values())watch.observe(card,{attributes:true,attributeFilter:['hidden']});
+    window.addEventListener('scroll',queueWork,{passive:true});
+    queueWork();
   }
   run();
 })();

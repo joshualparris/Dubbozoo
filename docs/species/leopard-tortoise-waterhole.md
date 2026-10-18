@@ -26,3 +26,7 @@ A dated first-person diary, later scan/photo, zoo map or Taronga press statement
 3. Find 2021–2023 keeper update with evidence of individual identity/count.
 
 **Observation protocol:** describe dated animals only when recorded; don't infer wild population conservation category from Australian legal listings or captive holdings. A detailed Red List assessment should be checked separately in [the source-graded IUCN audit](../iucn-assessment-audit-2026-10-18.md).
+
+## IUCN Leopold tortoise status — arrival evidence still separate
+
+The [IUCN *Stigmochelys pardalis* amended assessment](https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T163449A217761530.en) lists leopard tortoise **Least Concern (LC), global population trend Unknown**; assessed 29 August 2014, amended publication 2022, flagged needs updating. **Unknown** means the IUCN assessed trend is not reliably determined, not that a plausible value should be invented. Taronga's 2020 *planned* Waterhole arrival is still a **separate unverified historical zoo transfer**.

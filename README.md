@@ -2,7 +2,7 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Additional researched zoo species:** ten Taronga-listed species are documented from published evidence, without claiming Josh photographed or visited their exhibits.
+**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** all 61 working-inventory entries now have linked species profiles. Zoo-holding evidence and personal-photo observations are separately classified; ten historical holdings remain unverified.
 
 ## Start here
 
@@ -24,30 +24,22 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
 
 
-### Research library — 15 species
+### Research library — 61 animal guides
 
-Photo-backed species: [African wild dog](docs/african-wild-dog.md), [giraffe](docs/giraffe.md), [siamang](docs/siamang.md), [Galápagos tortoise](docs/galapagos-giant-tortoise.md), [Asian elephant](docs/asian-elephant.md) and [probable meerkat](docs/meerkat.md).
+**[Browse all 61 numbered species and their linked guides](docs/all-time-animal-inventory.md)**, sorted by Africa, Americas, Asia, Australia and domesticated animals.
 
-Other Taronga Dubbo research records (no personal sightings unless separately indicated):
+Personal photo-backed entries include [African wild dog](docs/african-wild-dog.md), [giraffe](docs/giraffe.md), [siamang](docs/siamang.md), [Galápagos tortoise](docs/galapagos-giant-tortoise.md), [Asian elephant](docs/asian-elephant.md) and [probable meerkat](docs/meerkat.md). Other species guides compile published evidence **without claiming a personal sighting**.
 
-- [Platypus](docs/platypus.md)
-- [Black rhinoceros](docs/black-rhinoceros.md)
-- [White rhinoceros](docs/white-rhinoceros.md)
-- [Cheetah](docs/cheetah.md)
-- [African lion](docs/african-lion.md)
-- [Common hippopotamus](docs/common-hippopotamus.md)
-- [Plains zebra](docs/plains-zebra.md)
-- [Asian elephant — five-photo field record](docs/asian-elephant.md)
-- [Sumatran tiger](docs/sumatran-tiger.md)
-- [Greater one-horned rhinoceros](docs/greater-one-horned-rhinoceros.md)
+**61/61 guide links complete; 10 Dubbo holding claims unverified; 6 precise taxa/lineages unresolved.** Guides exist but not every Red List assessment or holding has received independent keeper-level verification.
 
-- [**Species coverage audit**](docs/coverage-audit.md) — 15 guides and 25 map-listed labels still pending verification and deeper research.
-- [Machine-readable guide catalogue](data/species-catalogue.json) — links, conservation cautions and evidence classification.
+- [Full evidence-quality and verification audit](docs/coverage-audit.md)
+- [Machine-readable 61-entry species catalogue](data/species-catalogue.json)
+- [Numbered zoo animal inventory JSON](data/all-time-animal-inventory.json)
+- [Research method and uncertainty policy](docs/research-method.md)
 
+## All-time animal checklist (1977–2026 working list)
 
-## All-time animal checklist (1977–2026)
-
-**[Open the 61-entry numbered historical checklist](docs/all-time-animal-inventory.md)**. Research status: **15 deeply researched; 46 still pending**, including **12 entries requiring primary-source verification**. Covers current zoo maps, historical publications and behind-the-scenes conservation holdings; not a certified list of every species ever kept. [Machine-readable inventory](data/all-time-animal-inventory.json).
+[Open the **61-item numbered historical checklist**, each with ✅ guide](docs/all-time-animal-inventory.md). **This is not a certified complete list of every animal ever at Dubbo Zoo**: it combines current exhibitions, historical holdings, conservation programmes and ten unverified leads. Getting a definitive lifetime census requires Taronga's archival accession and inventory records.
 
 ## What we know
 

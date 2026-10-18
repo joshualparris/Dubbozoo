@@ -31,3 +31,13 @@ Scientific status must be matched to the **taxon, assessment date and population
 ### Follow-up
 
 Obtain dated ARKS/ZIMS accession entries and historical exhibit maps to confirm individual identities, arrival/last-held dates, lineages and transfers. No current exhibit census or wild abundance is inferred from a single old press release. Preserve historical zoo nomenclature but use current scientific taxonomy only when the latter is demonstrated.
+
+## Additional historical tiger exhibit: Chester the white tiger — official 1995 confirmation
+
+The [Western Australian Government's 7 December 1995 statement](https://www.wa.gov.au/government/media-statements/Court%20Coalition%20Government/Visit-of-rare-white-tiger-to-Perth-Zoo-19951207) identifies a male white tiger **Chester**, on loan to Perth from Taronga Sydney, and **explicitly says he previously visited Western Plains Zoo Dubbo**. This is a stronger first-party confirmation of a *temporarily held tiger individual* than zoo-fan recollections, and explains the school visitor's dated **6 May 1995** account of seeing Chester at Dubbo ([diary transcription](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/)).
+
+**Taxonomic caution:** 'White tiger' is a coat colour trait of *Panthera tigris*, **not an IUCN species or proof of pure Bengal ancestry**. The later fan-compiled [Chester timeline](https://www.zoochat.com/community/media/white-tiger-1996.491743/) says he had primarily Bengal and some Siberian ancestry and was moved to Dubbo on **31 August 1993**, but that detailed timeline is a **secondary historical reconstruction**, not an authenticated studbook. The WA government confirmed a previous Dubbo visit, **not every exact intermediate transfer date**. Do not count Chester as a new *species* in the 1977–2026 inventory, but do register the distinct exhibit episode.
+
+### Separate disputed historical lion identity
+
+The 1995 diary labels other lions 'Asiatic'. A [2008 ZooChat discussion](https://www.zoochat.com/community/threads/asiastic-lions-in-australia.15749/) includes inconsistent keeper/enthusiast recollections: some describe imported Asiatic/African hybrids, another says the animals were later identified as African. This provides a **historic exhibit-signage/ancestry investigation**, **not a verified pure Asiatic lion holding**. Avoid adding a separate biological species for a lion lineage without accession or studbook data.

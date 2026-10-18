@@ -3,6 +3,11 @@
 **Dubbozoo inventory #43 · Taxon:** *Leipoa ocellata* · **Conservation:** Vulnerable nationally and in much of its range.  
 **Sources reviewed:** 18 October 2026. **Observations:** no supplied photo directly documents this species.
 
+
+## Archival correction: Dubbo conservation-aviary holding CONFIRMED
+
+[Taronga's Dubbo Regent Honeyeater first breeding season report](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) specifically states that the Dubbo **behind-the-scenes flight aviary** housed 'a couple of Malleefowl and White-winged Choughs' alongside Regent Honeyeaters. This directly verifies the zoo holding, although it does **not** establish a publicly accessible malleefowl exhibit or 2026 occupancy. File name retains prior label for link stability.
+
 ## Physical identification and life history
 
 Ground-dwelling mottled grey-brown bird with heavy feet. Famous for building large incubation mounds, not sitting on eggs continuously like most birds.

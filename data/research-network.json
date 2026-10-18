@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "last_reviewed": "2026-10-18",
+  "dewey_home": {
+    "shelf": "590",
+    "label": "Zoology / natural history",
+    "library_repository": "https://github.com/joshualparris/ResearchLibrary",
+    "visibility": "private",
+    "notes": "Private index: sign-in required. Do not copy its file titles, Drive links, summaries or catalogue metadata into this public JSON."
+  },
+  "primary_project": {
+    "repo": "joshualparris/Dubbozoo",
+    "url": "https://github.com/joshualparris/Dubbozoo",
+    "shelf": "590",
+    "related_shelves": [
+      "591",
+      "599",
+      "333",
+      "020"
+    ]
+  },
+  "research_links": [
+    {
+      "repo": "joshualparris/CircularEconomyDubbo",
+      "title": "Circular Economy Dubbo",
+      "category": "Environment",
+      "dewey": "628",
+      "description": "Regional sustainability and circular-economy research",
+      "url": "https://github.com/joshualparris/CircularEconomyDubbo",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "joshualparris/DubboEwaste",
+      "title": "Dubbo E-waste",
+      "category": "Environment",
+      "dewey": "628",
+      "description": "Electronics reuse, repair and material recovery",
+      "url": "https://github.com/joshualparris/DubboEwaste",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/pdfresearch",
+      "title": "PDF Research Toolkit",
+      "category": "Methods",
+      "dewey": "020",
+      "description": "Document extraction, corpus evidence and provenance",
+      "url": "https://github.com/Parris-Tech-Services/pdfresearch",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/LLMAccountability",
+      "title": "LLM Accountability",
+      "category": "Methods",
+      "dewey": "006",
+      "description": "Checking AI-generated claims against evidence",
+      "url": "https://github.com/Parris-Tech-Services/LLMAccountability",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "joshualparris/dewey-converter-for-librarything",
+      "title": "Dewey Helper",
+      "category": "Methods",
+      "dewey": "020",
+      "description": "Dewey-inspired classification tools",
+      "url": "https://github.com/joshualparris/dewey-converter-for-librarything",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "joshualparris/HealthLens",
+      "title": "HealthLens",
+      "category": "Health",
+      "dewey": "610",
+      "description": "Evidence-aware health measurements and analytics",
+      "url": "https://github.com/joshualparris/HealthLens",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/ColdFluApp",
+      "title": "Health Reference",
+      "category": "Health",
+      "dewey": "616",
+      "description": "Respiratory health information and reference research",
+      "url": "https://github.com/Parris-Tech-Services/ColdFluApp",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "joshualparris/Cheappcslaptops",
+      "title": "Used Computer Research",
+      "category": "Technology",
+      "dewey": "004",
+      "description": "Computer refurbishment and price evidence",
+      "url": "https://github.com/joshualparris/Cheappcslaptops",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/DadlanControlCentre",
+      "title": "DadLAN Inventory Research",
+      "category": "Technology",
+      "dewey": "004",
+      "description": "Hardware lifecycle and repair investigations",
+      "url": "https://github.com/Parris-Tech-Services/DadlanControlCentre",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/DCSProfessionalDevelopment",
+      "title": "IT Learning",
+      "category": "Technology",
+      "dewey": "004",
+      "description": "Technical research and learning resources",
+      "url": "https://github.com/Parris-Tech-Services/DCSProfessionalDevelopment",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/FaithHub",
+      "title": "FaithHub",
+      "category": "Humanities",
+      "dewey": "200",
+      "description": "Faith and everyday life resources",
+      "url": "https://github.com/Parris-Tech-Services/FaithHub",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/ElodinDeepLore",
+      "title": "Literary Evidence: Elodin",
+      "category": "Humanities",
+      "dewey": "800",
+      "description": "Canon-led literary research",
+      "url": "https://github.com/Parris-Tech-Services/ElodinDeepLore",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/elodin-deep-lore",
+      "title": "Elodin Lore Archive",
+      "category": "Humanities",
+      "dewey": "800",
+      "description": "Additional literary evidence archive",
+      "url": "https://github.com/Parris-Tech-Services/elodin-deep-lore",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "Parris-Tech-Services/RothfussMaps",
+      "title": "Literary Geography",
+      "category": "Humanities",
+      "dewey": "800",
+      "description": "Fictional geography and maps research",
+      "url": "https://github.com/Parris-Tech-Services/RothfussMaps",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    },
+    {
+      "repo": "joshualparris/Paul-Roe",
+      "title": "Biography Archive",
+      "category": "Humanities",
+      "dewey": "920",
+      "description": "Public biographical and memorial reference",
+      "url": "https://github.com/joshualparris/Paul-Roe",
+      "visibility": "public",
+      "verification": "GitHub repository metadata verified 2026-10-18"
+    }
+  ],
+  "browse_more_public_repos": [
+    {
+      "label": "Personal public repositories",
+      "url": "https://github.com/joshualparris?tab=repositories"
+    },
+    {
+      "label": "Parris Tech Services public repositories",
+      "url": "https://github.com/orgs/Parris-Tech-Services/repositories"
+    }
+  ],
+  "privacy": "Public safe list, manually curated from verified publicly readable GitHub repos. It is not a copy of private ResearchLibrary, and does not claim every related repo has scientific peer review or that linked external deployments are live.",
+  "synchronisation": "Manual catalogue pointers only; no API tokens, unauthorised remote data access, private content export, automation or bidirectional sync."
+}

@@ -1,5 +1,5 @@
 {
-  "method": "Primary Taronga records preferred; secondary records flagged. Research status pertains only to whether a substantive species guide exists in this repository.",
+  "method": "Every entry has a dated guide. Listing is NOT an authoritative complete all-time collection. Primary Taronga/NSW accounts preferred; secondary claims distinctly marked. Current holdings and exact taxa need separate verification.",
   "sources": [
     "https://www.taronga.org.au/dubbo-zoo/map",
     "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
@@ -13,8 +13,12 @@
       "name": "Addax",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/addax.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 2,
@@ -22,8 +26,12 @@
       "name": "African elephant",
       "evidence_type": "history",
       "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/african-elephant-historical.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 3,
@@ -31,8 +39,12 @@
       "name": "African lion",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/african-lion.md"
+      "research_status": "guide_present",
+      "guide": "docs/african-lion.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 4,
@@ -40,8 +52,12 @@
       "name": "African wild dog",
       "evidence_type": "history_map",
       "source_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
-      "research_status": "deep_guide_present",
-      "guide": "docs/african-wild-dog.md"
+      "research_status": "guide_present",
+      "guide": "docs/african-wild-dog.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "existing_photo_observation_in_repository"
     },
     {
       "number": 5,
@@ -49,8 +65,12 @@
       "name": "Barbary sheep (aoudad)",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/barbary-sheep.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 6,
@@ -58,8 +78,12 @@
       "name": "Black-and-white ruffed lemur",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/black-and-white-ruffed-lemur.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 7,
@@ -67,8 +91,12 @@
       "name": "Black rhinoceros",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/black-rhinoceros.md"
+      "research_status": "guide_present",
+      "guide": "docs/black-rhinoceros.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 8,
@@ -76,8 +104,12 @@
       "name": "Cheetah",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/cheetah.md"
+      "research_status": "guide_present",
+      "guide": "docs/cheetah.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 9,
@@ -85,8 +117,12 @@
       "name": "Common eland",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/common-eland.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 10,
@@ -94,8 +130,12 @@
       "name": "Common hippopotamus",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/common-hippopotamus.md"
+      "research_status": "guide_present",
+      "guide": "docs/common-hippopotamus.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 11,
@@ -103,8 +143,12 @@
       "name": "Dromedary camel (map just says 'Camel')",
       "evidence_type": "map_taxon_uncertain",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/camel-taxon-unverified.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 12,
@@ -112,8 +156,12 @@
       "name": "Eastern bongo",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/eastern-bongo.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 13,
@@ -121,8 +169,12 @@
       "name": "Giraffe (Giraffa, exact zoo taxon unverified)",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/giraffe.md"
+      "research_status": "guide_present",
+      "guide": "docs/giraffe.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "existing_photo_observation_in_repository"
     },
     {
       "number": 14,
@@ -130,8 +182,12 @@
       "name": "Helmeted guineafowl (map says 'Guineafowl')",
       "evidence_type": "history_map_taxon_uncertain",
       "source_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/guineafowl-taxon-unverified.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 15,
@@ -139,8 +195,12 @@
       "name": "Meerkat",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole",
-      "research_status": "deep_guide_present",
-      "guide": "docs/meerkat.md"
+      "research_status": "guide_present",
+      "guide": "docs/meerkat.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "probable"
     },
     {
       "number": 16,
@@ -148,8 +208,12 @@
       "name": "Ostrich",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/ostrich.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 17,
@@ -157,8 +221,12 @@
       "name": "Plains zebra",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/plains-zebra.md"
+      "research_status": "guide_present",
+      "guide": "docs/plains-zebra.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 18,
@@ -166,8 +234,12 @@
       "name": "Ring-tailed lemur",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/ring-tailed-lemur.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 19,
@@ -175,8 +247,12 @@
       "name": "Scimitar-horned oryx (map says 'Oryx')",
       "evidence_type": "annual_report",
       "source_url": "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/scimitar-horned-oryx.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 20,
@@ -184,8 +260,12 @@
       "name": "White rhinoceros",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/white-rhinoceros.md"
+      "research_status": "guide_present",
+      "guide": "docs/white-rhinoceros.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 21,
@@ -193,8 +273,12 @@
       "name": "American bison",
       "evidence_type": "history",
       "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/american-bison-historical.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 22,
@@ -202,8 +286,12 @@
       "name": "Black-handed spider monkey",
       "evidence_type": "annual_report",
       "source_url": "https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/black-handed-spider-monkey.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 23,
@@ -211,8 +299,12 @@
       "name": "Galápagos tortoise",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/galapagos-giant-tortoise.md"
+      "research_status": "guide_present",
+      "guide": "docs/galapagos-giant-tortoise.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "existing_photo_observation_in_repository"
     },
     {
       "number": 24,
@@ -220,8 +312,12 @@
       "name": "Asian elephant (including historic Sri Lankan-origin animals)",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/asian-elephant.md"
+      "research_status": "guide_present",
+      "guide": "docs/asian-elephant.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "existing_photo_observation_in_repository"
     },
     {
       "number": 25,
@@ -229,8 +325,12 @@
       "name": "Asian small-clawed otter",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/asian-small-clawed-otter.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 26,
@@ -238,8 +338,12 @@
       "name": "Asian water buffalo",
       "evidence_type": "directory",
       "source_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/asian-water-buffalo.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 27,
@@ -247,8 +351,12 @@
       "name": "Banteng",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/banteng.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 28,
@@ -256,8 +364,12 @@
       "name": "Blackbuck",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/blackbuck.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 29,
@@ -265,8 +377,12 @@
       "name": "Greater one-horned rhinoceros",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/greater-one-horned-rhinoceros.md"
+      "research_status": "guide_present",
+      "guide": "docs/greater-one-horned-rhinoceros.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 30,
@@ -274,8 +390,12 @@
       "name": "Indian peafowl",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/indian-peafowl-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 31,
@@ -283,8 +403,12 @@
       "name": "Persian onager",
       "evidence_type": "history",
       "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/persian-onager-historical.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 32,
@@ -292,8 +416,12 @@
       "name": "Siamang",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
-      "research_status": "deep_guide_present",
-      "guide": "docs/siamang.md"
+      "research_status": "guide_present",
+      "guide": "docs/siamang.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "existing_photo_observation_in_repository"
     },
     {
       "number": 33,
@@ -301,8 +429,12 @@
       "name": "Sumatran tiger",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
-      "research_status": "deep_guide_present",
-      "guide": "docs/sumatran-tiger.md"
+      "research_status": "guide_present",
+      "guide": "docs/sumatran-tiger.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 34,
@@ -310,8 +442,12 @@
       "name": "Takhi (Przewalski's horse)",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/takhi-przewalskis-horse.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 35,
@@ -319,17 +455,25 @@
       "name": "White-handed gibbon",
       "evidence_type": "history_map",
       "source_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/white-handed-gibbon-historical.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 36,
       "region": "Australia",
       "name": "Australian zebra finch",
-      "evidence_type": "secondary_only",
-      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "evidence_type": "primary_taronga_aviary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display",
+      "research_status": "guide_present",
+      "guide": "docs/species/australian-zebra-finch.md",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 37,
@@ -337,17 +481,25 @@
       "name": "Brush-tailed rock-wallaby",
       "evidence_type": "historical_annual_transfer",
       "source_url": "https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/brush-tailed-rock-wallaby-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 38,
       "region": "Australia",
       "name": "Eastern whipbird",
-      "evidence_type": "secondary_only",
-      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "evidence_type": "primary_taronga_aviary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display",
+      "research_status": "guide_present",
+      "guide": "docs/species/eastern-whipbird.md",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 39,
@@ -355,8 +507,12 @@
       "name": "Emu",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/emu.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 40,
@@ -364,8 +520,12 @@
       "name": "Greater bilby",
       "evidence_type": "sanctuary",
       "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/greater-bilby.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 41,
@@ -373,17 +533,25 @@
       "name": "Koala",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/koala.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 42,
       "region": "Australia",
       "name": "Little lorikeet",
-      "evidence_type": "secondary_only",
-      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "evidence_type": "primary_taronga_aviary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display",
+      "research_status": "guide_present",
+      "guide": "docs/species/little-lorikeet.md",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 43,
@@ -391,8 +559,12 @@
       "name": "Malleefowl",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/malleefowl-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 44,
@@ -400,8 +572,12 @@
       "name": "Plains-wanderer",
       "evidence_type": "sanctuary",
       "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/plains-wanderer.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 45,
@@ -409,8 +585,12 @@
       "name": "Platypus",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "deep_guide_present",
-      "guide": "docs/platypus.md"
+      "research_status": "guide_present",
+      "guide": "docs/platypus.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 46,
@@ -418,8 +598,12 @@
       "name": "Quokka",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/quokka.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 47,
@@ -427,8 +611,12 @@
       "name": "Red kangaroo",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/red-kangaroo-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 48,
@@ -436,8 +624,12 @@
       "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/red-necked-wallaby-taxon-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 49,
@@ -445,17 +637,25 @@
       "name": "Regent honeyeater",
       "evidence_type": "annual_report",
       "source_url": "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/regent-honeyeater.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 50,
       "region": "Australia",
       "name": "Scaly-breasted lorikeet",
-      "evidence_type": "secondary_only",
-      "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "evidence_type": "primary_taronga_aviary",
+      "source_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display",
+      "research_status": "guide_present",
+      "guide": "docs/species/scaly-breasted-lorikeet.md",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 51,
@@ -463,8 +663,12 @@
       "name": "Short-beaked echidna",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/short-beaked-echidna.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 52,
@@ -472,8 +676,12 @@
       "name": "Smooth yabby",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/smooth-yabby-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 53,
@@ -481,17 +689,25 @@
       "name": "Southern hairy-nosed wombat",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/southern-hairy-nosed-wombat-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 54,
       "region": "Australia",
       "name": "Southern purple-spotted gudgeon",
       "evidence_type": "conservation_habitat",
-      "source_url": "https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news",
-      "research_status": "not_researched",
-      "guide": null
+      "source_url": "https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon",
+      "research_status": "guide_present",
+      "guide": "docs/species/southern-purple-spotted-gudgeon.md",
+      "holding_evidence_status": "dated_primary_dpi_zoo_refuge_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 55,
@@ -499,8 +715,12 @@
       "name": "Swamp wallaby (precise displayed wallaby species unverified)",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/swamp-wallaby-taxon-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 56,
@@ -508,8 +728,12 @@
       "name": "Tasmanian devil",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/tasmanian-devil.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 57,
@@ -517,8 +741,12 @@
       "name": "Western quoll (chuditch)",
       "evidence_type": "sanctuary",
       "source_url": "https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/western-quoll-chuditch.md",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 58,
@@ -526,8 +754,12 @@
       "name": "White-browed woodswallow",
       "evidence_type": "historical_annual_transfer",
       "source_url": "https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/white-browed-woodswallow-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 59,
@@ -535,8 +767,12 @@
       "name": "White-winged chough",
       "evidence_type": "secondary_only",
       "source_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/white-winged-chough-holding-unverified.md",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 60,
@@ -544,8 +780,12 @@
       "name": "Domestic pygmy goat",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/domestic-pygmy-goat.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     },
     {
       "number": 61,
@@ -553,8 +793,20 @@
       "name": "European fallow deer",
       "evidence_type": "precinct",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "guide_present",
+      "guide": "docs/species/european-fallow-deer.md",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched",
+      "last_researched": "2026-10-18",
+      "user_photo_status": "not_recorded"
     }
-  ]
+  ],
+  "summary": {
+    "inventory_entries": 61,
+    "guides_present": 61,
+    "guides_missing": 0,
+    "dubbo_holding_unverified": 10,
+    "taxon_or_subspecies_unverified": 6,
+    "note": "61 checklist research profiles exist; does not verify complete lifetime zoo holdings, zoo species taxon or 2026 occupancy"
+  }
 }

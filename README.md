@@ -6,6 +6,15 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 
 ## Start here
 
+## Research website · now deployed
+
+**[Open the Dubbozoo Research Portal](https://dubbozoo-research.vercel.app/)**. Vercel reported the first production deployment **READY** on 18 October 2026, with public access enabled; a live browser/HTTP visual acceptance test remains outstanding.
+
+The rebuilt [static website source](index.html) includes a responsive wildlife design, **89** searchable historical animal guide cards, conservation/historical evidence filters, an on-demand **622-question explorer**, and **15 verified public GitHub research links** organised by subject. It loads the question ledger only after interaction and does not publish original user-photo binaries.
+
+**Dewey 590 integration:** Dubbozoo is reciprocally indexed by the **[private ResearchLibrary](https://github.com/joshualparris/ResearchLibrary)** (authorised accounts only). [The public-safe cross-repository index](data/research-network.json) contains *only* repositories checked as public and does not mirror private research documents, Drive filenames or personal information. [Read the integration and QA record](docs/RESEARCH-PORTAL-INTEGRATION-2026-10-18.md).
+
+
 ## Comprehensive unanswered-question research atlas (18 October 2026)
 
 **[Read the corrected answers to all 622 parent research questions](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md)**. The old 61-animal snapshot contained answerable questions incorrectly labelled 'unresolved', including Q0007. **[Verification status and examples](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md)** document 49 dated AI source-text checks, 573 parent questions without an independent question-specific source review, no human verification and 1,866 generated follow-up questions still open. A written answer or specific evidence requirement is not certification that an unpublished fact has been found.
@@ -26,7 +35,7 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Machine-readable observation catalogue](data/observations.json)
 - [Original photo manifest and upload instructions](photos/README.md)
 - [Research methodology, sources and maintenance](docs/research-method.md)
-- [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
+- [Research portal source](index.html) — responsive static HTML, local CSS and JS; no tracking, cookies or external scripts.
 
 
 ### Research library — 89 historical animal leads and profiles
@@ -104,4 +113,4 @@ This is an **independent field journal, not an official Taronga website**. Speci
 - [AI source-verification status](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md): 49 question-specific source-text checks, 573 remaining without an independent source review, **zero human-verified**; 1,866 generated follow-ups remain future research.
 - [Per-question JSON ledger](data/question-verification-ledger-2026-10-18.json): original answer retained, revised answer, source-review grade and provenance.
 
-**Source control verification does not prove the public website is deployed or that all external citations return HTTP 200.**
+**Hosting check:** the Vercel production deployment is READY, but a separate live browser visual/HTTP test and external-source-link audit have not been completed.

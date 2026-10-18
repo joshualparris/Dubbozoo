@@ -33,3 +33,7 @@ The calf was born in shallow water at the zoo's hippo lake, illustrating how ear
 - [Common hippo conservation study, 2024](https://doi.org/10.1016/j.heliyon.2024.e40186)
 
 **Unknown:** animals currently visible, current zoo herd size, which animals a visitor has seen.
+
+## Conservation status and trend: careful distinction
+
+The [IUCN *Hippopotamus amphibius* assessment](https://doi.org/10.2305/IUCN.UK.2017-2.RLTS.T10103A18567364.en), **assessed 16 June 2016**, published 2017, classifies the **common hippopotamus Vulnerable (VU)** while rating its **overall population trend Stable** at that assessment, **not decreasing**. Its dated estimate of **115,000–130,000** wild common hippos is not a new 2026 survey. IUCN explains that some regions are declining despite the relatively stable overall population. Avoid assuming that 'Vulnerable' always means the currently assessed global trend is down.

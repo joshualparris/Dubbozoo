@@ -2,7 +2,7 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** all 61 working-inventory entries now have linked species profiles. Zoo-holding evidence and personal-photo observations are separately classified; ten historical holdings remain unverified.
+**Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** the working historical animal catalogue now contains 72 evidence-labelled, linked profiles. Zoo-holding evidence and personal-photo observations are separately classified; ten historical holdings remain unverified.
 
 ## Start here
 
@@ -29,22 +29,21 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
 
 
-### Research library — 61 animal guides
+### Research library — 72 documented animals
 
-**[Browse all 61 numbered species and their linked guides](docs/all-time-animal-inventory.md)**, sorted by Africa, Americas, Asia, Australia and domesticated animals.
+**[Browse the numbered 72-animal historical catalogue](docs/all-time-animal-inventory.md)**, grouped by continent and domestic holdings. Every working-list entry has a research guide, but **this is a historically sourced subset, not a certified complete inventory of every species held since 1977**.
 
-Personal photo-backed entries include [African wild dog](docs/african-wild-dog.md), [giraffe](docs/giraffe.md), [siamang](docs/siamang.md), [Galápagos tortoise](docs/galapagos-giant-tortoise.md), [Asian elephant](docs/asian-elephant.md) and [probable meerkat](docs/meerkat.md). Other species guides compile published evidence **without claiming a personal sighting**.
+- **[Deep historical evidence audit](docs/coverage-audit.md)** — archival discoveries, corrections, sources, and scientific uncertainties.
+- [Structured all-time inventory](data/all-time-animal-inventory.json) — dated sources and separately classified evidence.
+- [Machine-readable research guide catalogue](data/species-catalogue.json) — 72 links, observation status and taxonomic uncertainty.
 
-**61/61 guide links complete; 10 Dubbo holding claims unverified; 6 precise taxa/lineages unresolved.** Guides exist but not every Red List assessment or holding has received independent keeper-level verification.
-
-- [Full evidence-quality and verification audit](docs/coverage-audit.md)
-- [Machine-readable 61-entry species catalogue](data/species-catalogue.json)
-- [Numbered zoo animal inventory JSON](data/all-time-animal-inventory.json)
-- [Research method and uncertainty policy](docs/research-method.md)
+Photo-backed entries remain independently catalogued: African wild dog, giraffe, siamang, Galápagos tortoise, Asian elephant, and probable meerkat. Historical profiles do **not** claim Josh photographed the species.
 
 ## All-time animal checklist (1977–2026 working list)
 
-[Open the **61-item numbered historical checklist**, each with ✅ guide](docs/all-time-animal-inventory.md). **This is not a certified complete list of every animal ever at Dubbo Zoo**: it combines current exhibitions, historical holdings, conservation programmes and ten unverified leads. Getting a definitive lifetime census requires Taronga's archival accession and inventory records.
+**72/72 research guides written**. **4 Dubbo holding claims remain unverified**, **7 scientific taxa/lineages unresolved** and **1 red kangaroo case documented as temporary rehabilitation rather than the permanent collection**.
+
+The original 61-guide database has now expanded with 11 previously omitted historical species, such as Brazilian tapirs, sitatunga, waterbuck, maned wolves and wapiti. Current maps alone cannot establish the full zoo history. Definitive completeness needs Taronga's 1977–2026 Dubbo-only archival accession records.
 
 ## What we know
 

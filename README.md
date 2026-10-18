@@ -34,7 +34,7 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 **[Browse the numbered 76-entry catalogue](docs/all-time-animal-inventory.md)**. Each entry links to a researched guide; this is **not a complete, certified count of every species ever held at Dubbo Zoo**.
 
 - **[Deep research and historical evidence audit](docs/coverage-audit.md)** — new wombat archives, disputed zoo holdings, zoo-photo evidence and science correction log.
-- **[Conservation-status audit — 76 entries](docs/iucn-assessment-audit-2026-10-18.md)** — dated IUCN checks, direct vs indirect sources, 59 assessments awaiting an individual source check.
+- **[Conservation-status audit — 76 entries](docs/iucn-assessment-audit-2026-10-18.md)** — dated IUCN checks, direct vs indirect sources, 57 assessments awaiting an individual source check.
 - [Historical animal inventory JSON](data/all-time-animal-inventory.json) — 76 numbered animal names, dates where known, source-confidence and holdings status.
 - [Research catalogue JSON](data/species-catalogue.json) — all 76 guide paths and verified/unverified flags.
 - [Unsent archive records request](docs/archival-records-request.md) — what Taronga would need to supply to verify a truly complete 1977–2026 collection history.
@@ -48,7 +48,7 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - Australian legal/zoo sources confirm the older African elephant species as **African savanna elephant, *Loxodonta africana***.
 - **Only three proposed *managed* zoo holdings remain unverified:** Indian peafowl, smooth yabby and white-browed woodswallow. Peafowl and woodswallow have on-site reported/photo evidence, which is not the same as zoo ownership.
 - **Five precise taxonomic or captive-lineage questions remain** (guineafowl, Galápagos tortoise, forest buffalo, Bengal-labelled tiger and dingo).
-- New IUCN documentation corrects older status reporting for southern hairy-nosed wombat, plains zebra and white rhinoceros. **Ten** IUCN primary assessment records were directly checked in this audit; the others remain explicitly source graded.
+- New IUCN documentation corrects older status reporting for southern hairy-nosed wombat, plains zebra and white rhinoceros. **Ten** IUCN primary assessment records were directly checked, five have indirect or announcement evidence, four are inapplicable/unresolved at wild-taxon level, and 57 still need direct checks.
 
 ## All-time historical checklist (1977–2026)
 

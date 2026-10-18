@@ -3,6 +3,14 @@
 **Number:** 52/61 · **Scientific taxon:** *Cherax destructor (common/smooth yabby), plausible but unconfirmed Dubbo animal* · **Conservation/context:** A common native freshwater crustacean; IUCN listing not verified.  
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
+
+## Visitor inventory lead — no verifiable primary accession yet
+
+A detailed [8 July 2025 knowledgeable ZooChat visitor/enthusiast inventory](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-news-2025.492828/page-4) lists **Smooth Yabby (*Cherax destructor*) under invertebrates** and Southern Purple-spotted Gudgeon under fish. This is stronger, dateable *independent secondary evidence* than Wikipedia simply repeating a list, but that participant said their inventory was compiled from memory and may be incomplete. The observer did not supply a specimen accession number, exhibit photo with readable label, or zoo animal directory citation.
+
+**Updated result:** a plausible Dubbo captive aquatic/invertebrate species, **not verified by zoo-owned primary evidence**. A native yabby present in a zoo moat or lake would not automatically count as a formally managed zoo species. Ask which aquarium/keeper/collection programme was meant and whether the zoo holds *Cherax destructor* or a differently identified local *Cherax* species; include historical first/last holding dates.
+
+
 ## Scientific identification and adaptations
 
 Ten-legged crayfish with large strong claws, smooth-sided carapace and a broad swimming tail fan. Color can vary dramatically with habitat and genetics. 'Smooth yabby' is a local common name for *Cherax destructor*, but an old zoo list alone cannot tie it to a specific managed enclosure.

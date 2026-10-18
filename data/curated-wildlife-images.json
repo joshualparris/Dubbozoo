@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "curated_at": "2026-10-18",
-  "notes": "Fixed real Wikimedia photo sources with credited authors and licences. Other species continue through same-origin Wikimedia/iNaturalist metadata resolver; not every photo has been validated on screen.",
+  "notes": "88 of 89 file-specific CC/PD Commons image references in static HTML; #73 Northern hairy-nosed wombat intentionally deferred because the sole Commons photo labelled L. krefftii is explicitly disputed as a southern hairy-nosed wombat. No false species image.",
   "entries": [
     {
       "number": 1,
@@ -508,6 +508,18 @@
       "historical_animal_claim": false
     },
     {
+      "number": 43,
+      "file": "Malleefowl standing on mound - DPLA - 8c8cf857f825bd4a11f7a5f125c38e91.jpg",
+      "author": "Warren Garst / DPLA",
+      "licence": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Malleefowl_standing_on_mound_-_DPLA_-_8c8cf857f825bd4a11f7a5f125c38e91.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malleefowl_standing_on_mound_-_DPLA_-_8c8cf857f825bd4a11f7a5f125c38e91.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
       "number": 44,
       "file": "Plains-wanderer (Pedionomus torquatus) (30547431043).jpg",
       "author": "Dominic Sherony",
@@ -517,6 +529,18 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plains-wanderer_(Pedionomus_torquatus)_(30547431043).jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 45,
+      "file": "Platypus (4848256613).jpg",
+      "author": "Eric Chan",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Platypus_(4848256613).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Platypus_(4848256613).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
       "historical_animal_claim": false
     },
     {
@@ -652,6 +676,30 @@
       "historical_animal_claim": false
     },
     {
+      "number": 57,
+      "file": "Dasyurus geoffroii 483424155.jpg",
+      "author": "pimelea (iNaturalist)",
+      "licence": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Dasyurus_geoffroii_483424155.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dasyurus_geoffroii_483424155.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 58,
+      "file": "White Browed Woodswallow - Artamus superciliosus (7088986763).jpg",
+      "author": "David Lochlin",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:White_Browed_Woodswallow_-_Artamus_superciliosus_(7088986763).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/White_Browed_Woodswallow_-_Artamus_superciliosus_(7088986763).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
       "number": 59,
       "file": "Corcorax melanorhamphos (12254862535).jpg",
       "author": "Donald Hobern",
@@ -697,6 +745,18 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waterbucks_(Kobus_ellipsiprymnus)_(6889118450).jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "public Commons file page and named CC creator cross-checked",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 63,
+      "file": "Sitatunga or Marshbuck (32424103948).jpg",
+      "author": "David Stanley",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Sitatunga_or_Marshbuck_(32424103948).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sitatunga_or_Marshbuck_(32424103948).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
       "historical_animal_claim": false
     },
     {
@@ -796,6 +856,18 @@
       "historical_animal_claim": false
     },
     {
+      "number": 72,
+      "file": "Cervus canadensis (North American elk) 1 (15725801161).jpg",
+      "author": "James St. John",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Cervus_canadensis_(North_American_elk)_1_(15725801161).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervus_canadensis_(North_American_elk)_1_(15725801161).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
       "number": 74,
       "file": "Common wombat (Vombatus ursinus) Maria Island 4.jpg",
       "author": "Charles J. Sharp",
@@ -832,6 +904,18 @@
       "historical_animal_claim": false
     },
     {
+      "number": 77,
+      "file": "Bridled nailtail wallaby-male.JPG",
+      "author": "DiverDave",
+      "licence": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Bridled_nailtail_wallaby-male.JPG",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridled_nailtail_wallaby-male.JPG?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
       "number": 78,
       "file": "Lagorchestes hirsutus (40007266231) 2.jpg",
       "author": "Donald Hobern",
@@ -841,6 +925,18 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagorchestes_hirsutus_(40007266231)_2.jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "public Commons file page and named CC creator cross-checked",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 79,
+      "file": "Pecari tajacu - 01.jpg",
+      "author": "Carlos Delgado",
+      "licence": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Pecari_tajacu_-_01.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pecari_tajacu_-_01.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
       "historical_animal_claim": false
     },
     {
@@ -889,6 +985,78 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capybara_(Hydrochoerus_hydrochaeris)_-_8595235325.jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "public Commons file page and named CC creator cross-checked",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 84,
+      "file": "Macropus fuliginosus (44551241732).jpg",
+      "author": "Donald Hobern",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Macropus_fuliginosus_(44551241732).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Macropus_fuliginosus_(44551241732).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 85,
+      "file": "Macropus parryi 1.jpg",
+      "author": "Arthur Chapman",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Macropus_parryi_1.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Macropus_parryi_1.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 86,
+      "file": "Petrogale xanthopus (44507737622).jpg",
+      "author": "Donald Hobern",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Petrogale_xanthopus_(44507737622).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petrogale_xanthopus_(44507737622).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 87,
+      "file": "Macropus robustus2.jpg",
+      "author": "Michael Barritt & Karen May",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Macropus_robustus2.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Macropus_robustus2.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 88,
+      "file": "Cavia porcellus 001.jpg",
+      "author": "losmininos",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Cavia_porcellus_001.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cavia_porcellus_001.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 89,
+      "file": "Leopard Tortoise (Stigmochelys pardalis) (11421106854).jpg",
+      "author": "Bernard DUPONT",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Leopard_Tortoise_(Stigmochelys_pardalis)_(11421106854).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leopard_Tortoise_(Stigmochelys_pardalis)_(11421106854).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "Commons file page/author/taxon/licence manually researched, some historical animal lineages remain unknown",
       "historical_animal_claim": false
     }
   ]

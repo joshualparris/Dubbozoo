@@ -37,3 +37,7 @@ Observe from designated public areas, noting the actual date/time, site map grid
 2. [Supporting dated record](https://www.taronga.org.au/dubbo-zoo/map)
 
 General zoo map: [Taronga Western Plains Zoo](https://www.taronga.org.au/dubbo-zoo/map). Scientific evidence and IUCN listing require periodic reassessment. **Unknown:** exact current animals, photo identification and any unreported husbandry, health or breeding outcomes.
+
+## Primary IUCN conservation assessment
+
+The [IUCN 2020 *Lemur catta* Red List assessment](https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T11496A115565760.en), **assessed 9 May 2018**, lists ring-tailed lemur **Endangered (EN), decreasing**. It describes ongoing severe Madagascan forest fragmentation and capture/hunting pressure, and a suspected **at least 50% decline over three generations** at assessment time. Do not confuse Madagascar wild estimates with captive 2011 Taronga transfers.

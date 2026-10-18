@@ -2,9 +2,12 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Documented subjects:** African wild dogs / African painted dogs (*Lycaon pictus*) and giraffes (*Giraffa* sp., precise species unverified).
+**Documented subjects:** African wild dogs / African painted dogs (*Lycaon pictus*) giraffes (*Giraffa* sp., precise species unverified), and siamangs (*Symphalangus syndactylus*).
 
 ## Start here
+
+- **[Siamang research: ecology, Dubbo pair, conservation and photo evidence](docs/siamang.md)**
+- [Siamang Islands six-photo observation with integrity hashes](observations/siamang-undated.md)
 
 - **[NEW: Giraffes — 2025 taxonomy, conservation and Dubbo herd research](docs/giraffe.md)**
 - **[Giraffe photographic observation and SHA-256 records](observations/giraffes-undated.md)**
@@ -26,6 +29,10 @@ The **African wild dog** is **Endangered**. The *IUCN Red List 2025 assessment* 
 
 Two additional giraffe photographs were supplied on 18 October 2026. They show multiple giraffes in a wooded paddock, with at least six discernible in the wide frame. Both copies lack capture-date/GPS EXIF. Research on the IUCN's **2025 recognition of four giraffe species** and Taronga's historic **25-giraffe total in April 2025** is separated from direct observation. The specific giraffe species, individual identities and October 2026 zoo herd size are **not verified**. See [the full guide](docs/giraffe.md) and [photo register](observations/giraffes-undated.md).
 
+### Siamangs added
+
+Six new photos document a pond-and-ropes island habitat and at least one likely siamang hanging from a rope. Taronga named **Kasarna and Kasem** as its resident pair in early 2026, but the photographed animal is **not individually identified**. Taronga visitor sources disagree on map location **12Q vs 10G**. All photos lack retained EXIF and four show identifiable visitors. See the [siamang guide](docs/siamang.md), with all uncertainties preserved.
+
 ## Evidence standard
 
 - **Verified source:** an attributed and dated published zoo or scientific source.
@@ -37,6 +44,6 @@ No animal should be named or sexed based solely on coat pattern or a photograph.
 
 ## Credits and permissions
 
-Research and curation prepared on 18 October 2026. Seven submitted photographs (five wild dog, two giraffe) are inventoried but **not included as binaries in the GitHub repository**; this avoids claiming they have been published when they have not. Their SHA-256 hashes are recorded for later matching. This repo cannot display images that are not actually uploaded. **Photo copyright/licence is not specified**, so publishing or reusing the images outside this owner's repo should be confirmed before licensing them.
+Research and curation prepared on 18 October 2026. Thirteen submitted photographs (five wild dog, two giraffe, six siamang) are inventoried but **not included as binaries in the GitHub repository**; this avoids claiming they have been published when they have not. Their SHA-256 hashes are recorded for later matching. This repo cannot display images that are not actually uploaded. **Photo copyright/licence is not specified**, so publishing or reusing the images outside this owner's repo should be confirmed before licensing them.
 
 This is an **independent field journal, not an official Taronga website**. Species and zoo claims are linked to their sources in the profile. For current visitor information consult [Taronga's official website](https://www.taronga.org.au/).

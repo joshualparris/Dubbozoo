@@ -40,3 +40,16 @@ Files should never be silently replaced by AI-generated animals or guessed locat
 | `image-1792293820522.jpg` | 387,198 | 1152 × 1536 | `cf62857142fd0747fd1d229125e75462591cd79471a84682e8c3292f6adc337c` |
 
 Neither JPEG has retained EXIF. The new images are **catalogued, not published as binaries**; an uploaded GitHub asset must be verified before switching `committed_binary` to true. No people are apparent in these two photographs, but authorship and reuse terms are not documented. See [giraffe observations](../observations/giraffes-undated.md).
+
+## Siamang photos added to the register (18 October 2026)
+
+| Submitted JPEG | Bytes | Dimensions | SHA-256 |
+| --- | ---: | --- | --- |
+| `1000104131.jpg` | 690,043 | 1152 × 1536 | `7f97d5548e8015a0e274db790c2b5b6c14481c03acc2ee787ad1fe664ce04b93` |
+| `1000104132.jpg` | 713,133 | 1152 × 1536 | `92789cd3a3b5ba23ac87400d0ea6a90cc05870693b91957af4cbbb820863b775` |
+| `1000104130.jpg` | 736,787 | 1152 × 1536 | `a6048e5bacae2f90dc309c043be116d593c1d34ef07c28071702f5347362a548` |
+| `1000104127.jpg` | 404,300 | 1152 × 1536 | `803e62ce088a64d9e5d96c660282720790fdb287f839b44210b1553d0315ef59` |
+| `1000104128.jpg` | 372,553 | 1152 × 1536 | `9f0ea133030d5be2be936d70e19fb244a116dacf97e28f4c178708fd86d1abb2` |
+| `1000104129.jpg` | 429,977 | 1152 × 1536 | `77cef6e4fbb884465fdefdb0782aba5a710638f328189ecf12930c4a27a4d1fc` |
+
+All six copies have no retained EXIF. **Photos remain inventoried, not committed as binaries.** Four frames show recognisable visitors; publication of intact images to this public repo would require their permission or privacy-safe derivatives, and rights verification. A photo crop or blur would produce a different SHA-256. See the [siamang photo notes](../observations/siamang-undated.md).

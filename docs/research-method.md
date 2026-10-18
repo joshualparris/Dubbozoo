@@ -49,3 +49,12 @@ Old Taronga news pages contain potentially inconsistent combinations of website 
 - GCF's 2025 figures are **wild individuals across age classes**, not zoo totals or IUCN mature-individual metrics ([GCF State of Giraffe](https://giraffeconservation.org/state-of-giraffe/)).
 - Taronga 2023 and April 2025 herd numbers are **historical news**, not verified 2026 inventory.
 - A photographed giraffe can be individually re-identified from unique coat patches only using a verified reference catalogue; neither name nor sex is determinable from these supplied shots.
+
+## Siamang evidence safeguards — 18 October 2026
+
+- A reported Taronga pair does not verify animal identity from a photograph: Kasarna and Kasem are published 2026 zoo residents, not photo-identified animals.
+- Original siamang photos include recognisable visitors; do not publish intact to public GitHub without consent or privacy-safe alteration and authorisation.
+- No EXIF date or GPS survived in six chat-upload copies; do not use message submission timestamp as capture date.
+- Taronga's [Wild Asia](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) says **12Q**, while [species page](https://www.taronga.org.au/wildlife-and-conservation/animals/detail/siamang) says **10G**. Preserve source conflict, not a guessed map ref.
+- Conservation numbers require a source with matching year and population metric. No verified current global siamang headcount was established.
+- Palm oil certification has evidence of benefits and serious limitations: [PNAS 2018 satellite study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5776786/).

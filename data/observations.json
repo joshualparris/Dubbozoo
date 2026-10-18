@@ -245,6 +245,187 @@
           "url": "https://giraffeconservation.org/facts-about-giraffe/why-do-giraffe-have-spots/"
         }
       ]
+    },
+    {
+      "id": "dubbozoo-obs-0003",
+      "common_name": "Siamang",
+      "scientific_name": "Symphalangus syndactylus",
+      "taxon_rank": "species",
+      "iucn_status": "EN",
+      "iucn_assessment_year_reported": 2020,
+      "iucn_status_source": "https://www.taronga.org.au/wildlife-and-conservation/animals/detail/siamang",
+      "wild_global_population_estimate": null,
+      "population_trend": "decreasing",
+      "photo_species_identification_confidence": "high_contextual_not_individually_verified",
+      "subjects_visible_minimum_across_set": 1,
+      "subjects_visible_simultaneously": null,
+      "subjects_visible_note": "At least one likely siamang on ropes; photo overlap and distant views prevent individual counts",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-10-18",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW, Siamang Islands",
+      "venue_verified": false,
+      "gps": null,
+      "exif_present": false,
+      "source_type": "user_supplied_photographs",
+      "observable_behaviours": [
+        "animal suspended/gripping rope (1000104127.jpg)"
+      ],
+      "behaviour_interpretation_limits": "No individual identity, duet, sex, age, feeding, health, breeding or social role can be deduced from stills",
+      "photos": [
+        {
+          "original_filename": "1000104131.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 690043,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "7f97d5548e8015a0e274db790c2b5b6c14481c03acc2ee787ad1fe664ce04b93",
+          "exif_present": false,
+          "description": "Wide pond, ropes, bench, recognisable visitors and orange bicycle",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104132.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 713133,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "92789cd3a3b5ba23ac87400d0ea6a90cc05870693b91957af4cbbb820863b775",
+          "exif_present": false,
+          "description": "Pond and rope-crossed island; bike/visitors foreground",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104130.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 736787,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "a6048e5bacae2f90dc309c043be116d593c1d34ef07c28071702f5347362a548",
+          "exif_present": false,
+          "description": "Large eucalyptus, pond, bench, ropes and visitor foreground",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104127.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 404300,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "803e62ce088a64d9e5d96c660282720790fdb287f839b44210b1553d0315ef59",
+          "exif_present": false,
+          "description": "Dark long-limbed ape-like animal suspended from rope",
+          "recognisable_people_visible": false,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104128.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 372553,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "9f0ea133030d5be2be936d70e19fb244a116dacf97e28f4c178708fd86d1abb2",
+          "exif_present": false,
+          "description": "Suspended hammock platform; occupancy undetermined",
+          "recognisable_people_visible": false,
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "1000104129.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 429977,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "77cef6e4fbb884465fdefdb0782aba5a710638f328189ecf12930c4a27a4d1fc",
+          "exif_present": false,
+          "description": "Visitor foreground and distant dark animal-like form by ropes",
+          "recognisable_people_visible": true,
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "historical_named_pair": [
+        {
+          "name": "Kasarna",
+          "sex": "female",
+          "birth_month": "2019-04",
+          "arrived_dubbo_month": "2025-03",
+          "parents": "Tunku and Cian",
+          "photo_identity_verified": false
+        },
+        {
+          "name": "Kasem",
+          "sex": "male",
+          "birth_month": "2019-03",
+          "arrived_dubbo_month": "2025-10",
+          "parents": "Sue and Bujang",
+          "photo_identity_verified": false
+        }
+      ],
+      "historical_duet_report_date": "2026-03-30",
+      "visitor_map_conflict": [
+        {
+          "ref": "12Q",
+          "source": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia"
+        },
+        {
+          "ref": "10G",
+          "source": "https://www.taronga.org.au/wildlife-and-conservation/animals/detail/siamang"
+        }
+      ],
+      "sources": [
+        {
+          "type": "zoo_animal",
+          "url": "https://www.taronga.org.au/wildlife-and-conservation/animals/detail/siamang"
+        },
+        {
+          "type": "zoo_pair",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/siamang-duo-debuts-at-dubbo-zoo",
+          "published": "2026-01-16"
+        },
+        {
+          "type": "zoo_duet",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/call-of-the-siamangs-echoes-this-easter",
+          "published": "2026-03-30"
+        },
+        {
+          "type": "zoo_history",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/iconic-species-returns-to-taronga-western-plains-zoo",
+          "published": "2025-06-13"
+        },
+        {
+          "type": "zoo_precinct",
+          "url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia"
+        },
+        {
+          "type": "biology",
+          "url": "https://nationalzoo.si.edu/animals/siamang"
+        },
+        {
+          "type": "biology",
+          "url": "https://animals.sandiegozoo.org/animals/siamang"
+        },
+        {
+          "type": "taxonomy",
+          "url": "https://www.mammaldiversity.org/taxon/1000743/"
+        },
+        {
+          "type": "conservation_science",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5776786/"
+        }
+      ]
     }
   ]
 }

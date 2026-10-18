@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102a27">
+  <meta name="description" content="Dubbozoo: an evidence-led field journal for Taronga Western Plains Zoo, beginning with African painted dogs.">
+  <title>Dubbozoo · African painted dogs</title>
+  <style>
+    :root { color-scheme: light; --forest:#102a27; --deep:#173b35; --green:#d1e5d8; --sand:#f7f5ed; --ink:#1c2926; --muted:#52645f; --line:#d8ded5; --gold:#e3b66c; }
+    *{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;background:var(--sand);font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink)}
+    a{color:#17614e;text-underline-offset:.2em} a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:4px}
+    .wrap{width:min(1080px,calc(100% - 36px));margin-inline:auto}
+    header{background:var(--forest);color:#fff;padding:0 0 66px}
+    nav{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding:23px 0 10px;border-bottom:1px solid #ffffff2d}
+    nav strong{letter-spacing:.015em;font-size:1.14rem;margin-right:auto}nav a{color:#e3f2e7;text-decoration:none;font-size:.91rem}
+    .tag{display:inline-flex;border:1px solid #ffffff5c;border-radius:30px;padding:6px 13px;color:#d5e8de;font-size:.85rem}
+    .hero{display:grid;grid-template-columns:1.3fr .7fr;gap:36px;align-items:center;padding-top:65px}
+    .hero h1{font-family:Georgia,serif;font-size:clamp(2.65rem,6vw,5.4rem);letter-spacing:-.045em;font-weight:500;line-height:1.03;margin:20px 0}
+    .latin{font-size:1.15rem;color:#d2e5d9;font-style:italic}.hero p{max-width:600px;color:#e4eee9}
+    .hero-art{min-height:350px;background:radial-gradient(circle at 70% 18%,#c8a66a66,transparent 30%),radial-gradient(circle at 20% 76%,#d1e5d822,transparent 30%),#214a3b;border:1px solid #ffffff24;border-radius:26px;padding:26px;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden}
+    .hero-art .ears{font-size:5.6rem;line-height:1;letter-spacing:.18em;transform:rotate(-11deg);color:#edca93;font-family:Georgia,serif;font-style:italic}
+    .hero-art small{font-size:.78rem;color:#dbe8de}
+    main{padding:56px 0 70px}section{margin-bottom:60px;scroll-margin-top:20px}
+    h2{font-family:Georgia,serif;font-size:clamp(1.8rem,3.5vw,2.7rem);letter-spacing:-.035em;line-height:1.16;margin:0 0 12px}h3{margin:0 0 7px;font-size:1.1rem}
+    .eyebrow{text-transform:uppercase;letter-spacing:.14em;color:#58766a;font-size:.73rem;font-weight:700}
+    .lead{max-width:770px;color:var(--muted);font-size:1.04rem}
+    .facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:28px 0}
+    .fact,.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:22px}
+    .fact strong{font-size:clamp(1.25rem,2.6vw,2rem);line-height:1.15;display:block;color:var(--deep);margin:10px 0 5px}
+    .fact small{color:#5d7168;display:block}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card p{margin-bottom:0}
+    .field{background:var(--deep);color:#f7faf7;border-radius:24px;padding:36px;display:grid;grid-template-columns:1.2fr 1fr;gap:24px}
+    .field p{color:#d6e6dc}.field a{color:#e4c38c}
+    .counter{font:4rem/.9 Georgia,serif;color:var(--gold);display:block}
+    .fieldlist{display:grid;gap:9px;margin-top:14px}.fieldlist div{border-bottom:1px solid #ffffff30;padding-bottom:8px}
+    .bar{border-left:4px solid #9f7441;background:#f0e6d1;padding:14px 19px;border-radius:0 12px 12px 0}
+    .sourcelist{padding-left:22px;max-width:850px}.sourcelist li{margin-bottom:12px}
+    .pill{font-size:.75rem;background:#e8eee5;color:#315845;border-radius:25px;padding:4px 9px;display:inline-block}
+    footer{background:#102a27;color:#e3eee6;padding:34px 0} footer a{color:#e3d1a9}
+    @media(max-width:760px){.hero,.field{grid-template-columns:1fr}.hero{padding-top:40px}.hero-art{min-height:210px}.facts{grid-template-columns:repeat(2,minmax(0,1fr))}.grid{grid-template-columns:1fr}}
+    @media(max-width:430px){.facts{grid-template-columns:1fr 1fr}.fact{padding:14px}.field{padding:24px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <header><div class="wrap">
+    <nav aria-label="Main navigation"><strong>✳ Dubbozoo</strong><a href="#species">Species</a><a href="#sighting">Field notes</a><a href="#conservation">Conservation</a><a href="#sources">Sources</a></nav>
+    <div class="hero">
+      <div><span class="tag">Western Plains · Dubbo, NSW</span><h1>The painted<br>pack.</h1><div class="latin">Lycaon pictus · African wild dog</div><p>More than a striking coat: an extraordinarily social, endangered hunter. A field journal built from personal observations, the zoo's archives and the latest IUCN assessment.</p></div>
+      <div class="hero-art" role="img" aria-label="Abstract typographic pattern panel, not a photograph of an animal"><div class="ears">〰<br>✳</div><div><span class="tag">FIELD JOURNAL 001</span><br><small style="display:block;margin-top:12px">Original photo gallery awaiting authorised image upload. Artwork is decorative only.</small></div></div>
+    </div>
+  </div></header>
+  <main class="wrap">
+    <section id="species">
+      <span class="eyebrow">Species profile</span><h2>Small population. Remarkable teamwork.</h2>
+      <p class="lead">African wild dogs are an African native canid species, recognised by oversized ears, long legs and individual patches of russet, black and white. Unlike feral domestic dogs, these are an entirely distinct wild species.</p>
+      <div class="facts">
+        <div class="fact"><span class="eyebrow">IUCN status</span><strong>Endangered</strong><small>2025 assessment</small></div>
+        <div class="fact"><span class="eyebrow">Mature breeders</span><strong>1,676</strong><small>Estimated globally; not total dog count</small></div>
+        <div class="fact"><span class="eyebrow">World population</span><strong>&lt; 700 packs</strong><small>Estimated, declining</small></div>
+        <div class="fact"><span class="eyebrow">Zoo map</span><strong>19B</strong><small>Current Taronga African Adventure guide</small></div>
+      </div>
+      <p class="bar"><strong>Population numbers require care:</strong> 1,676 is the IUCN's estimate of <em>mature individuals</em>, not all African wild dogs alive. Older sources' “6,600 adults” is a different measure and should not be compared directly. <a href="docs/african-wild-dog.md">Read the population methodology</a>.</p>
+      <div class="grid" style="margin-top:24px">
+        <article class="card"><h3>Why such big ears?</h3><p>They can rotate to help hear faint sounds and communicate with pack mates. Taronga also highlights their distinctive four-toed front paws.</p></article>
+        <article class="card"><h3>Life as a pack</h3><p>Group hunting and cooperative care are central to their lives. Adults and older siblings can help raise young and share food.</p></article>
+        <article class="card"><h3>Built to travel</h3><p>Long legs and stamina support movement over huge ranges. Taronga reports speeds as high as 70 km/h.</p></article>
+        <article class="card"><h3>A patchwork identity</h3><p>Each coat is different. Researchers and keepers can use patterns to help recognise individuals when linked to confirmed records.</p></article>
+      </div>
+      <p><a href="docs/african-wild-dog.md">Explore the fully sourced species guide →</a></p>
+    </section>
+    <section id="sighting">
+      <span class="eyebrow">Photographic observation</span><h2>Two dogs, five photographs.</h2>
+      <div class="field">
+        <div><span class="counter">05</span><h3 style="font-size:1.55rem">Original photographs recorded</h3><p>Walking and standing in a landscaped grassy enclosure, sometimes side-by-side, with trees, low vegetation and fallen timber. One close photograph shows a dog facing the camera.</p><p>The photographs have no embedded capture date, GPS or EXIF information. The visit date and individual animals' names are not verified. This site does not represent missing photo files as uploaded.</p><a href="observations/african-wild-dogs-undated.md">Read image-by-image notes →</a></div>
+        <div><div class="fieldlist"><div><strong>Species</strong><br>African wild dog (high confidence)</div><div><strong>Animals visible</strong><br>Two</div><div><strong>Venue</strong><br>Consistent with Taronga Western Plains Zoo (not GPS verified)</div><div><strong>Photo date</strong><br>Unknown</div><div><strong>File integrity</strong><br>SHA-256 hashes recorded for all five copies</div></div></div>
+      </div>
+      <p><span class="pill">PHOTO BINARIES PENDING</span> <a href="photos/README.md">See photograph inventory, checksums and publication steps.</a></p>
+    </section>
+    <section id="conservation">
+      <span class="eyebrow">Conservation</span><h2>Protecting space for the pack.</h2>
+      <p class="lead">Habitat fragmentation, conflict with people, snares, roads and disease leave dispersed packs vulnerable. IUCN finds the global population continuing to decline.</p>
+      <div class="grid">
+        <article class="card"><h3>Conservation in Zimbabwe</h3><p>Painted Dog Conservation's teams conduct anti-poaching patrols, rehabilitation, pack monitoring, education and community-led projects around Hwange and other landscapes. <a href="https://www.painteddog.org/who-we-are">Visit the organisation</a>.</p></article>
+        <article class="card"><h3>Decades of animal care in Dubbo</h3><p>Taronga says the zoo has housed the species since 1982 and documented past breeding. In 2024 the zoo announced a $1.25m habitat redevelopment. Completion of each stage has not been independently verified. <a href="https://www.taronga.org.au/about/newsroom/posts/zoo-undertakes-next-project">Read Taronga's announcement</a>.</p></article>
+      </div>
+    </section>
+    <section id="sources">
+      <span class="eyebrow">Traceable research</span><h2>Where the facts came from.</h2>
+      <ol class="sourcelist">
+        <li><a href="https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T12436A221299510.en">IUCN Red List, <em>Lycaon pictus</em>, 2025</a> — status, population, ecological threats, and definitions.</li>
+        <li><a href="https://www.taronga.org.au/about/newsroom/posts/world-african-wild-dog-day">Taronga, World African Wild Dog Day, 2023</a> — adaptations, behaviour and historically named zoo animals.</li>
+        <li><a href="https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/african-adventure">Taronga, African Adventure</a> — current visitor itinerary and map location 19B.</li>
+        <li><a href="https://www.taronga.org.au/about/newsroom/posts/zoo-undertakes-next-project">Taronga, exhibit redevelopment, 2024</a> — historical announcement.</li>
+        <li><a href="https://www.painteddog.org/who-we-are">Painted Dog Conservation</a> — field conservation programmes.</li>
+      </ol>
+      <p><a href="docs/research-method.md">Research method, uncertainty and version history →</a> · <a href="data/observations.json">Observation JSON →</a></p>
+    </section>
+  </main>
+  <footer><div class="wrap"><strong>Dubbozoo</strong><p>An independent, evidence-led wildlife journal. Not affiliated with Taronga. Research reviewed 18 October 2026. No tracking, cookies or external scripts.</p><a href="https://github.com/joshualparris/Dubbozoo">View on GitHub</a></div></footer>
+</body>
+</html>

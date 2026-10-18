@@ -21,3 +21,7 @@ Wildlife-care notes and breeding design are not grounds for suggesting amateur i
 ## Verification gaps
 
 Collect accession records specifying the years and number of Dubbo-held animals, sex and provenance, and any twin-birth documentation from original keeper publication. Do not merge this holding into northern hairy-nosed wombat (#73) or southern hairy-nosed wombat (#53).
+
+## 2025 IUCN assessment from original assessors' institutional bibliographic record
+
+[Western Sydney University](https://researchers.westernsydney.edu.au/en/publications/vombatus-ursinus-the-iucn-red-list-of-threatened-species-2025/) lists the IUCN report *Vombatus ursinus*, published 2025 by Old, Stannard, Woinarski and Burbidge (DOI: 10.2305/IUCN.UK.2025-1.RLTS.T40556A258654868.en). **Least Concern**, assessed during 2024. The university page is an institutional publication record by the assessors, not a direct IUCN portal retrieval; it should not be counted with directly opened Red List records.

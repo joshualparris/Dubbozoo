@@ -76,10 +76,25 @@
  }
  if(number<1||number>89){error('No valid animal number was supplied.');return;}
  try{
-   const [inventory,audit]=await Promise.all([load('all-time-animal-inventory.json'),load('iucn-assessment-audit-2026-10-18.json')]);
+   const [inventory,audit,photoData]=await Promise.all([load('all-time-animal-inventory.json'),load('iucn-assessment-audit-2026-10-18.json'),load('curated-wildlife-images.json')]);
    species=inventory.entries;animal=species.find(x=>x.number===number);
    scientific=audit.entries.find(x=>x.number===number);
    if(!animal)throw Error('This animal is not in the catalogue.');
+   const pic=(photoData.entries||[]).find(x=>x.number===number);
+   const slot=document.querySelector('#animal-portrait .animal-photo-slot');
+   if(pic&&slot){
+      const figure=el('figure','','animal-photo'),img=el('img');
+      img.src=pic.image_url;img.alt='Wildlife reference photo of '+animal.name+'; not a confirmed photograph of an animal at Dubbo Zoo.';
+      img.loading='eager';img.decoding='async';img.referrerPolicy='no-referrer';
+      const caption=el('figcaption');
+      caption.append(href('Photo: '+pic.author,pic.file_page),document.createTextNode(' · '),href(pic.licence,pic.license_url),document.createTextNode(' · cropped for display'));
+      const note=el('span','Reference photo · not a Dubbo zoo animal ID','photo-reference');
+      figure.append(img,caption,note);slot.replaceChildren(figure);slot.dataset.photoStatus='curated';
+      img.addEventListener('error',()=>{
+         slot.dataset.photoStatus='unavailable';
+         slot.replaceChildren(href('Photo unavailable — inspect Wikimedia source ↗',pic.file_page));
+      });
+   }
  }catch(e){error(String(e));return;}
  const fullURL=pageURL(animal);
  document.title=animal.name+' | Dubbozoo Animal Research';

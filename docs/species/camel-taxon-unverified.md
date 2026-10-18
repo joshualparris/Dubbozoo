@@ -1,5 +1,10 @@
 # Camel (map label; probable dromedary) — Dubbozoo researched profile
 
+## Primary-source taxonomic resolution — Arabian dromedary verified
+
+Taronga's [24 June 2023 keeper article, 'Happy World Camel Day!'](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day), written by keeper Ruby Cullen, explicitly identifies resident **Samera** as an **Arabian/Dromedary Camel, *Camelus dromedarius***. Taronga reports she was born in the Northern Territory in **2006** and arrived in Dubbo in **2007**. It describes a one-humped camel, hay and browse feeding, coat shedding and dust-bathing. This is direct keeper provenance for the **species held at Dubbo**, resolving the older generic 'Camel' map-label ambiguity. It does not certify the identities or the number of other historical or current camels. **Scientific species confidence: high for Samera; current 2026 presence not independently checked.**
+
+
 **Checklist ID:** 11 / 61 · **Taxon:** *Camelus sp. — likely Camelus dromedarius, not independently verified by current map* · **Conservation assessment:** Domestic type; Red List wildlife category not directly transferable.  
 **Researched:** 18 October 2026 · **Evidence class:** published Taronga records and taxon background; **no photo from Josh verified for this entry**.
 

@@ -2,7 +2,7 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Documented subjects:** African wild dogs / African painted dogs (*Lycaon pictus*) giraffes (*Giraffa* sp., precise species unverified), siamangs (*Symphalangus syndactylus*), and platypus (*Ornithorhynchus anatinus*; research-only, no personal sighting supplied).
+**Photographed subjects:** African wild dogs / African painted dogs (*Lycaon pictus*), giraffes (*Giraffa* sp.; exact lineage unknown), and siamangs (*Symphalangus syndactylus*). **Additional researched zoo species:** ten Taronga-listed species are documented from published evidence, without claiming Josh photographed or visited their exhibits.
 
 ## Start here
 
@@ -21,6 +21,27 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 - [Original photo manifest and upload instructions](photos/README.md)
 - [Research methodology, sources and maintenance](docs/research-method.md)
 - [Website prototype](index.html) — static, offline-capable, no tracking or external dependencies.
+
+
+### Research library — 13 species
+
+Previously photographed species: [African wild dog](docs/african-wild-dog.md), [giraffe](docs/giraffe.md), [siamang](docs/siamang.md).
+
+Newly researched Taronga Dubbo species (research-only; **not personal sightings**):
+
+- [Platypus](docs/platypus.md)
+- [Black rhinoceros](docs/black-rhinoceros.md)
+- [White rhinoceros](docs/white-rhinoceros.md)
+- [Cheetah](docs/cheetah.md)
+- [African lion](docs/african-lion.md)
+- [Common hippopotamus](docs/common-hippopotamus.md)
+- [Plains zebra](docs/plains-zebra.md)
+- [Asian elephant](docs/asian-elephant.md)
+- [Sumatran tiger](docs/sumatran-tiger.md)
+- [Greater one-horned rhinoceros](docs/greater-one-horned-rhinoceros.md)
+
+- [**Species coverage audit**](docs/coverage-audit.md) — 13 guides and 27 map-listed labels still pending verification and deeper research.
+- [Machine-readable guide catalogue](data/species-catalogue.json) — links, conservation cautions and evidence classification.
 
 ## What we know
 

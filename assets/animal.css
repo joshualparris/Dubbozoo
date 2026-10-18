@@ -1,0 +1,77 @@
+/* 89 individual animal research microsites; shared Dubbozoo forest palette. */
+.animal-detail-top{background:var(--forest);color:#f5f7eb;padding:18px 0 72px}
+.animal-detail-top .nav-wrap{border-bottom:1px solid #ffffff20}
+.animal-trail{display:flex;flex-wrap:wrap;gap:9px;align-items:center;padding:29px 0 20px;font-size:.81rem;color:#cbdbce}
+.animal-trail a{color:#e5eedf;font-weight:700}.animal-detail-head{display:grid;grid-template-columns:1.12fr .88fr;gap:35px;align-items:center}
+.animal-detail-head h1{font:400 clamp(3.1rem,6.8vw,6rem)/1.02 Georgia,serif;letter-spacing:-.065em;margin:.22em 0}
+.animal-detail-head .scientific{font:italic 1.24rem Georgia,serif;color:#cee4d4}
+.animal-subtitle{max-width:610px;color:#d0dfd1;line-height:1.7}
+.animal-actions{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0}
+.animal-details .btn.outline{border-color:#b1d4be;color:#eff7ee!important}
+.animal-detail-portrait.animal-card{min-height:0;background:#224b3d;border:1px solid #ffffff28;border-radius:180px 180px 22px 22px;overflow:hidden;box-shadow:12px 16px 0 #183328}
+.animal-detail-portrait .animal-photo-slot{height:480px;border:0;background:#2a5747}
+.animal-detail-portrait .photo-loading{color:#d5e8d5}.animal-detail-portrait .photo-loading:before{color:#cfe3bc}
+.animal-detail-portrait .animal-photo figcaption{font-size:.72rem;padding:35px 20px 15px;white-space:normal}
+.animal-detail-portrait .photo-reference{font-size:.66rem;max-width:calc(100% - 20px)}
+.detail-meta{display:flex;flex-wrap:wrap;gap:7px;margin:18px 0}
+.detail-meta span{background:#ffffff1c;border:1px solid #ffffff2c;padding:6px 12px;font-size:.73rem;border-radius:40px;color:#e2edde;font-weight:700}
+.detail-notice{background:#f5f3e9;border-left:4px solid #b78544;padding:17px 19px;border-radius:4px;color:#465b4f;font-size:.87rem}
+.detail-notice strong{color:#33473b}
+.animal-details main{padding-top:35px;padding-bottom:75px}
+.animal-tab-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:28px}
+.animal-tab{border-radius:100px;border:1px solid #cbd9ce;padding:11px 18px;background:#fff;color:#254b38;font-weight:800;font-size:.87rem}
+.animal-tab[aria-selected="true"]{background:var(--forest);color:white;border-color:var(--forest)}
+.animal-tab-panel[hidden]{display:none!important}
+.detail-layout{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:30px}
+.detail-main{min-width:0}.detail-aside{align-self:start;display:grid;gap:15px}
+.detail-box{background:var(--paper);border:1px solid var(--border);border-radius:18px;padding:25px}
+.detail-box h2,.detail-box h3{font:400 1.65rem Georgia,serif;line-height:1.15;letter-spacing:-.035em;margin:0 0 14px}
+.detail-box p{color:#53675a;font-size:.9rem}
+.detail-box a{color:#1f5842}
+.detail-small{font-size:.82rem;color:var(--muted)}
+.detail-sources{display:grid;gap:9px}.detail-sources a{overflow-wrap:anywhere;padding:9px 10px;background:#f0f4eb;border-radius:8px;text-decoration:none;font-size:.82rem}
+.detail-status-value{font:2rem Georgia,serif;color:var(--forest)}
+.detail-status-value small{font:700 .79rem system-ui,sans-serif}
+.detail-section{margin-bottom:13px;background:#fff;border:1px solid var(--border);border-radius:14px;overflow:hidden}
+.detail-section summary{cursor:pointer;padding:19px 23px;font:1.23rem Georgia,serif;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:13px}
+.detail-section summary::-webkit-details-marker{display:none}
+.detail-section summary::after{content:'+';font:1.3rem system-ui,sans-serif;color:#477057}
+.detail-section[open] summary::after{content:'−'}
+.detail-section[open] summary{border-bottom:1px solid var(--border);background:#f4f7f0}
+.detail-section-body{padding:19px 23px;color:#41574a;line-height:1.72;overflow-wrap:anywhere}
+.detail-section-body p{margin:0 0 14px}
+.detail-section-body ul,.detail-section-body ol{padding-left:24px;margin:10px 0 16px}
+.detail-section-body li{margin-bottom:7px}
+.detail-section-body a{color:#17664a}
+.detail-section-body strong{color:#203c2e}
+.detail-section-body h3{font-size:1.12rem;margin:18px 0 8px}
+.detail-section-body .source-pill{font-size:.75rem;background:#edf2e8;padding:6px 9px;border-radius:8px}
+.detail-control-row{display:flex;flex-wrap:wrap;gap:10px;margin:17px 0}
+.detail-control-row button{border:1px solid #d4ded1;background:#fff;color:#285841;border-radius:50px;padding:9px 13px;font-size:.79rem;font-weight:800}
+.detail-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.detail-fact{background:#fff;border-radius:12px;border:1px solid var(--border);padding:17px;min-height:115px}
+.detail-fact .eyebrow{font-size:.64rem;color:#748777}.detail-fact strong{display:block;font-size:1rem;margin-top:11px;overflow-wrap:anywhere}
+.note-form{display:grid;gap:14px}
+.note-form label{font-weight:800;font-size:.83rem;display:grid;gap:7px;color:#345343}
+.note-form input,.note-form textarea,.note-form select{width:100%;padding:12px 13px;border:1px solid #cbd6ca;background:#fff;border-radius:10px;color:#263e30}
+.note-form textarea{min-height:128px;resize:vertical}
+.note-form button{justify-self:start}
+.note-saved{color:#32654b;font-size:.8rem}
+.related-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:17px}
+.related-card{background:#fff;border:1px solid var(--border);padding:18px;border-radius:14px;text-decoration:none;display:flex;flex-direction:column;gap:7px}
+.related-card span{color:#748b78;font-size:.73rem;font-weight:800}
+.related-card strong{font:1.12rem Georgia,serif;color:#204c35}
+.related-card:hover{border-color:#8bad8e}
+.animal-question{background:white;border:1px solid var(--border);border-radius:14px;margin-bottom:14px}
+.animal-question summary{padding:18px;cursor:pointer;font-weight:750}
+.animal-question>div{border-top:1px solid var(--border);padding:19px}
+.animal-question p{white-space:pre-wrap;font-size:.86rem;line-height:1.68}
+.animal-pagination{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-top:39px;padding-top:25px;border-top:1px solid var(--border)}
+.animal-pagination a{max-width:50%;display:flex;gap:8px;align-items:center;word-break:break-word;text-decoration:none;color:#23523f;font-weight:800}
+.animal-pagination .next{text-align:right;justify-content:end}
+.animal-blank-state{border:1px dashed #9dae9e;padding:24px;border-radius:15px;background:#f6f8f2}
+.animal-blank-state a{font-weight:800}
+.animal-invite{display:inline-flex;align-items:center;gap:8px;color:#e0ecda;font-weight:800;font-size:.85rem}
+@media(max-width:900px){.animal-detail-head{grid-template-columns:1fr 350px;gap:20px}.animal-detail-portrait .animal-photo-slot{height:360px}.detail-layout{grid-template-columns:minmax(0,1fr) 250px}.related-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.animal-detail-head{grid-template-columns:1fr}.animal-detail-head h1{font-size:clamp(2.65rem,11vw,4.2rem)}.animal-detail-top{padding-bottom:45px}.animal-detail-portrait.animal-card{max-width:560px;width:100%;margin-inline:auto;border-radius:140px 140px 17px 17px}.animal-detail-portrait .animal-photo-slot{height:300px}.detail-layout{grid-template-columns:1fr}.detail-aside{grid-row:auto}.detail-facts{grid-template-columns:1fr 1fr}.related-grid{grid-template-columns:1fr 1fr}.animal-tab-bar{gap:5px}.animal-tab{padding:9px 12px;font-size:.77rem}.detail-box{padding:19px}.animal-trail{padding:22px 0 12px}.animal-details main{padding-top:25px}}
+@media(max-width:420px){.detail-facts,.related-grid{grid-template-columns:1fr}.animal-detail-portrait .animal-photo-slot{height:260px}}

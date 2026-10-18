@@ -1,74 +1,50 @@
-# Dubbozoo species coverage audit — 18 October 2026
+# Zoo field-guide research coverage — 18 October 2026
 
-> **Historical inventory now available:** [61 numbered zoo-animal records, 15 researched and 46 pending](all-time-animal-inventory.md). The 25 items below are the *earlier 2026-map research backlog*, not the full 1977–2026 inventory; do not treat these two counts as equivalent.
+**61 research guides exist for the 61 working-inventory entries.** The previously unresearched 48 entries received new studies in this batch. This is **guide coverage of a working list**, not proof of a fully researched all-time zoo collection. See [the complete 61-item ticked catalogue](all-time-animal-inventory.md).
 
+## Evidence summary
 
+| Measure | Count | Interpretation |
+| --- | ---: | --- |
+| Working catalogue entries | 61 | Includes animal names, domestic types and unresolved exhibit labels, not 61 verified biological species |
+| Research guides available | 61 | Every inventory entry links to a researched guide |
+| Missing written profiles | 0 | For this catalogue only |
+| Dubbo holding unconfirmed | 10 | Sources are insufficient to prove a managed Taronga Dubbo animal |
+| Taxon/subspecies unresolved | 6 | Existing guide preserves identification uncertainty |
+| Full zoo historical accession inventory obtained | No | 'Every animal ever' claim is not supportable without Taronga records |
 
-This is a **research backlog, not a zoo census or Josh's wildlife sighting list**. Cross-checked against Taronga's [official Dubbo map](https://taronga.org.au/dubbo-zoo/map) and its [Dubbo animals page](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). Map labels can describe an exhibit or common group rather than a scientific species. Conditions, enclosures and rosters change.
+## Zoo-holding verification backlog
 
-## Researched guides (15)
-| Animal | Guide | Evidence from Josh's photographs | Conservation assessment handling |
-| --- | --- | --- | --- |
-| African wild dog (*Lycaon pictus*) | [Read guide](../docs/african-wild-dog.md) | Yes, previously catalogued | Endangered |
-| Giraffe (*Giraffa sp.*) | [Read guide](../docs/giraffe.md) | Yes, previously catalogued | not assigned without verified species |
-| Siamang (*Symphalangus syndactylus*) | [Read guide](../docs/siamang.md) | Yes, previously catalogued | Endangered |
-| Platypus (*Ornithorhynchus anatinus*) | [Read guide](../docs/platypus.md) | No; published-source research only | Near Threatened |
-| Black rhinoceros (*Diceros bicornis*) | [Read guide](../docs/black-rhinoceros.md) | No; published-source research only | Critically Endangered |
-| White rhinoceros (*Ceratotherium simum*) | [Read guide](../docs/white-rhinoceros.md) | No; published-source research only | assessment/subspecies recheck |
-| Cheetah (*Acinonyx jubatus*) | [Read guide](../docs/cheetah.md) | No; published-source research only | Vulnerable |
-| African lion (*Panthera leo*) | [Read guide](../docs/african-lion.md) | No; published-source research only | Vulnerable |
-| Common hippopotamus (*Hippopotamus amphibius*) | [Read guide](../docs/common-hippopotamus.md) | No; published-source research only | Vulnerable |
-| Plains zebra (*Equus quagga*) | [Read guide](../docs/plains-zebra.md) | No; published-source research only | conflicting Taronga assessments; recheck |
-| Asian elephant (*Elephas maximus*) | [Read guide](../docs/asian-elephant.md) | Yes, five supplied photos (2026 submission) | Endangered |
-| Sumatran tiger (*Panthera tigris sumatrae*) | [Read guide](../docs/sumatran-tiger.md) | No; published-source research only | Critically Endangered per Taronga |
-| Greater one-horned rhinoceros (*Rhinoceros unicornis*) | [Read guide](../docs/greater-one-horned-rhinoceros.md) | No; published-source research only | Vulnerable |
-| Galápagos tortoise (*Chelonoidis* complex) | [Read guide](../docs/galapagos-giant-tortoise.md) | Yes, four photos; exact lineage unknown | Status not assigned without island taxon |
-| Meerkat (*Suricata suricatta*) | [Read guide](../docs/meerkat.md) | Probable photo match; one photo | Least Concern |
+- [ ] #30 [Indian peafowl](../docs/species/indian-peafowl-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #37 [Brush-tailed rock-wallaby](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #43 [Malleefowl](../docs/species/malleefowl-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #47 [Red kangaroo](../docs/species/red-kangaroo-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #48 [Red-necked wallaby (precise displayed wallaby species unverified)](../docs/species/red-necked-wallaby-taxon-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #52 [Smooth yabby](../docs/species/smooth-yabby-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #53 [Southern hairy-nosed wombat](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #55 [Swamp wallaby (precise displayed wallaby species unverified)](../docs/species/swamp-wallaby-taxon-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #58 [White-browed woodswallow](../docs/species/white-browed-woodswallow-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
+- [ ] #59 [White-winged chough](../docs/species/white-winged-chough-holding-unverified.md) — establish Dubbo holding (not merely wild zoo-ground presence or Taronga Sydney).
 
-## Map-listed animals still needing deep research (25)
-These are **not yet complete species guides**. Some require a keeper or official animal page to verify the exact species represented by a map label.
+## Scientific identity clarification backlog
 
-1. Addax
-2. Barbary sheep
-3. Banteng
-4. Black-and-white ruffed lemur
-5. Blackbuck
-6. Bongo (eastern form - verify)
-7. Camel (species verification needed)
-8. Eland
-9. Emu
-10. Echidna
-11. Fallow deer
-12. Koala
-13. Oryx (exact species verification needed)
-14. Ostrich
-15. Otter (exact species verification needed)
-16. Persian onager
-17. Pygmy goat
-18. Quokka
-19. Regent honeyeater
-20. Ring-tailed lemur
-21. Spider monkey (exact species verification needed)
-22. Takhi (Przewalski's horse)
-23. Tasmanian devil
-24. Wallaby (species verification needed)
-25. Water buffalo
+- [ ] #2 [African elephant](../docs/species/african-elephant-historical.md) — establish exact taxon or lineage.
+- [ ] #11 [Dromedary camel (map just says 'Camel')](../docs/species/camel-taxon-unverified.md) — establish exact taxon or lineage.
+- [ ] #14 [Helmeted guineafowl (map says 'Guineafowl')](../docs/species/guineafowl-taxon-unverified.md) — establish exact taxon or lineage.
+- [ ] #23 [Galápagos tortoise](../docs/galapagos-giant-tortoise.md) — establish exact taxon or lineage.
+- [ ] #48 [Red-necked wallaby (precise displayed wallaby species unverified)](../docs/species/red-necked-wallaby-taxon-unverified.md) — establish exact taxon or lineage.
+- [ ] #55 [Swamp wallaby (precise displayed wallaby species unverified)](../docs/species/swamp-wallaby-taxon-unverified.md) — establish exact taxon or lineage.
 
-### How to promote a backlog entry to researched
-- Verify the exact scientific taxon: genus/species/subspecies and recent taxonomic changes, not the enclosure label alone.
-- Verify Taronga's Dubbo-specific exhibit/visitor record with a dated primary link, separating Sydney from Dubbo.
-- Find an IUCN species-specific assessment and record status **with year, scope and metric**, or explicitly document unresolved source conflicts.
-- Cover identification, habitats, food web, behaviour, reproduction where sufficiently supported, conservation threats/actions and zoo-specific programmes.
-- Maintain 'research only' until Josh supplies identifiable photographic or contemporary sighting evidence.
-- Add a source section and uncertainty table; link the guide from README, static site and JSON catalogue.
-- Preserve existing 13 supplied photo hashes plus 10 newly inventoried copies and don't mark photo binaries as committed until verified in GitHub.
+## Evidence changes during this research
 
-## Source-quality watchlist
-- **Plains zebra**: Taronga's current species page labels *Equus burchellii*, LC while historical Dubbo press labels plains zebras NT. Independently reconcile current taxon-matched IUCN listing before canonical display.
-- **Giraffe**: 2025 four-species taxonomy; unknown Dubbo animals' exact lineage.
-- **White rhino**: species/subspecies status must not be conflated.
-- **Sumatran tiger**: conservation status and taxonomic rank differ between older subspecies and some modern treatments.
-- **Platypus**: IUCN NT versus older non-IUCN 'vulnerable' descriptions.
-- **Photo provenance**: wild dog, giraffe, siamang, Galápagos tortoise, Asian elephant and a probable meerkat now have submitted photo evidence; do not fabricate zoo sightings for new guides.
+- [Taronga's 2023 Dubbo Wildlife Hospital aviary article](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) directly confirms **zebra finch**, **eastern whipbird**, **little lorikeet** and **scaly-breasted lorikeet** in the aviary. These records were incorrectly treated as secondary-only before.
+- [NSW Fisheries' Dubbo gudgeon recovery account](https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon) verifies fish in the Lion Pride moat and released offspring in 2024–25. This is a zoo-based conservation refuge, not a standard animal exhibit.
+- [Taronga's 2025 annual report](https://taronga.org.au/sites/default/files/2025-12/TCSA12738_Taronga_AnnualReport_2024_25_DIGITAL_FA2-compressed_compressed-min.pdf) supports Dubbo breeding programmes for Regent Honeyeater, Plains-wanderer, Chuditch, Scimitar-horned Oryx, Addax and other listed species.
+- [Taronga's 2025 water buffalo move to Sydney](https://www.taronga.org.au/about/newsroom/posts/fab-four-arrive-at-taronga-zoo-sydney) prevents falsely identifying the three named transferred buffalo as present in Dubbo today.
+- Dated records establish **former African elephant, American bison and Persian onager** presence. Current map omissions do not erase those historical holdings.
 
-**Completion metric:** 15 researched field guides; 25 additional distinct map labels pending. This is not a full species census or a guarantee that every listed animal is on display today.
+## Review quality and remaining work
+
+This research batch covers identification, diet, behaviour, threats and a linked Dubbo-specific record or evidence limitation per guide. Some entries have richer primary research than others, and **individual IUCN assessment years, conservation numbers, full journal bibliographies and current animal names are not independently validated across all 61 guides**. Marking a guide as written is not scientific peer review or keeper certification.
+
+Next checks: verify the 10 unproven holdings, reconcile 6 uncertain taxa, build the actual 1977–2026 accession list, independently validate every scientific listing/date, and obtain permission before publishing original user-supplied photos.

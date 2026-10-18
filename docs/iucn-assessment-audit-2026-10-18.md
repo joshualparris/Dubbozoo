@@ -1,6 +1,6 @@
 # Conservation-status provenance audit — 18 October 2026
 
-The current [IUCN Red List is version 2026-1](https://api.iucnredlist.org/). **A guide being written is not proof its conservation category is current.** This register is deliberately conservative: 10 primary IUCN assessment records checked; 3 entries have announcement or secondary evidence; 4 are not assignable as one straightforward wild species; and 59 still need direct assessment checks.
+The current [IUCN Red List is version 2026-1](https://api.iucnredlist.org/). **A guide being written is not proof its conservation category is current.** This register is deliberately conservative: 10 primary IUCN assessment records checked; 5 entries have announcement, government, assessor-bibliography or secondary evidence; 4 are not assignable as one straightforward wild species; and 57 still need direct assessment checks.
 
 **CAUTION:** Some checked pages mention a **later** assessment than the individual URL opened; 'direct assessment checked' **does not automatically mean confirmed latest version**. Confirm the newest IUCN result for the same taxonomic rank before making a headline in the app. Dates below distinguish **assessment date** from **publication year**.
 
@@ -90,9 +90,9 @@ The current [IUCN Red List is version 2026-1](https://api.iucnredlist.org/). **A
 | 71 | [Patagonian mara / cavy (historical)](../docs/species/patagonian-mara-historical.md) | Direct assessment not yet checked | — | — |
 | 72 | [Wapiti / elk (historical)](../docs/species/wapiti-historical.md) | Direct assessment not yet checked | — | — |
 | 73 | [Northern hairy-nosed wombat (historical 1996–97)](../docs/species/northern-hairy-nosed-wombat-historical.md) | Direct IUCN record (dated) | CR | [2016](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T11343A21959050.en) |
-| 74 | [Common (bare-nosed) wombat (historical)](../docs/species/common-wombat-historical.md) | Direct assessment not yet checked | — | — |
+| 74 | [Common (bare-nosed) wombat (historical)](../docs/species/common-wombat-historical.md) | IUCN assessment authors' university publication record | LC | [2025](https://researchers.westernsydney.edu.au/en/publications/vombatus-ursinus-the-iucn-red-list-of-threatened-species-2025/) |
 | 75 | [Superb parrot (historical visitor aviary)](../docs/species/superb-parrot-historical.md) | Direct assessment not yet checked | — | — |
-| 76 | [Diamond firetail (historical visitor aviary)](../docs/species/diamond-firetail-historical.md) | Direct assessment not yet checked | — | — |
+| 76 | [Diamond firetail (historical visitor aviary)](../docs/species/diamond-firetail-historical.md) | ACT government advice cites IUCN/BirdLife 2022 | VU | [2024 government advice](https://legislation.act.gov.au/DownloadFile/ni/2024-251/current/PDF/2024-251.PDF) |
 
 ## Correct interpretation
 
@@ -108,3 +108,8 @@ The current [IUCN Red List is version 2026-1](https://api.iucnredlist.org/). **A
 The 59 unchecked rows and several checked-but-possibly-superseded assessments still require a complete primary IUCN source check. For all records, add assessment authority, publication/assessment year, IUCN criteria, latest-assessment pointer and any 2025–26 taxonomic change. Add regional EPBC/NSW statuses in **a separate** dataset, not as replacements for the global IUCN category.
 
 [Machine-readable audit](../data/iucn-assessment-audit-2026-10-18.json) · [Historical animal holdings register](all-time-animal-inventory.md).
+
+### Two further taxon-matched sources, not direct IUCN portal reads
+
+- **Common wombat** (*Vombatus ursinus*): [Western Sydney University research record](https://researchers.westernsydney.edu.au/en/publications/vombatus-ursinus-the-iucn-red-list-of-threatened-species-2025/) lists the assessment's actual IUCN authors and DOI 10.2305/IUCN.UK.2025-1.RLTS.T40556A258654868.en: **LC**, assessed in 2024, published 2025. This is stronger than a generic wiki but was **not retrieved from the Red List site itself**.
+- **Diamond firetail** (*Stagonopleura guttata*): [ACT Government 2024 conservation advice, pp. 3 and 10](https://legislation.act.gov.au/DownloadFile/ni/2024-251/current/PDF/2024-251.PDF) names global **IUCN VU**, citing BirdLife 2022 IUCN record species/22719660/211542365, and separately confirms **EPBC, ACT, NSW** Vulnerable legal listings. Current Red List direct recheck remains open.

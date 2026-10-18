@@ -1,17 +1,18 @@
 {
   "review_date": "2026-10-18",
   "venue": "Taronga Western Plains Zoo, Dubbo, NSW",
-  "scope_note": "72 historical research entries assembled from published sources; not a certified all-time Taronga Western Plains Zoo animal holdings register. Conservation taxon, source year, site-specific presence and personal photo sighting are distinct evidence dimensions.",
+  "scope_note": "76 historical research entries incl. documented holdings, temporary rehab cases, historic zoo visitor aviary photo records and three unverified holdings. Not certified exhaustive since 1977.",
   "source_map": "https://taronga.org.au/dubbo-zoo/map",
   "source_animals": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
   "summary": {
-    "inventory_entries": 72,
-    "guides_present": 72,
+    "inventory_entries": 76,
+    "guides_present": 76,
     "guides_missing": 0,
-    "dubbo_holding_unverified": 4,
-    "taxon_or_subspecies_unverified": 6,
+    "dubbo_holding_unverified": 3,
+    "taxon_or_subspecies_unverified": 5,
     "rehabilitation_only_confirmed": 1,
-    "note": "Research guides cover a working historical record set, NOT a definitive all-time inventory. Unverified holdings remain explicitly separated from historically confirmed or rehabilitation-only records."
+    "preliminary_aviary_photographic_evidence": 2,
+    "note": "Working documented historical set, not complete 1977-2026 holdings. Documented wild visitor, on-site photo, rehabilitation, and accessioned holding are distinct. Conservation category audits tracked separately."
   },
   "researched_species": [
     {
@@ -28,15 +29,15 @@
     },
     {
       "inventory_number": 2,
-      "common_name": "African elephant",
-      "scientific_name": null,
+      "common_name": "African savanna elephant (historical; Cuddles/Yum Yum documented)",
+      "scientific_name": "Loxodonta africana",
       "guide": "docs/species/african-elephant-historical.md",
       "record_type": "published_zoo_research_only",
-      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "conservation_note": "African savanna elephant Loxodonta africana IUCN Endangered; historical Dubbo records identify species",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "needs_species_or_subspecies_verification",
+      "taxon_verification": "species_identification_confirmed_from_tribunal_and_taronga",
       "research_status": "guide_present",
-      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia"
+      "historical_evidence_url": "https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage"
     },
     {
       "common_name": "African lion",
@@ -211,7 +212,7 @@
       "scientific_name": "Equus quagga",
       "guide": "docs/plains-zebra.md",
       "record_type": "research only",
-      "conservation_note": "conflicting Taronga assessments; recheck",
+      "conservation_note": "IUCN 2016 Near Threatened, taxon Equus quagga; Equus burchellii a synonym",
       "inventory_number": 17,
       "holding_evidence_status": "published_zoo_map_or_record",
       "taxon_verification": "species_or_common_label_researched",
@@ -247,7 +248,7 @@
       "scientific_name": "Ceratotherium simum",
       "guide": "docs/white-rhinoceros.md",
       "record_type": "research only",
-      "conservation_note": "assessment/subspecies recheck",
+      "conservation_note": "IUCN 2020 Near Threatened at species level",
       "inventory_number": 20,
       "holding_evidence_status": "published_zoo_map_or_record",
       "taxon_verification": "species_or_common_label_researched",
@@ -645,11 +646,11 @@
       "scientific_name": null,
       "guide": "docs/species/southern-hairy-nosed-wombat-holding-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
-      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
+      "conservation_note": "IUCN 2025 Least Concern, re-assessed November 2024; formerly NT",
+      "holding_evidence_status": "historical_husbandry_manual_verified",
       "taxon_verification": "species_or_common_label_researched",
       "research_status": "guide_present",
-      "historical_evidence_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo"
+      "historical_evidence_url": "https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf"
     },
     {
       "inventory_number": 54,
@@ -878,6 +879,54 @@
       "taxon_verification": "verified_species_name",
       "research_status": "guide_present",
       "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/wapiti-calf-an-early-christmas-present-for-the-zoo/"
+    },
+    {
+      "inventory_number": 73,
+      "common_name": "Northern hairy-nosed wombat (historical 1996–97)",
+      "scientific_name": "Lasiorhinus krefftii",
+      "guide": "docs/species/northern-hairy-nosed-wombat-historical.md",
+      "record_type": "historical_research_only",
+      "conservation_note": "IUCN 2016 Critically Endangered (2015 assessed), older population statistics not current",
+      "research_status": "guide_present",
+      "holding_evidence_status": "historical_government_verified",
+      "taxon_verification": "species_identification_confirmed_from_government",
+      "historical_evidence_url": "https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf"
+    },
+    {
+      "inventory_number": 74,
+      "common_name": "Common (bare-nosed) wombat (historical)",
+      "scientific_name": "Vombatus ursinus",
+      "guide": "docs/species/common-wombat-historical.md",
+      "record_type": "historical_research_only",
+      "conservation_note": "Refer to taxon-matched IUCN audit; no independent latest status asserted",
+      "research_status": "guide_present",
+      "holding_evidence_status": "historical_husbandry_manual_verified",
+      "taxon_verification": "species_identification_confirmed_from_specialist_manual",
+      "historical_evidence_url": "https://aszk.org.au/wp-content/uploads/2020/05/Wombat-Husbandry.pdf"
+    },
+    {
+      "inventory_number": 75,
+      "common_name": "Superb parrot (historical visitor aviary)",
+      "scientific_name": "Polytelis swainsonii",
+      "guide": "docs/species/superb-parrot-historical.md",
+      "record_type": "historical_research_only",
+      "conservation_note": "Refer to taxon-matched IUCN audit; no independent latest status asserted",
+      "research_status": "guide_present",
+      "holding_evidence_status": "historical_aviary_photographic_evidence",
+      "taxon_verification": "species_photo_identification_high_confidence",
+      "historical_evidence_url": "https://commons.wikimedia.org/wiki/File:Polytelis_swainsonii_-Taronga_Western_Plains_Zoo,_near_Dubbo,_New_South_Wales,_Australia-8a.jpg"
+    },
+    {
+      "inventory_number": 76,
+      "common_name": "Diamond firetail (historical visitor aviary)",
+      "scientific_name": "Stagonopleura guttata",
+      "guide": "docs/species/diamond-firetail-historical.md",
+      "record_type": "historical_research_only",
+      "conservation_note": "Refer to taxon-matched IUCN audit; no independent latest status asserted",
+      "research_status": "guide_present",
+      "holding_evidence_status": "historical_aviary_photographic_evidence",
+      "taxon_verification": "species_photo_identification_provisional",
+      "historical_evidence_url": "https://www.australiasomuchtosee.com/2009dubbozoo2.htm"
     }
   ],
   "pending_map_labels": [],
@@ -893,22 +942,12 @@
       "guide": "docs/species/smooth-yabby-holding-unverified.md"
     },
     {
-      "number": 53,
-      "name": "Southern hairy-nosed wombat",
-      "guide": "docs/species/southern-hairy-nosed-wombat-holding-unverified.md"
-    },
-    {
       "number": 58,
       "name": "White-browed woodswallow",
       "guide": "docs/species/white-browed-woodswallow-holding-unverified.md"
     }
   ],
   "pending_taxon_verifications": [
-    {
-      "number": 2,
-      "name": "African elephant",
-      "guide": "docs/species/african-elephant-historical.md"
-    },
     {
       "number": 14,
       "name": "Helmeted guineafowl (map says 'Guineafowl')",
@@ -935,5 +974,7 @@
       "guide": "docs/species/dingo-historical.md"
     }
   ],
-  "unverified_iucn_assessments_note": "IUCN source/date/status not individually verified for all 72 entries. Never infer conservation status from zoo history alone."
+  "unverified_iucn_assessments_note": "IUCN source/date/status not individually verified for all 72 entries. Never infer conservation status from zoo history alone.",
+  "iucn_audit_path": "data/iucn-assessment-audit-2026-10-18.json",
+  "last_reviewed": "2026-10-18"
 }

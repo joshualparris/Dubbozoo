@@ -26,3 +26,7 @@ A dated first-person diary, later scan/photo, zoo map or Taronga press statement
 3. Identify any historical zoo-born animals transferred to sanctuaries.
 
 **Observation protocol:** describe dated animals only when recorded; don't infer wild population conservation category from Australian legal listings or captive holdings. A detailed Red List assessment should be checked separately in [the source-graded IUCN audit](../iucn-assessment-audit-2026-10-18.md).
+
+## IUCN 2025 category update from primary change table
+
+The [IUCN's 2025-1 official change table](https://nc.iucnredlist.org/redlist/content/attachment_files/2025-1_RL_Table_7.pdf) lists **Lagorchestes hirsutus changing from Vulnerable (2024) to Near Threatened (2025-1)**, with reason **G** (genuine status change), also carried in [2025-2 aggregate table](https://nc.iucnredlist.org/redlist/content/attachment_files/2025-2_RL_Table7.pdf). This supersedes older *global IUCN* VU references. **NT under IUCN is not a claim the species is no longer protected under Australian law.** The precise species-assessment date and criterion weren't read from the individual Red List account; preserve that limitation. Historical Dubbo mortality during the 2001 programme does not determine the worldwide 2025 risk assessment.

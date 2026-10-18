@@ -5912,3 +5912,373 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
 3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
 
+
+
+---
+
+## Newer provisional species profiles — questions and evidence gaps (batch C3, remaining files)
+
+### Ring-tailed lemur — Dubbozoo researched profile
+
+`docs/species/ring-tailed-lemur.md`: 1 explicit question(s); 3 unverified evidence item(s).
+
+**Q0490. Field question: Why might a distinctive tail be useful even when a primate does not use it to grip branches?**
+
+**Best answer — partially answered:** Native range / habitat: Dry forest and scrubland of southern and southwestern Madagascar. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Ring-tailed lemur — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0491. What documented evidence establishes exact current animals for Ring-tailed lemur — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Ring-tailed lemur — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0492. What documented evidence establishes photo identification and any unreported husbandry for Ring-tailed lemur — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Ring-tailed lemur — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0493. What documented evidence establishes health or breeding outcomes for Ring-tailed lemur — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Ring-tailed lemur — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### Scaly-breasted lorikeet — Dubbozoo research guide
+
+`docs/species/scaly-breasted-lorikeet.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0494. Field question: Can you distinguish tiny feather scaling from the uniform emerald colour of other lorikeets?**
+
+**Best answer — partially answered:** Nectar and pollen feeding using a brush-tipped tongue, supplemented by some fruit and other seasonal foods. Follows flowering eucalypts, often using tree hollows for nesting. Nectarivores transport pollen among trees and can connect fragmented vegetation. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/scaly-breasted-lorikeet.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scaly-breasted-lorikeet.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Scaly-breasted lorikeet — Dubbozoo research guide?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### Scimitar-horned oryx — Dubbozoo researched profile
+
+`docs/species/scimitar-horned-oryx.md`: 1 explicit question(s); 3 unverified evidence item(s).
+
+**Q0495. Field question: Why should a recovery programme track genuinely breeding wild herds, not just zoo births?**
+
+**Best answer — partially answered:** Checklist ID: 19 / 61 · Taxon: Oryx dammah · Conservation assessment: Endangered wild recovery; older 'Extinct in the Wild' listings are historical and inconsistent with successful reintroduction. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Scimitar-horned oryx — Dubbozoo researched profile?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Scimitar-horned oryx — Dubbozoo researched profile?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Scimitar-horned oryx — Dubbozoo researched profile?
+
+**Q0496. What documented evidence establishes exact current animals for Scimitar-horned oryx — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Scimitar-horned oryx — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0497. What documented evidence establishes photo identification and any unreported husbandry for Scimitar-horned oryx — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Scimitar-horned oryx — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0498. What documented evidence establishes health or breeding outcomes for Scimitar-horned oryx — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Scimitar-horned oryx — Dubbozoo researched profile?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### Short-beaked echidna — Dubbozoo research guide
+
+`docs/species/short-beaked-echidna.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0499. Field question: How are echidna feeding and reproduction both unlike a reptile's, despite egg-laying?**
+
+**Best answer — partially answered:** Spiny monotreme mammal with long tubular snout, claws for digging and powerful muscles. Unlike platypus it searches soil and logs for ants/termites and does not swim to hunt; both lay eggs. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/short-beaked-echidna.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/short-beaked-echidna.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Short-beaked echidna — Dubbozoo research guide?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### Smooth yabby (collection status unresolved) — Dubbozoo research guide
+
+`docs/species/smooth-yabby-holding-unverified.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0500. Field question: What evidence distinguishes a captive yabbie in an aquarium from wildlife inhabiting a zoo water feature?**
+
+**Best answer — partially answered:** Ten-legged crayfish with large strong claws, smooth-sided carapace and a broad swimming tail fan. Color can vary dramatically with habitat and genetics. 'Smooth yabby' is a local common name for Cherax destructor, but an old zoo list alone cannot tie it to a specific managed enclosure. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/smooth-yabby-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/smooth-yabby-holding-unverified.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Smooth yabby (collection status unresolved) — Dubbozoo research guide?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Smooth yabby (collection status unresolved) — Dubbozoo research guide?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Smooth yabby (collection status unresolved) — Dubbozoo research guide?
+
+### Southern hairy-nosed wombat (Dubbo holding unresolved) — Dubbozoo research guide
+
+`docs/species/southern-hairy-nosed-wombat-holding-unverified.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0501. Field question: Which physical detail separates hairy-nosed and bare-nosed wombats, and why does that matter for conservation?**
+
+**Best answer — partially answered:** Grazes dry native grasses, using burrow systems to avoid heat and dryness, with slow metabolism and large hindgut fermentation. Female has backwards-facing pouch that reduces soil ingress during digging. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/southern-hairy-nosed-wombat-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/southern-hairy-nosed-wombat-holding-unverified.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Southern hairy-nosed wombat (Dubbo holding unresolved) — Dubbozoo research guide?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Southern hairy-nosed wombat (Dubbo holding unresolved) — Dubbozoo research guide?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Southern hairy-nosed wombat (Dubbo holding unresolved) — Dubbozoo research guide?
+
+### Southern purple-spotted gudgeon — Dubbozoo research guide
+
+`docs/species/southern-purple-spotted-gudgeon.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0502. Field question: Why is a zoo moat only a temporary conservation refuge unless the original river habitat is restored?**
+
+**Best answer — partially answered:** Occupies slow-flowing creeks, river margins and well-vegetated pools; ambush-feeds on aquatic invertebrates and other small prey. Habitat complexity, submerged plants and clean oxygenated water help shelter young fish and enable reproduction. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/southern-purple-spotted-gudgeon.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/southern-purple-spotted-gudgeon.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Southern purple-spotted gudgeon — Dubbozoo research guide?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Southern purple-spotted gudgeon — Dubbozoo research guide?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Southern purple-spotted gudgeon — Dubbozoo research guide?
+
+### Swamp wallaby (Dubbo exact taxon unverified) — Dubbozoo research guide
+
+`docs/species/swamp-wallaby-taxon-unverified.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0503. Field question: What records would prove the zoo has both species rather than one generic wallaby exhibit?**
+
+**Best answer — partially answered:** Road deaths, clearing, dog attacks and habitat fragmentation can affect local populations; not globally rare across its full range. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/swamp-wallaby-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/swamp-wallaby-taxon-unverified.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Swamp wallaby (Dubbo exact taxon unverified) — Dubbozoo research guide?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### Takhi (Przewalski's horse) — Dubbozoo species research
+
+`docs/species/takhi-przewalskis-horse.md`: 1 explicit question(s); 4 unverified evidence item(s).
+
+**Q0504. Research prompt: How does reintroduction differ from simply increasing the number of zoo-born foals?**
+
+**Best answer — partially answered:** Compact wild horse with upright mane, dun-brown colouring and dark dorsal stripe. The ancestry and status of the last 'truly wild' horse lineage have scientific nuance; distinguish from feral descendants of domesticated horses. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Takhi (Przewalski's horse) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0505. What documented evidence establishes current 2026 holding status (if historical) for Takhi (Przewalski's horse) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Takhi (Przewalski's horse) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0506. What documented evidence establishes original taxon/subspecies for Takhi (Przewalski's horse) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Takhi (Przewalski's horse) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0507. What documented evidence establishes current IUCN assessment date for Takhi (Przewalski's horse) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Takhi (Przewalski's horse) — Dubbozoo species research?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Takhi (Przewalski's horse) — Dubbozoo species research?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Takhi (Przewalski's horse) — Dubbozoo species research?
+
+**Q0508. What documented evidence establishes whether photographed by the journal owner for Takhi (Przewalski's horse) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for Takhi (Przewalski's horse) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### Tasmanian devil — Dubbozoo research guide
+
+`docs/species/tasmanian-devil.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0509. Field question: How can a disease-free captive population protect genetic diversity while wild transmission remains a threat?**
+
+**Best answer — partially answered:** Stocky black carnivorous marsupial with white chest/rump markings, powerful jaws and large head. Loud calls, scent-marking and communal feeding sounds may seem dramatic, but alone are not evidence of aggression toward people. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/tasmanian-devil.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/tasmanian-devil.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Tasmanian devil — Dubbozoo research guide?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Tasmanian devil — Dubbozoo research guide?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Tasmanian devil — Dubbozoo research guide?
+
+### Western quoll (chuditch) — Dubbozoo research guide
+
+`docs/species/western-quoll-chuditch.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0510. Field question: Why is survival of wild-born descendants more informative than how many captive joeys were produced?**
+
+**Best answer — partially answered:** Field question: Why is survival of wild-born descendants more informative than how many captive joeys were produced? Record time, location, number seen and directly observable actions without guessing health, social status or individual name. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/western-quoll-chuditch.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/western-quoll-chuditch.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for Western quoll (chuditch) — Dubbozoo research guide?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for Western quoll (chuditch) — Dubbozoo research guide?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for Western quoll (chuditch) — Dubbozoo research guide?
+
+### White-browed woodswallow (Dubbo holding not established) — Dubbozoo research guide
+
+`docs/species/white-browed-woodswallow-holding-unverified.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0511. Field question: Why can't a Taronga-wide species record be assumed to describe the Dubbo collection?**
+
+**Best answer — partially answered:** The assessment shown here is a dated conservation/legal context, not a fresh population estimate. Legal rankings in NSW, federal Australia and the IUCN may differ; wild, domestic, conservation-breeding and hospital animals must remain separate. For unknown taxonomy, no precise species-level Red List label sho This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/white-browed-woodswallow-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-browed-woodswallow-holding-unverified.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for White-browed woodswallow (Dubbo holding not established) — Dubbozoo research guide?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### White-handed gibbon (historical exhibit) — Dubbozoo species research
+
+`docs/species/white-handed-gibbon-historical.md`: 1 explicit question(s); 4 unverified evidence item(s).
+
+**Q0512. Research prompt: How do gibbon family songs differ from siamang calls, and can silent photos prove singing?**
+
+**Best answer — partially answered:** Deforestation, fragmentation, hunting and illegal trade threaten wild gibbons. Canopy gaps disrupt travel, food and mate access. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0513. What documented evidence establishes current 2026 holding status (if historical) for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0514. What documented evidence establishes original taxon/subspecies for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+**Q0515. What documented evidence establishes current IUCN assessment date for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+
+**Q0516. What documented evidence establishes whether photographed by the journal owner for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+
+**Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
+
+**Three additional questions:**
+1. What first-party animal record or independent scientific study would settle this question for White-handed gibbon (historical exhibit) — Dubbozoo species research?
+2. What confounder, alternative species identity or related ecological mechanism could explain the result?
+3. How can a new dated zoo observation or keeper interview test the hypothesis without over-identifying an animal?
+
+### White-winged chough (Dubbo holding not established) — Dubbozoo research guide
+
+`docs/species/white-winged-chough-holding-unverified.md`: 1 explicit question(s); 0 unverified evidence item(s).
+
+**Q0517. Field question: What would distinguish a natural wild visitor from a zoo-managed bird?**
+
+**Best answer — partially answered:** Field question: What would distinguish a natural wild visitor from a zoo-managed bird? Record time, location, number seen and directly observable actions without guessing health, social status or individual name. This is a general ecological answer, **not proof of a specific Dubbo individual or a current census**.
+
+**Evidence:** [`docs/species/white-winged-chough-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-winged-chough-holding-unverified.md).
+
+**Three additional questions:**
+1. Which updated, taxon-matched population study establishes this for White-winged chough (Dubbo holding not established) — Dubbozoo research guide?
+2. What are the underlying survey uncertainties, regional variations and model assumptions for White-winged chough (Dubbo holding not established) — Dubbozoo research guide?
+3. What habitat-management or field intervention has a measured survival/reproduction benefit for White-winged chough (Dubbo holding not established) — Dubbozoo research guide?
+

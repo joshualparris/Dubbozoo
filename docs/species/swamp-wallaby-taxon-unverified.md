@@ -3,6 +3,11 @@
 **Number:** 55/61 · **Scientific taxon:** *Wallabia bicolor — plausible candidate; the official map only labels 'Wallaby'* · **Conservation/context:** Least Concern broadly; current assessment version needs recheck.  
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
+
+## Archival correction: species identification and Dubbo exhibit CONFIRMED
+
+Taronga's [2018 Dubbo Aussie Walkthrough report](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough) identifies **three Swamp Wallaby joeys** ranging from seven to fifteen months, and its [2013 keeper report](https://taronga.org.au/news/2018-07-11/abundance-spring-joeys-way) documents male **Hunter** entering the breeding group. The scientific name *Wallabia bicolor* aligns with the common name **Swamp Wallaby**. Together with separately documented red-necked wallabies, these were **two distinct species at Dubbo historically**, even though the 2026 map generically says 'Wallaby'. Current occupancy remains unknown.
+
 ## Scientific identification and adaptations
 
 Dark, stocky wallaby with orange/buff belly and cheek colouring and a strong tail. The appearance can overlap other wallabies; map's plain 'Wallaby' does not prove this taxon.

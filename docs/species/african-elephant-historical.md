@@ -27,6 +27,15 @@ Historical Taronga publications and zoo maps document African elephants in the D
 
 **This is not a current 2026 zoo census.** A public map establishes an exhibit label, while a dated Taronga news release supports only the event stated for that date. Animals may be transferred, housed behind the scenes or absent from public view; no names, sexes, photo dates or exact current herd sizes are invented here.
 
+
+### Historical Dubbo elephants: verified individuals and dates
+
+Taronga's [Cuddles retrospective](https://www.taronga.org.au/about/newsroom/posts/cuddles---the-zoos-sweetheart) identifies **four elephants arriving from Longleat Safari Park, UK, in December 1977**: **Cuddles, Yum Yum, Cheri and David**. The elephants arrived in Sydney earlier in 1977 for quarantine before being transported to Dubbo. Taronga's [account of Yum Yum](https://www.taronga.org.au/about/newsroom/posts/a-sad-day-for-all-at-the-zoo) identifies later additions **Toto and Congo**, for six documented named historical animals in total; dates of those two additions need an archive check.
+
+The zoo's last African elephant **Cuddles died on 22 March 2017**, according to [ABC Western Plains' contemporaneous report](https://www.abc.net.au/news/2017-03-22/last-african-elephant-in-australia-dies-at-dubbo-zoo/8377038), ending Dubbo's African elephant programme. Taronga's later CMS publication timestamps are **not** accurate death-year evidence where source narratives were republished. Cuddles was estimated to be **46 years old** on death; the exact wild birth date/parentage was not documented.
+
+Taronga's earlier report mentions **Yum Yum** had been considered matriarch since the founding herd; this is a historic keeper account, not an independently measured rank in an unobserved social group. Modern African elephant taxonomy and conservation assessments cannot be assigned to each of these six animals without their provenance or DNA records.
+
 ## Zoo-field observation and evidence protocol
 
 Observe from designated public areas, noting the actual date/time, site map grid, number visible and visible feeding/resting/moving/social interactions. Record habitat features, weather and vantage point when known. Do not diagnose health, captivity stress or breeding success from one still photo. Conservation breeding supports genetic management but does not replace protection of wild habitat or prove reintroduced survival.

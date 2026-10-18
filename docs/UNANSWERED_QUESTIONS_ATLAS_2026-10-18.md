@@ -4681,3 +4681,757 @@
 2. What alternative viewing-angle or animal-identity explanation must be ruled out?
 3. Which private metadata can verify the answer without unnecessarily publishing visitors or children?
 
+
+
+---
+
+## Newer provisional species profiles — individual science questions and proof gaps (batch C1)
+
+These supplemental profiles are **not automatically promoted into the 15-guide verified catalogue**. Each original question and status gap is recorded alongside three new research questions.
+
+### Addax — Dubbozoo researched profile
+
+Source: `docs/species/addax.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0391. Field question: What do its screw-like horns and wide feet reveal about living in desert terrain?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Native range / habitat: Sahara/Sahel desert and semi-desert habitats. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Addax — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Addax — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0392. What evidence establishes exact current animals for Addax — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Addax — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Addax — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0393. What evidence establishes photo identification and any unreported husbandry for Addax — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Addax — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Addax — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0394. What evidence establishes health or breeding outcomes for Addax — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Addax — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Addax — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### African elephant (historical) — Dubbozoo researched profile
+
+Source: `docs/species/african-elephant-historical.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0395. Field question: Why is 'African elephant' not necessarily a precise modern species identification?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Native range / habitat: African savannah/forest depending on species; living African elephants are classified as African savannah and forest elephants in modern IUCN taxonomy. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for African elephant (historical) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in African elephant (historical) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0396. What evidence establishes exact current animals for African elephant (historical) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for African elephant (historical) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in African elephant (historical) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0397. What evidence establishes photo identification and any unreported husbandry for African elephant (historical) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for African elephant (historical) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in African elephant (historical) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0398. What evidence establishes health or breeding outcomes for African elephant (historical) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for African elephant (historical) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in African elephant (historical) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### American bison (historical) — Dubbozoo species research
+
+Source: `docs/species/american-bison-historical.md`. 1 explicit question(s), 4 unresolved lead(s).
+
+**Q0399. Research prompt: What does the large shoulder hump tell us about grazing and moving through prairie terrain?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Large grazers of the Great Plains and some forest/parkland regions. Seasonal movements, grazing, wallowing and dung redistribute nutrients; herds can profoundly influence prairie biodiversity. Females rear reddish-brown calves; bulls compete during the rut. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for American bison (historical) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in American bison (historical) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0400. What evidence establishes current 2026 holding status (if historical) for American bison (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for American bison (historical) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in American bison (historical) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0401. What evidence establishes original taxon/subspecies for American bison (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for American bison (historical) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in American bison (historical) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0402. What evidence establishes current IUCN assessment date for American bison (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for American bison (historical) — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for American bison (historical) — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for American bison (historical) — Dubbozoo species research?
+
+**Q0403. What evidence establishes whether photographed by the journal owner for American bison (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for American bison (historical) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in American bison (historical) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Asian small-clawed otter — Dubbozoo species research
+
+Source: `docs/species/asian-small-clawed-otter.md`. 1 explicit question(s), 4 unresolved lead(s).
+
+**Q0404. Research prompt: What structures make the paws better at detecting prey than grasping fish with long claws?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Assessment limit: Vulnerable (IUCN; assessment version check). Wild population figures require a publication year and explicit denominator (mature breeders versus all ages). Zoo populations and reintroduced herds must not be added to wild estimates without a method that does so. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian small-clawed otter — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian small-clawed otter — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0405. What evidence establishes current 2026 holding status (if historical) for Asian small-clawed otter — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian small-clawed otter — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian small-clawed otter — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0406. What evidence establishes original taxon/subspecies for Asian small-clawed otter — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian small-clawed otter — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian small-clawed otter — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0407. What evidence establishes current IUCN assessment date for Asian small-clawed otter — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for Asian small-clawed otter — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for Asian small-clawed otter — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for Asian small-clawed otter — Dubbozoo species research?
+
+**Q0408. What evidence establishes whether photographed by the journal owner for Asian small-clawed otter — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian small-clawed otter — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian small-clawed otter — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Asian water buffalo (domesticated) — Dubbozoo species research
+
+Source: `docs/species/asian-water-buffalo.md`. 1 explicit question(s), 4 unresolved lead(s).
+
+**Q0409. Research prompt: Why is a transferred animal's name not necessarily current for the Dubbo habitat?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Inventory number: 26/61 · Scientific identification: Bubalus bubalis; not automatically the wild water buffalo Bubalus arnee · Conservation: Taronga lists the domestic taxon as 'Unlisted'; wild water buffalo is a distinct conservation issue. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian water buffalo (domesticated) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian water buffalo (domesticated) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0410. What evidence establishes current 2026 holding status (if historical) for Asian water buffalo (domesticated) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian water buffalo (domesticated) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian water buffalo (domesticated) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0411. What evidence establishes original taxon/subspecies for Asian water buffalo (domesticated) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian water buffalo (domesticated) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian water buffalo (domesticated) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0412. What evidence establishes current IUCN assessment date for Asian water buffalo (domesticated) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for Asian water buffalo (domesticated) — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for Asian water buffalo (domesticated) — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for Asian water buffalo (domesticated) — Dubbozoo species research?
+
+**Q0413. What evidence establishes whether photographed by the journal owner for Asian water buffalo (domesticated) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Asian water buffalo (domesticated) — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Asian water buffalo (domesticated) — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Australian zebra finch — researched species guide
+
+Source: `docs/species/australian-zebra-finch.md`. 1 explicit question(s), 0 unresolved lead(s).
+
+**Q0414. Field-research question: How is a small nomadic seed-eater adapted to unpredictable rainfall?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Field-research question: How is a small nomadic seed-eater adapted to unpredictable rainfall? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/australian-zebra-finch.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/australian-zebra-finch.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Australian zebra finch — researched species guide?
+2. Which other biological mechanism or identification could explain the same observation in Australian zebra finch — researched species guide?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Banteng — Dubbozoo species research
+
+Source: `docs/species/banteng.md`. 1 explicit question(s), 4 unresolved lead(s).
+
+**Q0415. Research prompt: How can hybridisation with domestic cattle undermine a protected wild cattle population?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Wild South-East Asian cattle with conspicuous pale 'stockings' and white rump patch. Bulls are generally darker than females; horns curve and differ with sex. These are not the same as domestic water buffalo. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for Banteng — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for Banteng — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for Banteng — Dubbozoo species research?
+
+**Q0416. What evidence establishes current 2026 holding status (if historical) for Banteng — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Banteng — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Banteng — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0417. What evidence establishes original taxon/subspecies for Banteng — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Banteng — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Banteng — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0418. What evidence establishes current IUCN assessment date for Banteng — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for Banteng — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for Banteng — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for Banteng — Dubbozoo species research?
+
+**Q0419. What evidence establishes whether photographed by the journal owner for Banteng — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Banteng — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Banteng — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Barbary sheep (aoudad) — Dubbozoo researched profile
+
+Source: `docs/species/barbary-sheep.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0420. Field question: Can you see the special climbing body shape and hanging chest hair?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Native range / habitat: Rocky hills and dry mountains of North Africa; introduced feral populations occur elsewhere. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Barbary sheep (aoudad) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Barbary sheep (aoudad) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0421. What evidence establishes exact current animals for Barbary sheep (aoudad) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Barbary sheep (aoudad) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Barbary sheep (aoudad) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0422. What evidence establishes photo identification and any unreported husbandry for Barbary sheep (aoudad) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Barbary sheep (aoudad) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Barbary sheep (aoudad) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0423. What evidence establishes health or breeding outcomes for Barbary sheep (aoudad) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Barbary sheep (aoudad) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Barbary sheep (aoudad) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Black-and-white ruffed lemur — Dubbozoo researched profile
+
+Source: `docs/species/black-and-white-ruffed-lemur.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0424. Field question: How might a large fruit-eating lemur help regrow a rainforest?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Native range / habitat: Eastern Madagascar's tropical rainforests. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-and-white ruffed lemur — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Black-and-white ruffed lemur — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0425. What evidence establishes exact current animals for Black-and-white ruffed lemur — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-and-white ruffed lemur — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Black-and-white ruffed lemur — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0426. What evidence establishes photo identification and any unreported husbandry for Black-and-white ruffed lemur — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-and-white ruffed lemur — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Black-and-white ruffed lemur — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0427. What evidence establishes health or breeding outcomes for Black-and-white ruffed lemur — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-and-white ruffed lemur — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Black-and-white ruffed lemur — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Black-handed spider monkey — Dubbozoo species research
+
+Source: `docs/species/black-handed-spider-monkey.md`. 1 explicit question(s), 4 unresolved lead(s).
+
+**Q0428. Research prompt: How does the tail function as a fifth limb, and why does it change canopy travel?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Assessment limit: Endangered; taxon/subspecies-specific assessment to recheck. Wild population figures require a publication year and explicit denominator (mature breeders versus all ages). Zoo populations and reintroduced herds must not be added to wild estimates without a method that does so. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-handed spider monkey — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Black-handed spider monkey — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0429. What evidence establishes current 2026 holding status (if historical) for Black-handed spider monkey — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-handed spider monkey — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Black-handed spider monkey — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0430. What evidence establishes original taxon/subspecies for Black-handed spider monkey — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-handed spider monkey — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Black-handed spider monkey — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0431. What evidence establishes current IUCN assessment date for Black-handed spider monkey — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for Black-handed spider monkey — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for Black-handed spider monkey — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for Black-handed spider monkey — Dubbozoo species research?
+
+**Q0432. What evidence establishes whether photographed by the journal owner for Black-handed spider monkey — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Black-handed spider monkey — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Black-handed spider monkey — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Blackbuck — Dubbozoo species research
+
+Source: `docs/species/blackbuck.md`. 1 explicit question(s), 4 unresolved lead(s).
+
+**Q0433. Research prompt: How does a grassland specialist cope when grazing areas become farmland?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Research prompt: How does a grassland specialist cope when grazing areas become farmland? When recording an observed animal, state the count, surroundings and directly seen behaviour rather than extrapolating kinship or medical condition. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Blackbuck — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Blackbuck — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0434. What evidence establishes current 2026 holding status (if historical) for Blackbuck — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Blackbuck — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Blackbuck — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0435. What evidence establishes original taxon/subspecies for Blackbuck — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Blackbuck — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Blackbuck — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0436. What evidence establishes current IUCN assessment date for Blackbuck — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
+
+**Three new questions:**
+1. Which field survey and IUCN taxon assessment year confirm the answer for Blackbuck — Dubbozoo species research?
+2. How do observed changes compare with modeled threats and competing explanations for Blackbuck — Dubbozoo species research?
+3. What locally measurable conservation result would show protection is working for Blackbuck — Dubbozoo species research?
+
+**Q0437. What evidence establishes whether photographed by the journal owner for Blackbuck — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Blackbuck — Dubbozoo species research?
+2. Which other biological mechanism or identification could explain the same observation in Blackbuck — Dubbozoo species research?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide
+
+Source: `docs/species/brush-tailed-rock-wallaby-holding-unverified.md`. 1 explicit question(s), 1 unresolved lead(s).
+
+**Q0438. Has this profile resolved the flagged Dubbo holding/taxonomy uncertainty for Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide?**
+
+**Best answer — unresolved:** No. The profile explicitly retains uncertainty over the species' Dubbo-specific holding or precise taxon. The source has not been independently reconciled against an accession register.
+
+**Source:** [`docs/species/brush-tailed-rock-wallaby-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/brush-tailed-rock-wallaby-holding-unverified.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide?
+2. Which other biological mechanism or identification could explain the same observation in Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0439. Field-research question: Why can connected rocky refuges determine survival even when grassland remains nearby?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Shelters in rocky crevices and forages for grasses, herbs and leaves, typically venturing out in low-light periods. Small colonies require connected rock habitat to exchange animals and genes. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/brush-tailed-rock-wallaby-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/brush-tailed-rock-wallaby-holding-unverified.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide?
+2. Which other biological mechanism or identification could explain the same observation in Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Camel (map label; probable dromedary) — Dubbozoo researched profile
+
+Source: `docs/species/camel-taxon-unverified.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0440. Field question: How many humps are actually visible in a dated verified photograph?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Native range / habitat: Dromedaries originate from human-managed arid regions; feral populations live in Australia; true wild Bactrian camels are a different taxon. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Camel (map label; probable dromedary) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Camel (map label; probable dromedary) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0441. What evidence establishes exact current animals for Camel (map label; probable dromedary) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Camel (map label; probable dromedary) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Camel (map label; probable dromedary) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0442. What evidence establishes photo identification and any unreported husbandry for Camel (map label; probable dromedary) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Camel (map label; probable dromedary) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Camel (map label; probable dromedary) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0443. What evidence establishes health or breeding outcomes for Camel (map label; probable dromedary) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Camel (map label; probable dromedary) — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Camel (map label; probable dromedary) — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Common eland — Dubbozoo researched profile
+
+Source: `docs/species/common-eland.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0444. Field question: Which anatomical differences separate a giant eland from a horse or cow?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Native range / habitat: Open woodland and savannah across eastern/southern Africa. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Common eland — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Common eland — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0445. What evidence establishes exact current animals for Common eland — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Common eland — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Common eland — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0446. What evidence establishes photo identification and any unreported husbandry for Common eland — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Common eland — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Common eland — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0447. What evidence establishes health or breeding outcomes for Common eland — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Common eland — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Common eland — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Eastern (mountain) bongo — Dubbozoo researched profile
+
+Source: `docs/species/eastern-bongo.md`. 1 explicit question(s), 3 unresolved lead(s).
+
+**Q0448. Field question: Why can a large forest antelope be harder to protect than its impressive appearance suggests?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** A reddish-orange, heavily white-striped forest antelope; both sexes have spiralling horns, unlike many antelope. The lowland/western bongo belongs to a different form of the same species and should not be given eastern bongo wild population figures. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Eastern (mountain) bongo — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Eastern (mountain) bongo — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0449. What evidence establishes exact current animals for Eastern (mountain) bongo — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Eastern (mountain) bongo — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Eastern (mountain) bongo — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0450. What evidence establishes photo identification and any unreported husbandry for Eastern (mountain) bongo — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Eastern (mountain) bongo — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Eastern (mountain) bongo — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+**Q0451. What evidence establishes health or breeding outcomes for Eastern (mountain) bongo — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+
+**Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Eastern (mountain) bongo — Dubbozoo researched profile?
+2. Which other biological mechanism or identification could explain the same observation in Eastern (mountain) bongo — Dubbozoo researched profile?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+
+### Eastern whipbird — researched species guide
+
+Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved lead(s).
+
+**Q0452. Field-research question: Can you identify the habitat feature that gives a secretive ground bird somewhere to hide?**
+
+**Best answer — partly answered / observational test needed:** **General scientific explanation:** Field-research question: Can you identify the habitat feature that gives a secretive ground bird somewhere to hide? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. This is a taxon-level description; the specific behaviour is **not** documented for any named animal in the user-supplied photo record.
+
+**Source:** [`docs/species/eastern-whipbird.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-whipbird.md).
+
+**Three new questions:**
+1. Which dated species-level study or zoo individual record confirms this for Eastern whipbird — researched species guide?
+2. Which other biological mechanism or identification could explain the same observation in Eastern whipbird — researched species guide?
+3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
+

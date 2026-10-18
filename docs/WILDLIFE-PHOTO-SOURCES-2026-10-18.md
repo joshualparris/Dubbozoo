@@ -1,58 +1,49 @@
-# Wildlife reference photos: sources, licensing and limits
+# Wildlife photograph source audit — 89 linked taxon reference photos
 
-**Updated:** 18 October 2026 · **Catalogue coverage:** 89 of 89 animal research entries have image search instructions and an image slot in the published website source.
+**Updated:** 18 October 2026. **Current production structure:** 89 static animal cards link directly to 89 named wildlife photograph resources (**88 Wikimedia Commons files + one 2025 Queensland Government northern hairy-nosed wombat camera-trap photograph**). Their individual photo URL, named creator, file/source page, applicable CC reuse terms and catalogue number are recorded in the [machine-readable photo registry](../data/curated-wildlife-images.json).
 
-## How a photograph is selected
+**Important:** This is a **fixed source catalogue**, not a claim that 89 photographs have been independently visually loaded on the user's Android device. It also is not evidence that the depicted animals lived at the historical Dubbo Zoo.
 
-1. The site reads [wildlife-photo-queries.json](../data/wildlife-photo-queries.json), a curated list of **89 reference taxa/article titles** matched to the same numbered historic catalogue. The list is source *queries*, not 89 manually licensed image binaries.
-2. The visitor's browser asks the [English Wikipedia API](https://www.mediawiki.org/wiki/API:Page_images) for the article's lead photograph, which is usually reviewed as an illustration of the identified taxon rather than a historical photo of Dubbo Zoo.
-3. Before a photograph can appear, it checks that file on the [Wikimedia Commons MediaWiki API](https://commons.wikimedia.org/wiki/Commons:API/MediaWiki) for a URL, file description page, creator, licence, dimensions and photo file type. A file with a missing or non-free licence is **rejected**, including CC BY-NC, CC BY-ND, all-rights-reserved and unknown.
-4. If there is no acceptable article lead image, the site searches Wikimedia Commons by the scientific/common name. It prioritises photographs rather than diagrams, maps, posters, taxidermy or illustrations, and again checks author and licence metadata.
-5. As a fallback, the site queries only research-grade openly licensed iNaturalist observations and checks that the scientific taxon matches the query before displaying a photo.
-6. If all attempts fail or an image cannot be loaded, the card shows a **Wikimedia Commons search link** with an explicit missing-photo label. It does not fabricate a match or use a non-free picture.
+## What changed following the Android screenshots
 
-The website uses **the file's current URL and current licence metadata at load time**; because no image binary is copied, there is no static per-animal photographer/URL to list before a successful lookup. Each live photo caption displays a source link, the photographer/credit, a link to the licence and an indication that a cropped view is shown. The African wild dog hero photograph, when loaded, also includes a credit/licence link.
+The first implementation queried Wikipedia, Wikimedia Commons and iNaturalist from the visitor's mobile browser. Many cards displayed "No licence-verified match" and the site still used an illustrated wild dog in its homepage hero. A configured photo search is not the same as an actually displayed photograph.
 
-## Reuse terms
+The rebuilt website now:
 
-The implementation allows **CC0, public-domain, CC BY and CC BY-SA** files. It excludes **CC BY-NC**, **CC BY-ND**, unknown and explicitly restricted files. Some files have extra personal, trademark or depiction concerns not expressed in copyright licence data; technical license checking is **not a legal review**. The file's Commons page remains authoritative if its metadata changes.
+1. Embeds the **89 specific photo URLs in `index.html`**, with photographer, source and licence links. It does not ask an external API to discover a card's normal image each time the page loads.
+2. Uses an actual African wild dog photograph for the homepage hero, with the source and reuse licence beneath its name. The old illustration remains as a safe fallback if the third-party image fails.
+3. Includes a same-origin [cached wildlife metadata service](../api/wildlife-metadata.js) for Wikimedia/Wikipedia/iNaturalist fallback if a curated file fails. This avoids an Android device needing direct cross-origin metadata API access for fallback search.
+4. Counts **actual browser image `load` events**, and warns if some images have not loaded yet or failed. It does not report 89 successes before fetching the pictures.
+5. Continues to label every photograph as a **species reference** rather than personal zoo photography, individual animal identification or current zoo-holding evidence.
+6. Keeps [the prior 89 taxon-search manifest](../data/wildlife-photo-queries.json) only for fallback investigations, not for the primary gallery.
 
-Relevant Wikimedia references:
-- [API reference: retrieve imageinfo and extmetadata](https://commons.wikimedia.org/wiki/Commons:API/MediaWiki).
-- [Wikimedia Commons machine-readable creator and licensing metadata](https://commons.wikimedia.org/wiki/Commons:Machine-readable_data).
-- [Wikimedia attribution/licence requirements](https://attribution.wikimedia.org/attribution-signals/license.html).
-- [iNaturalist photos and licences](https://www.inaturalist.org/pages/help#photo_licenses).
+## Sources, attribution and licence handling
 
-**Credit standard:** source file · named creator · licence name with the original legal-terms link · the caption indicates the image has been cropped for the responsive layout.
+- **88 Wikimedia Commons photos:** Each photo registry entry has its file title, source page, named photographer, licence and licence URL; image display uses Commons `Special:FilePath/` with a sensible thumbnail width. Wikimedia source pages, not filenames, are authoritative for copyright terms and photographer corrections.
+- **One Queensland Government 2025 photo:** The [Queensland Government original northern hairy-nosed wombat conservation announcement](https://www.detsi.qld.gov.au/our-department/news-media/mediareleases/2025/first-wild-born-wombats-sighted) links the actual camera image. It is credited to © State of Queensland (Department of the Environment, Tourism, Science and Innovation) and reuses the department's published **CC BY 4.0** licence terms, subject to any notice on the source.
+- The page states **“display cropped”** because the responsive `object-fit:cover` area can exclude edges of a photo without changing the underlying remote file.
+- Original media files remain hosted by their respective owners. An image may be removed, moved or have its licence corrected, so the source file page should be reviewed regularly. If the file URL does not load in a visitor's browser, a Commons search link is displayed as fallback.
+- **Excluded:** all-rights-reserved, unknown, noncommercial (NC) and no-derivatives (ND) images; personal visitor photographs and private Google Drive or Dewey media have not been published.
 
-## Scientific and historical scope
+Wikimedia [Commons licensing](https://commons.wikimedia.org/wiki/Commons:Licensing), [reuse attribution](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia), [MediaWiki API](https://commons.wikimedia.org/wiki/Commons:API/MediaWiki) and [Queensland Government 2025 original image](https://www.detsi.qld.gov.au/__data/assets/image/0015/410118/rcnx0080.jpg) are the relevant source references.
 
-All images are **open-licence wildlife references** unless an original zoo image is explicitly, separately authenticated. They **do not prove**:
-- that a pictured individual lived at Dubbo Zoo,
-- that the animal is currently exhibited,
-- names/sex/age/genetics of zoo animals,
-- an animal's precise historical subspecies, island lineage or parentage.
+## Taxonomic / historical limitations
 
-The JSON marks **15 historic/taxonomic edge cases** as representative because the older zoo collection may have used a generic label (e.g., 'Guineafowl', 'Oryx', 'Galápagos tortoise', Bengal-labelled tiger, forest buffalo or wallaroo). These are not labelled independently verified historic specimens. The source zoo animal inventory has **14 formal holding/arrival evidence gaps**. Reference photographs must not erase those uncertainties.
+- Some older exhibition names are broad or debatable (e.g. “Guineafowl”, “Oryx”, Galápagos giant tortoise island lineage, historical tiger ancestry and forest buffalo); a taxon reference image **does not settle precise historical genetic identity**. [Historical zoo evidence audit](coverage-audit.md).
+- **Northern hairy-nosed wombat** (#73) was especially sensitive: an old Commons file labelled `Lasiorhinus krefftii` had an explicit potential misidentification. **Do not use it.** The government camera-trap photo directly identifies *L. krefftii* and is unrelated to a claimed 1996–97 captive individual.
+- Confirmed zoo holdings, visitor historic sightings and temporary wildlife hospital animals remain separate evidence grades; the photo itself does not upgrade those historical claims.
 
-## Privacy and operating limits
+## Verification checklist (18 October 2026)
 
-- Only Wikimedia Commons, Wikipedia and openly licensed iNaturalist photographs are retrieved; **no private ResearchLibrary, Drive, personal zoo photo or child images** are fetched or copied.
-- Browser visitors will contact Wikimedia/iNaturalist image hosts. These are external network requests visible to those providers; the site itself has no tracking scripts, cookies or user-submitted credentials.
-- Wikimedia Commons images and licences can change. A user may see a loading state or Commons search fallback if the remote API is blocked, unavailable or rate-limited.
-- Photo matching by a page lead image and filename is **automated**, not a manual expert review of every picture. First-hand visual/taxon validation remains necessary before describing the gallery as 89 scientifically certified photographs.
-- No GitHub Actions or ongoing paid photo synchronisation is enabled.
+- [x] 89 unique numbered photo registry records corresponding to the 89 historical animal entries.
+- [x] 89 static HTML `<img>` references with source pages and photographer/CC attribution.
+- [x] 88 Commons file-specific entries and one official Queensland Government camera photo.
+- [x] Original illustrated hero retained as fallback behind a real wild dog photo.
+- [x] No personal photographs, private source files or Google Drive exports embedded in the public page.
+- [x] Dynamic search removed from normal photo loads and kept as last-resort fallback.
+- [x] Photo-counter source updated to count actual `load` events, not configured URLs.
+- [ ] All 89 image URLs individually rendered and inspected for correct species on a real Android browser.
+- [ ] Every third-party Commons redirect confirmed to return a usable image from the exact viewer's network.
+- [ ] Image/attribution error logs confirmed on Android after a hard refresh.
 
-## Implementation and acceptance
-
-- [x] Source manifest: 89 entries, contiguous numbering, article and Commons search title per entry.
-- [x] Static website: 89 photo slots, source/licence captions, source-page links and count/status feedback.
-- [x] Commons metadata licence allow-list enforced; no unknown and noncommercial/non-derivative files intentionally displayed.
-- [x] Wikipedia article lead image checked on Commons rather than treated as automatically reusable.
-- [x] Fallback when a file has no valid photo or licence, and a fallback when an image request fails.
-- [x] No original copyrighted/visitor-photo binaries copied to public repo.
-- [ ] Independently interact with the deployed site in a browser and verify all 89 photographs actually loaded and depict the correct species.
-- [ ] Manually inspect the 15 taxonomic/historical edge cases with their exact image file pages.
-- [ ] Record a frozen per-image file URL, creator, licence and attribution if a fully offline/reproducible curated gallery is later required.
-
-**Important:** "89 photo slots implemented" is **not** the same as "89 file licences and images individually verified from the live service". This limitation must not be hidden in completion reports.
+The repo being updated and Vercel reporting READY are **not sufficient evidence** that every external image was visibly rendered successfully.

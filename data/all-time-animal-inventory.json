@@ -139,8 +139,8 @@
       "name": "Meerkat",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "deep_guide_present",
+      "guide": "docs/meerkat.md"
     },
     {
       "number": 16,
@@ -211,8 +211,8 @@
       "name": "Galápagos tortoise",
       "evidence_type": "map",
       "source_url": "https://www.taronga.org.au/dubbo-zoo/map",
-      "research_status": "not_researched",
-      "guide": null
+      "research_status": "deep_guide_present",
+      "guide": "docs/galapagos-giant-tortoise.md"
     },
     {
       "number": 24,

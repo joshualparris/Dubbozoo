@@ -30,3 +30,9 @@ Taronga's 2024 zebra foal story describes pressures such as livestock competitio
 - [Taronga: Giants and Aussie Icons itinerary](https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons)
 
 **Unresolved:** precise current IUCN listing under matching accepted taxonomy, current zoo numbers or individual names.
+
+## Direct IUCN status resolution — Near Threatened
+
+The [IUCN taxon-matched *Equus quagga* Red List assessment](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T41013A45172424.en), assessed **20 June 2016**, lists the **plains zebra Near Threatened (NT)** with a decreasing population trend. Its taxonomy explicitly lists *Equus burchellii* as a **synonym**, resolving the conflicting scientific names in zoo publicity. This direct taxon-matched assessment takes precedence over Taronga's general page displaying 'Least Concern'.
+
+**Scope limit:** That record is the available IUCN species assessment, with an old assessment date; a more recent, different conservation assessment should supersede it if the same species/rank is genuinely reassessed. Dubbo's historic zebra form/subspecies still requires accession records if a finer label is desired.

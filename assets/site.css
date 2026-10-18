@@ -25,3 +25,9 @@
    Without this, the "show more" control stayed visible after the final card and
    kept adding 21 to the limit, producing impossible negative remaining counts. */
 [hidden] { display: none !important; }
+
+/* Each animal card opens its own interactive research micro-site. */
+.animal-card .card-links{display:flex;align-items:center;flex-wrap:wrap;gap:8px 13px}
+.animal-card .card-links .animal-profile-link{display:inline-flex;align-items:center;background:#e2efd8;color:#164b35;border-radius:30px;padding:8px 11px;font-size:.79rem;white-space:nowrap}
+.animal-card .card-links .animal-profile-link:hover{background:#cfe7ba;text-decoration:none}
+@media(max-width:580px){.animal-card .card-links{gap:8px 12px}.animal-card .card-links .animal-profile-link{width:100%;justify-content:center;padding:10px}}

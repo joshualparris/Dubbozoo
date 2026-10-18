@@ -1,16 +1,17 @@
 {
   "review_date": "2026-10-18",
   "venue": "Taronga Western Plains Zoo, Dubbo, NSW",
-  "scope_note": "Working Dubbo Zoo animal-holdings research checklist, not a certified all-time zoo inventory, and not an in-person sighting list. Guide existence, source verification, exact taxon and real-time zoo occupancy are separate.",
+  "scope_note": "72 historical research entries assembled from published sources; not a certified all-time Taronga Western Plains Zoo animal holdings register. Conservation taxon, source year, site-specific presence and personal photo sighting are distinct evidence dimensions.",
   "source_map": "https://taronga.org.au/dubbo-zoo/map",
   "source_animals": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
   "summary": {
-    "inventory_entries": 61,
-    "guides_present": 61,
+    "inventory_entries": 72,
+    "guides_present": 72,
     "guides_missing": 0,
-    "dubbo_holding_unverified": 10,
-    "taxon_or_subspecies_unverified": 6,
-    "note": "61 checklist research profiles exist; does not verify complete lifetime zoo holdings, zoo species taxon or 2026 occupancy"
+    "dubbo_holding_unverified": 4,
+    "taxon_or_subspecies_unverified": 7,
+    "rehabilitation_only_confirmed": 1,
+    "note": "Research guides cover a working historical record set, NOT a definitive all-time inventory. Unverified holdings remain explicitly separated from historically confirmed or rehabilitation-only records."
   },
   "researched_species": [
     {
@@ -21,7 +22,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 2,
@@ -31,7 +34,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "needs_species_or_subspecies_verification"
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia"
     },
     {
       "common_name": "African lion",
@@ -41,7 +46,9 @@
       "conservation_note": "Vulnerable",
       "inventory_number": 3,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "common_name": "African wild dog",
@@ -51,7 +58,9 @@
       "conservation_note": "Endangered",
       "inventory_number": 4,
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf"
     },
     {
       "inventory_number": 5,
@@ -61,7 +70,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole"
     },
     {
       "inventory_number": 6,
@@ -71,7 +82,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "common_name": "Black rhinoceros",
@@ -81,7 +94,9 @@
       "conservation_note": "Critically Endangered",
       "inventory_number": 7,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "common_name": "Cheetah",
@@ -91,7 +106,9 @@
       "conservation_note": "Vulnerable",
       "inventory_number": 8,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 9,
@@ -101,7 +118,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah"
     },
     {
       "common_name": "Common hippopotamus",
@@ -111,7 +130,9 @@
       "conservation_note": "Vulnerable",
       "inventory_number": 10,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 11,
@@ -121,7 +142,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "needs_species_or_subspecies_verification"
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 12,
@@ -131,7 +154,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo"
     },
     {
       "common_name": "Giraffe",
@@ -141,7 +166,9 @@
       "conservation_note": "not assigned without verified species",
       "inventory_number": 13,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 14,
@@ -151,7 +178,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "needs_species_or_subspecies_verification"
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf"
     },
     {
       "common_name": "Meerkat",
@@ -161,7 +190,9 @@
       "conservation_note": "Least Concern; photo identification medium confidence",
       "inventory_number": 15,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole"
     },
     {
       "inventory_number": 16,
@@ -171,7 +202,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "common_name": "Plains zebra",
@@ -181,7 +214,9 @@
       "conservation_note": "conflicting Taronga assessments; recheck",
       "inventory_number": 17,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 18,
@@ -191,7 +226,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 19,
@@ -201,7 +238,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf"
     },
     {
       "common_name": "White rhinoceros",
@@ -211,7 +250,9 @@
       "conservation_note": "assessment/subspecies recheck",
       "inventory_number": 20,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 21,
@@ -221,7 +262,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf"
     },
     {
       "inventory_number": 22,
@@ -231,7 +274,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf"
     },
     {
       "common_name": "Galápagos tortoise",
@@ -241,7 +286,9 @@
       "conservation_note": "island lineage and lineage-specific IUCN classification unverified",
       "inventory_number": 23,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "needs_species_or_subspecies_verification"
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "common_name": "Asian elephant",
@@ -252,7 +299,9 @@
       "photo_evidence_path": "observations/asian-elephants-undated.md",
       "inventory_number": 24,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 25,
@@ -262,7 +311,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia"
     },
     {
       "inventory_number": 26,
@@ -272,7 +323,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo"
     },
     {
       "inventory_number": 27,
@@ -282,7 +335,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 28,
@@ -292,7 +347,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "common_name": "Greater one-horned rhinoceros",
@@ -302,7 +359,9 @@
       "conservation_note": "Vulnerable",
       "inventory_number": 29,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 30,
@@ -312,7 +371,9 @@
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo"
     },
     {
       "inventory_number": 31,
@@ -322,7 +383,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo"
     },
     {
       "common_name": "Siamang",
@@ -332,7 +395,9 @@
       "conservation_note": "Endangered",
       "inventory_number": 32,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia"
     },
     {
       "common_name": "Sumatran tiger",
@@ -342,7 +407,9 @@
       "conservation_note": "Critically Endangered per Taronga",
       "inventory_number": 33,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia"
     },
     {
       "inventory_number": 34,
@@ -352,7 +419,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds"
     },
     {
       "inventory_number": 35,
@@ -362,7 +431,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf"
     },
     {
       "inventory_number": 36,
@@ -372,7 +443,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display"
     },
     {
       "inventory_number": 37,
@@ -381,8 +454,10 @@
       "guide": "docs/species/brush-tailed-rock-wallaby-holding-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "holding_evidence_status": "historic_transfer_into_dubbo_verified",
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf"
     },
     {
       "inventory_number": 38,
@@ -392,7 +467,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display"
     },
     {
       "inventory_number": 39,
@@ -402,7 +479,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia"
     },
     {
       "inventory_number": 40,
@@ -412,7 +491,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary"
     },
     {
       "inventory_number": 41,
@@ -422,7 +503,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia"
     },
     {
       "inventory_number": 42,
@@ -432,7 +515,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display"
     },
     {
       "inventory_number": 43,
@@ -441,8 +526,10 @@
       "guide": "docs/species/malleefowl-holding-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "holding_evidence_status": "historical_conservation_aviary_verified",
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success"
     },
     {
       "inventory_number": 44,
@@ -452,7 +539,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo"
     },
     {
       "common_name": "Platypus",
@@ -462,7 +551,9 @@
       "conservation_note": "Near Threatened",
       "inventory_number": 45,
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 46,
@@ -472,7 +563,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia"
     },
     {
       "inventory_number": 47,
@@ -481,8 +574,10 @@
       "guide": "docs/species/red-kangaroo-holding-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "holding_evidence_status": "on_site_rehabilitation_only_verified",
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays"
     },
     {
       "inventory_number": 48,
@@ -491,8 +586,10 @@
       "guide": "docs/species/red-necked-wallaby-taxon-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
-      "taxon_verification": "needs_species_or_subspecies_verification"
+      "holding_evidence_status": "historic_exhibit_breeding_verified",
+      "taxon_verification": "species_identification_confirmed_from_taronga",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds"
     },
     {
       "inventory_number": 49,
@@ -502,7 +599,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf"
     },
     {
       "inventory_number": 50,
@@ -512,7 +611,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display"
     },
     {
       "inventory_number": 51,
@@ -522,7 +623,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia"
     },
     {
       "inventory_number": 52,
@@ -532,7 +635,9 @@
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo"
     },
     {
       "inventory_number": 53,
@@ -542,7 +647,9 @@
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo"
     },
     {
       "inventory_number": 54,
@@ -552,7 +659,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "dated_primary_dpi_zoo_refuge_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon"
     },
     {
       "inventory_number": 55,
@@ -561,8 +670,10 @@
       "guide": "docs/species/swamp-wallaby-taxon-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
-      "taxon_verification": "needs_species_or_subspecies_verification"
+      "holding_evidence_status": "historic_exhibit_breeding_verified",
+      "taxon_verification": "species_identification_confirmed_from_taronga",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough"
     },
     {
       "inventory_number": 56,
@@ -572,7 +683,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia"
     },
     {
       "inventory_number": 57,
@@ -582,7 +695,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "historical_or_conservation_holding_confirmed",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement"
     },
     {
       "inventory_number": 58,
@@ -592,7 +707,9 @@
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf"
     },
     {
       "inventory_number": 59,
@@ -601,8 +718,10 @@
       "guide": "docs/species/white-winged-chough-holding-unverified.md",
       "record_type": "species_research_only_zoo_holding_unverified",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "unverified",
-      "taxon_verification": "species_or_common_label_researched"
+      "holding_evidence_status": "historical_conservation_aviary_verified",
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success"
     },
     {
       "inventory_number": 60,
@@ -612,7 +731,9 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
       "inventory_number": 61,
@@ -622,7 +743,141 @@
       "record_type": "published_zoo_research_only",
       "conservation_note": "See guide: exact IUCN/year not independently fully audited",
       "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "species_or_common_label_researched"
+      "taxon_verification": "species_or_common_label_researched",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds"
+    },
+    {
+      "inventory_number": 62,
+      "common_name": "Waterbuck",
+      "scientific_name": "Kobus ellipsiprymnus",
+      "guide": "docs/species/waterbuck.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/sharing-genetics"
+    },
+    {
+      "inventory_number": 63,
+      "common_name": "Sitatunga",
+      "scientific_name": "Tragelaphus spekii",
+      "guide": "docs/species/sitatunga.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/khewzi-moves-to-african-savannah-exhibit"
+    },
+    {
+      "inventory_number": 64,
+      "common_name": "African forest buffalo (historical)",
+      "scientific_name": "Syncerus caffer nanus (precise classification debated)",
+      "guide": "docs/species/african-forest-buffalo.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://taronga.org.au/media/media-release/2018-07-11/mana-hippo-moves-new-home"
+    },
+    {
+      "inventory_number": 65,
+      "common_name": "Tiger historically labelled Bengal",
+      "scientific_name": "Panthera tigris (Bengal ancestry unverified)",
+      "guide": "docs/species/bengal-tiger-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "historical_parliamentary_testimony",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247"
+    },
+    {
+      "inventory_number": 66,
+      "common_name": "Dingo (historical)",
+      "scientific_name": "Canis dingo / Canis familiaris dingo (taxonomic debate)",
+      "guide": "docs/species/dingo-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "historical_parliamentary_testimony",
+      "taxon_verification": "needs_species_or_subspecies_verification",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247"
+    },
+    {
+      "inventory_number": 67,
+      "common_name": "Maned wolf (historical)",
+      "scientific_name": "Chrysocyon brachyurus",
+      "guide": "docs/species/maned-wolf-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.parliament.nsw.gov.au/tp/files/29171/tcsa_annual_report_2009.pdf"
+    },
+    {
+      "inventory_number": 68,
+      "common_name": "Brazilian tapir (historical)",
+      "scientific_name": "Tapirus terrestris",
+      "guide": "docs/species/brazilian-tapir-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/"
+    },
+    {
+      "inventory_number": 69,
+      "common_name": "Guanaco (historical)",
+      "scientific_name": "Lama guanicoe",
+      "guide": "docs/species/guanaco-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/"
+    },
+    {
+      "inventory_number": 70,
+      "common_name": "Greater rhea (historical)",
+      "scientific_name": "Rhea americana",
+      "guide": "docs/species/greater-rhea-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/"
+    },
+    {
+      "inventory_number": 71,
+      "common_name": "Patagonian mara / cavy (historical)",
+      "scientific_name": "Dolichotis patagonum",
+      "guide": "docs/species/patagonian-mara-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/"
+    },
+    {
+      "inventory_number": 72,
+      "common_name": "Wapiti / elk (historical)",
+      "scientific_name": "Cervus canadensis (older Cervus elaphus grouping)",
+      "guide": "docs/species/wapiti-historical.md",
+      "record_type": "historical_zoo_research_only",
+      "conservation_note": "See detailed guide; IUCN status and date require independent assessment",
+      "holding_evidence_status": "dated_first_party_historic_holding",
+      "taxon_verification": "verified_species_name",
+      "research_status": "guide_present",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/wapiti-calf-an-early-christmas-present-for-the-zoo/"
     }
   ],
   "pending_map_labels": [],
@@ -631,26 +886,6 @@
       "number": 30,
       "name": "Indian peafowl",
       "guide": "docs/species/indian-peafowl-holding-unverified.md"
-    },
-    {
-      "number": 37,
-      "name": "Brush-tailed rock-wallaby",
-      "guide": "docs/species/brush-tailed-rock-wallaby-holding-unverified.md"
-    },
-    {
-      "number": 43,
-      "name": "Malleefowl",
-      "guide": "docs/species/malleefowl-holding-unverified.md"
-    },
-    {
-      "number": 47,
-      "name": "Red kangaroo",
-      "guide": "docs/species/red-kangaroo-holding-unverified.md"
-    },
-    {
-      "number": 48,
-      "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
-      "guide": "docs/species/red-necked-wallaby-taxon-unverified.md"
     },
     {
       "number": 52,
@@ -663,19 +898,9 @@
       "guide": "docs/species/southern-hairy-nosed-wombat-holding-unverified.md"
     },
     {
-      "number": 55,
-      "name": "Swamp wallaby (precise displayed wallaby species unverified)",
-      "guide": "docs/species/swamp-wallaby-taxon-unverified.md"
-    },
-    {
       "number": 58,
       "name": "White-browed woodswallow",
       "guide": "docs/species/white-browed-woodswallow-holding-unverified.md"
-    },
-    {
-      "number": 59,
-      "name": "White-winged chough",
-      "guide": "docs/species/white-winged-chough-holding-unverified.md"
     }
   ],
   "pending_taxon_verifications": [
@@ -700,14 +925,20 @@
       "guide": "docs/galapagos-giant-tortoise.md"
     },
     {
-      "number": 48,
-      "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
-      "guide": "docs/species/red-necked-wallaby-taxon-unverified.md"
+      "number": 64,
+      "name": "African forest buffalo (historical)",
+      "guide": "docs/species/african-forest-buffalo.md"
     },
     {
-      "number": 55,
-      "name": "Swamp wallaby (precise displayed wallaby species unverified)",
-      "guide": "docs/species/swamp-wallaby-taxon-unverified.md"
+      "number": 65,
+      "name": "Tiger historically labelled Bengal",
+      "guide": "docs/species/bengal-tiger-historical.md"
+    },
+    {
+      "number": 66,
+      "name": "Dingo (historical)",
+      "guide": "docs/species/dingo-historical.md"
     }
-  ]
+  ],
+  "unverified_iucn_assessments_note": "IUCN source/date/status not individually verified for all 72 entries. Never infer conservation status from zoo history alone."
 }

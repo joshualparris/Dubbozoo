@@ -1,6 +1,6 @@
 # Dubbozoo — Every Unanswered Question: Evidence & Three More
 
-**Research version:** 18 October 2026 · **Location:** Dubbo NSW · **Source snapshot:** `5e08328fcdd639f6fd9cbcf872842dcd5efa08d1` · **Part 1 of complete repo question audit: 61 historic taxon records + cross-cutting issues.**
+**Research version:** 18 October 2026 · **Location:** Dubbo NSW · **Source snapshot:** `5e08328fcdd639f6fd9cbcf872842dcd5efa08d1` · **Completed research-atlas audit of 61 historic animal records, 46 provisional species guides, 27 other Markdown files, structured data and website.**
 
 > **Method:** A statement marked **unresolved** is an answered *research-status question* (the available evidence does not establish the fact), **not** a fabricated factual answer. The three follow-up questions listed under each parent are **research extensions**, not questions that have already been answered. This is an open, expanding register, not a formal zoo census. Every parent below deliberately generates exactly **three** next questions. Additional source-file question prompts and gap statements follow in later sections.
 
@@ -7364,4 +7364,122 @@ A pending map label does not mean there is no text file about the species: `docs
 1. What first-party source document or machine-readable schema test would settle this for website and data QA?
 2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
 3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+
+
+---
+
+## Dedicated Platypus Rescue HQ JSON: ten evidence reconciliation questions
+
+**Source:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json). This file separately describes a conservation facility and legal-status context; it is not a seventh photo observation group.
+
+**Q0613. Does the platypus research JSON contain a verified Josh photograph?**
+
+**Best answer — verified limitation or cited historical fact:** No. The fields `user_observation_verified=false`, `user_photo_count=0`, and the empty photos list explicitly mean it is a species research entry, not a claimed first-hand observation.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0614. Is the Galápagos tortoise or platypus research marked as the same record type as photographic observations?**
+
+**Best answer — verified limitation or cited historical fact:** No. The platypus JSON has a dedicated research-only entry; the other animals have photo observation records. A researched species is not automatically an observed animal.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0615. Does the Platypus Rescue HQ map coordinate in the JSON prove a camera GPS location?**
+
+**Best answer — verified limitation or cited historical fact:** No. `21M` is a visitor map grid reference; the evidence field `gps=null` does not contain the user's camera location.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0616. Is Mackenzie definitively present at the platypus public viewing window today?**
+
+**Best answer — verified limitation or cited historical fact:** Not established. Taronga historically/publicly names an adult male ambassador Mackenzie, but no time-specific sighting or live animal census is included.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0617. Did Platypus Rescue HQ's capacity for 65 animals imply a current 65-animal census?**
+
+**Best answer — verified limitation or cited historical fact:** No. `emergency_capacity_individuals=65` explicitly records maximum refuge places, and the data says this is not current occupancy.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0618. Is the 2025 four-animal platypus research announcement proof of a successful new Dubbo breeding?**
+
+**Best answer — verified limitation or cited historical fact:** No. The historic reported research subgroup size is four; a verified birth, hatch or confirmed breeding programme outcome requires a separate dated institutional announcement or scientific report.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0619. Is the 2026 federal platypus nomination equivalent to official Vulnerable listing under the EPBC Act?**
+
+**Best answer — verified limitation or cited historical fact:** No. The JSON says the nomination was **not prioritised for assessment** and records the federal threatened status as not listed in the cited review. National, state and global classifications differ.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0620. Are the 20 known Royal National Park platypuses reported in May 2026 living at Dubbo Zoo?**
+
+**Best answer — verified limitation or cited historical fact:** No. Royal National Park is a different location near Sydney; its reintroduction programme totals cannot be treated as the Dubbo facility or wild Macquarie River population.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0621. Does the $12.1 million construction figure settle all published cost discrepancies?**
+
+**Best answer — verified limitation or cited historical fact:** No. The structured data retains one figure; a Taronga announcement gives $12.5 million. Different accounting scopes may explain the discrepancy, but there is no verified reconciliation of the two figures.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
+
+**Q0622. Does the JSON prove that the platypus keeper talk occurs without change every day?**
+
+**Best answer — verified limitation or cited historical fact:** No. It records a published **2:45 pm weekends and school holidays** visitor schedule. Current times and animal visibility require checking the official visitor page.
+
+**Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
+
+**Three further questions:**
+1. Which original Taronga or government record supplies the decisive date-specific evidence for this platypus question?
+2. How does the time, location and population metric differ from a superficially similar cited platypus statistic?
+3. What evidence or independent check should be added to the JSON before this claim is promoted from historical context to current certainty?
 

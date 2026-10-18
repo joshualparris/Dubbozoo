@@ -17,3 +17,7 @@ Loss of grassy woodland, woodland fragmentation and decline in native grasses/se
 ## What remains unknown
 
 Specific 2009 aviary cage/animal accession record, season-long residency, 2026 zoo presence and any historic breeding programme. No user photo has been supplied.
+
+## IUCN and Australian conservation evidence (different lists)
+
+The [ACT Government's 2024 statutory conservation advice for Diamond Firetail](https://legislation.act.gov.au/DownloadFile/ni/2024-251/current/PDF/2024-251.PDF), page 3, identifies the bird as **Vulnerable** globally in the IUCN Red List and also Vulnerable in federal EPBC, NSW and ACT legislation. Its bibliography identifies [BirdLife International 2022 IUCN species record 22719660/211542365](https://www.iucnredlist.org/species/22719660/211542365). The present IUCN portal record was not directly opened, so the 2022 figure must not be called guaranteed latest. This is **conservation risk evidence**, independent of whether Dubbo actually accessioned the bird photographed in the historic aviary.

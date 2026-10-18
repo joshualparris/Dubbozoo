@@ -3727,7 +3727,7 @@
 
 **Q0311. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Find an IUCN species-specific assessment and record status with year, scope and metric, or explicitly document unresolved source conflicts."?**
 
-**Best answer — partly answered — scientific audit records exact source grades:** The [IUCN evidence register](iucn-assessment-audit-2026-10-18.md) tracks **10 directly checked full assessment records, seven IUCN species entries returned in search-index excerpts, one official status-change table, five graded indirect references and 61 remaining primary assessment checks**. A source with no exact taxon/date is not a confirmed conservation classification.
+**Best answer — updated, source-graded scientific audit:** The [89-row IUCN audit](iucn-assessment-audit-2026-10-18.md) now contains **10 earlier retrieved individual assessment records, 8 additional species-index IUCN records, one official category-change table, one latest-category pointer from an older official record, one IUCN news confirmation, five graded indirect/announcement references and 58 entries still needing a taxon-specific check**. Neither a source excerpt nor an old category automatically establishes the *latest* 2026 assessment.
 
 **Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 

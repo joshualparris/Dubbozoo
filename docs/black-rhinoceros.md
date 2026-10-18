@@ -26,3 +26,8 @@ Look for the **hook-shaped browsing lip**, two horns, neck/shoulder shape, and b
 - [International Rhino Foundation, State of the Rhino 2025](https://rhinos.org/blog/news-room/sotr2025/)
 
 **Not verified:** sex, name or exact number of rhinos in the accessible exhibit in 2026; no uploaded personal photo.
+
+## Clarification: species risk and wild trend are different
+
+[IUCN's March 2020 African rhinoceros update](https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list) says **black rhinoceros remained Critically Endangered (CR)** but numbers had **slowly increased** through monitored recovery years due to conservation efforts, despite significant historic declines. The report quotes roughly **4,845 wild animals in 2012 and 5,630 in 2018**. CR is based on extinction-risk criteria/history, so *critically endangered* does not imply a decreasing *recent* count in every population. Use the 2025 International Rhino Foundation surveys for a newer annual headcount and keep their estimation method separate.
+

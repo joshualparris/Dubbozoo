@@ -3,6 +3,14 @@
 **Inventory number:** 30/61 · **Scientific identification:** *Pavo cristatus* · **Conservation:** Least Concern globally; ownership/management status at Dubbo unresolved.  
 **Research reviewed:** 18 October 2026. This is **not** a Josh-supplied photo observation.
 
+
+## Evidence refined — free-roaming presence versus formal zoo collection
+
+An [8 January 2026 visitor observation](https://www.zoochat.com/community/threads/finding-jr-thataussieguy-does-sydney.495831/) explicitly describes **free-roaming Indian peafowl** at Western Plains Zoo among native free-ranging birds. An older [encyclopaedia archive of the zoo animal list](https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Western_Plains_Zoo.html) also puts Indian peafowl under its separate **'Free-ranging animals'** heading alongside black swans and pelicans. This is coherent evidence of free-roaming presence, not proof of collection accession, managed breeding or permanent exhibit assignment.
+
+**Updated result:** free-roaming on zoo grounds reported, **formal managed-holding status unverified**. No Taronga primary inventory confirming ownership was located. Ask keeper staff whether the peafowl are recorded in accession or welfare databases and whether they are subject to routine veterinary and husbandry management.
+
+
 ## Identification, taxonomy and range
 
 Large South Asian pheasant; displaying males have elongated, ocellated upper tail-coverts ('train') raised into a fan; the actual tail feathers are relatively short. Females have subtler plumage. Neither train length nor mating display alone proves an individual bird's age.

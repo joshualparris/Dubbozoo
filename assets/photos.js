@@ -65,15 +65,21 @@
     const filePage = info.descriptionurl || 'https://commons.wikimedia.org/wiki/File:' + encodeURIComponent(rawName.replace(/ /g,'_'));
     return {url:image,artist,licence,filePage,repository:'Wikimedia Commons',width:info.thumbwidth || info.width,height:info.thumbheight || info.height};
   }
-  let matchedPhotos = [...cards.values()].filter(c => c.querySelector('.animal-photo-slot')?.dataset.photoStatus === 'curated').length, unavailablePhotos = 0;
+  let matchedPhotos = 0, unavailablePhotos = 0;
+  const loadedPhotoIds = new Set();
   const photoStatus=document.getElementById('photo-status');
   function countProgress() {
     if (!photoStatus) return;
     const pending=Math.max(0,cards.size-matchedPhotos-unavailablePhotos);
-    photoStatus.textContent=matchedPhotos+' / '+cards.size+' open-licence photo sources matched'
-      +(pending?' · '+pending+' being checked':'')
-      +(unavailablePhotos?' · '+unavailablePhotos+' without a verified match':'')
-      +'. All photos are species references, not verified Dubbo animal portraits.';
+    photoStatus.textContent=matchedPhotos+' / '+cards.size+' photographs loaded on this device'
+      +(pending?' · '+pending+' not yet loaded or still loading':'')
+      +(unavailablePhotos?' · '+unavailablePhotos+' could not load':'')
+      +'. They depict species references, not confirmed Dubbo Zoo individuals.';
+  }
+  function markPhotoLoaded(number) {
+    if (loadedPhotoIds.has(number)) return;
+    loadedPhotoIds.add(number);
+    matchedPhotos++;countProgress();
   }
   function upgradeHero(entry,info) {
     if(entry.number!==4)return;
@@ -103,6 +109,7 @@
     image.alt='Reference photograph for '+entry.name+'. This is not verified as an animal at Dubbo Zoo.';
     image.loading='lazy';image.decoding='async';image.referrerPolicy='no-referrer';
     if (info.width && info.height) {image.width=info.width;image.height=info.height;}
+    image.addEventListener('load',()=>markPhotoLoaded(entry.number));
     image.addEventListener('error',()=>failPhoto(entry));
     const fig = document.createElement('figcaption');
     const credit = document.createElement('a');credit.href=info.filePage;credit.target='_blank';credit.rel='noopener noreferrer';credit.textContent='Photo: '+info.artist;
@@ -111,7 +118,8 @@
     const note = document.createElement('span');note.className='photo-reference';note.textContent='Species reference · not a Dubbo sighting';
     figure.append(image, fig,note);slot.replaceChildren(figure);
     slot.dataset.photoStatus='licensed-reference';
-    matchedPhotos++;countProgress();upgradeHero(entry,info);
+    if (image.complete && image.naturalWidth>0) markPhotoLoaded(entry.number);
+    countProgress();upgradeHero(entry,info);
   }
   function failPhoto(entry) {
     const card=cards.get(entry.number);
@@ -122,7 +130,7 @@
     const span=document.createElement('span');span.textContent='Browse Wikimedia Commons photos ↗';
     const small=document.createElement('small');small.textContent='No licence-verified match loaded for this animal';
     a.append(span,small);slot.replaceChildren(a);
-    if(slot.dataset.photoStatus==='licensed-reference')matchedPhotos=Math.max(0,matchedPhotos-1);
+    if(loadedPhotoIds.delete(entry.number))matchedPhotos=Math.max(0,matchedPhotos-1);
     slot.dataset.photoStatus='unavailable';unavailablePhotos++;countProgress();
   }
   async function getCommonsImages(imageNames) {
@@ -225,11 +233,15 @@
     for(const item of manifest.image_queries.filter(x=>curatedIds.has(x.number))){
       const slot=cards.get(item.number)?.querySelector('.animal-photo-slot');
       const photo=slot?.querySelector('img');
+      if(photo) {
+        photo.addEventListener('load',()=>markPhotoLoaded(item.number));
+        if(photo.complete && photo.naturalWidth>0)markPhotoLoaded(item.number);
+      }
       if(photo)photo.addEventListener('error',()=>{
         if(slot.dataset.photoStatus!=='curated')return;
         slot.dataset.photoStatus='loading';
-        matchedPhotos=Math.max(0,matchedPhotos-1);countProgress();
-        fallback(item);
+        if(loadedPhotoIds.delete(item.number))matchedPhotos=Math.max(0,matchedPhotos-1);
+        countProgress();fallback(item);
       },{once:true});
     }
     // Mobile-friendly lazy resolution: only load visible cards, and the next set after
@@ -266,6 +278,17 @@
     for(const card of cards.values())watch.observe(card,{attributes:true,attributeFilter:['hidden']});
     window.addEventListener('scroll',queueWork,{passive:true});
     queueWork();
+  }
+  // Homepage hero photograph is directly embedded in HTML. Never pretend it loaded
+  // if the third-party host is unreachable; preserve the original illustration.
+  const heroImage = document.querySelector('.plate > .plate-real-photo');
+  if(heroImage) {
+    const hero=heroImage.closest('.plate');
+    const heroLoaded=()=>hero?.classList.add('has-real-photo');
+    const heroFailed=()=>{hero?.classList.remove('has-real-photo');heroImage.remove();hero?.querySelector('.plate-photo-credit')?.remove();};
+    heroImage.addEventListener('load',heroLoaded);
+    heroImage.addEventListener('error',heroFailed);
+    if(heroImage.complete) (heroImage.naturalWidth>0 ? heroLoaded : heroFailed)();
   }
   run();
 })();

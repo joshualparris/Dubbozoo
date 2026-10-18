@@ -1,58 +1,49 @@
-# Taronga Western Plains Zoo — historical holdings archive enquiry
+# Archival animal-holdings request — Dubbo Western Plains Zoo 1977–2026
 
-**Prepared 18 October 2026 · Unsent draft.** Do not describe this as a completed enquiry or imply Taronga has supplied original animal-holdings data.
+**Draft prepared 18 October 2026. NOT SENT.** No permission to act as Taronga and no archival reply is claimed.
 
-## Why further records matter
+## Purpose
 
-The [Dubbozoo project](https://github.com/joshualparris/Dubbozoo) has researched **76 historical animal names, species and exhibit records**, but this is **not a certified list of every animal species held from the 1977 opening through 2026**. Four of those records concern confirmed temporary rehabilitation or historic aviary photographs rather than unequivocal permanent zoo breeding/collection accessions. Modern Taronga public maps cannot reconstruct every former exhibit or behind-the-scenes programme.
+The [independent Dubbozoo working catalogue](all-time-animal-inventory.md) has **89 researched historical animal names/leads**, but this **does not establish that 89 distinct biological species were formally accessioned or exhibited** over 1977–2026. It includes conservation animals, hospital cases, 1995 visitor recollections and 1999 analog photograph captions uploaded in 2026.
 
-## Draft enquiry — not sent
+### Suggested enquiry (unsent)
 
-**Subject: Historical species inventory for Western Plains Zoo, Dubbo, 1977–2026**
+**Subject:** Western Plains Zoo Dubbo 1977–2026 species accession and archival exhibit records
 
-Hello Taronga Records / Collections team,
+Hello Taronga Archives / Collections team,
 
-I'm compiling an independent, sourced historical field journal about Taronga Western Plains Zoo at Dubbo. I've assembled a working list of 76 species and historical exhibit records from dated Taronga publications, NSW government documents, specialist husbandry manuals and old visitor photographs.
+I'm researching the history of the Taronga Western Plains Zoo in Dubbo, including both public animal exhibits and conservation programmes, and have compiled a working historical guide with dated references.
 
-Would there be a way to access the **Dubbo-site species holdings and accession/transfer summaries by year from 1977 to 2026**, including older paper records before ARKS/ZIMS? I'm interested primarily in **species-level** data, first/last confirmed year, historic zoological names, and whether each species was a public exhibit, behind-the-scenes conservation animal, breeding colony, or temporary wildlife hospital patient. I do not need sensitive animal treatment or staff information.
+Would it be possible to access **species-level Dubbo holdings, transfers, accession and disposal records by year, 1977–2026**, including pre-digital paper records prior to ARKS/ZIMS? A list of taxa with first and last held years (including original scientific synonym) would be sufficient. I do not require any private keeper or individual medical records.
 
-Three outstanding formal-holding questions concern:
+Recent research confirmed two conservation-programme species from government documents, for which I would welcome more details:
 
-1. **Indian peafowl** (*Pavo cristatus*): visitors describe them roaming freely. Were they ever accessioned or managed as a zoo collection?
-2. **Smooth yabby** (*Cherax destructor*): a 2025 enthusiast species list reports it. Did Taronga keep/manage or display this species, and which waterbody or tank?
-3. **White-browed woodswallow** (*Artamus superciliosus*): a photo taken within the grounds on 6 April 2006 is documented, but was it kept in the visitor aviary or did it visit naturally?
+- **Bridled nailtail wallaby (*Onychogalea fraenata*)**: a [30 October 1996 NSW parliamentary answer](https://www.parliament.nsw.gov.au/hp/housepaper/15185/Questions%20and%20Answers%20No.%2042%20Wednesday%2030%20October%201996.pdf) documents **nine wallabies in Western Plains Zoo's Australian Native Flora and Fauna Sanctuary**. What were their first/last holding years and breeding outcomes?
+- **Mala / rufous hare-wallaby (*Lagorchestes hirsutus*)**: an [Australian Government recovery plan](https://www.agriculture.gov.au/sites/default/files/documents/rufous-hare-wallaby.pdf) says the Western Plains captive programme ended following deaths during a 2001 enclosure change. Were there archival monitoring reports, accession records or species-level programme closure notes?
 
-New archival research also documents a **1996–97 northern hairy-nosed wombat programme** from Queensland Parliamentary records and specialist wombat husbandry materials naming Dubbo as a historical site for **southern hairy-nosed and common wombats**. Could you help confirm their original accession dates, species IDs, programme records and last year held?
+A [childhood zoo journal dated May 1995, republished in June 2026](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/), together with [analogue family photographs reportedly taken July 1999](https://www.zoochat.com/community/media/categories/taronga-western-plains-zoo.504/), names **collared peccary, nilgai, sambar deer, chital deer, capybaras, western grey kangaroos, whiptail wallabies, yellow-footed rock-wallabies, eastern wallaroos and guinea pigs**. Could these be checked against dated animal census or exhibit maps? The reports are not proof of institutional holdings by themselves.
 
-Two other photographed historic aviary candidates are **superb parrot** and **diamond firetail** (visitor records dated 2009), also awaiting formal collection confirmation.
+A Taronga keeper story [said in 2020 that leopard tortoises were *expected* at the Waterhole](https://www.taronga.org.au/about/newsroom/posts/world-meerkat-day). Did that transfer occur, and when?
 
-Could Taronga clarify the original taxon/lineage of historical **guineafowl, Galápagos giant tortoises, African forest buffalo, Bengal-labelled tigers and dingoes**? I have independently confirmed older Dubbo **African savanna elephant** records and *Camelus dromedarius* from your publications.
+Three earlier questions remain: **Indian peafowl** (formal collection or free-ranging on site?), **smooth yabby** (*Cherax destructor*; is there a managed exhibit?) and **white-browed woodswallow** (seen in a dated 2006 zoo-property photo, but captive or wild?).
 
-If a compiled historical inventory isn't available, could you suggest the relevant archives, pre-digital records, zoo library curator, or a suitable formal information-access process? I am happy to cite publicly shareable species lists or archival catalogue descriptions.
+Historical exact-species questions concern guineafowl, Galápagos tortoise ancestry, forest buffalo, historical Bengal-labelled tiger and Asiatic-labelled lion lineage, dingo ancestry and eastern wallaroo regional taxon. A [WA Government statement (1995)](https://www.wa.gov.au/government/media-statements/Court%20Coalition%20Government/Visit-of-rare-white-tiger-to-Perth-Zoo-19951207) confirms white tiger Chester previously visited Dubbo; would tiger studbook movement dates be available?
 
-Thank you for your time.
+I would also value **original visitor maps or species lists** from the 1980s, 1995–1999 and early 2000s. An old December 1997 visitor-map discussion mentions 'giant anteater' although no corresponding zoo-held animal has been verified. It would help to determine whether the map labelled a planned habitat rather than an actual occupied exhibit.
 
-Kind regards,
-Dubbozoo research project
+If the collection archive cannot be distributed, could you suggest an archivist, public annual-report species table, State Library NSW collection, or information-access process suitable for species-level historical research?
+
+Thanks for your help,
+Dubbozoo historical wildlife research
 https://github.com/joshualparris/Dubbozoo
 
-## Sources to attach, if helpful
+## Methodology and acceptance criteria
 
-- [Queensland 1997 Northern Hairy-nosed Wombat answers](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf).
-- [Australasian zookeeper wombat husbandry manual](https://aszk.org.au/wp-content/uploads/2020/05/Wombat-Husbandry.pdf).
-- [2009 visitor walk-through aviary photo account](https://www.australiasomuchtosee.com/2009dubbozoo2.htm).
-- [6 April 2006 white-browed woodswallow photograph](https://commons.wikimedia.org/wiki/File:White_Browed_Woodswallow_-_Artamus_superciliosus_(7088986763).jpg).
-- [Taronga annual report 2010–11](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf), for a male rock-wallaby transferred to Dubbo.
-- [NSW Parliament 2003 historic zoo exhibit statement](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247).
-- [Taronga governance and information access](https://www.taronga.org.au/about/governance).
+1. Separate **species ever formally held** from **animals treated in the wildlife hospital**, **managed conservation sanctuaries**, **free-roaming wild visitors**, **advertised but never occupied habitats**, and **visitor eyewitness stories**.
+2. Record each proven species' accession date (if any), first/last year, original zoo label, modern scientific taxon (only where supported), exhibit location, and provenance link.
+3. Distinguish original **1995/1999** material from copies uploaded **2026** with digitisation EXIF timestamps.
+4. Do not infer a 2026 current animal census or live zoo availability from historical media.
+5. Do not assume a 'giant anteater' label or 'wildebeest' childhood identification proves another taxon; seek original records before inclusion.
+6. Archive records may have access/licensing conditions. Link or describe them rather than republishing restricted copies.
 
-## Acceptance criteria for a complete all-time catalogue
-
-- Establish that archive coverage reaches **every year 1977–2026**, with no material omissions in site and programme scope.
-- Deduplicate old synonyms and taxonomic changes, keeping the original exhibit label alongside the modern scientific name.
-- Separate **managed wildlife collection**, sanctuary reintroduction programme, hospital patient, occasional exhibit/temporary display and free-ranging property wildlife.
-- Show first/last date actually supported by an accession or zoo source; no guessed date ranges or false current-presence claims.
-- Keep named animal counts, zoo headcounts, wild populations and IUCN mature-individual estimates distinct.
-- Make every assertion traceable to a dated Taronga/government source or mark it as non-primary/unknown.
-
-**Status: not sent. No response from Taronga has been received.**
+**Status:** Not sent; this document is an editable enquiry draft only.

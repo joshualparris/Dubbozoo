@@ -30,3 +30,7 @@ Current zoo itineraries describe a **white rhino viewing stop at 11F** and white
 - [Taronga African Savannah](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah)
 
 **Evidence limitations:** no 2026 census, current animal IDs or photo; global figures and zoo history are separate datasets.
+
+## Direct IUCN category resolution — Near Threatened at species rank
+
+The [IUCN *Ceratotherium simum* global species assessment](https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T4185A45813880.en), assessed **6 January 2020**, lists the **White Rhinoceros Near Threatened (NT)**. That is not the same as a conservation assessment for the remnant northern white rhinoceros subspecies and does not describe the plight of each regional population. The [2025 International Rhino Foundation population update](https://rhinos.org/blog/news-room/sotr2025/) provides a **more recent survey estimate**, but a new abundance report does not automatically change the IUCN Red List category.

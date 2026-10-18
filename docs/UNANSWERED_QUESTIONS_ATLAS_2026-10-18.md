@@ -3764,7 +3764,7 @@
 
 **Q0314. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "Observation: four supplied photographs of one apparent large adult-sized animal; photographed animal's sex, age and name unknown."?**
 
-**Best answer — answer — photos do not supply animal registry:** Four supplied tortoise photographs document an animal resembling Galápagos giant tortoise in the Dubbo setting; **sex, exact age and name are not determined** from these files. An original photo timestamp plus keeper-marking/studbook matching is needed. [Observation](../observations/giant-tortoise-undated.md).
+**Best answer — answer — photos do not supply animal registry:** Four supplied tortoise photographs document an animal resembling Galápagos giant tortoise in the Dubbo setting; **sex, exact age and name are not determined** from these files. An original photo timestamp plus keeper-marking/studbook matching is needed. [Observation](../data/observations.json).
 
 **Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 

@@ -37,3 +37,7 @@ Observe from designated public areas, noting the actual date/time, site map grid
 2. [Supporting dated record](https://taronga.org.au/sites/default/files/2026-03/26-008%20Red%20Energy%20Zoo%20Month%202026_Kids%20Map%20ED17v03_DUBBO_FA_OTL.pdf)
 
 General zoo map: [Taronga Western Plains Zoo](https://www.taronga.org.au/dubbo-zoo/map). Scientific evidence and IUCN listing require periodic reassessment. **Unknown:** exact current animals, photo identification and any unreported husbandry, health or breeding outcomes.
+
+## Primary IUCN assessment: black-and-white ruffed lemur
+
+[The IUCN species assessment of *Varecia variegata*](https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T22918A115574178.en), assessed **30 December 2019** and published **2020**, records **Critically Endangered (CR), decreasing** from hunting and severe Madagascar forest loss/fragmentation. The [separate subspecies record for *V. v. variegata*](https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T22919A115574404.en) also lists CR/decreasing; **the subspecies category must not be used to infer any individual Dubbo lemur's provenance**.

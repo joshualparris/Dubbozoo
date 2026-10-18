@@ -8,7 +8,7 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 
 ## Comprehensive unanswered-question research atlas (18 October 2026)
 
-**[Open the massive 622-question research atlas](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md)** — a source-linked review of all 61 historical animal leads, 46 newer draft species profiles, existing observation records and structured data. Each primary question records the best supported answer or explicitly unresolved status **and exactly three additional research questions** (1,866 follow-ups; 2,488 total questions). This is a pinned research snapshot, not a completed proof of every unknown and not a current zoo census.
+**[Read the corrected answers to all 622 parent research questions](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md)**. The old 61-animal snapshot contained answerable questions incorrectly labelled 'unresolved', including Q0007. **[Verification status and examples](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md)** document 49 dated AI source-text checks, 573 parent questions without an independent question-specific source review, no human verification and 1,866 generated follow-up questions still open. A written answer or specific evidence requirement is not certification that an unpublished fact has been found.
 
 
 - **[Platypus — species and Dubbo Rescue HQ guide](docs/platypus.md)**
@@ -35,7 +35,7 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 
 - [New discovery: historical 1995 diary, 1999 photos and two confirmed zoo conservation programmes](docs/historical-leads-1995-1999-2026-10-18.md).
 - [Full historic evidence audit and outstanding leads](docs/coverage-audit.md).
-- [IUCN source-grade audit across 89 entries](docs/iucn-assessment-audit-2026-10-18.md) — 10 individually read original Red List records, one official category-change table, other graded/indirect evidence and **68 remaining individual assessment checks**.
+- [IUCN source-grade audit across 89 entries](docs/iucn-assessment-audit-2026-10-18.md) — 10 earlier direct IUCN assessments, 8 additional indexed IUCN entries, an original category-change table, other graded/indirect records and **58 still needing a taxon-specific cross-check**.
 - [Machine-readable 89-entry historical animal inventory](data/all-time-animal-inventory.json) and [species profile catalogue](data/species-catalogue.json).
 - [Prepared but unsent archival records request](docs/archival-records-request.md).
 
@@ -97,3 +97,11 @@ No animal should be named or sexed based solely on coat pattern or a photograph.
 Research and curation prepared on 18 October 2026. Twenty-three submitted photographs (five wild dog, two giraffe, six siamang, four tortoise, five elephant, one probable meerkat) are inventoried but **not included as binaries in the GitHub repository**; this avoids claiming they have been published when they have not. Their SHA-256 hashes are recorded for later matching. This repo cannot display images that are not actually uploaded. **Photo copyright/licence is not specified**, so publishing or reusing the images outside this owner's repo should be confirmed before licensing them.
 
 This is an **independent field journal, not an official Taronga website**. Species and zoo claims are linked to their sources in the profile. For current visitor information consult [Taronga's official website](https://www.taronga.org.au/).
+
+## Research question verification update (18 October 2026)
+
+- [Corrected 622-parent-question atlas](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md): Q0007 and many other generic 'unresolved' placeholders replaced with sourced biological answers, dated historical information or the exact original records needed to settle them.
+- [AI source-verification status](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md): 49 question-specific source-text checks, 573 remaining without an independent source review, **zero human-verified**; 1,866 generated follow-ups remain future research.
+- [Per-question JSON ledger](data/question-verification-ledger-2026-10-18.json): original answer retained, revised answer, source-review grade and provenance.
+
+**Source control verification does not prove the public website is deployed or that all external citations return HTTP 200.**

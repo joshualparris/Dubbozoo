@@ -1,5 +1,9 @@
 # Dubbozoo species coverage audit — 18 October 2026
 
+> **Historical inventory now available:** [61 numbered zoo-animal records, 13 researched and 48 pending](all-time-animal-inventory.md). The 27 items below are the *earlier 2026-map research backlog*, not the full 1977–2026 inventory; do not treat these two counts as equivalent.
+
+
+
 This is a **research backlog, not a zoo census or Josh's wildlife sighting list**. Cross-checked against Taronga's [official Dubbo map](https://taronga.org.au/dubbo-zoo/map) and its [Dubbo animals page](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). Map labels can describe an exhibit or common group rather than a scientific species. Conditions, enclosures and rosters change.
 
 ## Researched guides (13)

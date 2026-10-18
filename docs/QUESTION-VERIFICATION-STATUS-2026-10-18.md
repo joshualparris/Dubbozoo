@@ -1,12 +1,49 @@
-# Dubbozoo question verification — 18 October 2026
+# Dubbozoo 622-question source verification — 18 October 2026
 
-**622 of 622 original atlas questions indexed. 21 questions received a fresh, source-specific AI textual cross-check; 601 have NOT been independently verified in this pass. Zero are marked human-verified.** The published atlas was generated from a **61-lead** snapshot; the current historical inventory contains **89 entries** and needs a separate delta scan.
+**622/622 original parent questions now contain a revised response. 49 parent questions have a dated AI source-text/index review, 573 have NOT received an independent question-specific source review, and zero are marked human-verified.** This is a substantial content correction, **not** completion of the full scientific and zoo-historical evidence programme.
 
-- [Complete machine-readable, 622-question verification ledger](../data/question-verification-ledger-2026-10-18.json).
-- [Original 622-question atlas](UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md).
-- [Evidence Engine source and workflows](https://github.com/Parris-Tech-Services/ResearchAtlas/blob/main/docs/EVIDENCE-ENGINE-V1.md).
+The initial generated [622-question atlas](UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md) used a **61-animal snapshot** and erroneously said **Q0007 African elephant** was unresolved even though scientific assessments were readily available. The original historic animal research catalogue now contains **89 entries** with differing verification grades. Current atlas answers should be compared with this source-graded ledger, not the old pinned question-generation snapshot.
 
-## Freshly reviewed questions
+- [Revised 622-question answer atlas](UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md) — individual revised answers.
+- [Machine-readable verification ledger](../data/question-verification-ledger-2026-10-18.json) — old answer, updated answer, source-specific evidence status and human verification field for all 622.
+- [Taxon-specific IUCN audit](iucn-assessment-audit-2026-10-18.md) — independently graded assessments and population trends.
+- [Current 89-animal historical research list](all-time-animal-inventory.md).
+
+## Q0007: a directly answerable example
+
+**What is the conservation status and wild-population trend of African elephant?**
+
+Historic Dubbo animals Cuddles and Yum Yum were **African savanna elephants (*Loxodonta africana*)**. The [IUCN amended 2022 assessment](https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T181008073A223031019.en), assessed in November 2020, states **Endangered (EN), decreasing**, with severe historical decline of roughly 60%. The **African forest elephant (*Loxodonta cyclotis*)** is **Critically Endangered, decreasing** ([IUCN assessment](https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T181007989A181019888.en)). The 2016 ~415,000 continental figure combined both taxa; improved 2025 forest-elephant counts due to DNA-based detection **are not evidence of equivalent wild population recovery** ([IUCN 2025 explanation](https://iucn.org/press-release/202511/dna-methods-help-uncover-further-african-forest-elephants-species-remains)).
+
+The original atlas's **'Best answer — unresolved'** was demonstrably incorrect. [Read the corrected Q0007 within the atlas](UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md).
+
+## New examples of source-checked corrections
+
+- **Common hippopotamus:** [IUCN 2017](https://doi.org/10.2305/IUCN.UK.2017-2.RLTS.T10103A18567364.en) **Vulnerable, but a Stable global trend** (at assessment). Threatened category is not the same as trend.
+- **Barbary sheep:** [IUCN 2022](https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T1151A214430287.en) **Vulnerable, decreasing**, with a dated estimate of 5,000–10,000 mature animals.
+- **Black-and-white ruffed lemur:** [IUCN 2020](https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T22918A115574178.en) **Critically Endangered, decreasing**.
+- **Banteng:** [IUCN previous record](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T2888A46362970.en) identifies **2025 Critically Endangered** latest listing (superseding its older **EN**), though the 2025 assessment's detailed trend was not independently read; [2026 peer-reviewed support](https://www.sciencedirect.com/science/article/abs/pii/S1617138126001342).
+- **Asian small-clawed otter:** [IUCN 2021](https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T44166A164580923.en) **Vulnerable, decreasing**.
+- **Black rhinoceros:** [IUCN 2020 recovery report](https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list) says **Critically Endangered**, but numbers were **increasing slowly** over its dated survey period.
+- **2025 Dubbo lions:** [Taronga April 2025 keeper report](https://www.taronga.org.au/about/newsroom/posts/lion-cubs-thriving-at-dubbo-zoo) documents Marion, Lwazi and three calves. These are historical **2025 named animals**, not proof of a 2026 keeper roster or identity of an undated user photograph.
+
+## Verification denominator — keep this honest
+
+| Status | Questions | Meaning |
+|---|---:|---|
+| Existing source-text reviews preserved | 21 | Existing dated checks prior to this reconciliation |
+| Added IUCN/index checks | 20 | Dated taxon-specific IUCN assessment, indexed excerpt or IUCN announcement; levels of direct access vary |
+| Added institutional source checks | 8 | Dated Taronga/government records or published institutional conflict |
+| **Total AI source-checked** | **49** | Not equivalent to human peer review |
+| No new question-specific source check | 573 | Revised synthesis, explanation, or concrete evidence requirement; **do not call independently verified** |
+| Human-verified | 0 | No claim of human checking made |
+| Generated follow-up questions | 1866 | Not all researched or answered individually |
+
+Some of the 573 are straightforward observational limits rather than scientific assessments. Answering "there is no original photo timestamp" is useful and accurate for the dataset; it does not magically recover the missing camera data. Similarly, a parent question asking **what evidence is needed** can be answered with a concrete keeper/studbook checklist, while the underlying animal fact remains unknown.
+
+**Original source review table from earlier work follows; it retains its historical scope.**
+
+## Earlier source-review batch — 21 questions
 
 | Question | Best current assessment | Source(s) | Follow-up |
 | --- | --- | --- | --- |

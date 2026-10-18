@@ -4,6 +4,14 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 
 **Photographed subjects:** African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one **probable** meerkat. The dates and named individuals in the new photos remain unverified. **Research collection:** the working historical animal catalogue now contains **89 evidence-labelled, linked profiles**. Visitor-derived candidates, government-confirmed sanctuary holdings and personal-photo observations have separate evidence grades.
 
+## Licensed wildlife photo gallery (89 animal entries)
+
+The [Dubbozoo research website](https://dubbozoo-research.vercel.app/) now has real-photo slots for **all 89 historical animal research entries**. [Taxon-aware photo search manifest](data/wildlife-photo-queries.json) resolves the Wikipedia lead image and then checks the corresponding Commons file's **licence, artist and source page** at browser runtime. If that image cannot be licensed, it searches Wikimedia Commons; an openly licensed iNaturalist observation is the final optional fallback. Each displayed photograph links to its source and applicable CC/public-domain licence, with a crop note. Unavailable matches show a Commons browsing link rather than an invented photo.
+
+**Not photographs of the historical Dubbo animals:** these are general species reference photos. For 15 cases involving old labels, island lineages, subspecies or uncertain zoo accession, [the manifest](data/wildlife-photo-queries.json) expressly says the taxon or identity is provisional. Original private visitor photos have **not** been copied into the public repository. No image binaries are bundled; photographs require third-party Wikimedia/iNaturalist network access from the viewer's browser.
+
+**Verification limit:** All 89 photo slots, manifest entries, source-credit rendering and script syntax are checked in the repository. Individual live Commons response licences and successful on-screen rendering of every species image have **not** been independently verified in a browser in this session. See [image source & copyright methodology](docs/WILDLIFE-PHOTO-SOURCES-2026-10-18.md).
+
 ## Start here
 
 ## Research website · now deployed

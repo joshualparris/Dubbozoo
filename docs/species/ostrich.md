@@ -37,3 +37,7 @@ Observe from designated public areas, noting the actual date/time, site map grid
 2. [Supporting dated record](https://www.taronga.org.au/dubbo-zoo/map)
 
 General zoo map: [Taronga Western Plains Zoo](https://www.taronga.org.au/dubbo-zoo/map). Scientific evidence and IUCN listing require periodic reassessment. **Unknown:** exact current animals, photo identification and any unreported husbandry, health or breeding outcomes.
+
+## IUCN ostrich population trend — category is not trend
+
+The [IUCN *Struthio camelus* account](https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T45020636A132189458.en), assessed **9 August 2018**, lists **Least Concern (LC)** but a **Decreasing** global trend. Its indexed record also points to a newer **2025 LC assessment**; the later report's detailed population trend was **not independently checked in this batch**. Least Concern does not mean the wild population is increasing.

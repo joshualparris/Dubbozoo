@@ -159,7 +159,22 @@
  $('next-animal').href=pageURL(next);$('next-animal').textContent=next.name+' →';
  async function showQuestions(){
    if(qReady)return;qReady=true;const node=$('animal-questions');node.replaceChildren();
-   if(number>61){node.append(el('p','This animal entered the research catalogue after the original question atlas was numbered. The source guide contains its dedicated questions; unrelated questions are not assigned.','animal-blank-state'));return;}
+   if(number>61){
+     const sections=guideSections.filter(x=>/question|unknown|verification|archive|unresolved|research gap|still need|future/i.test(x.title));
+     if(sections.length){
+       sections.forEach(section=>{
+         const d=el('details','','animal-question'),s=el('summary',section.title),body=el('div');
+         body.append(markdown(section.body,animal.guide));d.append(s,body);node.append(d);
+       });
+       node.append(el('p','These questions and evidence gaps come from this species research guide. They are not unrelated questions borrowed from the old 61-species atlas.','detail-small'));
+     } else {
+       const state=el('div','','animal-blank-state');
+       state.append(el('p','The source guide predates a separately numbered question set for this historical entry. Open the detailed source sections to see remaining research and archival evidence gaps.'));
+       state.append(href('Read full guide on GitHub ↗',root+animal.guide));
+       node.append(state);
+     }
+     return;
+   }
    try{
      const ledger=await load('question-verification-ledger-2026-10-18.json');
      const relevant=ledger.questions.filter(q=>{const id=Number(q.id.replace(/[^0-9]/g,''));return id>(number-1)*4&&id<=number*4;});

@@ -20,3 +20,8 @@
 .plate-photo-credit{font-size:.65rem;line-height:1.2;display:block;margin-top:8px;max-width:350px}
 .plate-photo-credit a{color:#fff;text-decoration:underline}
 @media(max-width:580px){.animal-photo-slot{height:184px}.animal-card{min-height:unset}.animal-photo figcaption{font-size:.62rem}}
+
+/* The author-level .btn display rule must not override the browser's [hidden] attribute.
+   Without this, the "show more" control stayed visible after the final card and
+   kept adding 21 to the limit, producing impossible negative remaining counts. */
+[hidden] { display: none !important; }

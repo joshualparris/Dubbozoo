@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "last_reviewed": "2026-10-18",
+  "entry_type": "species_research_without_personal_sighting",
+  "id": "dubbozoo-research-platypus-0004",
+  "common_name": "Platypus",
+  "scientific_name": "Ornithorhynchus anatinus",
+  "family": "Ornithorhynchidae",
+  "order": "Monotremata",
+  "iucn": {
+    "status": "NT",
+    "listed_since": 2016,
+    "source": "https://platypus.asn.au/conservation-status/"
+  },
+  "aus_legislation": {
+    "epbc_threatened": false,
+    "source_updated": "2026-08-18",
+    "public_nomination_vulnerable_2026": "not_prioritised_for_assessment",
+    "next_cycle_eligible": 2027,
+    "source": "https://www.dcceew.gov.au/environment/biodiversity/threatened/nominations/species-not-prioritised-assessment"
+  },
+  "nsw": {
+    "protected_native_wildlife": true,
+    "threatened_under_nsw_legislation": false,
+    "source": "https://doi.org/10.1071/AZ25060"
+  },
+  "regional_listings": {
+    "victoria": "VU",
+    "south_australia": "EN"
+  },
+  "wild_population_estimate": null,
+  "venue": {
+    "name": "Taronga Western Plains Zoo",
+    "city": "Dubbo",
+    "state": "NSW",
+    "country": "Australia",
+    "exhibit": "Platypus Rescue HQ",
+    "visitor_map_ref": "21M",
+    "facility_opening": "2024-02-14",
+    "cost_aud": 12100000,
+    "emergency_capacity_individuals": 65,
+    "emergency_capacity_is_current_occupancy": false,
+    "research_breeding_pair_capacity": 2,
+    "public_ambassador_historically_named": "Mackenzie",
+    "public_ambassador_sex_historically_reported": "male",
+    "hours": "9 am–4 pm daily",
+    "keeper_talk": "2:45 pm on weekends and daily during school holidays",
+    "source": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/platypus-rescue-hq"
+  },
+  "observed_at": null,
+  "user_observation_verified": false,
+  "user_photo_count": 0,
+  "photos": [],
+  "gps": null,
+  "record_created_at": "2026-10-18",
+  "timezone": "Australia/Sydney",
+  "zoo_historical_research_group_size_feb_2025": 4,
+  "conservation_note": "UNSW population viability declines are model projections, not observed; 1987/2006 NSW survey comparison is historical and does not prove 2026 stability",
+  "royal_national_park_may_2026": {
+    "known_platypuses": 20,
+    "total_translocated_since_2023": 17,
+    "location_is_dubbo": false,
+    "source": "https://www.unsw.edu.au/newsroom/news/2026/05/platypus-population-expands-to-20-in-royal-national-park-latest-survey"
+  },
+  "sources": [
+    {
+      "type": "official_visitor",
+      "url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/platypus-rescue-hq"
+    },
+    {
+      "type": "official_opening",
+      "date": "2024-02-14",
+      "url": "https://www.environment.nsw.gov.au/news/state-of-the-art-platypus-rescue-hq-opens-in-dubbo"
+    },
+    {
+      "type": "taronga_research",
+      "date": "2025-02-12",
+      "url": "https://www.taronga.org.au/about/newsroom/posts/taronga-collaborates-with-international-partners-to-conserve-the-iconic-platypus"
+    },
+    {
+      "type": "taronga_research",
+      "date": "2025-10-08",
+      "url": "https://www.taronga.org.au/about/newsroom/posts/protecting-the-platypus"
+    },
+    {
+      "type": "iucn_context",
+      "url": "https://platypus.asn.au/conservation-status/"
+    },
+    {
+      "type": "federal_legal_status",
+      "date": "2026-08-18",
+      "url": "https://www.dcceew.gov.au/environment/biodiversity/threatened/nominations/species-not-prioritised-assessment"
+    },
+    {
+      "type": "2026_nsw_population_research",
+      "url": "https://doi.org/10.1071/AZ25060"
+    },
+    {
+      "type": "2026_rnp_monitoring",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/05/platypus-population-expands-to-20-in-royal-national-park-latest-survey"
+    },
+    {
+      "type": "ecology",
+      "url": "https://www.unsw.edu.au/research/platypus-conservation-initiative/ecology-and-evolution"
+    },
+    {
+      "type": "diet",
+      "url": "https://platypus.asn.au/platypus-diet-and-food-consumption/"
+    },
+    {
+      "type": "genomics",
+      "url": "https://www.nature.com/articles/nature06936"
+    },
+    {
+      "type": "fishing_law",
+      "url": "https://www.dpird.nsw.gov.au/fishing/recreational/fishing-rules-and-regs/perm-prohib-freshwater"
+    }
+  ]
+}

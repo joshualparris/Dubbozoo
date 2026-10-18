@@ -1,18 +1,19 @@
 {
   "review_date": "2026-10-18",
   "venue": "Taronga Western Plains Zoo, Dubbo, NSW",
-  "scope_note": "76 historical research entries incl. documented holdings, temporary rehab cases, historic zoo visitor aviary photo records and three unverified holdings. Not certified exhaustive since 1977.",
+  "scope_note": "89 working records with separate government-confirmed sanctuary holdings and visitor/photo historical candidates. Not 89 verified zoo collection species; not exhaustive over 1977-2026.",
   "source_map": "https://taronga.org.au/dubbo-zoo/map",
   "source_animals": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
   "summary": {
-    "inventory_entries": 76,
-    "guides_present": 76,
+    "inventory_entries": 89,
+    "guides_present": 89,
     "guides_missing": 0,
-    "dubbo_holding_unverified": 3,
-    "taxon_or_subspecies_unverified": 5,
+    "legacy_unverified_collection_holdings": 3,
+    "additional_historical_candidates_without_official_accession": 11,
+    "all_pending_formal_holding_evidence": 14,
+    "taxon_or_subspecies_unverified": 6,
     "rehabilitation_only_confirmed": 1,
-    "preliminary_aviary_photographic_evidence": 2,
-    "note": "Working documented historical set, not complete 1977-2026 holdings. Documented wild visitor, on-site photo, rehabilitation, and accessioned holding are distinct. Conservation category audits tracked separately."
+    "note": "89 researched historical entries, NOT a complete certified species census. Separated first-party holdings, 1995 retrospective diary, visitor photographs and unverified accession status."
   },
   "researched_species": [
     {
@@ -927,6 +928,149 @@
       "holding_evidence_status": "historical_aviary_photographic_evidence",
       "taxon_verification": "species_photo_identification_provisional",
       "historical_evidence_url": "https://www.australiasomuchtosee.com/2009dubbozoo2.htm"
+    },
+    {
+      "inventory_number": 77,
+      "common_name": "Bridled nailtail wallaby",
+      "scientific_name": "Onychogalea fraenata",
+      "guide": "docs/species/bridled-nailtail-wallaby-archival.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "confirmed_1996_nsw_parliament_sanctuary_holding",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.parliament.nsw.gov.au/hp/housepaper/15185/Questions%20and%20Answers%20No.%2042%20Wednesday%2030%20October%201996.pdf"
+    },
+    {
+      "inventory_number": 78,
+      "common_name": "Mala (rufous hare-wallaby)",
+      "scientific_name": "Lagorchestes hirsutus",
+      "guide": "docs/species/mala-rufous-hare-wallaby-archival.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "confirmed_national_recovery_plan_historical_holding",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.agriculture.gov.au/sites/default/files/documents/rufous-hare-wallaby.pdf"
+    },
+    {
+      "inventory_number": 79,
+      "common_name": "Collared peccary",
+      "scientific_name": "Dicotyles tajacu / Pecari tajacu",
+      "guide": "docs/species/collared-peccary-1990s.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_photo_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/media/collared-peccary-1999.893351/"
+    },
+    {
+      "inventory_number": 80,
+      "common_name": "Nilgai",
+      "scientific_name": "Boselaphus tragocamelus",
+      "guide": "docs/species/nilgai-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/"
+    },
+    {
+      "inventory_number": 81,
+      "common_name": "Sambar deer",
+      "scientific_name": "Rusa unicolor",
+      "guide": "docs/species/sambar-deer-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_photo_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/media/categories/taronga-western-plains-zoo.504/"
+    },
+    {
+      "inventory_number": 82,
+      "common_name": "Chital / spotted deer",
+      "scientific_name": "Axis axis",
+      "guide": "docs/species/chital-deer-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/twpz-updates.94704/page-5"
+    },
+    {
+      "inventory_number": 83,
+      "common_name": "Capybara (historic 1995 report)",
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "guide": "docs/species/capybara-1990s-dubbo.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/"
+    },
+    {
+      "inventory_number": 84,
+      "common_name": "Western grey kangaroo (historical)",
+      "scientific_name": "Macropus fuliginosus",
+      "guide": "docs/species/western-grey-kangaroo-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/"
+    },
+    {
+      "inventory_number": 85,
+      "common_name": "Whiptail wallaby",
+      "scientific_name": "Notamacropus parryi",
+      "guide": "docs/species/whiptail-wallaby-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/"
+    },
+    {
+      "inventory_number": 86,
+      "common_name": "Yellow-footed rock-wallaby",
+      "scientific_name": "Petrogale xanthopus",
+      "guide": "docs/species/yellow-footed-rock-wallaby-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/twpz-updates.94704/page-5"
+    },
+    {
+      "inventory_number": 87,
+      "common_name": "Eastern wallaroo (historic visitor label)",
+      "scientific_name": "Osphranter robustus",
+      "guide": "docs/species/eastern-wallaroo-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "regional_lineage_unresolved",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/"
+    },
+    {
+      "inventory_number": 88,
+      "common_name": "Domestic guinea pig",
+      "scientific_name": "Cavia porcellus",
+      "guide": "docs/species/domestic-guinea-pig-historical.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "historical_visitor_history_unverified_accession",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/"
+    },
+    {
+      "inventory_number": 89,
+      "common_name": "Leopard tortoise (Waterhole planned 2020)",
+      "scientific_name": "Stigmochelys pardalis",
+      "guide": "docs/species/leopard-tortoise-waterhole.md",
+      "record_type": "historical_research_no_user_photo",
+      "conservation_note": "IUCN not directly rechecked; see audit",
+      "holding_evidence_status": "primary_plan_secondary_visit_not_confirmed_arrival",
+      "taxon_verification": "species_label_researched_without_studbook",
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/world-meerkat-day"
     }
   ],
   "pending_map_labels": [],
@@ -934,17 +1078,86 @@
     {
       "number": 30,
       "name": "Indian peafowl",
-      "guide": "docs/species/indian-peafowl-holding-unverified.md"
+      "guide": "docs/species/indian-peafowl-holding-unverified.md",
+      "grade": "unverified"
     },
     {
       "number": 52,
       "name": "Smooth yabby",
-      "guide": "docs/species/smooth-yabby-holding-unverified.md"
+      "guide": "docs/species/smooth-yabby-holding-unverified.md",
+      "grade": "unverified"
     },
     {
       "number": 58,
       "name": "White-browed woodswallow",
-      "guide": "docs/species/white-browed-woodswallow-holding-unverified.md"
+      "guide": "docs/species/white-browed-woodswallow-holding-unverified.md",
+      "grade": "unverified"
+    },
+    {
+      "number": 79,
+      "name": "Collared peccary",
+      "guide": "docs/species/collared-peccary-1990s.md",
+      "grade": "historical_visitor_photo_unverified_accession"
+    },
+    {
+      "number": 80,
+      "name": "Nilgai",
+      "guide": "docs/species/nilgai-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 81,
+      "name": "Sambar deer",
+      "guide": "docs/species/sambar-deer-historical.md",
+      "grade": "historical_visitor_photo_unverified_accession"
+    },
+    {
+      "number": 82,
+      "name": "Chital / spotted deer",
+      "guide": "docs/species/chital-deer-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 83,
+      "name": "Capybara (historic 1995 report)",
+      "guide": "docs/species/capybara-1990s-dubbo.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 84,
+      "name": "Western grey kangaroo (historical)",
+      "guide": "docs/species/western-grey-kangaroo-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 85,
+      "name": "Whiptail wallaby",
+      "guide": "docs/species/whiptail-wallaby-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 86,
+      "name": "Yellow-footed rock-wallaby",
+      "guide": "docs/species/yellow-footed-rock-wallaby-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 87,
+      "name": "Eastern wallaroo (historic visitor label)",
+      "guide": "docs/species/eastern-wallaroo-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 88,
+      "name": "Domestic guinea pig",
+      "guide": "docs/species/domestic-guinea-pig-historical.md",
+      "grade": "historical_visitor_history_unverified_accession"
+    },
+    {
+      "number": 89,
+      "name": "Leopard tortoise (Waterhole planned 2020)",
+      "guide": "docs/species/leopard-tortoise-waterhole.md",
+      "grade": "primary_plan_secondary_visit_not_confirmed_arrival"
     }
   ],
   "pending_taxon_verifications": [
@@ -972,6 +1185,11 @@
       "number": 66,
       "name": "Dingo (historical)",
       "guide": "docs/species/dingo-historical.md"
+    },
+    {
+      "number": 87,
+      "name": "Eastern wallaroo (historic visitor label)",
+      "guide": "docs/species/eastern-wallaroo-historical.md"
     }
   ],
   "unverified_iucn_assessments_note": "IUCN source/date/status not individually verified for all 72 entries. Never infer conservation status from zoo history alone.",

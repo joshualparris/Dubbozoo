@@ -8,7 +8,8 @@
     "indirect_or_announcement_evidence": 3,
     "additional_government_or_assessor_evidence": 2,
     "not_applicable_or_taxon_not_resolved": 5,
-    "not_checked": 69
+    "not_checked": 68,
+    "primary_iucn_category_change_tables": 1
   },
   "entries": [
     {
@@ -939,13 +940,13 @@
       "number": 78,
       "name": "Mala (rufous hare-wallaby)",
       "guide": "docs/species/mala-rufous-hare-wallaby-archival.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
+      "assessment_status": "iucn_primary_category_change_table_not_full_species_assessment",
+      "assessed_taxon": "Lagorchestes hirsutus",
+      "iucn_category": "NT",
       "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+      "publication_year": 2025,
+      "source_url": "https://nc.iucnredlist.org/redlist/content/attachment_files/2025-1_RL_Table_7.pdf",
+      "evidence_note": "IUCN official 2025-1 status-change table explicitly lists VU to NT and marks G genuine. Not a directly retrieved individual species assessment, so publication year known but exact assessment date not read."
     },
     {
       "number": 79,

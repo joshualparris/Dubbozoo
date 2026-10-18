@@ -79,6 +79,8 @@ Four photographs of a **Galápagos giant tortoise**, five of **Asian elephants**
 
 ## Evidence-first AI research
 
+- [Question verification ledger: all 622 questions audited for review status](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md) · [machine-readable per-question index](data/question-verification-ledger-2026-10-18.json). This is **not** a claim that every answer was independently verified; only the explicitly linked primary-source subset received new source-text checks.
+
 - [AI deep research verification and question-resolution methodology](docs/AI-RESEARCH-EVIDENCE-ADOPTION-2026-10-18.md) — a practical method for validating the question atlas and refusing unsupported answers. This is a process specification, not proof that all claims were reviewed.
 
 ## Evidence standard

@@ -18,6 +18,19 @@ Every animal card has a real image URL, visible photographer and licence credit,
 
 ## Start here
 
+## 89 individual interactive animal websites
+
+Every animal research record now opens its own **shareable, mobile-friendly website**, not just a GitHub Markdown document. Examples:
+
+- [Addax](https://dubbozoo-research.vercel.app/animals/001-addax)
+- [African wild dog](https://dubbozoo-research.vercel.app/animals/004-african-wild-dog)
+- [Northern hairy-nosed wombat](https://dubbozoo-research.vercel.app/animals/073-northern-hairy-nosed-wombat)
+- [Leopard tortoise](https://dubbozoo-research.vercel.app/animals/089-leopard-tortoise)
+
+Each has a credited animal photo, tabs for ecology and complete deep research, its IUCN source/date/trend, relevant research questions, related animals, and a **private field observation notebook** with local save/export/delete. The 89 routes reuse one maintainable page template and the original species documents.
+
+**[Implementation and accuracy report](docs/INTERACTIVE-ANIMAL-WEBSITES-2026-10-18.md)** · [Full animal index](data/all-time-animal-inventory.json). These are 89 **research entries**, not authenticated biographies of 89 named captive individuals. The Vercel deployment should be manually playtested in a browser; successful source checks do not demonstrate every interaction works on Android.
+
 ## Research website · now deployed
 
 **[Open the Dubbozoo Research Portal](https://dubbozoo-research.vercel.app/)**. Vercel reported the first production deployment **READY** on 18 October 2026, with public access enabled; a live browser/HTTP visual acceptance test remains outstanding.

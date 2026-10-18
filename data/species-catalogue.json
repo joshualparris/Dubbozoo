@@ -9,7 +9,7 @@
     "guides_present": 72,
     "guides_missing": 0,
     "dubbo_holding_unverified": 4,
-    "taxon_or_subspecies_unverified": 7,
+    "taxon_or_subspecies_unverified": 6,
     "rehabilitation_only_confirmed": 1,
     "note": "Research guides cover a working historical record set, NOT a definitive all-time inventory. Unverified holdings remain explicitly separated from historically confirmed or rehabilitation-only records."
   },
@@ -136,15 +136,15 @@
     },
     {
       "inventory_number": 11,
-      "common_name": "Dromedary camel (map just says 'Camel')",
-      "scientific_name": null,
+      "common_name": "Dromedary (Arabian) camel",
+      "scientific_name": "Camelus dromedarius",
       "guide": "docs/species/camel-taxon-unverified.md",
       "record_type": "published_zoo_research_only",
-      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
-      "holding_evidence_status": "published_zoo_map_or_record",
-      "taxon_verification": "needs_species_or_subspecies_verification",
+      "conservation_note": "Domestic dromedary; IUCN wild camel category does not apply",
+      "holding_evidence_status": "dated_primary_taxon_exhibit_confirmed",
+      "taxon_verification": "species_identification_confirmed_from_taronga",
       "research_status": "guide_present",
-      "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
+      "historical_evidence_url": "https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day"
     },
     {
       "inventory_number": 12,
@@ -159,7 +159,7 @@
       "historical_evidence_url": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo"
     },
     {
-      "common_name": "Giraffe",
+      "common_name": "Giraffe (Giraffa, exact zoo taxon unverified)",
       "scientific_name": "Giraffa sp.",
       "guide": "docs/giraffe.md",
       "record_type": "photographed",
@@ -291,7 +291,7 @@
       "historical_evidence_url": "https://www.taronga.org.au/dubbo-zoo/map"
     },
     {
-      "common_name": "Asian elephant",
+      "common_name": "Asian elephant (including historic Sri Lankan-origin animals)",
       "scientific_name": "Elephas maximus",
       "guide": "docs/asian-elephant.md",
       "record_type": "photographed",
@@ -908,11 +908,6 @@
       "number": 2,
       "name": "African elephant",
       "guide": "docs/species/african-elephant-historical.md"
-    },
-    {
-      "number": 11,
-      "name": "Dromedary camel (map just says 'Camel')",
-      "guide": "docs/species/camel-taxon-unverified.md"
     },
     {
       "number": 14,

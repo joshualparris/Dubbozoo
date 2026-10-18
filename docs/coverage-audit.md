@@ -57,7 +57,7 @@ These new rows **do not automatically upgrade the formal collection census**. Mo
 
 ## Conservation accuracy, counted separately
 
-[The IUCN source-grade dataset](../data/iucn-assessment-audit-2026-10-18.json) now covers all 89 working entries, but **only 10 individual IUCN Red List records were directly checked** in the inherited audit, **one official IUCN category-change table was read for mala**, five have other indirect evidence, five are taxonomically unresolved/domestic inapplicable, and **68 remain without an independently reviewed source**. Some of the ten direct species assessments are older than the latest release. Never describe all 89 as verified/current IUCN categories.
+[The IUCN source-grade dataset](../data/iucn-assessment-audit-2026-10-18.json) now covers all 89 working entries, but **only 10 individual IUCN Red List records were directly checked** in the inherited audit, **one official IUCN category-change table was read for mala**, five have other indirect evidence, five are taxonomically unresolved/domestic inapplicable, and **58 have not had a taxon-specific source cross-check; eight further IUCN species assessment records were found through search index excerpts**. Some of the ten direct species assessments are older than the latest release. Never describe all 89 as verified/current IUCN categories.
 
 ## Historical completion: what is still impossible from available public evidence
 
@@ -68,3 +68,9 @@ These new rows **do not automatically upgrade the formal collection census**. Mo
 - Physical verification of live occupancy/health in 2026.
 
 [The prepared archival request](archival-records-request.md) has **not been sent**. A definitive all-ever collection claim requires evidence not yet obtained.
+
+## Correction to the old question atlas — dated scientific answers
+
+The original 622-question atlas was a generated research snapshot; it marked even [Q0007 African elephants](UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md) as 'unresolved' although the [IUCN 2022 African savanna elephant assessment](https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T181008073A223031019.en) gives **Endangered, decreasing** and the separate [forest elephant assessment](https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T181007989A181019888.en) gives **Critically Endangered, decreasing**. The corrected atlas now contains a specific answer or a precisely delimited source requirement for all 622 parent questions, but **only 49 have a dated source-text cross-check** and 573 need individual independent assessment. [Source-verification audit](QUESTION-VERIFICATION-STATUS-2026-10-18.md) · [machine-readable ledger](../data/question-verification-ledger-2026-10-18.json).
+
+Additional important corrections: [Banteng 2025 Critically Endangered](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T2888A46362970.en) supersedes 2016 EN; [Common Hippopotamus 2017 Vulnerable/Stable](https://doi.org/10.2305/IUCN.UK.2017-2.RLTS.T10103A18567364.en) rather than assuming decline from risk class; and [Black Rhinoceros remains CR though its 2012–18 observed wild numbers increased](https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list). The category dates and exact trends are graded in [IUCN audit](iucn-assessment-audit-2026-10-18.md).

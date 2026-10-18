@@ -31,3 +31,7 @@ Siri was herself a keeper-supported cub, as described in [Taronga's 2018 life-hi
 - [Taronga: Siri background (2018)](https://www.taronga.org.au/about/newsroom/posts/siri-the-cheetah-cub-continues-to-thrive)
 
 **Unknown:** zoo's current cheetah count, names in today's public habitat, any specific 2026 animal medical condition, personal observation date.
+
+## Taxon-matched conservation trend checked
+
+The [IUCN 2015 *Acinonyx jubatus* assessment](https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T219A50649567.en) reports **Vulnerable (VU), decreasing**, assessed 28 May 2014; its historical estimate **6,674 adult/independent adolescent animals** is **not a 2026 census**. The IUCN page points to a **newer 2024 VU assessment** that has not been independently read here; the 2015 trend should **not be presented as a freshly validated 2024 trend**. Habitat fragmentation, prey loss and illegal trade are key pressures.

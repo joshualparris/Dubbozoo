@@ -1,91 +1,76 @@
-# Historic Dubbo Zoo research audit — 18 October 2026
+# Dubbozoo historical research and verification audit — 18 October 2026
 
-This document records **new source checks**, corrects errors in prior versions of the list, and preserves unresolved verification tasks. A completed guide is **not** the same as a confirmed 2026 zoo holding or a complete IUCN assessment.
+## Executive result: what changed
 
-## Research dashboard
+The earlier **72-entry** working collection was expanded to **76 researched entries**, including four separately researched historic or photo-documented species. **Three** candidate Dubbo collection holdings remain unverified, rather than four. **Five** precise taxa / captive lineages remain unresolved, rather than six. This does **not** prove the collection contains exactly 76 species, and it is **not** a current exhibit count or a scientific certification.
 
-| Dimension | Result | Limitation |
-| --- | ---: | --- |
-| Working historic animal/exhibit entries | 72 | Not certified exhaustive from 1977 to 2026 |
-| Linked research guides | 72 | Varying depth, not independently peer-reviewed |
-| Unresearched entries on *this* list | 0 | Unknown historical species could still be missing |
-| Dubbo-specific holding not established | 4 | Not confirmed as zoo-owned/displayed, see below |
-| Historic Dubbo rehabilitation only | 1 | Explicitly not a permanent zoo exhibit |
-| Precise taxa/lineages unverified | 6 | Cannot assign subspecies-level IUCN ranking without confirmation |
+| Measure | Current result | Meaning |
+|---|---:|---|
+| Numbered working-inventory entries | 76 | Historical animal labels, domestic types and photo candidates; not 76 confirmed biological species |
+| Linked research profiles | 76 | A research document exists for each listed entry |
+| Managed Dubbo zoo holdings unconfirmed | 3 | Peafowl, smooth yabby and white-browed woodswallow |
+| Exact identity/lineage unresolved | 5 | Guineafowl, Galápagos giant tortoise, African forest buffalo, historic Bengal-labelled tiger, dingo |
+| New dated historical records | 4 | Northern hairy-nosed wombat, common wombat, superb parrot, diamond firetail |
+| Rehabilitation-only holding | 1 | Red kangaroo joeys treated at the Dubbo wildlife hospital |
+| 2009 public-aviary photo leads added | 2 | Superb parrot and diamond firetail; not keeper accession confirmations |
 
-[Numbered checklist](all-time-animal-inventory.md) · [Machine-readable historical records](../data/all-time-animal-inventory.json) · [Guide catalogue](../data/species-catalogue.json)
+[All 76 annotated animal records](all-time-animal-inventory.md) · [Source/verification status JSON](../data/all-time-animal-inventory.json) · [Individual IUCN audit](iucn-assessment-audit-2026-10-18.md)
 
-## Verified corrections to original 61-entry inventory
+## 1. The three remaining disputed managed holdings
 
-| # | Entry | New evidence | Updated classification |
-| ---: | --- | --- | --- |
-| 37 | Brush-tailed rock-wallaby | [2010–11 Taronga Appendix 4 transferred one male **to Dubbo**](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) | Historic Dubbo transfer confirmed, not current |
-| 43 | Malleefowl | [Taronga Regent Honeyeater report places malleefowl in Dubbo flight aviary](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) | Historic conservation-care confirmed |
-| 47 | Red kangaroo | [2024 Taronga hospital rescued Copper and Matilda](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays) | Rehabilitation only confirmed |
-| 48 | Red-necked wallaby | [Taronga keeper described Walter and Leila at Dubbo](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds) | Precise named species and historical exhibit confirmed |
-| 55 | Swamp wallaby | [2018 Taronga report documents breeding joeys](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough) | Separate species and historic exhibit confirmed |
-| 59 | White-winged chough | [Taronga documents birds in Dubbo flight aviary](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) | Conservation care confirmed |
+### #30 Indian peafowl — free-roaming presence reported, ownership not established
+A [January 2026 visitor account](https://www.zoochat.com/community/threads/finding-jr-thataussieguy-does-sydney.495831/) describes Indian peafowl freely wandering the Western Plains Zoo grounds. An [older archived encyclopaedia species list](https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Western_Plains_Zoo.html) likewise separates **free-ranging animals** from the formal zoo exhibits. **Supported:** historical and recent visitor reports of peafowl at the property. **Not supported:** a Taronga-owned breeding group or animal accession, 2026 numbers or officially managed collection. Peafowl can be free-ranging yet under human care; confirm directly with zoo holdings and husbandry.
 
-**Disambiguation:** [2013–14 Taronga annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2013-14.pdf) and [2022 Wadu newsletter](https://www.taronga.org.au/sites/default/files/content/documents/Tales_from_the_Wild_Newsletter_Issue_007_October_2022.pdf) describe Southern Hairy-nosed Wombat births **at Taronga Sydney**, not a verified Dubbo holding.
+### #52 Smooth yabby — reported on a visitor inventory, not a Taronga source
+A [July 2025 enthusiast species list](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-news-2025.492828/page-4) includes *Cherax destructor* under invertebrates, with its author noting the list was assembled from memory. **Supported:** a dated but non-authoritative species lead. **Not supported:** labelled zoo aquarium, accessioned captive yabbies, controlled breeding programme or exact scientific taxon. An incidental native yabby in a moat or pond should not be counted as a captive collection entry. Ask aquatic-life staff or seek a labelled aquarium/photo provenance.
 
-## Newly found historic species (11)
+### #58 White-browed woodswallow — photographed at Dubbo, captive status not established
+A [Wikimedia Commons photo](https://commons.wikimedia.org/wiki/File:White_Browed_Woodswallow_-_Artamus_superciliosus_(7088986763).jpg), traceable to photographer David Lochlin, describes *Artamus superciliosus* at Dubbo's Western Plains Zoo on **6 April 2006**, and provides geographic coordinates. **Supported:** a dated zoo-ground occurrence. **Not supported:** whether this bird was a wild visitor, part of a managed walk-through aviary, or a veterinary patient. A [2025 ZooChat early-morning walk recollection](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-news-2025.492828/page-4) is an additional lead, not a formal Taronga source. The prior Taronga-wide transfer table cannot establish which institution actually held it.
 
-| # | Species | Primary historical link | Interpretation |
-| ---: | --- | --- | --- |
-| 62 | [Waterbuck](../docs/species/waterbuck.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/sharing-genetics) | First-party historic record; not current inventory |
-| 63 | [Sitatunga](../docs/species/sitatunga.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/khewzi-moves-to-african-savannah-exhibit) | First-party historic record; not current inventory |
-| 64 | [African forest buffalo (historical)](../docs/species/african-forest-buffalo.md) | [Documented source](https://taronga.org.au/media/media-release/2018-07-11/mana-hippo-moves-new-home) | Zoo-held historic taxon; precise lineage unknown |
-| 65 | [Tiger historically labelled Bengal](../docs/species/bengal-tiger-historical.md) | [Documented source](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) | NSW parliamentary account (historic) |
-| 66 | [Dingo (historical)](../docs/species/dingo-historical.md) | [Documented source](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) | NSW parliamentary account (historic) |
-| 67 | [Maned wolf (historical)](../docs/species/maned-wolf-historical.md) | [Documented source](https://www.parliament.nsw.gov.au/tp/files/29171/tcsa_annual_report_2009.pdf) | First-party historic record; not current inventory |
-| 68 | [Brazilian tapir (historical)](../docs/species/brazilian-tapir-historical.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) | First-party historic record; not current inventory |
-| 69 | [Guanaco (historical)](../docs/species/guanaco-historical.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) | First-party historic record; not current inventory |
-| 70 | [Greater rhea (historical)](../docs/species/greater-rhea-historical.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) | First-party historic record; not current inventory |
-| 71 | [Patagonian mara / cavy (historical)](../docs/species/patagonian-mara-historical.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) | First-party historic record; not current inventory |
-| 72 | [Wapiti / elk (historical)](../docs/species/wapiti-historical.md) | [Documented source](https://www.taronga.org.au/about/newsroom/posts/wapiti-calf-an-early-christmas-present-for-the-zoo/) | First-party historic record; not current inventory |
+## 2. Previously disputed southern hairy-nosed wombat now supported
 
-### Significant newly uncovered historical context
+The original "Dubbo unverified" classification was based on **Taronga Sydney** birth records from 2013–14 and a 2022 Sydney newsletter; that narrower observation was correct but incomplete. An [Australasian Society of Zoo Keeping southern hairy-nosed wombat husbandry manual](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf) explicitly includes Western Plains Zoo in *Lasiorhinus latifrons* husbandry. Queensland [ministerial answers from September 1997](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf) say the planned colony was **not yet established then**. Those claims are compatible with a subsequent historical Dubbo holding, but leave first-arrival and breeding dates open.
 
-- [Taronga 2012 annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2011-12.pdf) identifies Dubbo Wapiti births, waterbuck/bison acquisitions and Guanaco movement, confirming that an all-time list derived from present maps was missing genuine former exhibits.
-- [A Taronga World Tapir Day keeper report](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) names two Brazilian Tapirs and cohabiting Guanaco, Greater Rhea and Patagonian Cavy, each absent from the old 61.
-- [Taronga's Savannah keeper note](https://www.taronga.org.au/about/newsroom/posts/khewzi-moves-to-african-savannah-exhibit) documents a **female sitatunga** and [an old hippo account](https://taronga.org.au/media/media-release/2018-07-11/mana-hippo-moves-new-home) documents **forest buffalo**.
-- [Taronga waterbuck genetic-sampling report](https://www.taronga.org.au/about/newsroom/posts/sharing-genetics) documents a male and scientific collection at Dubbo.
-- [NSW Parliamentary Hansard 2003](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) describes historical **Bengal-labelled tiger** and **dingo** exhibits; the old tiger label does not prove captive Bengal genetics.
-- [Taronga's 2008–09 annual report](https://www.parliament.nsw.gov.au/tp/files/29171/tcsa_annual_report_2009.pdf) mentions maned wolf husbandry at TWPZ. A 2015 [IUCN assessment](https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T4819A82316878.en) lists maned wolf Near Threatened, but warns its assessment needs updating.
+**Three distinct wombat species belong in separate entries:**
+- **#53 Southern hairy-nosed wombat (*L. latifrons*):** historical professional husbandry evidence. [IUCN re-assessed November 2024 and published **Least Concern in 2025**](https://doi.org/10.2305/IUCN.UK.2025-1.RLTS.T40555A258654451.en), replacing an older NT assessment.
+- **#73 Northern hairy-nosed wombat (*L. krefftii*):** [Queensland Parliament's 1996–97 records](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf) establish an actual male Dubbo holding and death, but **not** the proposed four-animal colony. A 1997 ministerial answer said none remained at Dubbo. [Detailed timeline](species/northern-hairy-nosed-wombat-historical.md).
+- **#74 Common/bare-nosed wombat (*Vombatus ursinus*):** [zoo-keeper husbandry manual](https://aszk.org.au/wp-content/uploads/2020/05/Wombat-Husbandry.pdf) describes a Dubbo historical captive/research facility, but exact annual inventory is still missing.
 
-## Four remaining Dubbo-holding questions
+**Research limit:** these records concern conservation husbandry; none establishes a public-facing wombat enclosure on a particular 2026 date.
 
-- [ ] **#30 Indian peafowl** — [research](../docs/species/indian-peafowl-holding-unverified.md); [currently weak/source-general evidence](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). Obtain dated Taronga Western Plains-specific holding or definitive negative response; avoid treating a free-roaming wild bird or Taronga Sydney patient as a Dubbo collection animal.
-- [ ] **#52 Smooth yabby** — [research](../docs/species/smooth-yabby-holding-unverified.md); [currently weak/source-general evidence](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). Obtain dated Taronga Western Plains-specific holding or definitive negative response; avoid treating a free-roaming wild bird or Taronga Sydney patient as a Dubbo collection animal.
-- [ ] **#53 Southern hairy-nosed wombat** — [research](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md); [currently weak/source-general evidence](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). Obtain dated Taronga Western Plains-specific holding or definitive negative response; avoid treating a free-roaming wild bird or Taronga Sydney patient as a Dubbo collection animal.
-- [ ] **#58 White-browed woodswallow** — [research](../docs/species/white-browed-woodswallow-holding-unverified.md); [currently weak/source-general evidence](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf). Obtain dated Taronga Western Plains-specific holding or definitive negative response; avoid treating a free-roaming wild bird or Taronga Sydney patient as a Dubbo collection animal.
+## 3. Two additional native birds from 2009 walk-through aviary photography
 
-## Six taxonomic questions
+- **#75 Superb parrot (*Polytelis swainsonii*)**: [geolocated, dated 15 October 2009 photographer record](https://commons.wikimedia.org/wiki/File:Polytelis_swainsonii_-Taronga_Western_Plains_Zoo,_near_Dubbo,_New_South_Wales,_Australia-8a.jpg) and [2009 visitor aviary report](https://www.australiasomuchtosee.com/2009dubbozoo2.htm). Credible historical aviary identification, **not** an accession.
+- **#76 Diamond firetail (*Stagonopleura guttata*)**: [2009 same visitor report](https://www.australiasomuchtosee.com/2009dubbozoo2.htm) photographs/captions species in the walk-through aviary. Visitor identification is plausible but not formal collection documentation.
 
-- [ ] **#2 African elephant** — [guide](../docs/species/african-elephant-historical.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
-- [ ] **#14 Helmeted guineafowl (map says 'Guineafowl')** — [guide](../docs/species/guineafowl-taxon-unverified.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
-- [ ] **#23 Galápagos tortoise** — [guide](../docs/galapagos-giant-tortoise.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
-- [ ] **#64 African forest buffalo (historical)** — [guide](../docs/species/african-forest-buffalo.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
-- [ ] **#65 Tiger historically labelled Bengal** — [guide](../docs/species/bengal-tiger-historical.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
-- [ ] **#66 Dingo (historical)** — [guide](../docs/species/dingo-historical.md). Exact scientific rank, lineage or original zoo identity unresolved; leave downstream status unassigned where appropriate.
+Neither bird has been claimed as photographed by the journal owner or still present in 2026.
 
-### Newly resolved species identity
+## 4. Historical African elephant identification resolved
 
-[Taronga keeper Ruby Cullen, 24 June 2023](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day), personally identifies camel Samera as *Camelus dromedarius* and dates her arrival at Dubbo to 2007. The historic camel taxon is confirmed for this animal; don't infer the identity of all other old camel records.
+A [2005 Administrative Appeals Tribunal record](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage) uses *Loxodonta africana* for African elephants held at Dubbo, corroborated by [Taronga's 2008–09 annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2008-09.pdf) referring to **Cuddles and Yum Yum**. This resolves the **species-level** ambiguity of the historical record. It does not supply individual genetic/ancestry records for every elephant the zoo held. The [IUCN's 2021 split](https://iucn.org/news/species/202103/african-elephant-species-now-endangered-and-critically-endangered-iucn-red-list) separates African savanna elephants (EN) from African forest elephants (CR).
 
-## Scientific validation still outstanding
+## 5. Five taxonomic and lineage verification tasks still open
 
-- An independently source-checked **IUCN assessment URL, date, taxon rank, status and population-unit provenance for every one of the 72 entries** is **not yet available**. Individual guides cite IUCN/Taronga unevenly. This task cannot truthfully be ticked for all entries based only on conservation text.
-- The [IUCN's 2023 update](https://iucn.org/press-release/202312/freshwater-fish-highlight-escalating-climate-impacts-species-iucn-red-list) lists **Scimitar-horned Oryx as Endangered (EN) after reintroduction**, not 'Extinct in the Wild' as historic material or 'Critically Endangered' as one later Taronga news item says. See [reconciled guide](species/scimitar-horned-oryx.md).
-- Giraffe revised 2025 taxonomy, older plains zebra names, forest buffalo taxon status and historical Bengal-labelled tigers need especially careful historical-versus-current mapping.
-- Population totals across captive holdings, wild all-ages counts and 'mature individuals' should never be added or compared directly.
+1. **#14 Guineafowl:** historical map says generic "Guineafowl"; confirm *Numida meleagris* versus other members of Numididae from keeper inventory or legible original enclosure label.
+2. **#23 Galápagos giant tortoise:** multiple *Chelonoidis* island species; coat/shell alone cannot verify captive island ancestry, genetic or studbook evidence required.
+3. **#64 African forest buffalo:** historical Taronga label may mean *Syncerus caffer nanus*, but current buffalo taxonomy and precise parentage need accession evidence.
+4. **#65 Bengal-labelled tiger:** NSW parliamentary narrative supports a historic Bengal tiger display, **not** proven genetic purity or modern subspecies.
+5. **#66 Dingo:** historical animal holding confirmed from NSW parliamentary recollection, but *Canis dingo* versus *Canis familiaris dingo* conventions and the specific animals' ancestry must not be guessed.
 
-## To finish the original 'all animals ever' request
+**Resolved since previous audit:** Samera the Dubbo [Arabian dromedary camel](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day), red-necked and swamp wallaby historical species identities, and the historical *Loxodonta africana* record.
 
-Get **Taronga Dubbo-only historical animal collection/ARKS/ZIMS accession-and-transfer inventories covering 1977–2026**, with species-level dates and the treatment of temporary hospital patients, sanctuary animals, historic signage and zoo wildlife. Scan old maps from the 1980s–2000s and cross-check every claimed taxon. Without these documents a publicly assembled list is necessarily a **minimum documented set, not a definitive exhaustive total**.
+## 6. Scientific conservation audit: do not conflate guide coverage and IUCN verification
 
-**Additional candidate leads, not added as verified species:** collared peccary (1990s visitor photos), nilgai (historical exhibit discussions), South American capybara, Indian peafowl, smooth yabby, and formerly used generic labels that may disguise multiple taxa. Each needs primary Dubbo collection evidence.
+The [76-row source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) separates **10 directly checked IUCN assessment records**, **three IUCN announcement/secondary-source confirmations**, **four domestic or taxonomically unresolved records**, and **59 still lacking an individually checked primary assessment**. At least some directly checked records date to 2016–2022 and therefore have **not been certified the latest** on IUCN 2026-1. No overall "all 76 statuses verified" claim is warranted.
 
-## Research handoff: original archival records
+Important direct findings: [southern hairy-nosed wombat LC 2025](https://doi.org/10.2305/IUCN.UK.2025-1.RLTS.T40555A258654451.en); [plains zebra *Equus quagga* NT 2016](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T41013A45172424.en) even though Taronga's current public page says LC; [white rhinoceros NT 2020](https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T4185A45813880.en) at species rank; [scimitar-horned oryx EN 2023](https://iucn.org/press-release/202312/freshwater-fish-highlight-escalating-climate-impacts-species-iucn-red-list), after reintroduction.
 
-[Prepared a precise, **unsent** archive enquiry and research checklist](archival-records-request.md) for Taronga's historical Dubbo species holdings and additional NSW library visitor pamphlets. No archival reply or complete ARKS/ZIMS file has been obtained. Until it is obtained, the **72-entry set remains an evidence-backed working sample**, not a certified complete all-time collection.
+IUCN status, Australian EPBC status, NSW legislation and wild population estimates must remain distinct columns. Wild populations of all ages, mature breeding individuals and zoo headcounts are *not interchangeable*.
+
+## 7. What is still needed for a real 1977–2026 all-ever catalogue
+
+Taronga's **year-by-year Western Plains Zoo-only accession and species holdings** archives, including pre-digital records (possibly later ARKS/ZIMS), animal transfers, printed maps, wildlife hospital and conservation programme species, and separation of Taronga Zoo Sydney from Dubbo. Only a verified union of those yearly taxon lists could prove an exhaustive historic total. **76 records are not asserted to be that total.**
+
+A revised **unsent** archival enquiry is in [archival-records-request.md](archival-records-request.md); it requests species-level records, not private individual-animal veterinary files. NSW library tourism pamphlets, Taronga governance publications, original keeper records and older maps remain useful alternatives if a complete digital inventory isn't available.
+
+**Audit standard:** date-stamped source; location; taxon/rank; evidence category (actual accession, archival history, display map, rehab patient, sanctuary, dated photo or secondary report); verified first/last presence *only where available*; biological and conservation notes distinct from in-person observations.

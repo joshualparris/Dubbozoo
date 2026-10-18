@@ -61,7 +61,7 @@ A [2005 Administrative Appeals Tribunal record](https://www.animallaw.info/case/
 
 ## 6. Scientific conservation audit: do not conflate guide coverage and IUCN verification
 
-The [76-row source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) separates **10 directly checked IUCN assessment records**, **three IUCN announcement/secondary-source confirmations**, **four domestic or taxonomically unresolved records**, and **59 still lacking an individually checked primary assessment**. At least some directly checked records date to 2016–2022 and therefore have **not been certified the latest** on IUCN 2026-1. No overall "all 76 statuses verified" claim is warranted.
+The [76-row source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) separates **10 directly checked IUCN assessment records**, **five announcement, government, assessor-bibliography or secondary confirmations**, **four domestic or taxonomically unresolved records**, and **57 still lacking an individually checked primary assessment**. At least some directly checked records date to 2016–2022 and therefore have **not been certified the latest** on IUCN 2026-1. No overall "all 76 statuses verified" claim is warranted.
 
 Important direct findings: [southern hairy-nosed wombat LC 2025](https://doi.org/10.2305/IUCN.UK.2025-1.RLTS.T40555A258654451.en); [plains zebra *Equus quagga* NT 2016](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T41013A45172424.en) even though Taronga's current public page says LC; [white rhinoceros NT 2020](https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T4185A45813880.en) at species rank; [scimitar-horned oryx EN 2023](https://iucn.org/press-release/202312/freshwater-fish-highlight-escalating-climate-impacts-species-iucn-red-list), after reintroduction.
 
@@ -74,3 +74,8 @@ Taronga's **year-by-year Western Plains Zoo-only accession and species holdings*
 A revised **unsent** archival enquiry is in [archival-records-request.md](archival-records-request.md); it requests species-level records, not private individual-animal veterinary files. NSW library tourism pamphlets, Taronga governance publications, original keeper records and older maps remain useful alternatives if a complete digital inventory isn't available.
 
 **Audit standard:** date-stamped source; location; taxon/rank; evidence category (actual accession, archival history, display map, rehab patient, sanctuary, dated photo or secondary report); verified first/last presence *only where available*; biological and conservation notes distinct from in-person observations.
+
+## Latest science evidence additions
+
+- [Common wombat 2025 IUCN assessment authors' Western Sydney University record](https://researchers.westernsydney.edu.au/en/publications/vombatus-ursinus-the-iucn-red-list-of-threatened-species-2025/) verifies LC with source DOI and assessed-year 2024, but is **not a directly opened IUCN Red List portal record**.
+- [ACT Government's 2024 Diamond Firetail conservation advice](https://legislation.act.gov.au/DownloadFile/ni/2024-251/current/PDF/2024-251.PDF) cites global IUCN VU (2022) and distinct Australian/ACT/NSW VU legal listings.

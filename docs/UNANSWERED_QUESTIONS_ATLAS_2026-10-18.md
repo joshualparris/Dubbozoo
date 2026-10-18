@@ -3219,3 +3219,901 @@
 2. Who is authorised to release relevant husbandry records?
 3. How should uncertain species aliases and duplicate individuals be reconciled?
 
+
+
+---
+
+## File-by-file audit: principal research guides (batch A)
+
+### README.md
+
+0 literal questions; 4 explicit evidence-gap lines.
+
+**Q0269. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "Photographed subjects: African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one probable meerkat. The dates and named individuals in the new photos rem"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # Dubbozoo — a researched wildlife field journal?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0270. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "— 15 guides and 25 map-listed labels still pending verification and deeper research."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # Dubbozoo — a researched wildlife field journal?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0271. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "Research status: 15 deeply researched; 46 still pending, including 12 entries requiring primary-source verification. Covers current zoo maps, historical publications and behind-the-scen"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # Dubbozoo — a researched wildlife field journal?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0272. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "Unknown: not established (e.g. date, keeper names, pack membership, individual age or sex)."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # Dubbozoo — a researched wildlife field journal?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+### docs/african-lion.md
+
+3 literal questions; 2 explicit evidence-gap lines.
+
+**Q0273. What resolves this explicit evidence gap in # African lion — Dubbo Zoo researched guide: "Compare the posture and faces of individuals, while avoiding unverified sex, age or family claims."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # African lion — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0274. Do you see scent-marking, grooming, resting or moving together?**
+
+**Best answer — supported or qualified:** Describe what is visible rather than assuming motives. This is source commentary rather than a new confirmed personal observation.
+
+**Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # African lion — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0275. Can you locate areas where an animal can withdraw from crowds?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # African lion — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0276. Why might the presence of lions indicate a need for adequate wild prey and large connected landscapes?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # African lion — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0277. What resolves this explicit evidence gap in # African lion — Dubbo Zoo researched guide: "Not established: current Dubbo pride membership, birth histories, individual animal identities, a personal lion sighting."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # African lion — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/african-wild-dog.md
+
+5 literal questions; 2 explicit evidence-gap lines.
+
+**Q0278. What resolves this explicit evidence gap in # African wild dog — Lycaon pictus: "The IUCN notes that some apparent population increases since older assessments are from discovering previously unknown packs rather than verified recovery. [IUCN assessment][iucn]"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0279. What resolves this explicit evidence gap in # African wild dog — Lycaon pictus: "Unknown as of this research: names, exact age, sex, parentage, number of dogs currently housed, and whether the 2024 building works are fully completed. These should come from a keeper "?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0280. Which individuals were in the enclosure on the date of this visit, and how can their markings be identified reliably?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0281. How are food-sharing and group feeding behaviours managed here?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0282. Have enclosure/viewing renovations been completed, and which features support natural behaviours?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0283. Which regional zoo breeding or genetic-management program does the pack currently participate in?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+**Q0284. How does Taronga currently support wild painted dog conservation on the ground?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
+
+**Three further questions:**
+1. Which dated species- and region-specific assessment tests the claim about # African wild dog — Lycaon pictus?
+2. What evidence separates observed outcomes from modeled or predicted outcomes?
+3. What result would demonstrate a causal conservation benefit rather than an association?
+
+### docs/all-time-animal-inventory.md
+
+0 literal questions; 3 explicit evidence-gap lines.
+
+**Q0285. What resolves this explicit evidence gap in # All-time Dubbo Zoo animal inventory — numbered research checklist: "distinct checklist entries: 15 with deep species guides, 46 not yet deeply researched. 12 entries presently rely only on a secondary list and require primary confirmation. A name on a m"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/all-time-animal-inventory.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/all-time-animal-inventory.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # All-time Dubbo Zoo animal inventory — numbered research ch?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0286. What resolves this explicit evidence gap in # All-time Dubbo Zoo animal inventory — numbered research checklist: "⚠️ Secondary-list only or exact taxon unverified; check against Taronga's archival holdings."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/all-time-animal-inventory.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/all-time-animal-inventory.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # All-time Dubbo Zoo animal inventory — numbered research ch?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0287. What resolves this explicit evidence gap in # All-time Dubbo Zoo animal inventory — numbered research checklist: "This list mixes species names and a small number of unresolved broad exhibit labels, and thus 61 is a catalogue-entry count, not a validated biological species count."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/all-time-animal-inventory.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/all-time-animal-inventory.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # All-time Dubbo Zoo animal inventory — numbered research ch?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/asian-elephant.md
+
+9 literal questions; 2 explicit evidence-gap lines.
+
+**Q0288. Which parts of the trunk appear useful for smelling versus grasping?**
+
+**Best answer — answered species-level:** Elephant trunks manipulate food and water and convey touch, smell and signals; Asian elephants generally have smaller ears than African savannah elephants.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0289. How does an elephant cool itself with ears, water, dirt and shade?**
+
+**Best answer — answered species-level:** Elephant trunks manipulate food and water and convey touch, smell and signals; Asian elephants generally have smaller ears than African savannah elephants.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0290. What is the difference between a social family group and an animal's individual identity?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0291. How do roads and farms interrupt an elephant's seasonal movements?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0292. What resolves this explicit evidence gap in # Asian elephant — Dubbo Zoo deep research guide: "Not established: personally seen animals, October 2026 group composition, enclosure occupancy or a specific animal's clinical status."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0293. What resolves this explicit evidence gap in # Asian elephant — Dubbo Zoo deep research guide: "Sexual differences are nuanced: Asian females seldom develop externally large tusks; males may also be tuskless. Relative body size and tusks alone cannot confirm the sexes of these two"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0294. How do the ears and trunk differ from an African elephant's?**
+
+**Best answer — answered species-level:** Elephant trunks manipulate food and water and convey touch, smell and signals; Asian elephants generally have smaller ears than African savannah elephants.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0295. How can a trunk help an elephant grasp, smell, communicate and transfer water?**
+
+**Best answer — answered species-level:** Elephant trunks manipulate food and water and convey touch, smell and signals; Asian elephants generally have smaller ears than African savannah elephants.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0296. Can you see two elephants clearly?**
+
+**Best answer — supported or qualified:** Do you have enough evidence to name either? This is source commentary rather than a new confirmed personal observation.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0297. What are the fence, pool/wallow and tall poles for?**
+
+**Best answer — supported or qualified:** If uncertain, ask a keeper. This is source commentary rather than a new confirmed personal observation.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0298. Why do elephants need movement corridors in their wild habitats?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Asian elephant — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/black-rhinoceros.md
+
+0 literal questions; 0 explicit evidence-gap lines.
+
+### docs/cheetah.md
+
+4 literal questions; 1 explicit evidence-gap lines.
+
+**Q0299. Can you see dark eye-to-mouth marks and solid round spots?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Cheetah — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0300. How do the tail, shoulders and limbs differ from a lion's?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Cheetah — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0301. How much space would a long-ranging carnivore need outside protected areas?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Cheetah — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0302. What can and cannot be learned from an old birth announcement?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Cheetah — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0303. What resolves this explicit evidence gap in # Cheetah — Dubbo Zoo deep research guide: "Unknown: zoo's current cheetah count, names in today's public habitat, any specific 2026 animal medical condition, personal observation date."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Cheetah — Dubbo Zoo deep research guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/common-hippopotamus.md
+
+4 literal questions; 1 explicit evidence-gap lines.
+
+**Q0304. Can you find the position of the nostrils, ears and eyes?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Common hippopotamus — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0305. Is an animal resting, grazing or moving through the pool?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Common hippopotamus — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0306. What fresh-water resources must be conserved to support wild hippos and other species?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Common hippopotamus — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0307. How can hippo behaviour that seems slow or gentle still require strict distance and barriers?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Common hippopotamus — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0308. What resolves this explicit evidence gap in # Common hippopotamus — Dubbo Zoo researched guide: "Unknown: animals currently visible, current zoo herd size, which animals a visitor has seen."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Common hippopotamus — Dubbo Zoo researched guide?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/coverage-audit.md
+
+0 literal questions; 4 explicit evidence-gap lines.
+
+**Q0309. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Galápagos tortoise (Chelonoidis complex) | | Yes, four photos; exact lineage unknown | Status not assigned without island taxon |"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Dubbozoo species coverage audit — 18 October 2026?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0310. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "These are not yet complete species guides. Some require a keeper or official animal page to verify the exact species represented by a map label."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Dubbozoo species coverage audit — 18 October 2026?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0311. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Find an IUCN species-specific assessment and record status with year, scope and metric, or explicitly document unresolved source conflicts."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Dubbozoo species coverage audit — 18 October 2026?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0312. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Giraffe: 2025 four-species taxonomy; unknown Dubbo animals' exact lineage."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Dubbozoo species coverage audit — 18 October 2026?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/galapagos-giant-tortoise.md
+
+6 literal questions; 3 explicit evidence-gap lines.
+
+**Q0313. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "Identity: Galápagos giant tortoise, Chelonoidis Galápagos complex, exact island lineage/accepted rank unverified."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0314. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "Observation: four supplied photographs of one apparent large adult-sized animal; photographed animal's sex, age and name unknown."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0315. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "This is best treated as a Galápagos tortoise sighting (high confidence given Dubbo exhibit context), not an Aldabra giant tortoise: Taronga's 2023 primary source records Galápagos torto"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0316. Species or species complex?**
+
+**Best answer — supported or qualified:** The taxonomy is unsettled This is source commentary rather than a new confirmed personal observation.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0317. Is the shell more domed or saddle-shaped?**
+
+**Best answer — supported or qualified:** Why might a tortoise need to reach different plants? This is source commentary rather than a new confirmed personal observation.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0318. Can you spot the scutes (large plates) and strong front legs?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0319. How might swallowing fruit help move seeds across an island?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0320. Why do a 50-year-old tortoise and a five-year-old tortoise need different care?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0321. Why could protecting eggs from rats be even more important than protecting strong adults?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Galápagos giant tortoises at Dubbo — evidence-led field gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/giraffe.md
+
+5 literal questions; 2 explicit evidence-gap lines.
+
+**Q0322. Can you find the two small ossicones on the giraffe's head?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0323. How many giraffes can you see without double-counting those hidden behind trees?**
+
+**Best answer — qualified observation:** The widest submitted frame shows at least six distinguishable giraffes; this is not the full current zoo census.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0324. Can you describe one animal's coat pattern so you could try to recognise it again?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0325. Where do you think a long tongue is useful when browsing leaves?**
+
+**Best answer — not photographically verified:** Audio cannot be recovered from these still photographs. Siamang duets are documented by keepers, not established by the supplied stills.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0326. Why is protecting giraffes in Africa, as well as caring for them in zoos, important?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0327. What resolves this explicit evidence gap in # Giraffes at Taronga Western Plains Zoo — researched field guide: "Unknown: sex, individuals' names, genetic lineage, birth dates, exhibit identity, photograph capture date, live zoo herd count."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0328. What resolves this explicit evidence gap in # Giraffes at Taronga Western Plains Zoo — researched field guide: "Photo archive: SHA-256 values are retained in ; binaries are not yet in GitHub. Do not misrepresent a missing image as displayed."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Giraffes at Taronga Western Plains Zoo — researched field ?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/greater-one-horned-rhinoceros.md
+
+5 literal questions; 0 explicit evidence-gap lines.
+
+**Q0329. What is documented at Dubbo?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Greater one-horned rhinoceros — Dubbo Zoo deep research gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0330. How does one horn differ from the two-horned African species?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Greater one-horned rhinoceros — Dubbo Zoo deep research gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0331. Does the animal browse, graze or take aquatic vegetation?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Greater one-horned rhinoceros — Dubbo Zoo deep research gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0332. Where does it have opportunities to wallow, shade and withdraw?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Greater one-horned rhinoceros — Dubbo Zoo deep research gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0333. Why does a recovering species remain Vulnerable?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Greater one-horned rhinoceros — Dubbo Zoo deep research gu?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/meerkat.md
+
+4 literal questions; 1 explicit evidence-gap lines.
+
+**Q0334. What resolves this explicit evidence gap in # Meerkats at Taronga Western Plains Zoo — evidence-led field guide: "See . No photo is publicly displayed because a recognisable child appears and publication rights are unknown."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Meerkats at Taronga Western Plains Zoo — evidence-led fiel?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0335. Is one looking up while another digs?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Meerkats at Taronga Western Plains Zoo — evidence-led fiel?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0336. Where are burrow openings, shade and warm spots?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Meerkats at Taronga Western Plains Zoo — evidence-led fiel?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0337. Can you spot darker patches around the eyes and stripes on the back?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Meerkats at Taronga Western Plains Zoo — evidence-led fiel?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0338. If you hear calls, can you describe them without guessing what each call means?**
+
+**Best answer — not photographically verified:** Audio cannot be recovered from these still photographs. Siamang duets are documented by keepers, not established by the supplied stills.
+
+**Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Meerkats at Taronga Western Plains Zoo — evidence-led fiel?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+### docs/plains-zebra.md
+
+4 literal questions; 2 explicit evidence-gap lines.
+
+**Q0339. What resolves this explicit evidence gap in # Plains zebra — Dubbo Zoo deep research and taxonomy note: "Taronga's 2024 zebra foal story describes pressures such as livestock competition, drought and hunting and its Beads for Wildlife / Northern Rangelands Trust community partnership in no"?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Plains zebra — Dubbo Zoo deep research and taxonomy note?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0340. Can you follow an individual's stripe pattern across neck, rump and legs?**
+
+**Best answer — needs an actual observation:** This is a field exercise, not evidence an animal actually performed this behaviour. A date-stamped photo, video or recorded field note is needed.
+
+**Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Plains zebra — Dubbo Zoo deep research and taxonomy note?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0341. Are zebras grazing or simply standing near another species?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Plains zebra — Dubbo Zoo deep research and taxonomy note?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0342. What is gained by moving as a herd and what can it cost when pasture is scarce?**
+
+**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+
+**Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Plains zebra — Dubbo Zoo deep research and taxonomy note?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0343. Why does a scientific name or IUCN category need a dated taxonomic source?**
+
+**Best answer — general explanation; test needed:** The source guide discusses relevant ecology and adaptations, but does not contain a measured, individual-specific answer to this question. Consult its primary links before treating a general explanation as a confirmed observation.
+
+**Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Plains zebra — Dubbo Zoo deep research and taxonomy note?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+
+**Q0344. What resolves this explicit evidence gap in # Plains zebra — Dubbo Zoo deep research and taxonomy note: "Unresolved: precise current IUCN listing under matching accepted taxonomy, current zoo numbers or individual names."?**
+
+**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+
+**Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
+
+**Three further questions:**
+1. What original dated source or observation would verify this for # Plains zebra — Dubbo Zoo deep research and taxonomy note?
+2. Which competing explanation or taxonomic interpretation needs ruling out?
+3. How should the confidence, individual identity and photo provenance be recorded before publication?
+

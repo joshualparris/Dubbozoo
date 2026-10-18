@@ -52,6 +52,30 @@
       "historical_animal_claim": false
     },
     {
+      "number": 5,
+      "file": "Barbary sheep (13945311862).jpg",
+      "author": "Chi King",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Barbary_sheep_(13945311862).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbary_sheep_(13945311862).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 6,
+      "file": "Black-and-white ruffed lemur.jpg",
+      "author": "Gavinevans",
+      "licence": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Black-and-white_ruffed_lemur.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black-and-white_ruffed_lemur.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
       "number": 7,
       "file": "Black rhino.jpg",
       "author": "Matthew Field",
@@ -109,6 +133,18 @@
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Camelus_dromedarius_in_Saudi_Arabia_(8400052348).jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "manually confirmed Commons file licence and subject via public file description",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 12,
+      "file": "Eastern Bongo at Jacksonville Zoo.jpg",
+      "author": "amateur photography by michel",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Eastern_Bongo_at_Jacksonville_Zoo.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Bongo_at_Jacksonville_Zoo.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
       "historical_animal_claim": false
     },
     {
@@ -388,6 +424,30 @@
       "historical_animal_claim": false
     },
     {
+      "number": 37,
+      "file": "Brush-tailed Rock-wallaby.jpg",
+      "author": "Glen Fergus",
+      "licence": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Brush-tailed_Rock-wallaby.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brush-tailed_Rock-wallaby.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 38,
+      "file": "Eastern Whipbird.jpg",
+      "author": "Greg Miles",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Eastern_Whipbird.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Whipbird.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
       "number": 39,
       "file": "Dromaius novaehollandiae.jpg",
       "author": "Dezidor",
@@ -400,6 +460,18 @@
       "historical_animal_claim": false
     },
     {
+      "number": 40,
+      "file": "Greater bilby.jpg",
+      "author": "Sean Kelleher",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Greater_bilby.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater_bilby.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
       "number": 41,
       "file": "Phascolarctos cinereus (23454893093).jpg",
       "author": "Sean Kelleher",
@@ -407,6 +479,138 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
       "file_page": "https://commons.wikimedia.org/wiki/File:Phascolarctos_cinereus_(23454893093).jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phascolarctos_cinereus_(23454893093).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 42,
+      "file": "Little Lorikeet (Glossopsitta pusilla) (10244005154).jpg",
+      "author": "Bernard DUPONT",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Little_Lorikeet_(Glossopsitta_pusilla)_(10244005154).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Little_Lorikeet_(Glossopsitta_pusilla)_(10244005154).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 44,
+      "file": "Plains-wanderer (Pedionomus torquatus) (30547431043).jpg",
+      "author": "Dominic Sherony",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Plains-wanderer_(Pedionomus_torquatus)_(30547431043).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plains-wanderer_(Pedionomus_torquatus)_(30547431043).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 46,
+      "file": "Setonix brachyurus.jpg",
+      "author": "GregTheBusker",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Setonix_brachyurus.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Setonix_brachyurus.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 47,
+      "file": "Red kangaroo at the Detroit Zoo.jpg",
+      "author": "Scott Calleja",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Red_kangaroo_at_the_Detroit_Zoo.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_kangaroo_at_the_Detroit_Zoo.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 48,
+      "file": "Notamacropus rufogriseus, Zoo Košice, Košice, 2026 (2).jpg",
+      "author": "Antimuonium",
+      "licence": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Notamacropus_rufogriseus%2C_Zoo_Ko%C5%A1ice%2C_Ko%C5%A1ice%2C_2026_(2).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Notamacropus_rufogriseus%2C_Zoo_Ko%C5%A1ice%2C_Ko%C5%A1ice%2C_2026_(2).jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 49,
+      "file": "Regent Honeyeater 1.jpg",
+      "author": "Mark Gillow",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Regent_Honeyeater_1.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Regent_Honeyeater_1.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 51,
+      "file": "Tachyglossus aculeatus 1.jpg",
+      "author": "Donald Hobern",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Tachyglossus_aculeatus_1.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tachyglossus_aculeatus_1.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 52,
+      "file": "Cherax destructor.jpg",
+      "author": "TarnishedPath",
+      "licence": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Cherax_destructor.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cherax_destructor.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 53,
+      "file": "Southern Hairy-Nosed Wombat.jpg",
+      "author": "Abi Skipp",
+      "licence": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Southern_Hairy-Nosed_Wombat.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Southern_Hairy-Nosed_Wombat.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 55,
+      "file": "Wallabia bicolor 1.jpg",
+      "author": "No Dust",
+      "licence": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Wallabia_bicolor_1.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wallabia_bicolor_1.jpg?width=860",
+      "source": "Wikimedia Commons",
+      "method": "manually source-checked free Commons image",
+      "historical_animal_claim": false
+    },
+    {
+      "number": 56,
+      "file": "Sarcophilus harrisii (23974379412).jpg",
+      "author": "Sean Kelleher",
+      "licence": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "file_page": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_(23974379412).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarcophilus_harrisii_(23974379412).jpg?width=860",
       "source": "Wikimedia Commons",
       "method": "manually source-checked free Commons image",
       "historical_animal_claim": false

@@ -33,3 +33,8 @@ Taronga's **8 August 2024** Dubbo keeper report states it first acquired banteng
 2. [Supplementary zoo/source record](https://www.taronga.org.au/about/newsroom/posts/raising-a-banteng)
 
 [Current Dubbo map](https://www.taronga.org.au/dubbo-zoo/map) · [Taronga animal directory](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). Last reviewed 18 October 2026. **Open questions:** current 2026 holding status (if historical), original taxon/subspecies, current IUCN assessment date, whether photographed by the journal owner.
+
+## Critical conservation update — IUCN 2025 CR supersedes the older EN label
+
+The [IUCN's previous 2016 *Bos javanicus* Red List entry](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T2888A46362970.en) explicitly displays **"Latest assessment 2025 — Critically Endangered (CR)"**. A [2026 peer-reviewed Cambodia mammal study](https://www.sciencedirect.com/science/article/abs/pii/S1617138126001342) independently calls the banteng **Critically Endangered**. The older IUCN 2016 **Endangered** category and decreasing trend therefore refer to an **outdated assessment**, and the first paragraph of this guide should not be reused as today's status without this update. The **2025 detailed IUCN criterion, assessment date and current trend have not yet been independently read**; older IUCN data documented a decreasing trend. Never infer the exact conservation status of captive hybrid/genetic lineages without accession details.
+

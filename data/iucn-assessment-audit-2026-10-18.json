@@ -3,12 +3,12 @@
   "red_list_platform_version": "2026-1",
   "method": "Each entry distinguishes a checked IUCN page vs announcement vs indirect reference by original IUCN assessment authors or government. Only direct Red List records are counted as primary direct IUCN checks. Date/rank verification required for unverified entries; never infer newer Red List statuses from EPBC/NSW legal categories.",
   "summary": {
-    "total": 76,
+    "total": 89,
     "primary_iucn_lookups": 10,
     "indirect_or_announcement_evidence": 3,
-    "not_applicable_or_taxon_not_resolved": 4,
-    "not_checked": 57,
-    "additional_government_or_assessor_evidence": 2
+    "additional_government_or_assessor_evidence": 2,
+    "not_applicable_or_taxon_not_resolved": 5,
+    "not_checked": 69
   },
   "entries": [
     {
@@ -922,6 +922,162 @@
       "publication_year": 2022,
       "source_url": "https://legislation.act.gov.au/DownloadFile/ni/2024-251/current/PDF/2024-251.PDF",
       "evidence_note": "ACT 2024 government conservation advice names 2022 BirdLife/IUCN Stagonopleura guttata as Vulnerable, IUCN species 22719660/211542365. Direct latest Red List account not checked. ACT, NSW and national VU separately verified by government source."
+    },
+    {
+      "number": 77,
+      "name": "Bridled nailtail wallaby",
+      "guide": "docs/species/bridled-nailtail-wallaby-archival.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 78,
+      "name": "Mala (rufous hare-wallaby)",
+      "guide": "docs/species/mala-rufous-hare-wallaby-archival.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 79,
+      "name": "Collared peccary",
+      "guide": "docs/species/collared-peccary-1990s.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 80,
+      "name": "Nilgai",
+      "guide": "docs/species/nilgai-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 81,
+      "name": "Sambar deer",
+      "guide": "docs/species/sambar-deer-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 82,
+      "name": "Chital / spotted deer",
+      "guide": "docs/species/chital-deer-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 83,
+      "name": "Capybara (historic 1995 report)",
+      "guide": "docs/species/capybara-1990s-dubbo.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 84,
+      "name": "Western grey kangaroo (historical)",
+      "guide": "docs/species/western-grey-kangaroo-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 85,
+      "name": "Whiptail wallaby",
+      "guide": "docs/species/whiptail-wallaby-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 86,
+      "name": "Yellow-footed rock-wallaby",
+      "guide": "docs/species/yellow-footed-rock-wallaby-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 87,
+      "name": "Eastern wallaroo (historic visitor label)",
+      "guide": "docs/species/eastern-wallaroo-historical.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+    },
+    {
+      "number": 88,
+      "name": "Domestic guinea pig",
+      "guide": "docs/species/domestic-guinea-pig-historical.md",
+      "assessment_status": "taxon_or_domestic_scope_not_applicable_yet",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Domestic guinea pig: do not apply global wild-species risk label to domesticated type."
+    },
+    {
+      "number": 89,
+      "name": "Leopard tortoise (Waterhole planned 2020)",
+      "guide": "docs/species/leopard-tortoise-waterhole.md",
+      "assessment_status": "not_independently_checked",
+      "assessed_taxon": null,
+      "iucn_category": null,
+      "assessment_date": null,
+      "publication_year": null,
+      "source_url": null,
+      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
     }
   ]
 }

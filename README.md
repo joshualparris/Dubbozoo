@@ -41,7 +41,7 @@ Photo-backed entries remain independently catalogued: African wild dog, giraffe,
 
 ## All-time animal checklist (1977–2026 working list)
 
-**72/72 research guides written**. **4 Dubbo holding claims remain unverified**, **7 scientific taxa/lineages unresolved** and **1 red kangaroo case documented as temporary rehabilitation rather than the permanent collection**.
+**72/72 research guides written**. **4 Dubbo holding claims remain unverified**, **6 scientific taxa/lineages unresolved** and **1 red kangaroo case documented as temporary rehabilitation rather than the permanent collection**.
 
 The original 61-guide database has now expanded with 11 previously omitted historical species, such as Brazilian tapirs, sitatunga, waterbuck, maned wolves and wapiti. Current maps alone cannot establish the full zoo history. Definitive completeness needs Taronga's 1977–2026 Dubbo-only archival accession records.
 

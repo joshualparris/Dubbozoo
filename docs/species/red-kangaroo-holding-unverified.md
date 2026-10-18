@@ -3,6 +3,11 @@
 **Dubbozoo inventory #47 · Taxon:** *Osphranter rufus (formerly Macropus rufus)* · **Conservation:** Least Concern broadly.  
 **Sources reviewed:** 18 October 2026. **Observations:** no supplied photo directly documents this species.
 
+
+## Archival correction: red kangaroos confirmed at Dubbo as rehabilitation patients
+
+Taronga's [3 May 2024 report](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays) names **Copper** (rescued near Cobar in November 2023) and **Matilda** as red kangaroo joeys cared for at Dubbo's Wildlife Hospital, later in a behind-the-scenes holding yard with plans to return them to the wild. This confirms **temporary rehabilitation and on-site holding**, **not a permanent zoo breeding/exhibit collection**. The main collection still requires distinct confirmation.
+
 ## Physical identification and life history
 
 Australia's largest wild macropod. Adult males often reddish, females frequently blue-grey, but colour overlaps and cannot always sex animals. Large hind limbs and tail support hopping locomotion.

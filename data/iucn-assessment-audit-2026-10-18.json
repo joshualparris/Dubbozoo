@@ -1,13 +1,14 @@
 {
   "date_checked": "2026-10-18",
   "red_list_platform_version": "2026-1",
-  "method": "Each row separates assessment date from publication year and rank. 'Primary checked' only for a direct IUCN assessment returned during this research; do not mark every guide as validated. Some IUCN pages indicate additional later revisions; verify before asserting latest.",
+  "method": "Each entry distinguishes a checked IUCN page vs announcement vs indirect reference by original IUCN assessment authors or government. Only direct Red List records are counted as primary direct IUCN checks. Date/rank verification required for unverified entries; never infer newer Red List statuses from EPBC/NSW legal categories.",
   "summary": {
     "total": 76,
     "primary_iucn_lookups": 10,
     "indirect_or_announcement_evidence": 3,
     "not_applicable_or_taxon_not_resolved": 4,
-    "not_checked": 59
+    "not_checked": 57,
+    "additional_government_or_assessor_evidence": 2
   },
   "entries": [
     {
@@ -890,13 +891,13 @@
       "number": 74,
       "name": "Common (bare-nosed) wombat (historical)",
       "guide": "docs/species/common-wombat-historical.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_assessor_university_bibliography_not_direct_redlist_page",
+      "assessed_taxon": "Vombatus ursinus",
+      "iucn_category": "LC",
+      "assessment_date": "2024-10-11",
+      "publication_year": 2025,
+      "source_url": "https://researchers.westernsydney.edu.au/en/publications/vombatus-ursinus-the-iucn-red-list-of-threatened-species-2025/",
+      "evidence_note": "University publication record of IUCN assessment authors Old, Stannard, Woinarski & Burbidge. DOI 10.2305/IUCN.UK.2025-1.RLTS.T40556A258654868.en; 2025 published, assessed 2024. Direct Red List page inaccessible; assessment bibliographic primary-authors evidence, not a direct Red List page check."
     },
     {
       "number": 75,
@@ -914,13 +915,13 @@
       "number": 76,
       "name": "Diamond firetail (historical visitor aviary)",
       "guide": "docs/species/diamond-firetail-historical.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
+      "assessment_status": "government_conservation_advice_references_iucn_2022",
+      "assessed_taxon": "Stagonopleura guttata",
+      "iucn_category": "VU",
       "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "publication_year": 2022,
+      "source_url": "https://legislation.act.gov.au/DownloadFile/ni/2024-251/current/PDF/2024-251.PDF",
+      "evidence_note": "ACT 2024 government conservation advice names 2022 BirdLife/IUCN Stagonopleura guttata as Vulnerable, IUCN species 22719660/211542365. Direct latest Red List account not checked. ACT, NSW and national VU separately verified by government source."
     }
   ]
 }

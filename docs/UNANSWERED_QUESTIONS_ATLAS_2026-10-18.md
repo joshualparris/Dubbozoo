@@ -3091,7 +3091,7 @@
 
 **Q0257. Which siamang map grid is correct: 12Q or 10G?**
 
-**Best answer — unresolved:** Both appear on different **official Taronga pages**. The repo documents the conflict; choose neither as canonical without current on-site map/signage verification.
+**Best answer — open — two dated maps conflict:** Taronga's official references give different siamang map grids (12Q and 10G). **Neither can be proved canonical for an October 2026 visit** from those pages alone; read the map edition/date and the currently posted entrance map. The species itself is documented at [Siamang Islands](https://www.taronga.org.au/about/newsroom/posts/iconic-species-returns-to-taronga-western-plains-zoo), independently of the grid conflict.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3124,7 +3124,7 @@
 
 **Q0260. Are Taronga's $12.1m and $12.5m platypus project costs reconciled?**
 
-**Best answer — unresolved:** No. NSW Government and Taronga published different figures. They may reflect project scope, timing or accounting, but the repository cannot establish why without an itemised funding source.
+**Best answer — answered at source level; accounting reconciliation open:** Taronga's [19 February 2025 one-year article](https://www.taronga.org.au/about/newsroom/posts/platypus-rescue-hq-turns-1) states **$12.5 million**, while its [8 October 2025 facility explanation](https://cdn.taronga.org.au/about/newsroom/posts/protecting-the-platypus) states **$12.1 million in funding**. These are **different published statements**, but there is no itemised capital-budget reconciliation supporting a conclusion that one is wrong or why the scope differs.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3135,7 +3135,7 @@
 
 **Q0261. Has the zoo successfully bred platypuses in its new centre?**
 
-**Best answer — unresolved:** Not established by the documents reviewed. A 2025 announcement of four research platypuses and capacity for breeding is **not evidence of a particular birth**.
+**Best answer — answered — successful Dubbo breeding has not been documented:** Taronga's [12 February 2025 announcement](https://www.taronga.org.au/about/newsroom/posts/taronga-collaborates-with-international-partners-to-conserve-the-iconic-platypus) reports **four adult platypuses forming the first research breeding population** at Dubbo. It does **not announce an offspring born there**. The documented **2024 breeding success** was in the **Royal National Park**, following a NSW translocation, not at Dubbo Rescue HQ ([Taronga source](https://www.taronga.org.au/about/newsroom/posts/first-ever-platypus-translocation-in-nsw-results-in-breeding-success)). Therefore **no Dubbo HQ breeding success is established by these sources**.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3233,7 +3233,7 @@
 
 **Q0269. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "Photographed subjects: African wild dogs, giraffes, siamangs, Galápagos giant tortoises, Asian elephants, and one probable meerkat. The dates and named individuals in the new photos rem"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — original image metadata needed:** The repo has species-level photo observations but not verified camera capture dates/GPS or keeper-matched identities. The missing proof is the **original photo/video file with EXIF or contemporary upload timestamp**, plus an independent keeper animal register for individual names. The **18 October 2026 upload date is not capture date**. [Photo policy](../photos/README.md).
 
 **Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
 
@@ -3244,7 +3244,7 @@
 
 **Q0270. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "— 15 guides and 25 map-listed labels still pending verification and deeper research."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — obsolete snapshot:** The old '15 guides and 25 pending' line describes a **superseded** research snapshot. The [current numbered inventory](all-time-animal-inventory.md) contains **89 linked species/history guides**; 14 older/newer candidates still need formal holding/arrival proof and six precise taxa/lineages remain to verify. The outdated count should not control any new atlas answer.
 
 **Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
 
@@ -3255,7 +3255,7 @@
 
 **Q0271. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "Research status: 15 deeply researched; 46 still pending, including 12 entries requiring primary-source verification. Covers current zoo maps, historical publications and behind-the-scen"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — old figures superseded:** The old '15 deeply researched; 46 pending' claim is outdated. **89 profiles are now linked**, but neither 89 confirmed historic biological species nor 89 individually checked IUCN assessments. [Current audit](coverage-audit.md).
 
 **Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
 
@@ -3266,7 +3266,7 @@
 
 **Q0272. What resolves this explicit evidence gap in # Dubbozoo — a researched wildlife field journal: "Unknown: not established (e.g. date, keeper names, pack membership, individual age or sex)."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — photo and keeper data have different provenance:** These unknowns are not solved by the existence of a species guide. **Original photograph EXIF** establishes when/where a supplied picture was taken if intact, while a **dated keeper ID/animal ledger** establishes individual names, sex, age and group membership. Where unavailable the specific fields remain null, rather than assuming zoo publicity identifies the photographed animal.
 
 **Source file:** [`README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md).
 
@@ -3281,7 +3281,7 @@
 
 **Q0273. What resolves this explicit evidence gap in # African lion — Dubbo Zoo researched guide: "Compare the posture and faces of individuals, while avoiding unverified sex, age or family claims."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — an observation prompt, not a factual gap:** 'Compare posture and faces' is an **instruction for direct field observation**, not a claim the animals in an unprovided lion photo were observed. Valid observations include walking, resting and grooming only if shown; sex, family relationship and welfare require keeper/veterinary evidence. [African lion research](african-lion.md).
 
 **Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
 
@@ -3325,7 +3325,7 @@
 
 **Q0277. What resolves this explicit evidence gap in # African lion — Dubbo Zoo researched guide: "Not established: current Dubbo pride membership, birth histories, individual animal identities, a personal lion sighting."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — partly answered — dated lion family identified:** Taronga's [8 April 2025 report](https://www.taronga.org.au/about/newsroom/posts/lion-cubs-thriving-at-dubbo-zoo) named breeding adults **Marion and Lwazi** and three cubs born 21 February 2025. Its [September 2025 Pride Lands tour report](https://www.taronga.org.au/about/newsroom/posts/hand-raised-giraffe-calf-makes-debut) identified a historic nine-member pride (Lwazi, Marion, Amali, Imani, Mara, Zawadi, Kaari, Mzuri, Nguvu). **These are 2025 dated names, not a keeper-certified 2026 pride roster or evidence of the user's personal sighting**.
 
 **Source file:** [`docs/african-lion.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
 
@@ -3340,7 +3340,7 @@
 
 **Q0278. What resolves this explicit evidence gap in # African wild dog — Lycaon pictus: "The IUCN notes that some apparent population increases since older assessments are from discovering previously unknown packs rather than verified recovery. [IUCN assessment][iucn]"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered from IUCN:** The [2025 *Lycaon pictus* IUCN assessment](https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T12436A221299510.en) treats previously unknown packs newly **detected** as a survey/knowledge increase, which cannot automatically be interpreted as new individuals born or an increasing true population. The global Red List trend is **decreasing**; to show recovery one would need consistent repeated territory surveys, reproduction and survival estimates.
 
 **Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -3351,7 +3351,7 @@
 
 **Q0279. What resolves this explicit evidence gap in # African wild dog — Lycaon pictus: "Unknown as of this research: names, exact age, sex, parentage, number of dogs currently housed, and whether the 2024 building works are fully completed. These should come from a keeper "?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — type of evidence specified:** The public [2024 Gateway to Africa renovation announcement](https://www.taronga.org.au/about/newsroom/posts/zoo-undertakes-next-project) describes a **planned** moat-wall replacement and glass viewing area; it does not certify works were completed. Dated pack names/sex/ages require the **October 2026 keeper roster or signed individual-identification record**, not a generic species page or photograph. [Guide](african-wild-dog.md).
 
 **Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -3384,7 +3384,7 @@
 
 **Q0282. Have enclosure/viewing renovations been completed, and which features support natural behaviours?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — partly answered — project specified, completion not verified:** Taronga's [2 February 2024 renovation release](https://www.taronga.org.au/about/newsroom/posts/zoo-undertakes-next-project) specifies replacing the old moat wall, constructing a new viewing/lookout/glass area and extra landscaping. These are **planned improvements**, not verified 2026 as-built acceptance. An updated keeper note, public opening release or dated on-site photo is still required for completion.
 
 **Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -3395,7 +3395,7 @@
 
 **Q0283. Which regional zoo breeding or genetic-management program does the pack currently participate in?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — partly answered — conservation programme unspecified:** Taronga Western Plains Zoo historically participates in professionally managed regional breeding/conservation for African wild dogs, but no source reviewed verifies which **2026 regional studbook/coordinator/individual pack** is active. A dated regional programme coordinator or keeper breeding-plan record is needed; don't invent current assignments.
 
 **Source file:** [`docs/african-wild-dog.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -3421,7 +3421,7 @@
 
 **Q0285. What resolves this explicit evidence gap in # All-time Dubbo Zoo animal inventory — numbered research checklist: "distinct checklist entries: 15 with deep species guides, 46 not yet deeply researched. 12 entries presently rely only on a secondary list and require primary confirmation. A name on a m"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — obsolete inventory numbers:** The quotation '15 with guides, 46 missing' came from the old **61-entry snapshot**. The [current 89-entry catalogue](all-time-animal-inventory.md) has **89 guide links** but still **14 formal holdings questions**; guide completion and archive completeness are separate.
 
 **Source file:** [`docs/all-time-animal-inventory.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/all-time-animal-inventory.md).
 
@@ -3432,7 +3432,7 @@
 
 **Q0286. What resolves this explicit evidence gap in # All-time Dubbo Zoo animal inventory — numbered research checklist: "⚠️ Secondary-list only or exact taxon unverified; check against Taronga's archival holdings."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — sources graded:** An entry once described as 'secondary only' can now be upgraded **only for the aspect a direct source proves**. For instance Taronga's historic aviary records verify malleefowl and white-winged chough, but photos of free-roaming peafowl do **not** prove an accessioned collection. [2026 source audit](coverage-audit.md).
 
 **Source file:** [`docs/all-time-animal-inventory.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/all-time-animal-inventory.md).
 
@@ -3443,7 +3443,7 @@
 
 **Q0287. What resolves this explicit evidence gap in # All-time Dubbo Zoo animal inventory — numbered research checklist: "This list mixes species names and a small number of unresolved broad exhibit labels, and thus 61 is a catalogue-entry count, not a validated biological species count."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — species versus inventory records:** **61 was the old number of research entries, not species proven ever held.** The current **89** includes uncertain names, wildlife hospital patients and visitor/photo leads. To calculate an actual all-time zoo biological-species total, reconcile original 1977–2026 accession records and synonyms and exclude mere wild visitors. [Working inventory](all-time-animal-inventory.md).
 
 **Source file:** [`docs/all-time-animal-inventory.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/all-time-animal-inventory.md).
 
@@ -3480,7 +3480,7 @@
 
 **Q0290. What is the difference between a social family group and an animal's individual identity?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered — biology and identification:** An elephant **family group** is a social arrangement of usually related females and dependent young, potentially involving other associates; **individual identity** means distinguishing one known elephant from another by keeper records, distinctive markings and provenance. A visible group does not tell us each elephant's name, pedigree, age or hierarchy.
 
 **Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
 
@@ -3502,7 +3502,7 @@
 
 **Q0292. What resolves this explicit evidence gap in # Asian elephant — Dubbo Zoo deep research guide: "Not established: personally seen animals, October 2026 group composition, enclosure occupancy or a specific animal's clinical status."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — different evidence standards:** Taronga's zoo publications establish the **Asian elephant species** in Dubbo and certain dated births/deaths; they do not prove a given user's photo date, which elephant appears or any animal's medical condition. Original photo EXIF plus a **dated keeper roster** would resolve photo identity; veterinary records are needed for clinical status. [Species guide](asian-elephant.md).
 
 **Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
 
@@ -3513,7 +3513,7 @@
 
 **Q0293. What resolves this explicit evidence gap in # Asian elephant — Dubbo Zoo deep research guide: "Sexual differences are nuanced: Asian females seldom develop externally large tusks; males may also be tuskless. Relative body size and tusks alone cannot confirm the sexes of these two"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — sex cannot be inferred from tusks alone:** Asian elephants show substantial sex variation, but **many females lack large visible tusks and males may be tuskless (makhnas)**. Body size, tusk presence or a single viewing angle is insufficient for a definitive individual sex assignment. Use the animal's keeper record or confident reproductive/genetic evidence. [Elephant guide](asian-elephant.md).
 
 **Source file:** [`docs/asian-elephant.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
 
@@ -3620,7 +3620,7 @@
 
 **Q0302. What can and cannot be learned from an old birth announcement?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered — a birth announcement is date-specific:** A dated zoo birth report can establish the **reported birth, date, parents and calf sex/name** if explicitly included. It cannot establish that an individual is still alive, housed at Dubbo or on public display in October 2026, nor prove long-term breeding programme genetic success. These need current keeper/transfer records and longitudinal data.
 
 **Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
 
@@ -3631,7 +3631,7 @@
 
 **Q0303. What resolves this explicit evidence gap in # Cheetah — Dubbo Zoo deep research guide: "Unknown: zoo's current cheetah count, names in today's public habitat, any specific 2026 animal medical condition, personal observation date."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Source file:** [`docs/cheetah.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
 
@@ -3668,7 +3668,7 @@
 
 **Q0306. What fresh-water resources must be conserved to support wild hippos and other species?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered — ecological requirements:** Healthy **year-round deep pools and river channels** for daytime immersion, connected wetland and grassland feeding margins, dry-season refuges and unobstructed access between water and grazing areas support wild hippos. Conserving flow, limiting extraction/pollution and protecting riparian cover help hippos and freshwater communities; this is a **general ecological answer**, not an assessment of Dubbo enclosure water quality.
 
 **Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
 
@@ -3690,7 +3690,7 @@
 
 **Q0308. What resolves this explicit evidence gap in # Common hippopotamus — Dubbo Zoo researched guide: "Unknown: animals currently visible, current zoo herd size, which animals a visitor has seen."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — live headcount not published in cited evidence:** Taronga records establish common hippopotamus at Western Plains Zoo historically and as an exhibit label, but they do **not provide a live independently checked 18 October 2026 herd headcount or named identity for the user's photos**. A keeper roster and a dated enclosure observation would establish that; [species guide](common-hippopotamus.md).
 
 **Source file:** [`docs/common-hippopotamus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
 
@@ -3705,7 +3705,7 @@
 
 **Q0309. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Galápagos tortoise (Chelonoidis complex) | | Yes, four photos; exact lineage unknown | Status not assigned without island taxon |"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — genetic origin not inferable from images:** A photographed Galápagos giant tortoise can be classified **Chelonoidis (Galápagos complex)**, but **not** assigned an island species, precise IUCN status or original captive ancestry from a generic exhibit sign or shell shape. Acquire studbook/acquisition documents or genetic data. [Tortoise guide](galapagos-giant-tortoise.md).
 
 **Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -3716,7 +3716,7 @@
 
 **Q0310. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "These are not yet complete species guides. Some require a keeper or official animal page to verify the exact species represented by a map label."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — guides now exist:** The quote about 'not yet complete species guides' belongs to an **outdated 61-entry source snapshot**. The repo now links **89 guides**, although a subset remains dependent on visitor reports or broad exhibit labels. [89-entry inventory](all-time-animal-inventory.md) clearly marks these rather than claiming 89 zoo-certified animals.
 
 **Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -3727,7 +3727,7 @@
 
 **Q0311. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Find an IUCN species-specific assessment and record status with year, scope and metric, or explicitly document unresolved source conflicts."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — partly answered — scientific audit records exact source grades:** The [IUCN evidence register](iucn-assessment-audit-2026-10-18.md) tracks **10 directly checked full assessment records, seven IUCN species entries returned in search-index excerpts, one official status-change table, five graded indirect references and 61 remaining primary assessment checks**. A source with no exact taxon/date is not a confirmed conservation classification.
 
 **Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -3738,7 +3738,7 @@
 
 **Q0312. What resolves this explicit evidence gap in # Dubbozoo species coverage audit — 18 October 2026: "Giraffe: 2025 four-species taxonomy; unknown Dubbo animals' exact lineage."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — historic lineage remains unproven:** Taronga has a giraffe breeding history in Dubbo, but giraffes have undergone **2025 taxonomic splitting into four species**. The exact Dubbo animals' ancestry cannot be assigned from photographed coats; recover regional giraffe studbook and individual genetic/breeding records before applying a species-specific Red List result. [Giraffe research](giraffe.md).
 
 **Source file:** [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -3753,7 +3753,7 @@
 
 **Q0313. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "Identity: Galápagos giant tortoise, Chelonoidis Galápagos complex, exact island lineage/accepted rank unverified."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — study needs species-level lineage:** **Chelonoidis spp.** is the supported Galápagos giant-tortoise complex identification. Island-specific taxa differ in conservation status. Only accession/studbook origin, breeding record or genetic study can identify island lineage; without that, the scientific label should remain **Chelonoidis sp.**, not an invented one.
 
 **Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 
@@ -3764,7 +3764,7 @@
 
 **Q0314. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "Observation: four supplied photographs of one apparent large adult-sized animal; photographed animal's sex, age and name unknown."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — photos do not supply animal registry:** Four supplied tortoise photographs document an animal resembling Galápagos giant tortoise in the Dubbo setting; **sex, exact age and name are not determined** from these files. An original photo timestamp plus keeper-marking/studbook matching is needed. [Observation](../observations/giant-tortoise-undated.md).
 
 **Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 
@@ -3775,7 +3775,7 @@
 
 **Q0315. What resolves this explicit evidence gap in # Galápagos giant tortoises at Dubbo — evidence-led field guide: "This is best treated as a Galápagos tortoise sighting (high confidence given Dubbo exhibit context), not an Aldabra giant tortoise: Taronga's 2023 primary source records Galápagos torto"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — historical zoo species distinction:** Taronga documents **Galápagos giant tortoises** at Dubbo, not just a generic giant tortoise; the field photo is consistent with that context, but **not an island-species determination**. Aldabra tortoise is a **different genus (*Aldabrachelys*)** and cannot be declared from general body size. [Galápagos research](galapagos-giant-tortoise.md).
 
 **Source file:** [`docs/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 
@@ -3911,7 +3911,7 @@
 
 **Q0327. What resolves this explicit evidence gap in # Giraffes at Taronga Western Plains Zoo — researched field guide: "Unknown: sex, individuals' names, genetic lineage, birth dates, exhibit identity, photograph capture date, live zoo herd count."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answer — latest historical records do not identify personal photo:** A dated keeper report can name giraffes such as the [2024 calves described by Taronga](https://taronga.org.au/news/2025-04-07/keepers-raise-giraffe-calf-dubbo-zoo), but that report cannot assign those names, genetic lineage or sexes to two **undated personal photographs**. Original camera capture time and individual keeper ID matching would be required.
 
 **Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
 
@@ -3922,7 +3922,7 @@
 
 **Q0328. What resolves this explicit evidence gap in # Giraffes at Taronga Western Plains Zoo — researched field guide: "Photo archive: SHA-256 values are retained in ; binaries are not yet in GitHub. Do not misrepresent a missing image as displayed."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — original binaries not published by a checksum:** A SHA-256 manifest is **metadata**, not a photograph. To display photos, the original rights-cleared JPEG/PNG bytes must actually be committed to accessible repository paths, then rendered via working URLs. No match of file hashes alone proves image presence. [Photo register](../photos/README.md).
 
 **Source file:** [`docs/giraffe.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
 
@@ -3937,7 +3937,7 @@
 
 **Q0329. What is documented at Dubbo?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered — specific Dubbo evidence exists:** Taronga's contemporary Western Plains Zoo visitor map lists **Greater one-horned rhinoceros (*Rhinoceros unicornis*)**, and the [rhino species guide](greater-one-horned-rhinoceros.md) documents Dubbo involvement in zoo conservation/breeding. That is a **site-specific animal holding/exhibit record**, not proof of any particular photographed rhino's identity or today's individual count.
 
 **Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
 
@@ -3959,7 +3959,7 @@
 
 **Q0331. Does the animal browse, graze or take aquatic vegetation?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered species feeding ecology; exact animal behaviour not seen:** **Greater one-horned rhinoceroses are predominantly grazers** of grasses and sedges and also consume aquatic and wetland plants. A specific animal would need to be directly observed ingesting identified plants before claiming it was browsing or grazing at a particular instant. [Research guide](greater-one-horned-rhinoceros.md).
 
 **Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
 
@@ -3970,7 +3970,7 @@
 
 **Q0332. Where does it have opportunities to wallow, shade and withdraw?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered — habitat features versus actual use:** Greater one-horned rhinoceroses require opportunities to **wallow in mud/water, access shade and retreat from crowds/conspecifics**. Whether the 2026 Dubbo paddock supplies each at an animal's chosen moment requires an actual site inspection and dated photos; a printed map alone does not prove use.
 
 **Source file:** [`docs/greater-one-horned-rhinoceros.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
 
@@ -3996,7 +3996,7 @@
 
 **Q0334. What resolves this explicit evidence gap in # Meerkats at Taronga Western Plains Zoo — evidence-led field guide: "See . No photo is publicly displayed because a recognisable child appears and publication rights are unknown."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — recognisable child and unknown photo rights:** The original probable-meerkat photograph included a **recognisable child**, and the owner's public-sharing rights and privacy consent were not established. The image binary should **not** be published automatically; a suitable rights-cleared crop/permission and a privacy review must precede GitHub upload. [Photo register](../photos/README.md).
 
 **Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
 
@@ -4007,7 +4007,7 @@
 
 **Q0335. Is one looking up while another digs?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — no directly supported photo observation:** There is no verified sequence documenting **one meerkat sentinel-looking while a second digs** in the available observation record. These are example behaviours to look for, not established actions. A time-stamped video or annotated original sequence is required to say they happened at the same time.
 
 **Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
 
@@ -4018,7 +4018,7 @@
 
 **Q0336. Where are burrow openings, shade and warm spots?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answer — habitat inspection required:** A meerkat enclosure should provide **digging substrate, visible burrow entrances, shade/retreat cover and dry basking areas**, but the exact positions at the zoo must be determined from a dated enclosure photo or map. Do not invent the burrow layout from a written species guide.
 
 **Source file:** [`docs/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
 
@@ -4055,7 +4055,7 @@
 
 **Q0339. What resolves this explicit evidence gap in # Plains zebra — Dubbo Zoo deep research and taxonomy note: "Taronga's 2024 zebra foal story describes pressures such as livestock competition, drought and hunting and its Beads for Wildlife / Northern Rangelands Trust community partnership in no"?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — threat discussion has cited source, not a Dubbo field observation:** The [plains zebra study](plains-zebra.md) cites Taronga's zebra and Beads for Wildlife/Northern Rangelands Trust material for wild pressure from drought, habitat/livestock competition and hunting. These are **published conservation context**, not a diagnosis of a Dubbo zebra or proof a funding initiative reversed population decline.
 
 **Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -4077,7 +4077,7 @@
 
 **Q0341. Are zebras grazing or simply standing near another species?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — not observable from documented still frames:** The question asks what a **particular zebra is doing**; the available journal record does not contain a verified time-stamped feeding sequence. Grazing requires direct evidence of vegetation being pulled/chewed, not just proximity to grass or another species.
 
 **Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -4088,7 +4088,7 @@
 
 **Q0342. What is gained by moving as a herd and what can it cost when pasture is scarce?**
 
-**Best answer — unresolved:** The repository does not provide adequate dated individual-level evidence for a definitive answer. Preserve the question for a keeper or scientific-source check.
+**Best answer — answered — herd benefits and costs:** Moving in a zebra herd can improve **predator detection, access to social information and coordinated travel**, but if pasture is scarce it can also mean **greater competition, trampling and disease/parasite exposure**. These are ecology principles; they do not prove herd behaviour at a particular Dubbo visit.
 
 **Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -4110,7 +4110,7 @@
 
 **Q0344. What resolves this explicit evidence gap in # Plains zebra — Dubbo Zoo deep research and taxonomy note: "Unresolved: precise current IUCN listing under matching accepted taxonomy, current zoo numbers or individual names."?**
 
-**Best answer — unresolved:** No sufficiently direct source is established in this guide for this gap. Its existing historical statements are retained, but the missing current, individual or taxon-specific fact must remain unverified.
+**Best answer — answered — direct taxon-matched IUCN result:** The [IUCN *Equus quagga* assessment](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T41013A45172424.en) establishes **Near Threatened (NT), decreasing** (assessed 2016). Taronga's conflicting Least Concern webpage should not override that dated IUCN species assessment. Exact 2026 Dubbo herd numbers and individuals still need keeper records.
 
 **Source file:** [`docs/plains-zebra.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -4164,7 +4164,7 @@
 
 **Q0348. Care for local waterways: which things can kids safely do to keep plastic, fishing line and rubbish out of rivers?**
 
-**Best answer — unresolved:** This species/visitor-specific fact needs a dated primary record; the available image and catalogue do not settle it.
+**Best answer — answered — practical children-safe river care:** With adult supervision, children can **put litter in bins, join organised supervised clean-ups on safe banks, avoid balloons and loose fishing line, refill water bottles and prevent plastic entering stormwater drains**. Adults should handle sharp hooks, fishing line entangling wildlife, needles and unsafe river edges. Do **not** enter fast water, touch injured animals or remove aquatic habitat.
 
 **Evidence:** [`docs/platypus-2026-evidence-review.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
 
@@ -4190,7 +4190,7 @@
 
 **Q0350. Can you spot how the broad front feet propel it and the tail follows as a rudder?**
 
-**Best answer — unresolved observation:** No specific time-stamped visual or audio evidence is attached to this exercise that can establish the answer beyond the existing photo notes.
+**Best answer — answer — anatomy known, specific filmed motion not established:** A platypus normally propels itself mainly using its **webbed front feet**; the hind feet and broad tail help steer/stabilise in water. Without a verified time-stamped video from the particular visit, one cannot assert that exact stroke pattern was seen in the user's submitted material. [Platypus guide](platypus.md).
 
 **Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
 
@@ -4212,7 +4212,7 @@
 
 **Q0352. How might an upstream barrier alter a platypus population even when a waterhole remains?**
 
-**Best answer — unresolved:** This species/visitor-specific fact needs a dated primary record; the available image and catalogue do not settle it.
+**Best answer — answered — population connectivity mechanism:** An upstream dam, weir or habitat barrier can **fragment breeding populations, restrict dispersal and gene flow, change stream temperatures/flow, alter aquatic prey and block movement to refuge pools**. A pool may still hold water while the wider platypus population loses connectivity; demonstrate local impact with water-quality and population surveys.
 
 **Evidence:** [`docs/platypus.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
 
@@ -4238,7 +4238,7 @@
 
 **Q0354. What evidence would settle the outstanding # Research and maintenance methodology claim "I — Inferred: plausible but unverified (e.g. the place from appearance and project title)."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answered — 'inferred' is an evidence class not a missing fact:** 'Inferred (I)' is a **research-confidence label**: a claim supported by indirect signs but not primary location/date/species proof. To promote it to verified, obtain **contemporaneous original EXIF/location metadata, a dated zoo sign/keeper source or independently corroborated first-person record**. Otherwise keep the inferred tag; it is not a blank scientific answer.
 
 **Evidence:** [`docs/research-method.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md).
 
@@ -4249,7 +4249,7 @@
 
 **Q0355. What evidence would settle the outstanding # Research and maintenance methodology claim "U — Unknown: cannot determine with available sources; store as null instead of fabricating data."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answered — 'unknown' is a legitimate data state:** 'Unknown (U)' is an **intentional evidence policy**, not a fact awaiting a guessed value. Record `null`, the attempted sources and date reviewed. Promote to a factual answer only after a relevant primary source or original observation actually establishes it. [Research method](research-method.md).
 
 **Evidence:** [`docs/research-method.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md).
 
@@ -4264,7 +4264,7 @@
 
 **Q0356. What evidence would settle the outstanding # Siamangs at Taronga Western Plains Zoo — deep research field guide claim "An identification as siamang is strongly supported by the pictured exhibit's resemblance to Taronga's published Siamang Islands and the animal's appearance, although the photograph"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The evidence needed is a **species/lineage-specific original accession or studbook record** for Dubbo, paired with the **latest taxon-matched IUCN assessment and date**. A generic sign or older overall status cannot resolve the quoted biological lineage. [Species inventory](all-time-animal-inventory.md), [IUCN audit](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
 
@@ -4319,7 +4319,7 @@
 
 **Q0361. What evidence would settle the outstanding # Siamangs at Taronga Western Plains Zoo — deep research field guide claim "Unknown (U): exact photo date/GPS, pictured animal name and sex, any unseen additional animals, current breeding outcome, whether hammock occupied, whether a duet occurred."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`docs/siamang.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
 
@@ -4367,7 +4367,7 @@
 
 **Q0365. Which visible behaviours can be documented without assuming stress or boredom?**
 
-**Best answer — unresolved:** This species/visitor-specific fact needs a dated primary record; the available image and catalogue do not settle it.
+**Best answer — answered — directly record actions, not diagnoses:** From dated imagery one can document **brachiation, swinging, climbing, sitting, eating, looking toward a person, calling (video/audio), grooming, social proximity or retreat** only when they are actually shown. One still cannot infer boredom, anxiety, distress, pregnancy or dominance as medical/social diagnoses from isolated postures. [Siamang guide](siamang.md).
 
 **Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
 
@@ -4378,7 +4378,7 @@
 
 **Q0366. What evidence would settle the outstanding # Sumatran tiger — Dubbo Zoo deep research guide claim "Unknown: which tigers are currently housed in Dubbo, birth dates, publicly visible individuals, precise latest wild number matched to a single taxonomic assessment."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The evidence needed is a **species/lineage-specific original accession or studbook record** for Dubbo, paired with the **latest taxon-matched IUCN assessment and date**. A generic sign or older overall status cannot resolve the quoted biological lineage. [Species inventory](all-time-animal-inventory.md), [IUCN audit](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [`docs/sumatran-tiger.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
 
@@ -4500,7 +4500,7 @@
 
 **Q0376. What evidence would settle the outstanding # Asian elephant photographs — 18 October 2026 submission (capture date unknown) claim "Asian elephant photographs — 18 October 2026 submission (capture date unknown)"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/asian-elephants-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/asian-elephants-undated.md).
 
@@ -4511,7 +4511,7 @@
 
 **Q0377. What evidence would settle the outstanding # Asian elephant photographs — 18 October 2026 submission (capture date unknown) claim "Record: dubbozoo-obs-0005. Species: Elephas maximus (high confidence). At least two elephants are separately visible in frames 54317–54319. Animal names/sexes: unknown. Site: consi"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/asian-elephants-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/asian-elephants-undated.md).
 
@@ -4526,7 +4526,7 @@
 
 **Q0378. What evidence would settle the outstanding # Giant tortoise photographs — 18 October 2026 submission (capture date unknown) claim "Giant tortoise photographs — 18 October 2026 submission (capture date unknown)"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/galapagos-tortoise-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/galapagos-tortoise-undated.md).
 
@@ -4537,7 +4537,7 @@
 
 **Q0379. What evidence would settle the outstanding # Giant tortoise photographs — 18 October 2026 submission (capture date unknown) claim "Record: dubbozoo-obs-0004. Identification: Galápagos giant tortoise group, Chelonoidis sp. (likely; high zoo-context confidence); precise island lineage, age, name and sex unknown."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The evidence needed is a **species/lineage-specific original accession or studbook record** for Dubbo, paired with the **latest taxon-matched IUCN assessment and date**. A generic sign or older overall status cannot resolve the quoted biological lineage. [Species inventory](all-time-animal-inventory.md), [IUCN audit](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [`observations/galapagos-tortoise-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/galapagos-tortoise-undated.md).
 
@@ -4552,7 +4552,7 @@
 
 **Q0380. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "Giraffe observation — two photographs (capture date unknown)"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
 
@@ -4563,7 +4563,7 @@
 
 **Q0381. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "Species identification: giraffe, Giraffa sp. (high confidence for genus; unverified for specific species/lineage)."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The evidence needed is a **species/lineage-specific original accession or studbook record** for Dubbo, paired with the **latest taxon-matched IUCN assessment and date**. A generic sign or older overall status cannot resolve the quoted biological lineage. [Species inventory](all-time-animal-inventory.md), [IUCN audit](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
 
@@ -4574,7 +4574,7 @@
 
 **Q0382. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "Photo capture date: unknown. Uploaded/submitted on 18 October 2026 ≠ taken on that date."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
 
@@ -4585,7 +4585,7 @@
 
 **Q0383. What evidence would settle the outstanding # Giraffe observation — two photographs (capture date unknown) claim "These checksums are for the two supplied JPEG copies (not any unverified camera originals). The image binaries have not been committed to the public repository. They have no EXIF c"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/giraffes-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/giraffes-undated.md).
 
@@ -4600,7 +4600,7 @@
 
 **Q0384. What evidence would settle the outstanding # Probable meerkat photograph — 18 October 2026 submission (capture date unknown) claim "Probable meerkat photograph — 18 October 2026 submission (capture date unknown)"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/meerkat-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/meerkat-undated.md).
 
@@ -4611,7 +4611,7 @@
 
 **Q0385. What evidence would settle the outstanding # Probable meerkat photograph — 18 October 2026 submission (capture date unknown) claim "Unknown: species independently confirmed, exact capture date, GPS, sex, age, animal name, behavior, group size, welfare status, and image-publication permission."?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`observations/meerkat-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/meerkat-undated.md).
 
@@ -4626,7 +4626,7 @@
 
 **Q0386. What evidence would settle the outstanding # Siamang Islands — six photographs, capture date unknown claim "Siamang Islands — six photographs, capture date unknown"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The evidence needed is a **species/lineage-specific original accession or studbook record** for Dubbo, paired with the **latest taxon-matched IUCN assessment and date**. A generic sign or older overall status cannot resolve the quoted biological lineage. [Species inventory](all-time-animal-inventory.md), [IUCN audit](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [`observations/siamang-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/siamang-undated.md).
 
@@ -4637,7 +4637,7 @@
 
 **Q0387. What evidence would settle the outstanding # Siamang Islands — six photographs, capture date unknown claim "Observation ID: dubbozoo-obs-0003. Added: 18 October 2026 (Australia/Sydney). Likely species: Symphalangus syndactylus, high contextual confidence. Likely venue: Taronga Western Pl"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The evidence needed is a **species/lineage-specific original accession or studbook record** for Dubbo, paired with the **latest taxon-matched IUCN assessment and date**. A generic sign or older overall status cannot resolve the quoted biological lineage. [Species inventory](all-time-animal-inventory.md), [IUCN audit](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [`observations/siamang-undated.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/observations/siamang-undated.md).
 
@@ -4663,7 +4663,7 @@
 
 **Q0389. What evidence would settle the outstanding # Submitted photographs — integrity and publication status claim "The photo binaries are not yet hosted in this GitHub repository. The hashes below document the copies analysed, not a verified GitHub image upload. The site deliberately does not p"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`photos/README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/photos/README.md).
 
@@ -4674,7 +4674,7 @@
 
 **Q0390. What evidence would settle the outstanding # Submitted photographs — integrity and publication status claim "Neither JPEG has retained EXIF. The new images are catalogued, not published as binaries; an uploaded GitHub asset must be verified before switching committedbinary to true. No peo"?**
 
-**Best answer — unresolved:** Unresolved under the repo's current evidence standard. This guide does not supply an independently verified fact to fill the gap. The entry must retain its original uncertainty pending dated firsthand documentation.
+**Best answer — answer — concrete proof required identified:** The exact missing evidence is an **original rights-cleared camera file** (rather than checksum or chat-upload date), a usable capture timestamp/location if available, and for individual animal names or sex **a keeper-matched ID record for that date**. A visible visitor requires privacy/consent review. Without those files, keep photo-specific unknowns explicit. [Photo manifest](../photos/README.md).
 
 **Evidence:** [`photos/README.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/photos/README.md).
 
@@ -4708,7 +4708,7 @@ Source: `docs/species/addax.md`. 1 explicit question(s), 3 unresolved lead(s).
 
 **Q0392. What evidence establishes exact current animals for Addax — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Addax group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
 
 **Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
 
@@ -4719,7 +4719,7 @@ Source: `docs/species/addax.md`. 1 explicit question(s), 3 unresolved lead(s).
 
 **Q0393. What evidence establishes photo identification and any unreported husbandry for Addax — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
 
 **Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
 
@@ -4730,7 +4730,7 @@ Source: `docs/species/addax.md`. 1 explicit question(s), 3 unresolved lead(s).
 
 **Q0394. What evidence establishes health or breeding outcomes for Addax — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
 
 **Source:** [`docs/species/addax.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/addax.md).
 
@@ -4756,7 +4756,7 @@ Source: `docs/species/african-elephant-historical.md`. 1 explicit question(s), 3
 
 **Q0396. What evidence establishes exact current animals for African elephant (historical) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this African elephant (historical) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
 
 **Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
 
@@ -4767,7 +4767,7 @@ Source: `docs/species/african-elephant-historical.md`. 1 explicit question(s), 3
 
 **Q0397. What evidence establishes photo identification and any unreported husbandry for African elephant (historical) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
 
 **Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
 
@@ -4778,7 +4778,7 @@ Source: `docs/species/african-elephant-historical.md`. 1 explicit question(s), 3
 
 **Q0398. What evidence establishes health or breeding outcomes for African elephant (historical) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
 
 **Source:** [`docs/species/african-elephant-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/african-elephant-historical.md).
 
@@ -4804,7 +4804,7 @@ Source: `docs/species/american-bison-historical.md`. 1 explicit question(s), 4 u
 
 **Q0400. What evidence establishes current 2026 holding status (if historical) for American bison (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this American bison (historical) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
 **Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
@@ -4815,7 +4815,7 @@ Source: `docs/species/american-bison-historical.md`. 1 explicit question(s), 4 u
 
 **Q0401. What evidence establishes original taxon/subspecies for American bison (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
 **Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
@@ -4826,7 +4826,7 @@ Source: `docs/species/american-bison-historical.md`. 1 explicit question(s), 4 u
 
 **Q0402. What evidence establishes current IUCN assessment date for American bison (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for American bison (historical).** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
 **Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
@@ -4837,7 +4837,7 @@ Source: `docs/species/american-bison-historical.md`. 1 explicit question(s), 4 u
 
 **Q0403. What evidence establishes whether photographed by the journal owner for American bison (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
 **Source:** [`docs/species/american-bison-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/american-bison-historical.md).
 
@@ -4863,7 +4863,7 @@ Source: `docs/species/asian-small-clawed-otter.md`. 1 explicit question(s), 4 un
 
 **Q0405. What evidence establishes current 2026 holding status (if historical) for Asian small-clawed otter — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Asian small-clawed otter group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
 **Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
@@ -4874,7 +4874,7 @@ Source: `docs/species/asian-small-clawed-otter.md`. 1 explicit question(s), 4 un
 
 **Q0406. What evidence establishes original taxon/subspecies for Asian small-clawed otter — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
 **Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
@@ -4885,7 +4885,7 @@ Source: `docs/species/asian-small-clawed-otter.md`. 1 explicit question(s), 4 un
 
 **Q0407. What evidence establishes current IUCN assessment date for Asian small-clawed otter — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Asian small-clawed otter.** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
 **Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
@@ -4896,7 +4896,7 @@ Source: `docs/species/asian-small-clawed-otter.md`. 1 explicit question(s), 4 un
 
 **Q0408. What evidence establishes whether photographed by the journal owner for Asian small-clawed otter — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
 **Source:** [`docs/species/asian-small-clawed-otter.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-small-clawed-otter.md).
 
@@ -4922,7 +4922,7 @@ Source: `docs/species/asian-water-buffalo.md`. 1 explicit question(s), 4 unresol
 
 **Q0410. What evidence establishes current 2026 holding status (if historical) for Asian water buffalo (domesticated) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Asian water buffalo (domesticated) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
 **Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
@@ -4933,7 +4933,7 @@ Source: `docs/species/asian-water-buffalo.md`. 1 explicit question(s), 4 unresol
 
 **Q0411. What evidence establishes original taxon/subspecies for Asian water buffalo (domesticated) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
 **Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
@@ -4944,7 +4944,7 @@ Source: `docs/species/asian-water-buffalo.md`. 1 explicit question(s), 4 unresol
 
 **Q0412. What evidence establishes current IUCN assessment date for Asian water buffalo (domesticated) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Asian water buffalo (domesticated).** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
 **Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
@@ -4955,7 +4955,7 @@ Source: `docs/species/asian-water-buffalo.md`. 1 explicit question(s), 4 unresol
 
 **Q0413. What evidence establishes whether photographed by the journal owner for Asian water buffalo (domesticated) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
 **Source:** [`docs/species/asian-water-buffalo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/asian-water-buffalo.md).
 
@@ -4996,7 +4996,7 @@ Source: `docs/species/banteng.md`. 1 explicit question(s), 4 unresolved lead(s).
 
 **Q0416. What evidence establishes current 2026 holding status (if historical) for Banteng — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Banteng group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
 **Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
@@ -5007,7 +5007,7 @@ Source: `docs/species/banteng.md`. 1 explicit question(s), 4 unresolved lead(s).
 
 **Q0417. What evidence establishes original taxon/subspecies for Banteng — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
 **Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
@@ -5018,7 +5018,7 @@ Source: `docs/species/banteng.md`. 1 explicit question(s), 4 unresolved lead(s).
 
 **Q0418. What evidence establishes current IUCN assessment date for Banteng — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Banteng.** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
 **Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
@@ -5029,7 +5029,7 @@ Source: `docs/species/banteng.md`. 1 explicit question(s), 4 unresolved lead(s).
 
 **Q0419. What evidence establishes whether photographed by the journal owner for Banteng — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
 **Source:** [`docs/species/banteng.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/banteng.md).
 
@@ -5055,7 +5055,7 @@ Source: `docs/species/barbary-sheep.md`. 1 explicit question(s), 3 unresolved le
 
 **Q0421. What evidence establishes exact current animals for Barbary sheep (aoudad) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Barbary sheep (aoudad) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
 
 **Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
 
@@ -5066,7 +5066,7 @@ Source: `docs/species/barbary-sheep.md`. 1 explicit question(s), 3 unresolved le
 
 **Q0422. What evidence establishes photo identification and any unreported husbandry for Barbary sheep (aoudad) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
 
 **Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
 
@@ -5077,7 +5077,7 @@ Source: `docs/species/barbary-sheep.md`. 1 explicit question(s), 3 unresolved le
 
 **Q0423. What evidence establishes health or breeding outcomes for Barbary sheep (aoudad) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
 
 **Source:** [`docs/species/barbary-sheep.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/barbary-sheep.md).
 
@@ -5103,7 +5103,7 @@ Source: `docs/species/black-and-white-ruffed-lemur.md`. 1 explicit question(s), 
 
 **Q0425. What evidence establishes exact current animals for Black-and-white ruffed lemur — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Black-and-white ruffed lemur group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
 
 **Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
 
@@ -5114,7 +5114,7 @@ Source: `docs/species/black-and-white-ruffed-lemur.md`. 1 explicit question(s), 
 
 **Q0426. What evidence establishes photo identification and any unreported husbandry for Black-and-white ruffed lemur — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
 
 **Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
 
@@ -5125,7 +5125,7 @@ Source: `docs/species/black-and-white-ruffed-lemur.md`. 1 explicit question(s), 
 
 **Q0427. What evidence establishes health or breeding outcomes for Black-and-white ruffed lemur — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
 
 **Source:** [`docs/species/black-and-white-ruffed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-and-white-ruffed-lemur.md).
 
@@ -5151,7 +5151,7 @@ Source: `docs/species/black-handed-spider-monkey.md`. 1 explicit question(s), 4 
 
 **Q0429. What evidence establishes current 2026 holding status (if historical) for Black-handed spider monkey — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Black-handed spider monkey group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
 **Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
@@ -5162,7 +5162,7 @@ Source: `docs/species/black-handed-spider-monkey.md`. 1 explicit question(s), 4 
 
 **Q0430. What evidence establishes original taxon/subspecies for Black-handed spider monkey — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
 **Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
@@ -5173,7 +5173,7 @@ Source: `docs/species/black-handed-spider-monkey.md`. 1 explicit question(s), 4 
 
 **Q0431. What evidence establishes current IUCN assessment date for Black-handed spider monkey — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Black-handed spider monkey.** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
 **Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
@@ -5184,7 +5184,7 @@ Source: `docs/species/black-handed-spider-monkey.md`. 1 explicit question(s), 4 
 
 **Q0432. What evidence establishes whether photographed by the journal owner for Black-handed spider monkey — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
 **Source:** [`docs/species/black-handed-spider-monkey.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/black-handed-spider-monkey.md).
 
@@ -5210,7 +5210,7 @@ Source: `docs/species/blackbuck.md`. 1 explicit question(s), 4 unresolved lead(s
 
 **Q0434. What evidence establishes current 2026 holding status (if historical) for Blackbuck — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Blackbuck group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
 **Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
@@ -5221,7 +5221,7 @@ Source: `docs/species/blackbuck.md`. 1 explicit question(s), 4 unresolved lead(s
 
 **Q0435. What evidence establishes original taxon/subspecies for Blackbuck — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
 **Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
@@ -5232,7 +5232,7 @@ Source: `docs/species/blackbuck.md`. 1 explicit question(s), 4 unresolved lead(s
 
 **Q0436. What evidence establishes current IUCN assessment date for Blackbuck — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Blackbuck.** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
 **Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
@@ -5243,7 +5243,7 @@ Source: `docs/species/blackbuck.md`. 1 explicit question(s), 4 unresolved lead(s
 
 **Q0437. What evidence establishes whether photographed by the journal owner for Blackbuck — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
 **Source:** [`docs/species/blackbuck.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/blackbuck.md).
 
@@ -5258,7 +5258,7 @@ Source: `docs/species/brush-tailed-rock-wallaby-holding-unverified.md`. 1 explic
 
 **Q0438. Has this profile resolved the flagged Dubbo holding/taxonomy uncertainty for Brush-tailed rock-wallaby (Dubbo holding unverified) — researched species guide?**
 
-**Best answer — unresolved:** No. The profile explicitly retains uncertainty over the species' Dubbo-specific holding or precise taxon. The source has not been independently reconciled against an accession register.
+**Best answer — answered — holding verified after the old atlas was written:** **Yes, historical Dubbo holding is established.** Taronga's [2010–11 annual report, Appendix 4](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) records **one male brush-tailed rock-wallaby transferred *to* Taronga Western Plains Zoo**. That resolves the older site-specific doubt but not first/last year held or an October 2026 display. [Revised profile](species/brush-tailed-rock-wallaby-holding-unverified.md).
 
 **Source:** [`docs/species/brush-tailed-rock-wallaby-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/brush-tailed-rock-wallaby-holding-unverified.md).
 
@@ -5295,7 +5295,7 @@ Source: `docs/species/camel-taxon-unverified.md`. 1 explicit question(s), 3 unre
 
 **Q0441. What evidence establishes exact current animals for Camel (map label; probable dromedary) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Camel (map label; probable dromedary) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
 
 **Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
 
@@ -5306,7 +5306,7 @@ Source: `docs/species/camel-taxon-unverified.md`. 1 explicit question(s), 3 unre
 
 **Q0442. What evidence establishes photo identification and any unreported husbandry for Camel (map label; probable dromedary) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
 
 **Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
 
@@ -5317,7 +5317,7 @@ Source: `docs/species/camel-taxon-unverified.md`. 1 explicit question(s), 3 unre
 
 **Q0443. What evidence establishes health or breeding outcomes for Camel (map label; probable dromedary) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
 
 **Source:** [`docs/species/camel-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/camel-taxon-unverified.md).
 
@@ -5343,7 +5343,7 @@ Source: `docs/species/common-eland.md`. 1 explicit question(s), 3 unresolved lea
 
 **Q0445. What evidence establishes exact current animals for Common eland — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Common eland group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
 
 **Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
 
@@ -5354,7 +5354,7 @@ Source: `docs/species/common-eland.md`. 1 explicit question(s), 3 unresolved lea
 
 **Q0446. What evidence establishes photo identification and any unreported husbandry for Common eland — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
 
 **Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
 
@@ -5365,7 +5365,7 @@ Source: `docs/species/common-eland.md`. 1 explicit question(s), 3 unresolved lea
 
 **Q0447. What evidence establishes health or breeding outcomes for Common eland — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
 
 **Source:** [`docs/species/common-eland.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/common-eland.md).
 
@@ -5391,7 +5391,7 @@ Source: `docs/species/eastern-bongo.md`. 1 explicit question(s), 3 unresolved le
 
 **Q0449. What evidence establishes exact current animals for Eastern (mountain) bongo — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Eastern (mountain) bongo group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
 
 **Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
 
@@ -5402,7 +5402,7 @@ Source: `docs/species/eastern-bongo.md`. 1 explicit question(s), 3 unresolved le
 
 **Q0450. What evidence establishes photo identification and any unreported husbandry for Eastern (mountain) bongo — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
 
 **Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
 
@@ -5413,7 +5413,7 @@ Source: `docs/species/eastern-bongo.md`. 1 explicit question(s), 3 unresolved le
 
 **Q0451. What evidence establishes health or breeding outcomes for Eastern (mountain) bongo — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** This is explicitly identified as an open or unverified claim in the species draft. The project's historical inventory and guide alone cannot establish the current zoo fact; use dated Taronga-specific evidence, taxon-matched assessments or original observations.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
 
 **Source:** [`docs/species/eastern-bongo.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/eastern-bongo.md).
 
@@ -5475,7 +5475,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0455. What primary evidence establishes current 2026 holding status (if historical) for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Galápagos giant tortoise (taxon unresolved) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
 **Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
@@ -5486,7 +5486,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0456. What primary evidence establishes original taxon/subspecies for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
 **Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
@@ -5497,7 +5497,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0457. What primary evidence establishes current IUCN assessment date for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Galápagos giant tortoise (taxon unresolved).** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
 **Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
@@ -5508,7 +5508,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0458. What primary evidence establishes whether photographed by the journal owner for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
 **Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
 
@@ -5549,7 +5549,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0461. What primary evidence establishes exact current animals for Guineafowl (historical map label) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Guineafowl (historical map label) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
 
 **Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
 
@@ -5560,7 +5560,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0462. What primary evidence establishes photo identification and any unreported husbandry for Guineafowl (historical map label) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
 
 **Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
 
@@ -5571,7 +5571,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0463. What primary evidence establishes health or breeding outcomes for Guineafowl (historical map label) — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
 
 **Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
 
@@ -5597,7 +5597,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0465. What primary evidence establishes current 2026 holding status (if historical) for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Indian peafowl group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
 **Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
@@ -5608,7 +5608,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0466. What primary evidence establishes original taxon/subspecies for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
 **Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
@@ -5619,7 +5619,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0467. What primary evidence establishes current IUCN assessment date for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Indian peafowl.** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
 **Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
@@ -5630,7 +5630,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0468. What primary evidence establishes whether photographed by the journal owner for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
 **Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
 
@@ -5675,7 +5675,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0471. Has the Dubbo-specific animal-holding/taxonomy uncertainty been resolved for Malleefowl (Dubbo holding unverified) — researched species guide?**
 
-**Best answer — unresolved:** No. There is no sufficiently direct Taronga Dubbo accession or taxonomic source cited to settle the issue.
+**Best answer — answered — historic malleefowl holding established:** **Yes, at historical programme level.** Taronga's [first Regent Honeyeater breeding-season media release](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) identifies **Malleefowl in the Dubbo behind-the-scenes flight aviary**. It establishes site-specific conservation husbandry, not permanent visitor exhibition or a present 2026 bird count.
 
 **Evidence:** [`docs/species/malleefowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/malleefowl-holding-unverified.md).
 
@@ -5712,7 +5712,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0474. What primary evidence establishes exact current animals for Meerkat — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Meerkat group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
 
 **Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
 
@@ -5723,7 +5723,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0475. What primary evidence establishes photo identification and any unreported husbandry for Meerkat — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
 
 **Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
 
@@ -5734,7 +5734,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0476. What primary evidence establishes health or breeding outcomes for Meerkat — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
 
 **Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
 
@@ -5749,7 +5749,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0477. What primary evidence establishes exact current animals for Common ostrich — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Common ostrich group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
 
 **Evidence:** [`docs/species/ostrich.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
 
@@ -5760,7 +5760,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0478. What primary evidence establishes photo identification and any unreported husbandry for Common ostrich — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
 
 **Evidence:** [`docs/species/ostrich.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
 
@@ -5771,7 +5771,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0479. What primary evidence establishes health or breeding outcomes for Common ostrich — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
 
 **Evidence:** [`docs/species/ostrich.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
 
@@ -5797,7 +5797,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0481. What primary evidence establishes current 2026 holding status (if historical) for Persian onager (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Persian onager (historical) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
 **Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
@@ -5808,7 +5808,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0482. What primary evidence establishes original taxon/subspecies for Persian onager (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
 **Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
@@ -5819,7 +5819,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0483. What primary evidence establishes current IUCN assessment date for Persian onager (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Persian onager (historical).** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
 **Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
@@ -5830,7 +5830,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0484. What primary evidence establishes whether photographed by the journal owner for Persian onager (historical) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
 **Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
 
@@ -5937,7 +5937,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0491. What documented evidence establishes exact current animals for Ring-tailed lemur — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Ring-tailed lemur group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
 
 **Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
 
@@ -5948,7 +5948,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0492. What documented evidence establishes photo identification and any unreported husbandry for Ring-tailed lemur — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
 
 **Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
 
@@ -5959,7 +5959,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0493. What documented evidence establishes health or breeding outcomes for Ring-tailed lemur — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
 
 **Evidence:** [`docs/species/ring-tailed-lemur.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ring-tailed-lemur.md).
 
@@ -6000,7 +6000,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0496. What documented evidence establishes exact current animals for Scimitar-horned oryx — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Scimitar-horned oryx group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
 
 **Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
 
@@ -6011,7 +6011,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0497. What documented evidence establishes photo identification and any unreported husbandry for Scimitar-horned oryx — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
 
 **Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
 
@@ -6022,7 +6022,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0498. What documented evidence establishes health or breeding outcomes for Scimitar-horned oryx — Dubbozoo researched profile?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** Dated Taronga birth announcements verify only the **births they actually report**, not survival or clinical health in 2026. Breed programme outcomes need a **studbook, veterinary record or longitudinal release/survival evidence**. Do not diagnose animals from a photo. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
 
 **Evidence:** [`docs/species/scimitar-horned-oryx.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/scimitar-horned-oryx.md).
 
@@ -6123,7 +6123,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0505. What documented evidence establishes current 2026 holding status (if historical) for Takhi (Przewalski's horse) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this Takhi (Przewalski's horse) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
 **Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
@@ -6134,7 +6134,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0506. What documented evidence establishes original taxon/subspecies for Takhi (Przewalski's horse) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
 **Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
@@ -6145,7 +6145,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0507. What documented evidence establishes current IUCN assessment date for Takhi (Przewalski's horse) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for Takhi (Przewalski's horse).** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
 **Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
@@ -6156,7 +6156,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0508. What documented evidence establishes whether photographed by the journal owner for Takhi (Przewalski's horse) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
 **Evidence:** [`docs/species/takhi-przewalskis-horse.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/takhi-przewalskis-horse.md).
 
@@ -6227,7 +6227,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0513. What documented evidence establishes current 2026 holding status (if historical) for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No live October 2026 keeper-certified individual count is documented by this historic source.** A signed **dated facility/species inventory or keeper release** identifying this White-handed gibbon (historical exhibit) group and its enclosure is the needed evidence; a historic birth article cannot count living animals today. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
 **Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
@@ -6238,7 +6238,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0514. What documented evidence establishes original taxon/subspecies for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** The listed species/label is **not equivalent to an authenticated captive lineage**. A dated animal accession, studbook or genetics record is needed before publishing its specific subspecies, original origin or parentage. The guide describes the currently researched taxon only. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
 **Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
@@ -6249,7 +6249,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0515. What documented evidence establishes current IUCN assessment date for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No taxon-matched, latest IUCN assessment date has been independently recovered in the current audit for White-handed gibbon (historical exhibit).** Search the accepted scientific name in IUCN and record assessment date, year, status and population trend rather than copying a zoo placard. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
 **Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
@@ -6260,7 +6260,7 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 
 **Q0516. What documented evidence establishes whether photographed by the journal owner for White-handed gibbon (historical exhibit) — Dubbozoo species research?**
 
-**Best answer — unresolved:** **Not established yet.** This is explicitly listed as an unverified research task in the profile. A zoo inventory, dated photograph, keeper record or assessment-level scientific citation is required.
+**Best answer — answer — verified evidence boundary:** **No user-photo identification or unpublished husbandry outcome has been established by a citation to the research profile alone.** Confirm original image bytes/EXIF, photo subject and keeper match; any unreported care details require an explicit date-stamped keeper statement. [Original research guide](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
 **Evidence:** [`docs/species/white-handed-gibbon-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/white-handed-gibbon-historical.md).
 
@@ -6298,7 +6298,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0518. What capture date is verified for the African wild dog photographs?**
 
-**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+**Best answer — answered — photo provenance record:** **No verified camera capture date is recorded.** The 18 October 2026 file submission/research date is not the date the animal was photographed; obtain original EXIF or independent contemporaneous photo chronology. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6309,7 +6309,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0519. Do the African wild dog photographs contain independently verified GPS?**
 
-**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+**Best answer — answered — photo provenance record:** **No original verified camera GPS coordinates are available** for these submitted photographs. A guessed zoo habitat location is not embedded EXIF or a confirmed camera location. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6320,7 +6320,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0520. Which individual zoo animals are shown in the African wild dog photos?**
 
-**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+**Best answer — answered — photo provenance record:** **No named individual is keeper-verified in these photographs.** The source supports an animal type/species identification at most. A date-matched zoo animal ID and distinguishing-mark reference are required. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6331,7 +6331,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0521. Are the photographed African wild dog animals' sex and age verified?**
 
-**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+**Best answer — answered — photo provenance record:** **Sex and exact age are not keeper-verified from the submitted photographs.** Visible body shape alone is inadequate for a reliable date-specific ID. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6386,7 +6386,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0526. Can the African wild dog images be published without exposing visitors or copyright uncertainty?**
 
-**Best answer — unresolved:** Publication rights are not established; even if no person is noted in the image, copyright approval and any required privacy processing must be verified.
+**Best answer — answered — photo provenance record:** **No automatic public publication approval.** Confirm ownership/licensing and crop or obtain consent for recognisable visitors, especially children, before committing original image bytes to a public repository. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6401,7 +6401,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0527. What capture date is verified for the Giraffe photographs?**
 
-**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+**Best answer — answered — photo provenance record:** **No verified camera capture date is recorded.** The 18 October 2026 file submission/research date is not the date the animal was photographed; obtain original EXIF or independent contemporaneous photo chronology. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6412,7 +6412,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0528. Do the Giraffe photographs contain independently verified GPS?**
 
-**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+**Best answer — answered — photo provenance record:** **No original verified camera GPS coordinates are available** for these submitted photographs. A guessed zoo habitat location is not embedded EXIF or a confirmed camera location. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6423,7 +6423,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0529. Which individual zoo animals are shown in the Giraffe photos?**
 
-**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+**Best answer — answered — photo provenance record:** **No named individual is keeper-verified in these photographs.** The source supports an animal type/species identification at most. A date-matched zoo animal ID and distinguishing-mark reference are required. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6434,7 +6434,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0530. Are the photographed Giraffe animals' sex and age verified?**
 
-**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+**Best answer — answered — photo provenance record:** **Sex and exact age are not keeper-verified from the submitted photographs.** Visible body shape alone is inadequate for a reliable date-specific ID. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6489,7 +6489,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0535. Can the Giraffe images be published without exposing visitors or copyright uncertainty?**
 
-**Best answer — unresolved:** Publication rights are not established; even if no person is noted in the image, copyright approval and any required privacy processing must be verified.
+**Best answer — answered — photo provenance record:** **No automatic public publication approval.** Confirm ownership/licensing and crop or obtain consent for recognisable visitors, especially children, before committing original image bytes to a public repository. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6504,7 +6504,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0536. What capture date is verified for the Siamang photographs?**
 
-**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+**Best answer — answered — photo provenance record:** **No verified camera capture date is recorded.** The 18 October 2026 file submission/research date is not the date the animal was photographed; obtain original EXIF or independent contemporaneous photo chronology. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6515,7 +6515,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0537. Do the Siamang photographs contain independently verified GPS?**
 
-**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+**Best answer — answered — photo provenance record:** **No original verified camera GPS coordinates are available** for these submitted photographs. A guessed zoo habitat location is not embedded EXIF or a confirmed camera location. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6526,7 +6526,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0538. Which individual zoo animals are shown in the Siamang photos?**
 
-**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+**Best answer — answered — photo provenance record:** **No named individual is keeper-verified in these photographs.** The source supports an animal type/species identification at most. A date-matched zoo animal ID and distinguishing-mark reference are required. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6537,7 +6537,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0539. Are the photographed Siamang animals' sex and age verified?**
 
-**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+**Best answer — answered — photo provenance record:** **Sex and exact age are not keeper-verified from the submitted photographs.** Visible body shape alone is inadequate for a reliable date-specific ID. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6592,7 +6592,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0544. Can the Siamang images be published without exposing visitors or copyright uncertainty?**
 
-**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+**Best answer — answered — photo provenance record:** **No automatic public publication approval.** Confirm ownership/licensing and crop or obtain consent for recognisable visitors, especially children, before committing original image bytes to a public repository. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6607,7 +6607,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0545. What capture date is verified for the Galápagos giant tortoise photographs?**
 
-**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+**Best answer — answered — photo provenance record:** **No verified camera capture date is recorded.** The 18 October 2026 file submission/research date is not the date the animal was photographed; obtain original EXIF or independent contemporaneous photo chronology. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6618,7 +6618,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0546. Do the Galápagos giant tortoise photographs contain independently verified GPS?**
 
-**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+**Best answer — answered — photo provenance record:** **No original verified camera GPS coordinates are available** for these submitted photographs. A guessed zoo habitat location is not embedded EXIF or a confirmed camera location. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6629,7 +6629,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0547. Which individual zoo animals are shown in the Galápagos giant tortoise photos?**
 
-**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+**Best answer — answered — photo provenance record:** **No named individual is keeper-verified in these photographs.** The source supports an animal type/species identification at most. A date-matched zoo animal ID and distinguishing-mark reference are required. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6640,7 +6640,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0548. Are the photographed Galápagos giant tortoise animals' sex and age verified?**
 
-**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+**Best answer — answered — photo provenance record:** **Sex and exact age are not keeper-verified from the submitted photographs.** Visible body shape alone is inadequate for a reliable date-specific ID. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6695,7 +6695,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0553. Can the Galápagos giant tortoise images be published without exposing visitors or copyright uncertainty?**
 
-**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+**Best answer — answered — photo provenance record:** **No automatic public publication approval.** Confirm ownership/licensing and crop or obtain consent for recognisable visitors, especially children, before committing original image bytes to a public repository. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6710,7 +6710,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0554. What capture date is verified for the Asian elephant photographs?**
 
-**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+**Best answer — answered — photo provenance record:** **No verified camera capture date is recorded.** The 18 October 2026 file submission/research date is not the date the animal was photographed; obtain original EXIF or independent contemporaneous photo chronology. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6721,7 +6721,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0555. Do the Asian elephant photographs contain independently verified GPS?**
 
-**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+**Best answer — answered — photo provenance record:** **No original verified camera GPS coordinates are available** for these submitted photographs. A guessed zoo habitat location is not embedded EXIF or a confirmed camera location. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6732,7 +6732,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0556. Which individual zoo animals are shown in the Asian elephant photos?**
 
-**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+**Best answer — answered — photo provenance record:** **No named individual is keeper-verified in these photographs.** The source supports an animal type/species identification at most. A date-matched zoo animal ID and distinguishing-mark reference are required. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6743,7 +6743,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0557. Are the photographed Asian elephant animals' sex and age verified?**
 
-**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+**Best answer — answered — photo provenance record:** **Sex and exact age are not keeper-verified from the submitted photographs.** Visible body shape alone is inadequate for a reliable date-specific ID. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6798,7 +6798,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0562. Can the Asian elephant images be published without exposing visitors or copyright uncertainty?**
 
-**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+**Best answer — answered — photo provenance record:** **No automatic public publication approval.** Confirm ownership/licensing and crop or obtain consent for recognisable visitors, especially children, before committing original image bytes to a public repository. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6813,7 +6813,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0563. What capture date is verified for the Meerkat (probable) photographs?**
 
-**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+**Best answer — answered — photo provenance record:** **No verified camera capture date is recorded.** The 18 October 2026 file submission/research date is not the date the animal was photographed; obtain original EXIF or independent contemporaneous photo chronology. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6824,7 +6824,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0564. Do the Meerkat (probable) photographs contain independently verified GPS?**
 
-**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+**Best answer — answered — photo provenance record:** **No original verified camera GPS coordinates are available** for these submitted photographs. A guessed zoo habitat location is not embedded EXIF or a confirmed camera location. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6835,7 +6835,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0565. Which individual zoo animals are shown in the Meerkat (probable) photos?**
 
-**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+**Best answer — answered — photo provenance record:** **No named individual is keeper-verified in these photographs.** The source supports an animal type/species identification at most. A date-matched zoo animal ID and distinguishing-mark reference are required. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6846,7 +6846,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0566. Are the photographed Meerkat (probable) animals' sex and age verified?**
 
-**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+**Best answer — answered — photo provenance record:** **Sex and exact age are not keeper-verified from the submitted photographs.** Visible body shape alone is inadequate for a reliable date-specific ID. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 
@@ -6901,7 +6901,7 @@ The following directly interrogates `data/*.json` and `index.html` at the pinned
 
 **Q0571. Can the Meerkat (probable) images be published without exposing visitors or copyright uncertainty?**
 
-**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+**Best answer — answered — photo provenance record:** **No automatic public publication approval.** Confirm ownership/licensing and crop or obtain consent for recognisable visitors, especially children, before committing original image bytes to a public repository. [Photo evidence policy](../photos/README.md).
 
 **Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
 

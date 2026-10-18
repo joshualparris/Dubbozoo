@@ -1,6 +1,8 @@
 # Dubbozoo — Every Unanswered Question: Evidence & Three More
 
-**Research version:** 18 October 2026 · **Location:** Dubbo NSW · **Source snapshot:** `5e08328fcdd639f6fd9cbcf872842dcd5efa08d1` · **Completed research-atlas audit of 61 historic animal records, 46 provisional species guides, 27 other Markdown files, structured data and website.**
+**Original question set:** 18 October 2026 · **Evidence-reconciliation revision:** 18 October 2026 · **Location:** Dubbo NSW · **Source snapshot:** `5e08328fcdd639f6fd9cbcf872842dcd5efa08d1` · **Completed research-atlas audit of 61 historic animal records, 46 provisional species guides, 27 other Markdown files, structured data and website.**
+
+> **Important update:** The 622 parent questions below are preserved from the original historical snapshot, but core answers now consult the 89-entry inventory, dated Taronga/Government sources and a separately graded IUCN audit. Some questions truly require animal accession records or an on-site observation. **An unverified current animal count is not the same as an unresearched conservation status.** The follow-up questions remain an independent backlog; they are not automatically answered by the parent.
 
 > **Method:** A statement marked **unresolved** is an answered *research-status question* (the available evidence does not establish the fact), **not** a fabricated factual answer. The three follow-up questions listed under each parent are **research extensions**, not questions that have already been answered. This is an open, expanding register, not a formal zoo census. Every parent below deliberately generates exactly **three** next questions. Additional source-file question prompts and gap statements follow in later sections.
 
@@ -23,7 +25,7 @@
 
 **Q0001. What exactly is the scientific identity of "Addax" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Addax**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Addax nasomaculatus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/addax.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #1](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -34,7 +36,7 @@
 
 **Q0002. What verifiable evidence establishes that Addax has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/addax.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #1](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -45,7 +47,7 @@
 
 **Q0003. What is the current conservation status and wild-population trend of Addax?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Addax nasomaculatus*: Critically Endangered (CR)** in the 2016 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T512A50180603.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #1](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -56,7 +58,7 @@
 
 **Q0004. Is Addax on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/addax.md).
 
 **Evidence:** [inventory #1](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -71,7 +73,7 @@
 
 **Q0005. What exactly is the scientific identity of "African elephant" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **African elephant**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Loxodonta africana**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/african-elephant-historical.md) and [Dubbo-specific supporting record](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage).
 
 **Evidence:** [inventory #2](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia).
 
@@ -82,7 +84,7 @@
 
 **Q0006. What verifiable evidence establishes that African elephant has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage); [species research](../docs/species/african-elephant-historical.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #2](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia).
 
@@ -93,7 +95,7 @@
 
 **Q0007. What is the current conservation status and wild-population trend of African elephant?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — answered from taxon-matched IUCN assessments:** The historic Dubbo animals were **African savanna elephants (*Loxodonta africana*)**. The [amended IUCN 2022 assessment](https://doi.org/10.2305/IUCN.UK.2022-2.RLTS.T181008073A223031019.en), assessed 13 November 2020, classifies them as **Endangered (EN), global trend decreasing**, with roughly **60% long-term decline** in the assessment. The separate **African forest elephant (*L. cyclotis*)** is **Critically Endangered, declining** ([IUCN 2021](https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T181007989A181019888.en)). Neither species' assessment provides an unambiguous current single-species wild headcount; the 2016 ~415,000 estimate combines the two, and the [2025 improved forest estimates](https://iucn.org/press-release/202511/dna-methods-help-uncover-further-african-forest-elephants-species-remains) should not be interpreted as proven population growth.
 
 **Evidence:** [inventory #2](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -104,7 +106,7 @@
 
 **Q0008. Is African elephant on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** **No African elephants are currently held at Dubbo.** The zoo's last African elephant, Cuddles, died in **March 2017**; this is a **former programme**, distinct from the Asian elephants. [ABC contemporaneous account](https://www.abc.net.au/news/2017-03-22/last-african-elephant-in-australia-dies-at-dubbo-zoo/8377038). The six historically named elephants are not a live headcount.
 
 **Evidence:** [inventory #2](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-mourns-passing-of-last-african-elephant-in-australia).
 
@@ -119,7 +121,7 @@
 
 **Q0009. What exactly is the scientific identity of "African lion" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Panthera leo**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Panthera leo**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/african-lion.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #3](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/african-lion.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
 
@@ -130,7 +132,7 @@
 
 **Q0010. What verifiable evidence establishes that African lion has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/african-lion.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #3](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/african-lion.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
 
@@ -141,7 +143,7 @@
 
 **Q0011. What is the current conservation status and wild-population trend of African lion?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Vulnerable"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Panthera leo*: Vulnerable (VU)** in the 2024 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T15951A266696959.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #3](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/african-lion.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -152,7 +154,7 @@
 
 **Q0012. Is African lion on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/african-lion.md).
 
 **Evidence:** [inventory #3](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/african-lion.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-lion.md).
 
@@ -167,7 +169,7 @@
 
 **Q0013. What exactly is the scientific identity of "African wild dog" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Lycaon pictus**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Lycaon pictus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/african-wild-dog.md) and [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
 **Evidence:** [inventory #4](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf), [docs/african-wild-dog.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -178,7 +180,7 @@
 
 **Q0014. What verifiable evidence establishes that African wild dog has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [species research](../docs/african-wild-dog.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #4](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf), [docs/african-wild-dog.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -189,7 +191,7 @@
 
 **Q0015. What is the current conservation status and wild-population trend of African wild dog?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Endangered"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Lycaon pictus*: Endangered (EN)** in the 2025 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2025-2.RLTS.T12436A221299510.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #4](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf), [docs/african-wild-dog.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -200,7 +202,7 @@
 
 **Q0016. Is African wild dog on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** The repository contains supplied photographs consistent with this animal group, but without verified capture dates/GPS and keeper-ID matching; these images are not proof of today's residents. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [species research](../docs/african-wild-dog.md).
 
 **Evidence:** [inventory #4](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf), [docs/african-wild-dog.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/african-wild-dog.md).
 
@@ -215,7 +217,7 @@
 
 **Q0017. What exactly is the scientific identity of "Barbary sheep (aoudad)" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Barbary sheep (aoudad)**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Ammotragus lervia**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/barbary-sheep.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole).
 
 **Evidence:** [inventory #5](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole).
 
@@ -226,7 +228,7 @@
 
 **Q0018. What verifiable evidence establishes that Barbary sheep (aoudad) has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole); [species research](../docs/species/barbary-sheep.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #5](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole).
 
@@ -237,7 +239,7 @@
 
 **Q0019. What is the current conservation status and wild-population trend of Barbary sheep (aoudad)?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Ammotragus lervia*: Vulnerable (VU)** in the 2022 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T1151A214430287.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #5](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -248,7 +250,7 @@
 
 **Q0020. Is Barbary sheep (aoudad) on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole); [species research](../docs/species/barbary-sheep.md).
 
 **Evidence:** [inventory #5](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole).
 
@@ -263,7 +265,7 @@
 
 **Q0021. What exactly is the scientific identity of "Black-and-white ruffed lemur" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Black-and-white ruffed lemur**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Varecia variegata**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/black-and-white-ruffed-lemur.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #6](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -274,7 +276,7 @@
 
 **Q0022. What verifiable evidence establishes that Black-and-white ruffed lemur has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/black-and-white-ruffed-lemur.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #6](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -285,7 +287,7 @@
 
 **Q0023. What is the current conservation status and wild-population trend of Black-and-white ruffed lemur?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Varecia variegata*: Critically Endangered (CR)** in the 2020 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T22918A115574178.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #6](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -296,7 +298,7 @@
 
 **Q0024. Is Black-and-white ruffed lemur on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/black-and-white-ruffed-lemur.md).
 
 **Evidence:** [inventory #6](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -311,7 +313,7 @@
 
 **Q0025. What exactly is the scientific identity of "Black rhinoceros" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Diceros bicornis**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Diceros bicornis**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/black-rhinoceros.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #7](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/black-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/black-rhinoceros.md).
 
@@ -322,7 +324,7 @@
 
 **Q0026. What verifiable evidence establishes that Black rhinoceros has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/black-rhinoceros.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #7](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/black-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/black-rhinoceros.md).
 
@@ -333,7 +335,7 @@
 
 **Q0027. What is the current conservation status and wild-population trend of Black rhinoceros?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Critically Endangered"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — category and direction supported by IUCN announcement:** The **black rhinoceros (*Diceros bicornis*) remains Critically Endangered**. IUCN reports the **total wild population was slowly increasing during the monitored recovery years**, despite a catastrophic historical decline and continuing poaching. That means **CR does not automatically mean its most recent wild trend is decreasing**. [IUCN African rhino recovery announcement](https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list). The current all-Africa wild count and precise IUCN species trend require their own dated survey. [species research](../docs/black-rhinoceros.md).
 
 **Evidence:** [inventory #7](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/black-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/black-rhinoceros.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -344,7 +346,7 @@
 
 **Q0028. Is Black rhinoceros on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/black-rhinoceros.md).
 
 **Evidence:** [inventory #7](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/black-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/black-rhinoceros.md).
 
@@ -359,7 +361,7 @@
 
 **Q0029. What exactly is the scientific identity of "Cheetah" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Acinonyx jubatus**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Acinonyx jubatus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/cheetah.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #8](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/cheetah.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
 
@@ -370,7 +372,7 @@
 
 **Q0030. What verifiable evidence establishes that Cheetah has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/cheetah.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #8](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/cheetah.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
 
@@ -381,7 +383,7 @@
 
 **Q0031. What is the current conservation status and wild-population trend of Cheetah?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Vulnerable"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Acinonyx jubatus*: Vulnerable (VU)** in the 2015 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T219A50649567.en)). **Population trend:** decreasing (2015 assessment; later category still VU). This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #8](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/cheetah.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -392,7 +394,7 @@
 
 **Q0032. Is Cheetah on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/cheetah.md).
 
 **Evidence:** [inventory #8](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/cheetah.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/cheetah.md).
 
@@ -407,7 +409,7 @@
 
 **Q0033. What exactly is the scientific identity of "Common eland" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Common eland**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Taurotragus oryx**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/common-eland.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah).
 
 **Evidence:** [inventory #9](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah).
 
@@ -418,7 +420,7 @@
 
 **Q0034. What verifiable evidence establishes that Common eland has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah); [species research](../docs/species/common-eland.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #9](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah).
 
@@ -429,7 +431,7 @@
 
 **Q0035. What is the current conservation status and wild-population trend of Common eland?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Taurotragus oryx*. A species research guide exists ([species research](../docs/species/common-eland.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #9](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -440,7 +442,7 @@
 
 **Q0036. Is Common eland on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah); [species research](../docs/species/common-eland.md).
 
 **Evidence:** [inventory #9](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah).
 
@@ -455,7 +457,7 @@
 
 **Q0037. What exactly is the scientific identity of "Common hippopotamus" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Hippopotamus amphibius**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Hippopotamus amphibius**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/common-hippopotamus.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #10](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/common-hippopotamus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
 
@@ -466,7 +468,7 @@
 
 **Q0038. What verifiable evidence establishes that Common hippopotamus has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/common-hippopotamus.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #10](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/common-hippopotamus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
 
@@ -477,7 +479,7 @@
 
 **Q0039. What is the current conservation status and wild-population trend of Common hippopotamus?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Vulnerable"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Hippopotamus amphibius*: Vulnerable (VU)** in the 2017 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2017-2.RLTS.T10103A18567364.en)). **Population trend:** stable in the dated 2017 IUCN assessment despite threatened status; regional declines continue. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #10](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/common-hippopotamus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -488,7 +490,7 @@
 
 **Q0040. Is Common hippopotamus on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/common-hippopotamus.md).
 
 **Evidence:** [inventory #10](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/common-hippopotamus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/common-hippopotamus.md).
 
@@ -503,7 +505,7 @@
 
 **Q0041. What exactly is the scientific identity of "Dromedary camel (map just says 'Camel')" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Dromedary camel (map just says 'Camel')". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — supported scientific identification:** The researched identification is **Camelus dromedarius**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/camel-taxon-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day).
 
 **Evidence:** [inventory #11](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -514,7 +516,7 @@
 
 **Q0042. What verifiable evidence establishes that Dromedary camel has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's keeper profile identifies the species and historical named animal.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day); [species research](../docs/species/camel-taxon-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #11](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -525,7 +527,7 @@
 
 **Q0043. What is the current conservation status and wild-population trend of Dromedary camel?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — answered — domestic animal not evaluated as a wild taxon:** **No applicable single IUCN wild-population trend for this domestic form.** The animal is **Camelus dromedarius**; applying the threatened status of a related wild species (for example wild Bactrian camel or wild water buffalo) would be taxonomically incorrect. [species research](../docs/species/camel-taxon-unverified.md).
 
 **Evidence:** [inventory #11](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -536,7 +538,7 @@
 
 **Q0044. Is Dromedary camel on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day); [species research](../docs/species/camel-taxon-unverified.md).
 
 **Evidence:** [inventory #11](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -551,7 +553,7 @@
 
 **Q0045. What exactly is the scientific identity of "Eastern bongo" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Eastern bongo**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Tragelaphus eurycerus isaaci**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/eastern-bongo.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
 **Evidence:** [inventory #12](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
@@ -562,7 +564,7 @@
 
 **Q0046. What verifiable evidence establishes that Eastern bongo has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo); [species research](../docs/species/eastern-bongo.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #12](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
@@ -573,7 +575,7 @@
 
 **Q0047. What is the current conservation status and wild-population trend of Eastern bongo?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Tragelaphus eurycerus isaaci*. A species research guide exists ([species research](../docs/species/eastern-bongo.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #12](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -584,7 +586,7 @@
 
 **Q0048. Is Eastern bongo on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo); [species research](../docs/species/eastern-bongo.md).
 
 **Evidence:** [inventory #12](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
@@ -599,7 +601,7 @@
 
 **Q0049. What exactly is the scientific identity of "Giraffe (Giraffa, exact zoo taxon unverified)" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Giraffe (Giraffa, exact zoo taxon unverified)". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — supported scientific identification:** The researched identification is **Giraffa spp. (precise 2025 species/lineage not confirmed)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/giraffe.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #13](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/giraffe.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
 
@@ -610,7 +612,7 @@
 
 **Q0050. What verifiable evidence establishes that Giraffe has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/giraffe.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #13](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/giraffe.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
 
@@ -621,7 +623,7 @@
 
 **Q0051. What is the current conservation status and wild-population trend of Giraffe?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"not assigned without verified species"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Giraffa spp. (precise 2025 species/lineage not confirmed)*. A species research guide exists ([species research](../docs/giraffe.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #13](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/giraffe.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -632,7 +634,7 @@
 
 **Q0052. Is Giraffe on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** The repository contains supplied photographs consistent with this animal group, but without verified capture dates/GPS and keeper-ID matching; these images are not proof of today's residents. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/giraffe.md).
 
 **Evidence:** [inventory #13](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/giraffe.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/giraffe.md).
 
@@ -647,7 +649,7 @@
 
 **Q0053. What exactly is the scientific identity of "Helmeted guineafowl (map says 'Guineafowl')" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Helmeted guineafowl (map says 'Guineafowl')". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — identity limited to available evidence:** The researched identification is **Numididae (map says Guineafowl; Numida meleagris is not confirmed)**. The source label or original captive lineage does **not** settle a finer taxonomic identification; do not invent one. See [species research](../docs/species/guineafowl-taxon-unverified.md) and [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
 **Evidence:** [inventory #14](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
@@ -658,7 +660,7 @@
 
 **Q0054. What verifiable evidence establishes that Helmeted guineafowl has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [species research](../docs/species/guineafowl-taxon-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #14](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
@@ -669,7 +671,7 @@
 
 **Q0055. What is the current conservation status and wild-population trend of Helmeted guineafowl?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — answer requires specific taxon:** A reliable **single** global species category cannot be assigned to a broad exhibit label **Numididae (map says Guineafowl; Numida meleagris is not confirmed)**. Individual Galápagos tortoise island taxa have different statuses; 'Guineafowl' likewise does not prove a specific taxon. Establish the exact species from zoo holdings first, then check a matching IUCN assessment. [species research](../docs/species/guineafowl-taxon-unverified.md).
 
 **Evidence:** [inventory #14](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -680,7 +682,7 @@
 
 **Q0056. Is Helmeted guineafowl on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [species research](../docs/species/guineafowl-taxon-unverified.md).
 
 **Evidence:** [inventory #14](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
@@ -695,7 +697,7 @@
 
 **Q0057. What exactly is the scientific identity of "Meerkat" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Suricata suricatta**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Suricata suricatta**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/meerkat.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole).
 
 **Evidence:** [inventory #15](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole), [docs/meerkat.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
 
@@ -706,7 +708,7 @@
 
 **Q0058. What verifiable evidence establishes that Meerkat has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole); [species research](../docs/meerkat.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #15](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole), [docs/meerkat.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
 
@@ -717,7 +719,7 @@
 
 **Q0059. What is the current conservation status and wild-population trend of Meerkat?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Least Concern; photo identification medium confidence"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Suricata suricatta*. A species research guide exists ([species research](../docs/meerkat.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #15](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole), [docs/meerkat.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -728,7 +730,7 @@
 
 **Q0060. Is Meerkat on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** The repository contains supplied photographs consistent with this animal group, but without verified capture dates/GPS and keeper-ID matching; these images are not proof of today's residents. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole); [species research](../docs/meerkat.md).
 
 **Evidence:** [inventory #15](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole), [docs/meerkat.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/meerkat.md).
 
@@ -743,7 +745,7 @@
 
 **Q0061. What exactly is the scientific identity of "Ostrich" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Ostrich**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Struthio camelus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/ostrich.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #16](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -754,7 +756,7 @@
 
 **Q0062. What verifiable evidence establishes that Ostrich has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/ostrich.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #16](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -765,7 +767,7 @@
 
 **Q0063. What is the current conservation status and wild-population trend of Ostrich?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Struthio camelus*: Least Concern (LC)** in the 2018 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T45020636A132189458.en)). **Population trend:** decreasing in the 2018 assessment (2025 listing still LC). This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #16](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -776,7 +778,7 @@
 
 **Q0064. Is Ostrich on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/ostrich.md).
 
 **Evidence:** [inventory #16](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -791,7 +793,7 @@
 
 **Q0065. What exactly is the scientific identity of "Plains zebra" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Equus quagga**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Equus quagga (older Equus burchellii synonym)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/plains-zebra.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #17](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/plains-zebra.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -802,7 +804,7 @@
 
 **Q0066. What verifiable evidence establishes that Plains zebra has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/plains-zebra.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #17](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/plains-zebra.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -813,7 +815,7 @@
 
 **Q0067. What is the current conservation status and wild-population trend of Plains zebra?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"conflicting Taronga assessments; recheck"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Equus quagga*: Near Threatened (NT)** in the 2016 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T41013A45172424.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #17](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/plains-zebra.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -824,7 +826,7 @@
 
 **Q0068. Is Plains zebra on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/plains-zebra.md).
 
 **Evidence:** [inventory #17](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/plains-zebra.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/plains-zebra.md).
 
@@ -839,7 +841,7 @@
 
 **Q0069. What exactly is the scientific identity of "Ring-tailed lemur" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Ring-tailed lemur**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Lemur catta**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/ring-tailed-lemur.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #18](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -850,7 +852,7 @@
 
 **Q0070. What verifiable evidence establishes that Ring-tailed lemur has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/ring-tailed-lemur.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #18](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -861,7 +863,7 @@
 
 **Q0071. What is the current conservation status and wild-population trend of Ring-tailed lemur?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Lemur catta*: Endangered (EN)** in the 2020 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T11496A115565760.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #18](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -872,7 +874,7 @@
 
 **Q0072. Is Ring-tailed lemur on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/ring-tailed-lemur.md).
 
 **Evidence:** [inventory #18](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -887,7 +889,7 @@
 
 **Q0073. What exactly is the scientific identity of "Scimitar-horned oryx (map says 'Oryx')" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Scimitar-horned oryx (map says 'Oryx')". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — supported scientific identification:** The researched identification is **Oryx dammah**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/scimitar-horned-oryx.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
 **Evidence:** [inventory #19](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
@@ -898,7 +900,7 @@
 
 **Q0074. What verifiable evidence establishes that Scimitar-horned oryx has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf); [species research](../docs/species/scimitar-horned-oryx.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #19](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
@@ -909,7 +911,7 @@
 
 **Q0075. What is the current conservation status and wild-population trend of Scimitar-horned oryx?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Oryx dammah*: Endangered (EN)** in the 2023 IUCN announcement or graded research source ([source](https://iucn.org/press-release/202312/freshwater-fish-highlight-escalating-climate-impacts-species-iucn-red-list)). **Population trend:** trend not independently verified in the cited assessment excerpt. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #19](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -920,7 +922,7 @@
 
 **Q0076. Is Scimitar-horned oryx on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf); [species research](../docs/species/scimitar-horned-oryx.md).
 
 **Evidence:** [inventory #19](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
@@ -935,7 +937,7 @@
 
 **Q0077. What exactly is the scientific identity of "White rhinoceros" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Ceratotherium simum**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Ceratotherium simum**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/white-rhinoceros.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #20](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/white-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
 
@@ -946,7 +948,7 @@
 
 **Q0078. What verifiable evidence establishes that White rhinoceros has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/white-rhinoceros.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #20](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/white-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
 
@@ -957,7 +959,7 @@
 
 **Q0079. What is the current conservation status and wild-population trend of White rhinoceros?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"assessment/subspecies recheck"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Ceratotherium simum*: Near Threatened (NT)** in the 2020 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T4185A45813880.en)). **Population trend:** the global species status is NT; do not assert a trend without reading the latest matching record. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #20](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/white-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -968,7 +970,7 @@
 
 **Q0080. Is White rhinoceros on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/white-rhinoceros.md).
 
 **Evidence:** [inventory #20](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/white-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/white-rhinoceros.md).
 
@@ -985,7 +987,7 @@
 
 **Q0081. What exactly is the scientific identity of "American bison" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **American bison**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Bison bison**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/american-bison-historical.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf).
 
 **Evidence:** [inventory #21](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf).
 
@@ -996,7 +998,7 @@
 
 **Q0082. What verifiable evidence establishes that American bison has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf); [species research](../docs/species/american-bison-historical.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #21](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf).
 
@@ -1007,7 +1009,7 @@
 
 **Q0083. What is the current conservation status and wild-population trend of American bison?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Bison bison*. A species research guide exists ([species research](../docs/species/american-bison-historical.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #21](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1018,7 +1020,7 @@
 
 **Q0084. Is American bison on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf); [species research](../docs/species/american-bison-historical.md).
 
 **Evidence:** [inventory #21](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf).
 
@@ -1033,7 +1035,7 @@
 
 **Q0085. What exactly is the scientific identity of "Black-handed spider monkey" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Black-handed spider monkey**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Ateles geoffroyi**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/black-handed-spider-monkey.md) and [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf).
 
 **Evidence:** [inventory #22](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf).
 
@@ -1044,7 +1046,7 @@
 
 **Q0086. What verifiable evidence establishes that Black-handed spider monkey has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf); [species research](../docs/species/black-handed-spider-monkey.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #22](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf).
 
@@ -1055,7 +1057,7 @@
 
 **Q0087. What is the current conservation status and wild-population trend of Black-handed spider monkey?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Ateles geoffroyi*. A species research guide exists ([species research](../docs/species/black-handed-spider-monkey.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #22](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1066,7 +1068,7 @@
 
 **Q0088. Is Black-handed spider monkey on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf); [species research](../docs/species/black-handed-spider-monkey.md).
 
 **Evidence:** [inventory #22](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf).
 
@@ -1081,7 +1083,7 @@
 
 **Q0089. What exactly is the scientific identity of "Galápagos tortoise" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Chelonoidis sp. (Galápagos complex)**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — identity limited to available evidence:** The researched identification is **Chelonoidis spp. (island lineage not established)**. The source label or original captive lineage does **not** settle a finer taxonomic identification; do not invent one. See [species research](../docs/galapagos-giant-tortoise.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #23](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/galapagos-giant-tortoise.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 
@@ -1092,7 +1094,7 @@
 
 **Q0090. What verifiable evidence establishes that Galápagos tortoise has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/galapagos-giant-tortoise.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #23](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/galapagos-giant-tortoise.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 
@@ -1103,7 +1105,7 @@
 
 **Q0091. What is the current conservation status and wild-population trend of Galápagos tortoise?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"island lineage and lineage-specific IUCN classification unverified"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — answer requires specific taxon:** A reliable **single** global species category cannot be assigned to a broad exhibit label **Chelonoidis spp. (island lineage not established)**. Individual Galápagos tortoise island taxa have different statuses; 'Guineafowl' likewise does not prove a specific taxon. Establish the exact species from zoo holdings first, then check a matching IUCN assessment. [species research](../docs/galapagos-giant-tortoise.md).
 
 **Evidence:** [inventory #23](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/galapagos-giant-tortoise.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1114,7 +1116,7 @@
 
 **Q0092. Is Galápagos tortoise on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** The repository contains supplied photographs consistent with this animal group, but without verified capture dates/GPS and keeper-ID matching; these images are not proof of today's residents. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/galapagos-giant-tortoise.md).
 
 **Evidence:** [inventory #23](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/galapagos-giant-tortoise.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/galapagos-giant-tortoise.md).
 
@@ -1131,7 +1133,7 @@
 
 **Q0093. What exactly is the scientific identity of "Asian elephant (including historic Sri Lankan-origin animals)" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Elephas maximus**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Elephas maximus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/asian-elephant.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #24](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/asian-elephant.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
 
@@ -1142,7 +1144,7 @@
 
 **Q0094. What verifiable evidence establishes that Asian elephant has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/asian-elephant.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #24](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/asian-elephant.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
 
@@ -1153,7 +1155,7 @@
 
 **Q0095. What is the current conservation status and wild-population trend of Asian elephant?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Endangered"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Elephas maximus*: Endangered (EN)** in the 2020 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en)). **Population trend:** decreasing. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #24](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/asian-elephant.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1164,7 +1166,7 @@
 
 **Q0096. Is Asian elephant on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** The repository contains supplied photographs consistent with this animal group, but without verified capture dates/GPS and keeper-ID matching; these images are not proof of today's residents. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/asian-elephant.md).
 
 **Evidence:** [inventory #24](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/asian-elephant.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/asian-elephant.md).
 
@@ -1179,7 +1181,7 @@
 
 **Q0097. What exactly is the scientific identity of "Asian small-clawed otter" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Asian small-clawed otter**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Aonyx cinereus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/asian-small-clawed-otter.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia).
 
 **Evidence:** [inventory #25](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia).
 
@@ -1190,7 +1192,7 @@
 
 **Q0098. What verifiable evidence establishes that Asian small-clawed otter has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [species research](../docs/species/asian-small-clawed-otter.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #25](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia).
 
@@ -1201,7 +1203,7 @@
 
 **Q0099. What is the current conservation status and wild-population trend of Asian small-clawed otter?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Aonyx cinereus*. A species research guide exists ([species research](../docs/species/asian-small-clawed-otter.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #25](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1212,7 +1214,7 @@
 
 **Q0100. Is Asian small-clawed otter on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [species research](../docs/species/asian-small-clawed-otter.md).
 
 **Evidence:** [inventory #25](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia).
 
@@ -1227,7 +1229,7 @@
 
 **Q0101. What exactly is the scientific identity of "Asian water buffalo" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Asian water buffalo**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Bubalus bubalis (domestic water buffalo, not wild Bubalus arnee)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/asian-water-buffalo.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
 **Evidence:** [inventory #26](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
@@ -1238,7 +1240,7 @@
 
 **Q0102. What verifiable evidence establishes that Asian water buffalo has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo); [species research](../docs/species/asian-water-buffalo.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #26](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
@@ -1249,7 +1251,7 @@
 
 **Q0103. What is the current conservation status and wild-population trend of Asian water buffalo?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — answered — domestic animal not evaluated as a wild taxon:** **No applicable single IUCN wild-population trend for this domestic form.** The animal is **Bubalus bubalis (domestic water buffalo, not wild Bubalus arnee)**; applying the threatened status of a related wild species (for example wild Bactrian camel or wild water buffalo) would be taxonomically incorrect. [species research](../docs/species/asian-water-buffalo.md).
 
 **Evidence:** [inventory #26](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1260,7 +1262,7 @@
 
 **Q0104. Is Asian water buffalo on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo); [species research](../docs/species/asian-water-buffalo.md).
 
 **Evidence:** [inventory #26](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo).
 
@@ -1275,7 +1277,7 @@
 
 **Q0105. What exactly is the scientific identity of "Banteng" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Banteng**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Bos javanicus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/banteng.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #27](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -1286,7 +1288,7 @@
 
 **Q0106. What verifiable evidence establishes that Banteng has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/banteng.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #27](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -1297,7 +1299,7 @@
 
 **Q0107. What is the current conservation status and wild-population trend of Banteng?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Bos javanicus*. A species research guide exists ([species research](../docs/species/banteng.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #27](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1308,7 +1310,7 @@
 
 **Q0108. Is Banteng on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/banteng.md).
 
 **Evidence:** [inventory #27](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -1323,7 +1325,7 @@
 
 **Q0109. What exactly is the scientific identity of "Blackbuck" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Blackbuck**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Antilope cervicapra**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/blackbuck.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #28](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -1334,7 +1336,7 @@
 
 **Q0110. What verifiable evidence establishes that Blackbuck has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/blackbuck.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #28](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -1345,7 +1347,7 @@
 
 **Q0111. What is the current conservation status and wild-population trend of Blackbuck?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Antilope cervicapra*. A species research guide exists ([species research](../docs/species/blackbuck.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #28](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1356,7 +1358,7 @@
 
 **Q0112. Is Blackbuck on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/blackbuck.md).
 
 **Evidence:** [inventory #28](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -1371,7 +1373,7 @@
 
 **Q0113. What exactly is the scientific identity of "Greater one-horned rhinoceros" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Rhinoceros unicornis**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Rhinoceros unicornis**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/greater-one-horned-rhinoceros.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #29](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/greater-one-horned-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
 
@@ -1382,7 +1384,7 @@
 
 **Q0114. What verifiable evidence establishes that Greater one-horned rhinoceros has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/greater-one-horned-rhinoceros.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #29](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/greater-one-horned-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
 
@@ -1393,7 +1395,7 @@
 
 **Q0115. What is the current conservation status and wild-population trend of Greater one-horned rhinoceros?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Vulnerable"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Rhinoceros unicornis*: Vulnerable (VU)** in the 2019 IUCN announcement or graded research source ([source](https://doi.org/10.2305/IUCN.UK.2019-3.RLTS.T19496A18494149.en)). **Population trend:** trend not independently verified in the cited assessment excerpt. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #29](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/greater-one-horned-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1404,7 +1406,7 @@
 
 **Q0116. Is Greater one-horned rhinoceros on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/greater-one-horned-rhinoceros.md).
 
 **Evidence:** [inventory #29](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/greater-one-horned-rhinoceros.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/greater-one-horned-rhinoceros.md).
 
@@ -1419,7 +1421,7 @@
 
 **Q0117. What exactly is the scientific identity of "Indian peafowl" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Indian peafowl**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Pavo cristatus (free-ranging sighting; formal holding not proven)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/indian-peafowl-holding-unverified.md) and [Dubbo-specific supporting record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
 **Evidence:** [inventory #30](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1430,7 +1432,7 @@
 
 **Q0118. What verifiable evidence establishes that Indian peafowl has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — on-site evidence, formal holding still unverified:** **The available evidence does **not** establish a formally accessioned Dubbo animal.** [Dubbo-specific supporting record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [species research](../docs/species/indian-peafowl-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #30](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1441,7 +1443,7 @@
 
 **Q0119. What is the current conservation status and wild-population trend of Indian peafowl?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Pavo cristatus (free-ranging sighting; formal holding not proven)*. A species research guide exists ([species research](../docs/species/indian-peafowl-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #30](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1452,7 +1454,7 @@
 
 **Q0120. Is Indian peafowl on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** **Reported free-roaming peafowl** were described by a visitor in January 2026, but no accessioned Dubbo collection, exact 2026 number or named individual is established. [species research](../docs/species/indian-peafowl-holding-unverified.md) and [Dubbo-specific supporting record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
 **Evidence:** [inventory #30](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1467,7 +1469,7 @@
 
 **Q0121. What exactly is the scientific identity of "Persian onager" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Persian onager**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Equus hemionus onager**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/persian-onager-historical.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo).
 
 **Evidence:** [inventory #31](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo).
 
@@ -1478,7 +1480,7 @@
 
 **Q0122. What verifiable evidence establishes that Persian onager has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo); [species research](../docs/species/persian-onager-historical.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #31](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo).
 
@@ -1489,7 +1491,7 @@
 
 **Q0123. What is the current conservation status and wild-population trend of Persian onager?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Equus hemionus onager*. A species research guide exists ([species research](../docs/species/persian-onager-historical.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #31](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1500,7 +1502,7 @@
 
 **Q0124. Is Persian onager on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo); [species research](../docs/species/persian-onager-historical.md).
 
 **Evidence:** [inventory #31](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo).
 
@@ -1515,7 +1517,7 @@
 
 **Q0125. What exactly is the scientific identity of "Siamang" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Symphalangus syndactylus**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Symphalangus syndactylus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/siamang.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia).
 
 **Evidence:** [inventory #32](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/siamang.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
 
@@ -1526,7 +1528,7 @@
 
 **Q0126. What verifiable evidence establishes that Siamang has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [species research](../docs/siamang.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #32](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/siamang.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
 
@@ -1537,7 +1539,7 @@
 
 **Q0127. What is the current conservation status and wild-population trend of Siamang?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Endangered"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Symphalangus syndactylus*. A species research guide exists ([species research](../docs/siamang.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #32](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/siamang.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1548,7 +1550,7 @@
 
 **Q0128. Is Siamang on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** The repository contains supplied photographs consistent with this animal group, but without verified capture dates/GPS and keeper-ID matching; these images are not proof of today's residents. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [species research](../docs/siamang.md).
 
 **Evidence:** [inventory #32](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/siamang.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/siamang.md).
 
@@ -1563,7 +1565,7 @@
 
 **Q0129. What exactly is the scientific identity of "Sumatran tiger" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Panthera tigris sumatrae**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Panthera tigris sumatrae (subspecies use differs in taxonomies)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/sumatran-tiger.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia).
 
 **Evidence:** [inventory #33](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/sumatran-tiger.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
 
@@ -1574,7 +1576,7 @@
 
 **Q0130. What verifiable evidence establishes that Sumatran tiger has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [species research](../docs/sumatran-tiger.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #33](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/sumatran-tiger.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
 
@@ -1585,7 +1587,7 @@
 
 **Q0131. What is the current conservation status and wild-population trend of Sumatran tiger?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Critically Endangered per Taronga"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Panthera tigris*: Endangered (EN)** in the 2022 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T15955A214862019.en)). **Population trend:** declining at species scale; not proof of a separate Sumatran trend. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #33](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/sumatran-tiger.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1596,7 +1598,7 @@
 
 **Q0132. Is Sumatran tiger on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia); [species research](../docs/sumatran-tiger.md).
 
 **Evidence:** [inventory #33](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia), [docs/sumatran-tiger.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/sumatran-tiger.md).
 
@@ -1611,7 +1613,7 @@
 
 **Q0133. What exactly is the scientific identity of "Takhi (Przewalski's horse)" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Takhi (Przewalski's horse)**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Equus ferus przewalskii (also Equus przewalskii)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/takhi-przewalskis-horse.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
 **Evidence:** [inventory #34](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
@@ -1622,7 +1624,7 @@
 
 **Q0134. What verifiable evidence establishes that Takhi (Przewalski's horse) has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds); [species research](../docs/species/takhi-przewalskis-horse.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #34](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
@@ -1633,7 +1635,7 @@
 
 **Q0135. What is the current conservation status and wild-population trend of Takhi (Przewalski's horse)?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Equus ferus przewalskii (also Equus przewalskii)*. A species research guide exists ([species research](../docs/species/takhi-przewalskis-horse.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #34](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1644,7 +1646,7 @@
 
 **Q0136. Is Takhi (Przewalski's horse) on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds); [species research](../docs/species/takhi-przewalskis-horse.md).
 
 **Evidence:** [inventory #34](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
@@ -1659,7 +1661,7 @@
 
 **Q0137. What exactly is the scientific identity of "White-handed gibbon" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **White-handed gibbon**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Hylobates lar**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/white-handed-gibbon-historical.md) and [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
 **Evidence:** [inventory #35](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
@@ -1670,7 +1672,7 @@
 
 **Q0138. What verifiable evidence establishes that White-handed gibbon has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [species research](../docs/species/white-handed-gibbon-historical.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #35](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
@@ -1681,7 +1683,7 @@
 
 **Q0139. What is the current conservation status and wild-population trend of White-handed gibbon?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Hylobates lar*. A species research guide exists ([species research](../docs/species/white-handed-gibbon-historical.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #35](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1692,7 +1694,7 @@
 
 **Q0140. Is White-handed gibbon on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf); [species research](../docs/species/white-handed-gibbon-historical.md).
 
 **Evidence:** [inventory #35](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf).
 
@@ -1709,7 +1711,7 @@
 
 **Q0141. What exactly is the scientific identity of "Australian zebra finch" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Australian zebra finch**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Taeniopygia castanotis**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/australian-zebra-finch.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display).
 
 **Evidence:** [inventory #36](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1720,7 +1722,7 @@
 
 **Q0142. What verifiable evidence establishes that Australian zebra finch has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's dated Wildlife Hospital aviary account confirms the species at Dubbo.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/australian-zebra-finch.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #36](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1731,7 +1733,7 @@
 
 **Q0143. What is the current conservation status and wild-population trend of Australian zebra finch?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Taeniopygia castanotis*. A species research guide exists ([species research](../docs/species/australian-zebra-finch.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #36](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1742,7 +1744,7 @@
 
 **Q0144. Is Australian zebra finch on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/australian-zebra-finch.md).
 
 **Evidence:** [inventory #36](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1757,7 +1759,7 @@
 
 **Q0145. What exactly is the scientific identity of "Brush-tailed rock-wallaby" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Brush-tailed rock-wallaby". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — supported scientific identification:** The researched identification is **Petrogale penicillata**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
 **Evidence:** [inventory #37](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
@@ -1768,7 +1770,7 @@
 
 **Q0146. What verifiable evidence establishes that Brush-tailed rock-wallaby has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **A historic Taronga annual report directly records transfer **to Western Plains Zoo**.** [Dubbo-specific supporting record](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf); [species research](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #37](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
@@ -1779,7 +1781,7 @@
 
 **Q0147. What is the current conservation status and wild-population trend of Brush-tailed rock-wallaby?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Petrogale penicillata*. A species research guide exists ([species research](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #37](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1790,7 +1792,7 @@
 
 **Q0148. Is Brush-tailed rock-wallaby on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf); [species research](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md).
 
 **Evidence:** [inventory #37](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
@@ -1805,7 +1807,7 @@
 
 **Q0149. What exactly is the scientific identity of "Eastern whipbird" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Eastern whipbird**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Psophodes olivaceus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/eastern-whipbird.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display).
 
 **Evidence:** [inventory #38](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1816,7 +1818,7 @@
 
 **Q0150. What verifiable evidence establishes that Eastern whipbird has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's dated Wildlife Hospital aviary account confirms the species at Dubbo.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/eastern-whipbird.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #38](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1827,7 +1829,7 @@
 
 **Q0151. What is the current conservation status and wild-population trend of Eastern whipbird?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Psophodes olivaceus*. A species research guide exists ([species research](../docs/species/eastern-whipbird.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #38](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1838,7 +1840,7 @@
 
 **Q0152. Is Eastern whipbird on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/eastern-whipbird.md).
 
 **Evidence:** [inventory #38](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -1853,7 +1855,7 @@
 
 **Q0153. What exactly is the scientific identity of "Emu" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Emu**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Dromaius novaehollandiae**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/emu.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
 **Evidence:** [inventory #39](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -1864,7 +1866,7 @@
 
 **Q0154. What verifiable evidence establishes that Emu has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/emu.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #39](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -1875,7 +1877,7 @@
 
 **Q0155. What is the current conservation status and wild-population trend of Emu?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Dromaius novaehollandiae*. A species research guide exists ([species research](../docs/species/emu.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #39](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1886,7 +1888,7 @@
 
 **Q0156. Is Emu on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/emu.md).
 
 **Evidence:** [inventory #39](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -1901,7 +1903,7 @@
 
 **Q0157. What exactly is the scientific identity of "Greater bilby" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Greater bilby**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Macrotis lagotis**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/greater-bilby.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary).
 
 **Evidence:** [inventory #40](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary).
 
@@ -1912,7 +1914,7 @@
 
 **Q0158. What verifiable evidence establishes that Greater bilby has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary); [species research](../docs/species/greater-bilby.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #40](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary).
 
@@ -1923,7 +1925,7 @@
 
 **Q0159. What is the current conservation status and wild-population trend of Greater bilby?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Macrotis lagotis*. A species research guide exists ([species research](../docs/species/greater-bilby.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #40](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1934,7 +1936,7 @@
 
 **Q0160. Is Greater bilby on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary); [species research](../docs/species/greater-bilby.md).
 
 **Evidence:** [inventory #40](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary).
 
@@ -1949,7 +1951,7 @@
 
 **Q0161. What exactly is the scientific identity of "Koala" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Koala**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Phascolarctos cinereus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/koala.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
 **Evidence:** [inventory #41](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -1960,7 +1962,7 @@
 
 **Q0162. What verifiable evidence establishes that Koala has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/koala.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #41](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -1971,7 +1973,7 @@
 
 **Q0163. What is the current conservation status and wild-population trend of Koala?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Phascolarctos cinereus*. A species research guide exists ([species research](../docs/species/koala.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #41](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -1982,7 +1984,7 @@
 
 **Q0164. Is Koala on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/koala.md).
 
 **Evidence:** [inventory #41](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -1997,7 +1999,7 @@
 
 **Q0165. What exactly is the scientific identity of "Little lorikeet" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Little lorikeet**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Glossopsitta pusilla**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/little-lorikeet.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display).
 
 **Evidence:** [inventory #42](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2008,7 +2010,7 @@
 
 **Q0166. What verifiable evidence establishes that Little lorikeet has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's dated Wildlife Hospital aviary account confirms the species at Dubbo.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/little-lorikeet.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #42](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2019,7 +2021,7 @@
 
 **Q0167. What is the current conservation status and wild-population trend of Little lorikeet?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Glossopsitta pusilla*. A species research guide exists ([species research](../docs/species/little-lorikeet.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #42](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2030,7 +2032,7 @@
 
 **Q0168. Is Little lorikeet on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/little-lorikeet.md).
 
 **Evidence:** [inventory #42](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2045,7 +2047,7 @@
 
 **Q0169. What exactly is the scientific identity of "Malleefowl" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Malleefowl**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Leipoa ocellata**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/malleefowl-holding-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success).
 
 **Evidence:** [inventory #43](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2056,7 +2058,7 @@
 
 **Q0170. What verifiable evidence establishes that Malleefowl has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Dated keeper reporting confirms behind-the-scenes zoo conservation aviary care.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success); [species research](../docs/species/malleefowl-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #43](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2067,7 +2069,7 @@
 
 **Q0171. What is the current conservation status and wild-population trend of Malleefowl?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Leipoa ocellata*. A species research guide exists ([species research](../docs/species/malleefowl-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #43](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2078,7 +2080,7 @@
 
 **Q0172. Is Malleefowl on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success); [species research](../docs/species/malleefowl-holding-unverified.md).
 
 **Evidence:** [inventory #43](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2093,7 +2095,7 @@
 
 **Q0173. What exactly is the scientific identity of "Plains-wanderer" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Plains-wanderer**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Pedionomus torquatus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/plains-wanderer.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo).
 
 **Evidence:** [inventory #44](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo).
 
@@ -2104,7 +2106,7 @@
 
 **Q0174. What verifiable evidence establishes that Plains-wanderer has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo); [species research](../docs/species/plains-wanderer.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #44](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo).
 
@@ -2115,7 +2117,7 @@
 
 **Q0175. What is the current conservation status and wild-population trend of Plains-wanderer?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Pedionomus torquatus*. A species research guide exists ([species research](../docs/species/plains-wanderer.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #44](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2126,7 +2128,7 @@
 
 **Q0176. Is Plains-wanderer on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo); [species research](../docs/species/plains-wanderer.md).
 
 **Evidence:** [inventory #44](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo).
 
@@ -2141,7 +2143,7 @@
 
 **Q0177. What exactly is the scientific identity of "Platypus" at Dubbo?**
 
-**Best answer — documented species-level:** The species guide identifies it as **Ornithorhynchus anatinus**, but that is a species-level research determination, **not** an individual animal's identification or confirmation of the present 2026 group.
+**Best answer — supported scientific identification:** The researched identification is **Ornithorhynchus anatinus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/platypus.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #45](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/platypus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
 
@@ -2152,7 +2154,7 @@
 
 **Q0178. What verifiable evidence establishes that Platypus has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/platypus.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #45](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/platypus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
 
@@ -2163,7 +2165,7 @@
 
 **Q0179. What is the current conservation status and wild-population trend of Platypus?**
 
-**Best answer — published summary; reassessment pending:** The existing species catalogue summarises conservation as **"Near Threatened"**. This is a **guide note**, not an independently reconfirmed October 2026 IUCN assessment; different species, subspecies and jurisdictions can have different classifications, and the original assessment date/criteria still need checking.
+**Best answer — dated scientific assessment identified:** ***Ornithorhynchus anatinus*: Near Threatened (NT)** in the 2016 IUCN announcement or graded research source ([source](https://doi.org/10.1111/ddi.13926)). **Population trend:** trend not independently verified in the cited assessment excerpt. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #45](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/platypus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2174,7 +2176,7 @@
 
 **Q0180. Is Platypus on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/platypus.md).
 
 **Evidence:** [inventory #45](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map), [docs/platypus.md](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus.md).
 
@@ -2189,7 +2191,7 @@
 
 **Q0181. What exactly is the scientific identity of "Quokka" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Quokka**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Setonix brachyurus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/quokka.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
 **Evidence:** [inventory #46](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2200,7 +2202,7 @@
 
 **Q0182. What verifiable evidence establishes that Quokka has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/quokka.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #46](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2211,7 +2213,7 @@
 
 **Q0183. What is the current conservation status and wild-population trend of Quokka?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Setonix brachyurus*. A species research guide exists ([species research](../docs/species/quokka.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #46](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2222,7 +2224,7 @@
 
 **Q0184. Is Quokka on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/quokka.md).
 
 **Evidence:** [inventory #46](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2237,7 +2239,7 @@
 
 **Q0185. What exactly is the scientific identity of "Red kangaroo" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Red kangaroo**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Osphranter rufus (old Macropus rufus)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/red-kangaroo-holding-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays).
 
 **Evidence:** [inventory #47](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2248,7 +2250,7 @@
 
 **Q0186. What verifiable evidence establishes that Red kangaroo has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **A rescue/rehabilitation animal was cared for at Dubbo, **not** evidence of a permanent zoo collection.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays); [species research](../docs/species/red-kangaroo-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #47](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2259,7 +2261,7 @@
 
 **Q0187. What is the current conservation status and wild-population trend of Red kangaroo?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Osphranter rufus (old Macropus rufus)*. A species research guide exists ([species research](../docs/species/red-kangaroo-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #47](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2270,7 +2272,7 @@
 
 **Q0188. Is Red kangaroo on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays); [species research](../docs/species/red-kangaroo-holding-unverified.md).
 
 **Evidence:** [inventory #47](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2285,7 +2287,7 @@
 
 **Q0189. What exactly is the scientific identity of "Red-necked wallaby (precise displayed wallaby species unverified)" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Red-necked wallaby (precise displayed wallaby species unverified)". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — supported scientific identification:** The researched identification is **Notamacropus rufogriseus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/red-necked-wallaby-taxon-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds).
 
 **Evidence:** [inventory #48](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2296,7 +2298,7 @@
 
 **Q0190. What verifiable evidence establishes that Red-necked wallaby has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Dated Taronga reporting confirms a historic zoo exhibit or breeding event.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds); [species research](../docs/species/red-necked-wallaby-taxon-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #48](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2307,7 +2309,7 @@
 
 **Q0191. What is the current conservation status and wild-population trend of Red-necked wallaby?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Notamacropus rufogriseus*. A species research guide exists ([species research](../docs/species/red-necked-wallaby-taxon-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #48](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2318,7 +2320,7 @@
 
 **Q0192. Is Red-necked wallaby on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds); [species research](../docs/species/red-necked-wallaby-taxon-unverified.md).
 
 **Evidence:** [inventory #48](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2333,7 +2335,7 @@
 
 **Q0193. What exactly is the scientific identity of "Regent honeyeater" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Regent honeyeater**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Anthochaera phrygia**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/regent-honeyeater.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
 **Evidence:** [inventory #49](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
@@ -2344,7 +2346,7 @@
 
 **Q0194. What verifiable evidence establishes that Regent honeyeater has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf); [species research](../docs/species/regent-honeyeater.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #49](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
@@ -2355,7 +2357,7 @@
 
 **Q0195. What is the current conservation status and wild-population trend of Regent honeyeater?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Anthochaera phrygia*. A species research guide exists ([species research](../docs/species/regent-honeyeater.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #49](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2366,7 +2368,7 @@
 
 **Q0196. Is Regent honeyeater on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf); [species research](../docs/species/regent-honeyeater.md).
 
 **Evidence:** [inventory #49](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf).
 
@@ -2381,7 +2383,7 @@
 
 **Q0197. What exactly is the scientific identity of "Scaly-breasted lorikeet" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Scaly-breasted lorikeet**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Trichoglossus chlorolepidotus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/scaly-breasted-lorikeet.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display).
 
 **Evidence:** [inventory #50](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2392,7 +2394,7 @@
 
 **Q0198. What verifiable evidence establishes that Scaly-breasted lorikeet has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's dated Wildlife Hospital aviary account confirms the species at Dubbo.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/scaly-breasted-lorikeet.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #50](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2403,7 +2405,7 @@
 
 **Q0199. What is the current conservation status and wild-population trend of Scaly-breasted lorikeet?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Trichoglossus chlorolepidotus*. A species research guide exists ([species research](../docs/species/scaly-breasted-lorikeet.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #50](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2414,7 +2416,7 @@
 
 **Q0200. Is Scaly-breasted lorikeet on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display); [species research](../docs/species/scaly-breasted-lorikeet.md).
 
 **Evidence:** [inventory #50](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2429,7 +2431,7 @@
 
 **Q0201. What exactly is the scientific identity of "Short-beaked echidna" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Short-beaked echidna**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Tachyglossus aculeatus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/short-beaked-echidna.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
 **Evidence:** [inventory #51](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2440,7 +2442,7 @@
 
 **Q0202. What verifiable evidence establishes that Short-beaked echidna has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/short-beaked-echidna.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #51](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2451,7 +2453,7 @@
 
 **Q0203. What is the current conservation status and wild-population trend of Short-beaked echidna?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Tachyglossus aculeatus*. A species research guide exists ([species research](../docs/species/short-beaked-echidna.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #51](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2462,7 +2464,7 @@
 
 **Q0204. Is Short-beaked echidna on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/short-beaked-echidna.md).
 
 **Evidence:** [inventory #51](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2477,7 +2479,7 @@
 
 **Q0205. What exactly is the scientific identity of "Smooth yabby" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Smooth yabby**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Cherax destructor (claim of zoo holding unverified)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/smooth-yabby-holding-unverified.md) and [Dubbo-specific supporting record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
 **Evidence:** [inventory #52](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2488,7 +2490,7 @@
 
 **Q0206. What verifiable evidence establishes that Smooth yabby has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — on-site evidence, formal holding still unverified:** **The available evidence does **not** establish a formally accessioned Dubbo animal.** [Dubbo-specific supporting record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [species research](../docs/species/smooth-yabby-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #52](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2499,7 +2501,7 @@
 
 **Q0207. What is the current conservation status and wild-population trend of Smooth yabby?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Cherax destructor (claim of zoo holding unverified)*. A species research guide exists ([species research](../docs/species/smooth-yabby-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #52](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2510,7 +2512,7 @@
 
 **Q0208. Is Smooth yabby on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** **No current live display or individual census is confirmed.** Historical evidence for this entry must be separated from a present exhibit. [species research](../docs/species/smooth-yabby-holding-unverified.md); [Dubbo-specific supporting record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). A keeper roster is needed to claim living animals and their names.
 
 **Evidence:** [inventory #52](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2525,7 +2527,7 @@
 
 **Q0209. What exactly is the scientific identity of "Southern hairy-nosed wombat" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Southern hairy-nosed wombat**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Lasiorhinus latifrons**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md) and [Dubbo-specific supporting record](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf).
 
 **Evidence:** [inventory #53](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2536,7 +2538,7 @@
 
 **Q0210. What verifiable evidence establishes that Southern hairy-nosed wombat has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Specialist keeper husbandry literature identifies a historical Dubbo breeding/research facility.** [Dubbo-specific supporting record](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf); [species research](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #53](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2547,7 +2549,7 @@
 
 **Q0211. What is the current conservation status and wild-population trend of Southern hairy-nosed wombat?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — dated scientific assessment identified:** ***Lasiorhinus latifrons*: Least Concern (LC)** in the 2025 taxon-matched IUCN assessment ([source](https://doi.org/10.2305/IUCN.UK.2025-1.RLTS.T40555A258654451.en)). **Population trend:** not independently confirmed by the 2025 update. This is a dated assessment, **not automatically a newly reassessed 2026 figure**, and it cannot be applied to unverified subspecies. [Assessment provenance](iucn-assessment-audit-2026-10-18.md).
 
 **Evidence:** [inventory #53](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2558,7 +2560,7 @@
 
 **Q0212. Is Southern hairy-nosed wombat on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** **No current live display or individual census is confirmed.** Historical evidence for this entry must be separated from a present exhibit. [species research](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md); [Dubbo-specific supporting record](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf). A keeper roster is needed to claim living animals and their names.
 
 **Evidence:** [inventory #53](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2573,7 +2575,7 @@
 
 **Q0213. What exactly is the scientific identity of "Southern purple-spotted gudgeon" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Southern purple-spotted gudgeon**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Mogurnda adspersa**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/southern-purple-spotted-gudgeon.md) and [Dubbo-specific supporting record](https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon).
 
 **Evidence:** [inventory #54](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news).
 
@@ -2584,7 +2586,7 @@
 
 **Q0214. What verifiable evidence establishes that Southern purple-spotted gudgeon has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **NSW government records explicitly confirm a zoo-based threatened-fish rescue refuge.** [Dubbo-specific supporting record](https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon); [species research](../docs/species/southern-purple-spotted-gudgeon.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #54](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news).
 
@@ -2595,7 +2597,7 @@
 
 **Q0215. What is the current conservation status and wild-population trend of Southern purple-spotted gudgeon?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Mogurnda adspersa*. A species research guide exists ([species research](../docs/species/southern-purple-spotted-gudgeon.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #54](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2606,7 +2608,7 @@
 
 **Q0216. Is Southern purple-spotted gudgeon on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon); [species research](../docs/species/southern-purple-spotted-gudgeon.md).
 
 **Evidence:** [inventory #54](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/posts/southern-purple-spotted-gudgeon-news).
 
@@ -2621,7 +2623,7 @@
 
 **Q0217. What exactly is the scientific identity of "Swamp wallaby (precise displayed wallaby species unverified)" at Dubbo?**
 
-**Best answer — unresolved:** **Not established to a precise zoo lineage/species.** The historic catalogue records the label "Swamp wallaby (precise displayed wallaby species unverified)". A published animal name, geographical term or coat/shell pattern does not establish the subspecies/genetic ancestry of a specific zoo individual. Check the zoo's dated stockbook, taxon register or keeper-confirmed scientific identification.
+**Best answer — supported scientific identification:** The researched identification is **Wallabia bicolor**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/swamp-wallaby-taxon-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough).
 
 **Evidence:** [inventory #55](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2632,7 +2634,7 @@
 
 **Q0218. What verifiable evidence establishes that Swamp wallaby has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Dated Taronga reporting confirms a historic zoo exhibit or breeding event.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough); [species research](../docs/species/swamp-wallaby-taxon-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #55](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2643,7 +2645,7 @@
 
 **Q0219. What is the current conservation status and wild-population trend of Swamp wallaby?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Wallabia bicolor*. A species research guide exists ([species research](../docs/species/swamp-wallaby-taxon-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #55](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2654,7 +2656,7 @@
 
 **Q0220. Is Swamp wallaby on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough); [species research](../docs/species/swamp-wallaby-taxon-unverified.md).
 
 **Evidence:** [inventory #55](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2669,7 +2671,7 @@
 
 **Q0221. What exactly is the scientific identity of "Tasmanian devil" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Tasmanian devil**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Sarcophilus harrisii**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/tasmanian-devil.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
 **Evidence:** [inventory #56](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2680,7 +2682,7 @@
 
 **Q0222. What verifiable evidence establishes that Tasmanian devil has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/tasmanian-devil.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #56](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2691,7 +2693,7 @@
 
 **Q0223. What is the current conservation status and wild-population trend of Tasmanian devil?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Sarcophilus harrisii*. A species research guide exists ([species research](../docs/species/tasmanian-devil.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #56](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2702,7 +2704,7 @@
 
 **Q0224. Is Tasmanian devil on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia); [species research](../docs/species/tasmanian-devil.md).
 
 **Evidence:** [inventory #56](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia).
 
@@ -2717,7 +2719,7 @@
 
 **Q0225. What exactly is the scientific identity of "Western quoll (chuditch)" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Western quoll (chuditch)**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Dasyurus geoffroii**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/western-quoll-chuditch.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement).
 
 **Evidence:** [inventory #57](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement).
 
@@ -2728,7 +2730,7 @@
 
 **Q0226. What verifiable evidence establishes that Western quoll (chuditch) has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **published Dubbo-linked source**: [source](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **An original historical publication or zoo program places the animal at Dubbo at that date.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement); [species research](../docs/species/western-quoll-chuditch.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #57](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement).
 
@@ -2739,7 +2741,7 @@
 
 **Q0227. What is the current conservation status and wild-population trend of Western quoll (chuditch)?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Dasyurus geoffroii*. A species research guide exists ([species research](../docs/species/western-quoll-chuditch.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #57](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2750,7 +2752,7 @@
 
 **Q0228. Is Western quoll (chuditch) on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement); [species research](../docs/species/western-quoll-chuditch.md).
 
 **Evidence:** [inventory #57](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement).
 
@@ -2765,7 +2767,7 @@
 
 **Q0229. What exactly is the scientific identity of "White-browed woodswallow" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **White-browed woodswallow**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Artamus superciliosus**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/white-browed-woodswallow-holding-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
 **Evidence:** [inventory #58](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
@@ -2776,7 +2778,7 @@
 
 **Q0230. What verifiable evidence establishes that White-browed woodswallow has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — on-site evidence, formal holding still unverified:** **The available evidence does **not** establish a formally accessioned Dubbo animal.** [Dubbo-specific supporting record](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf); [species research](../docs/species/white-browed-woodswallow-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #58](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
@@ -2787,7 +2789,7 @@
 
 **Q0231. What is the current conservation status and wild-population trend of White-browed woodswallow?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Artamus superciliosus*. A species research guide exists ([species research](../docs/species/white-browed-woodswallow-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #58](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2798,7 +2800,7 @@
 
 **Q0232. Is White-browed woodswallow on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** **No current live display or individual census is confirmed.** Historical evidence for this entry must be separated from a present exhibit. [species research](../docs/species/white-browed-woodswallow-holding-unverified.md); [Dubbo-specific supporting record](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf). A keeper roster is needed to claim living animals and their names.
 
 **Evidence:** [inventory #58](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf).
 
@@ -2813,7 +2815,7 @@
 
 **Q0233. What exactly is the scientific identity of "White-winged chough" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **White-winged chough**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Corcorax melanorhamphos**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/white-winged-chough-holding-unverified.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success).
 
 **Evidence:** [inventory #59](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2824,7 +2826,7 @@
 
 **Q0234. What verifiable evidence establishes that White-winged chough has been held or displayed at Dubbo?**
 
-**Best answer — partial/historical:** The inventory cites a **historical/secondary rather than current exhibit confirmation**: [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo). This does not independently prove a current public exhibit and may reflect a historic holding, a conservation programme or a secondary mention. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Dated keeper reporting confirms behind-the-scenes zoo conservation aviary care.** [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success); [species research](../docs/species/white-winged-chough-holding-unverified.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #59](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2835,7 +2837,7 @@
 
 **Q0235. What is the current conservation status and wild-population trend of White-winged chough?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Corcorax melanorhamphos*. A species research guide exists ([species research](../docs/species/white-winged-chough-holding-unverified.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #59](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2846,7 +2848,7 @@
 
 **Q0236. Is White-winged chough on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** The evidence concerns a former, behind-the-scenes or historical holding; no current public viewing can be inferred. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success); [species research](../docs/species/white-winged-chough-holding-unverified.md).
 
 **Evidence:** [inventory #59](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo).
 
@@ -2863,7 +2865,7 @@
 
 **Q0237. What exactly is the scientific identity of "Domestic pygmy goat" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **Domestic pygmy goat**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Capra hircus (domestic pygmy goat, not independent wild species)**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/domestic-pygmy-goat.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map).
 
 **Evidence:** [inventory #60](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -2874,7 +2876,7 @@
 
 **Q0238. What verifiable evidence establishes that Domestic pygmy goat has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **zoo-map reference**: [source](https://www.taronga.org.au/dubbo-zoo/map). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/domestic-pygmy-goat.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #60](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -2885,7 +2887,7 @@
 
 **Q0239. What is the current conservation status and wild-population trend of Domestic pygmy goat?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — answered — domestic animal not evaluated as a wild taxon:** **No applicable single IUCN wild-population trend for this domestic form.** The animal is **Capra hircus (domestic pygmy goat, not independent wild species)**; applying the threatened status of a related wild species (for example wild Bactrian camel or wild water buffalo) would be taxonomically incorrect. [species research](../docs/species/domestic-pygmy-goat.md).
 
 **Evidence:** [inventory #60](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2896,7 +2898,7 @@
 
 **Q0240. Is Domestic pygmy goat on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/map); [species research](../docs/species/domestic-pygmy-goat.md).
 
 **Evidence:** [inventory #60](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/map).
 
@@ -2911,7 +2913,7 @@
 
 **Q0241. What exactly is the scientific identity of "European fallow deer" at Dubbo?**
 
-**Best answer — provisional:** The catalogue uses **European fallow deer**, which is the taxon/common-name lead for further research. This register cannot independently confirm the precise scientific identity of every historical or currently displayed individual from the inventory label alone.
+**Best answer — supported scientific identification:** The researched identification is **Dama dama**. This is the species-level/label identity supported by the cited records, **not** a molecular identification of individual historic animals. See [species research](../docs/species/european-fallow-deer.md) and [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
 **Evidence:** [inventory #61](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
@@ -2922,7 +2924,7 @@
 
 **Q0242. What verifiable evidence establishes that European fallow deer has been held or displayed at Dubbo?**
 
-**Best answer — published location lead:** The inventory cites a **Taronga precinct information**: [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds). This supports an animal/exhibit being listed, but a listing is not a headcount, live presence guarantee or dated sighting. A complete historical stock-register audit has **not** been supplied.
+**Best answer — dated zoo evidence found:** **Taronga's visitor map/precinct record documents an exhibit label, but not a live inventory.** [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds); [species research](../docs/species/european-fallow-deer.md). A claim of current animals or particular names requires a newer keeper confirmation.
 
 **Evidence:** [inventory #61](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
@@ -2933,7 +2935,7 @@
 
 **Q0243. What is the current conservation status and wild-population trend of European fallow deer?**
 
-**Best answer — unresolved:** **Not established from this inventory row.** No taxon-matched current IUCN assessment year, population definition and trend are recorded for this entry. A current assessment must be checked before assigning a category or numeric wild population estimate.
+**Best answer — partially answered; exact IUCN trend needs a source:** **Taxon:** *Dama dama*. A species research guide exists ([species research](../docs/species/european-fallow-deer.md)), but the [source-graded Red List audit](iucn-assessment-audit-2026-10-18.md) has **not independently checked the latest taxon-matched IUCN category and trend**. The scientifically responsible result is **specific assessment still to be retrieved**, not 'nothing is known about this animal'. Do not infer a trend from zoo births, a national legal classification or a historical visitor map.
 
 **Evidence:** [inventory #61](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds); [IUCN Red List](https://www.iucnredlist.org/).
 
@@ -2944,7 +2946,7 @@
 
 **Q0244. Is European fallow deer on show now, how many are there, and can we identify any by name?**
 
-**Best answer — unresolved:** **Unresolved.** No dated individual-level photo or current keeper-verified holdings register appears in the reviewed inventory. Dated zoo articles may name historic residents, but those names must not be attached to an unverified photograph or used as an October 2026 census.
+**Best answer — current exhibit versus dated historical evidence separated:** Taronga has published a visitor-facing map or precinct reference for this animal; that is evidence of a labelled attraction, **not real-time availability**. **An October 2026 live headcount, sex/age, name and animal-by-animal ID have not been confirmed** by a dated keeper roster. [Dubbo-specific supporting record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds); [species research](../docs/species/european-fallow-deer.md).
 
 **Evidence:** [inventory #61](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json), [source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds).
 
@@ -2957,7 +2959,7 @@
 
 **Q0245. How many animal taxa have ever been at Dubbo zoo, precisely?**
 
-**Best answer — partial:** The current inventory lists **61 leads**, including published exhibits, historic animals and sanctuary/conservation programmes; the README explicitly says it is **not a complete certified census**. It excludes one-off wildlife patients and may include some only weakly linked to the Dubbo site.
+**Best answer — answered by expanded inventory evidence:** **Not precisely known.** The [current historical register](all-time-animal-inventory.md) contains **89 researched entries**, including provisional visitor sightings, temporary veterinary patients and zoo conservation animals. It is **not 89 verified distinct biological species**. A definitive 1977–2026 total needs Taronga's year-by-year zoo-specific accession/transfer ledger, reconciling synonyms and animal categories.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -2968,7 +2970,7 @@
 
 **Q0246. Do the 61 catalogue entries represent 61 species?**
 
-**Best answer — partial:** No guarantee. The entries include vague map labels, potential subspecies, historical holdings and domesticated varieties. Some may need splitting or merging after primary taxonomic evidence.
+**Best answer — answered — earlier assumption obsolete:** **No.** The original 61-entry catalogue was a working name list, not a certified species count. Research now contains **89 entries**; taxon ambiguities, domesticated breeds, free-ranging animals and historical unverified accessions mean no naïve entry count equals the number of distinct zoo-kept species. [Inventory](all-time-animal-inventory.md).
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -2979,7 +2981,7 @@
 
 **Q0247. Is the repo's number of guides consistent with its historical status flags?**
 
-**Best answer — partial:** Not fully. The baseline inventory records **15 deep guides**, while additional files in `docs/species/` have been added. A file's mere presence is not equivalent to an independently fact-checked deep guide, so these metrics should be reported separately.
+**Best answer — verified current repository counts:** **Yes for guide-path coverage, not for historical completeness.** The revised [inventory JSON](../data/all-time-animal-inventory.json) lists **89 unique entries with 89 guide paths**. Its evidence flags distinguish **14 formal-holding questions**, including 11 new historic visitor/plan leads, and **six exact taxon questions**. That does not prove all 89 were official zoo collection animals.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -2990,7 +2992,7 @@
 
 **Q0248. Are all 23 catalogue photographs available as public image binaries?**
 
-**Best answer — verified repository record:** No. The observation catalogue records source-copy properties and hashes but `committed_binary=false`, preserving a deliberate privacy/publication distinction.
+**Best answer — not proven — repository evidence only:** **No.** A photograph inventory or SHA-256 manifest is **not** the same as publicly committed photo JPEG binaries. The repository's personal photos should only be listed as publicly available after checking exact paths and rights/visitor privacy. [Photo register](../photos/README.md).
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3012,7 +3014,7 @@
 
 **Q0250. Can we identify named giraffes by coat pattern alone?**
 
-**Best answer — verified limitation:** No. Patterns can assist **matching to verified reference photographs**, but cannot reveal a keeper name, sex or genetic lineage on their own.
+**Best answer — photo identity not proven:** **No.** Species/animal-type observation and named individual identity are different evidence standards. The available personal photographs lack keeper-verified date/lineage/name matching, so coat pattern, a public sign or a keeper talk does not prove which named individual appears. An original timestamp plus keeper photo/ID record is needed.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3023,7 +3025,7 @@
 
 **Q0251. Is the 2025 four-species giraffe classification interchangeable with older Vulnerable status?**
 
-**Best answer — verified taxonomy distinction:** No. Taxonomic rank and conservation assessment apply to defined taxa. The 2025 IUCN recognition of four giraffe species changes the context of older single-species assessments; a historic listing cannot simply be inherited by each species.
+**Best answer — answered — taxonomy must match status:** **No.** Older IUCN giraffe assessments sometimes considered giraffe a single species; the 2025 four-species recognition changes which biological unit an assessment refers to. A generic historic **Vulnerable** label cannot simply be copied to an unidentified captive lineage. Check the documented 2025 taxonomic species and the corresponding IUCN Red List assessment year. [Giraffe guide](giraffe.md).
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3045,7 +3047,7 @@
 
 **Q0253. Do the Galápagos tortoise photos prove which island species is pictured?**
 
-**Best answer — unresolved:** No. The dome shape is not proof of genetic island ancestry. The specialist 2025 checklist and conservation organisations differ in taxonomy, so the exact species and IUCN status remain unresolved until provenance is known.
+**Best answer — photo identity not proven:** **No.** Species/animal-type observation and named individual identity are different evidence standards. The available personal photographs lack keeper-verified date/lineage/name matching, so coat pattern, a public sign or a keeper talk does not prove which named individual appears. An original timestamp plus keeper photo/ID record is needed.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3056,7 +3058,7 @@
 
 **Q0254. Does a 'Meet Gung' display prove which elephant appears in a photo?**
 
-**Best answer — verified limitation:** No. It documents a sign/title; it does not constitute individual identification of the pictured animals. Historical birth information can be verified separately.
+**Best answer — photo identity not proven:** **No.** Species/animal-type observation and named individual identity are different evidence standards. The available personal photographs lack keeper-verified date/lineage/name matching, so coat pattern, a public sign or a keeper talk does not prove which named individual appears. An original timestamp plus keeper photo/ID record is needed.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3078,7 +3080,7 @@
 
 **Q0256. Are siamangs photographed here definitely Kasarna or Kasem?**
 
-**Best answer — verified limitation:** No. They are the names reported for the Dubbo pair in 2026 news, but the images cannot identify either individual. The report of duetting was published separately.
+**Best answer — photo identity not proven:** **No.** Species/animal-type observation and named individual identity are different evidence standards. The available personal photographs lack keeper-verified date/lineage/name matching, so coat pattern, a public sign or a keeper talk does not prove which named individual appears. An original timestamp plus keeper photo/ID record is needed.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3100,7 +3102,7 @@
 
 **Q0258. Does 65 at Platypus Rescue HQ mean 65 resident platypuses?**
 
-**Best answer — verified distinction:** No. Taronga and NSW describe a maximum **emergency refuge capacity** of 65, not a present headcount. The research breeding and public ambassador numbers are separate metrics.
+**Best answer — answered — capacity is not occupancy:** **No.** Taronga's Platypus Rescue HQ design capacity for **up to 65 platypuses** is a facility limit, **not the number rescued, currently housed or on public view**. Actual intake and resident headcounts require dated zoo rescue/keeper records. [Platypus research](platypus.md).
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3111,7 +3113,7 @@
 
 **Q0259. Is the platypus nationally listed as Vulnerable in Australia in 2026?**
 
-**Best answer — published legal decision:** The federal Vulnerable **nomination was not prioritised for assessment** in 2026, according to the published decision. That is not the same as a completed national threatened listing; state and IUCN categories differ.
+**Best answer — legal listing distinguished from nomination:** A species being proposed for threatened-species listing or subject to assessment **is not identical to a final EPBC Act listing instrument**. Check the official 2026 Australian Government legislative/species profile and effective date before saying platypus is nationally Vulnerable; IUCN's global category is a **separate framework**. [Platypus evidence review](platypus-2026-evidence-review.md).
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3166,7 +3168,7 @@
 
 **Q0264. Should the zoo's live website link be claimed tested?**
 
-**Best answer — unresolved:** No. The repository is source code; a commit does not prove a website is deployed, error-free or publicly accessible. There is no complete live deployment verification in the baseline records.
+**Best answer — deployment cannot be inferred from source control:** **No.** A GitHub repository containing `index.html` does not prove its GitHub Pages/custom-domain deployment is available, returning HTTP 200, or showing the latest commit. Live deployment was **not verified** in this study; verify the actual URL, current response and rendered site before marking acceptance.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -3177,7 +3179,7 @@
 
 **Q0265. Can the inventory's secondary-only animal leads be counted as confirmed Dubbo holdings?**
 
-**Best answer — unresolved:** No. Secondary lists and combined Taronga Zoo Sydney/Dubbo annual-report summaries can mention an animal without proving it was held in Dubbo. These leads need site-specific first-party confirmation.
+**Best answer — resolved evidence-grade distinction:** **No.** A species mentioned in a visitor map, broad Taronga-wide report or observer recollection is **not automatically a formally held Dubbo animal**. The [89-entry source-graded inventory](all-time-animal-inventory.md) distinguishes first-party records, temporary hospital cases, wild/free-ranging visitors and **14 accession/arrival questions**.
 
 **Evidence:** [project README](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/README.md), [research method](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/research-method.md) and links in the relevant species guides.
 
@@ -6914,7 +6916,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0572. Why is Addax still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Addax"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Addax](../docs/species/addax.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6925,7 +6927,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0573. Why is Barbary sheep still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Barbary sheep"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Barbary sheep (aoudad)](../docs/species/barbary-sheep.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6936,7 +6938,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0574. Why is Banteng still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Banteng"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Banteng](../docs/species/banteng.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6947,7 +6949,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0575. Why is Black-and-white ruffed lemur still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Black-and-white ruffed lemur"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Black-and-white ruffed lemur](../docs/species/black-and-white-ruffed-lemur.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6958,7 +6960,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0576. Why is Blackbuck still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Blackbuck"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Blackbuck](../docs/species/blackbuck.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6969,7 +6971,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0577. Why is Bongo (eastern form - verify) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Bongo (eastern form - verify)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Eastern bongo](../docs/species/eastern-bongo.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6980,7 +6982,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0578. Why is Camel (species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Camel (species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Dromedary (Arabian) camel](../docs/species/camel-taxon-unverified.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -6991,7 +6993,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0579. Why is Eland still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Eland"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Common eland](../docs/species/common-eland.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7002,7 +7004,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0580. Why is Emu still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Emu"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Emu](../docs/species/emu.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7013,7 +7015,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0581. Why is Echidna still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Echidna"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Short-beaked echidna](../docs/species/short-beaked-echidna.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7024,7 +7026,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0582. Why is Fallow deer still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Fallow deer"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [European fallow deer](../docs/species/european-fallow-deer.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7035,7 +7037,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0583. Why is Koala still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Koala"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Koala](../docs/species/koala.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7046,7 +7048,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0584. Why is Oryx (exact species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Oryx (exact species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Scimitar-horned oryx (map says 'Oryx')](../docs/species/scimitar-horned-oryx.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7057,7 +7059,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0585. Why is Ostrich still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Ostrich"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Ostrich](../docs/species/ostrich.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7068,7 +7070,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0586. Why is Otter (exact species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Otter (exact species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Asian small-clawed otter](../docs/species/asian-small-clawed-otter.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7079,7 +7081,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0587. Why is Persian onager still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Persian onager"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Persian onager](../docs/species/persian-onager-historical.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7090,7 +7092,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0588. Why is Pygmy goat still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Pygmy goat"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Domestic pygmy goat](../docs/species/domestic-pygmy-goat.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7101,7 +7103,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0589. Why is Quokka still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Quokka"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Quokka](../docs/species/quokka.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7112,7 +7114,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0590. Why is Regent honeyeater still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Regent honeyeater"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Regent honeyeater](../docs/species/regent-honeyeater.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7123,7 +7125,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0591. Why is Ring-tailed lemur still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Ring-tailed lemur"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Ring-tailed lemur](../docs/species/ring-tailed-lemur.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/map). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7134,7 +7136,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0592. Why is Spider monkey (exact species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Spider monkey (exact species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Black-handed spider monkey](../docs/species/black-handed-spider-monkey.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7145,7 +7147,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0593. Why is Takhi (Przewalski's horse) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Takhi (Przewalski's horse)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Takhi (Przewalski's horse)](../docs/species/takhi-przewalskis-horse.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7156,7 +7158,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0594. Why is Tasmanian devil still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Tasmanian devil"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Tasmanian devil](../docs/species/tasmanian-devil.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7167,7 +7169,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0595. Why is Wallaby (species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Wallaby (species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Red-necked wallaby (precise displayed wallaby species unverified)](../docs/species/red-necked-wallaby-taxon-unverified.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7178,7 +7180,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0596. Why is Water buffalo still flagged as a map-label research lead, and what would make its guide accepted?**
 
-**Best answer — unresolved acceptance decision:** The catalogue marks **"Water buffalo"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+**Best answer — guide completed; map-only research label obsolete:** The old map-label backlog is **outdated**: [Asian water buffalo](../docs/species/asian-water-buffalo.md) now has a dedicated zoo/ecology research profile. Its zoo-specific supporting record is [here](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). **Guide exists** does not certify living 2026 animal numbers, and some exact taxonomic or historic individual questions remain. Any claim the guide is still unwritten should be removed from the active backlog.
 
 **Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
 
@@ -7191,7 +7193,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0597. Does the GitHub repository prove the public Dubbozoo website is live?**
 
-**Best answer — unresolved:** No. GitHub source files do not establish deployment. A deployment URL, HTTP success, branch-to-production provenance and page smoke test are needed.
+**Best answer — deployment cannot be inferred from source control:** **No.** A GitHub repository containing `index.html` does not prove its GitHub Pages/custom-domain deployment is available, returning HTTP 200, or showing the latest commit. Live deployment was **not verified** in this study; verify the actual URL, current response and rendered site before marking acceptance.
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7224,7 +7226,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0600. Do the 61 historical animals establish all species ever at the zoo?**
 
-**Best answer — answered limitation:** No. The list contains **61** documented or secondary leads, explicitly not an audited full accession history.
+**Best answer — answered — correct denominator and scope:** The old **61** and newer **89** are **research catalogue entries**, not independent biological species verified to have been kept in the zoo. A definitive species count requires annual 1977–2026 accession and transfer records, taxonomic synonym reconciliation and excluding free-ranging visitors and clinical patients. [Historical methodology](all-time-animal-inventory.md).
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7235,7 +7237,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0601. Are all project links and citations checked for live 200 responses?**
 
-**Best answer — unresolved:** No complete live HTTP audit is available from the repository snapshot. A Markdown link existing in a file does not prove the remote resource is accessible or current.
+**Best answer — not yet complete — concrete acceptance criterion:** **No blanket HTTP-200 verification has been completed.** GitHub content checks confirm files and internal guide paths, but did **not** fetch every external research source and deployed site for response codes. A URL-only citation is not evidence the entire current web endpoint was successfully tested.
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7257,7 +7259,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0603. Are website facts guaranteed to reflect the newest zoo map and animal-list version?**
 
-**Best answer — unresolved:** No. The static site's data is curated from cited publications and can lag changed Taronga pages. Map references, keeper talks and individual zoo animal availability may shift.
+**Best answer — reliability constraint established:** **No.** A static sourced zoo journal is a dated research snapshot. Taronga may move animals, change maps and change species nomenclature. The current source files were reconciled to **89 entries on 18 October 2026**, but neither realtime zoo occupancy nor an automated nightly source check has been verified.
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7334,7 +7336,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0610. Does the 65-platypus capacity imply a rescue intake of 65?**
 
-**Best answer — answered:** No. It is an upper-bound emergency design capacity, not a historical intake count, current zoo population or total wild census.
+**Best answer — answered — capacity is not occupancy:** **No.** Taronga's Platypus Rescue HQ design capacity for **up to 65 platypuses** is a facility limit, **not the number rescued, currently housed or on public view**. Actual intake and resident headcounts require dated zoo rescue/keeper records. [Platypus research](platypus.md).
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7345,7 +7347,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0611. Can all 46 provisional guides be promoted just by adding the same list of generic citations?**
 
-**Best answer — unresolved acceptance:** No. Each guide needs species-specific, taxon-matched science, explicit dated Dubbo evidence, historic vs current distinction and a reproducible source review.
+**Best answer — answered — requirements for research acceptance:** **No.** Repeating generic links does not validate each species' **taxonomic rank, zoo-specific presence, IUCN source/date, conservation population denominator or study findings**. The newer [89-entry inventory](all-time-animal-inventory.md) has per-entry guides but retains **14 holding/arrival gaps and six taxon questions**. Every acceptance decision must rest on species-specific source evidence.
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7356,7 +7358,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0612. Do the latest JSON and website count labels reconcile automatically?**
 
-**Best answer — unresolved engineering:** Not necessarily. Several status counters are manually authored in Markdown/HTML. Tests should compute guide statuses from structured data and detect stale copied numbers.
+**Best answer — verified manual reconciliation; not automatic sync:** **They were manually reconciled**, not automatically live-synchronised: the current [89-entry JSON](../data/all-time-animal-inventory.json) is mirrored by **89 links in the committed static website source**. Future commits could diverge unless a validation test builds the site from the canonical dataset. A successful source check does not prove the published deployment was refreshed.
 
 **Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
 
@@ -7419,7 +7421,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0617. Did Platypus Rescue HQ's capacity for 65 animals imply a current 65-animal census?**
 
-**Best answer — verified limitation or cited historical fact:** No. `emergency_capacity_individuals=65` explicitly records maximum refuge places, and the data says this is not current occupancy.
+**Best answer — answered — capacity is not occupancy:** **No.** Taronga's Platypus Rescue HQ design capacity for **up to 65 platypuses** is a facility limit, **not the number rescued, currently housed or on public view**. Actual intake and resident headcounts require dated zoo rescue/keeper records. [Platypus research](platypus.md).
 
 **Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
 
@@ -7441,7 +7443,7 @@ A pending map label does not mean there is no text file about the species: `docs
 
 **Q0619. Is the 2026 federal platypus nomination equivalent to official Vulnerable listing under the EPBC Act?**
 
-**Best answer — verified limitation or cited historical fact:** No. The JSON says the nomination was **not prioritised for assessment** and records the federal threatened status as not listed in the cited review. National, state and global classifications differ.
+**Best answer — legal listing distinguished from nomination:** A species being proposed for threatened-species listing or subject to assessment **is not identical to a final EPBC Act listing instrument**. Check the official 2026 Australian Government legislative/species profile and effective date before saying platypus is nationally Vulnerable; IUCN's global category is a **separate framework**. [Platypus evidence review](platypus-2026-evidence-review.md).
 
 **Evidence:** [`data/platypus.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/platypus.json), [platypus source reconciliation](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/platypus-2026-evidence-review.md).
 

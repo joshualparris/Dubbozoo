@@ -3,6 +3,11 @@
 **Dubbozoo inventory #48 · Taxon:** *Notamacropus rufogriseus — possible identification only; zoo map says 'Wallaby'* · **Conservation:** Least Concern generally, but taxon must be verified.  
 **Sources reviewed:** 18 October 2026. **Observations:** no supplied photo directly documents this species.
 
+
+## Archival correction: species identification and Dubbo exhibit CONFIRMED
+
+Taronga's [Dubbo Aussie Walkthrough red-necked wallaby joey account](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds) identifies **red-necked wallaby** at the zoo, including joey **Walter** and mother **Leila** and reports an **11-animal** group at the time of publication. This resolves the previous concern that the wallaby map label might represent only another species. The zoological identification **Notamacropus rufogriseus** follows the accepted red-necked wallaby name; there is no individual photographic confirmation in this journal.
+
 ## Physical identification and life history
 
 Medium-sized macropod with reddish shoulders/neck, pale chest and dark muzzle markings. Closely related wallabies can appear similar in poor light; common map labels may group multiple species.

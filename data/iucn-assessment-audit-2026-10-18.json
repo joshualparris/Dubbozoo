@@ -8,8 +8,9 @@
     "indirect_or_announcement_evidence": 3,
     "additional_government_or_assessor_evidence": 2,
     "not_applicable_or_taxon_not_resolved": 5,
-    "not_checked": 68,
-    "primary_iucn_category_change_tables": 1
+    "not_checked": 61,
+    "primary_iucn_category_change_tables": 1,
+    "iucn_indexed_records_checked": 7
   },
   "entries": [
     {
@@ -64,25 +65,27 @@
       "number": 5,
       "name": "Barbary sheep (aoudad)",
       "guide": "docs/species/barbary-sheep.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Ammotragus lervia",
+      "iucn_category": "VU",
+      "assessment_date": "2020-08-26",
+      "publication_year": 2022,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T1151A214430287.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Decreasing"
     },
     {
       "number": 6,
       "name": "Black-and-white ruffed lemur",
       "guide": "docs/species/black-and-white-ruffed-lemur.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Varecia variegata",
+      "iucn_category": "CR",
+      "assessment_date": "2019-12-30",
+      "publication_year": 2020,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T22918A115574178.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Decreasing"
     },
     {
       "number": 7,
@@ -100,13 +103,14 @@
       "number": 8,
       "name": "Cheetah",
       "guide": "docs/cheetah.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Acinonyx jubatus",
+      "iucn_category": "VU",
+      "assessment_date": "2014-05-28",
+      "publication_year": 2015,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2015-4.RLTS.T219A50649567.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Decreasing"
     },
     {
       "number": 9,
@@ -124,13 +128,14 @@
       "number": 10,
       "name": "Common hippopotamus",
       "guide": "docs/common-hippopotamus.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Hippopotamus amphibius",
+      "iucn_category": "VU",
+      "assessment_date": "2016-06-16",
+      "publication_year": 2017,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2017-2.RLTS.T10103A18567364.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Stable"
     },
     {
       "number": 11,
@@ -196,13 +201,14 @@
       "number": 16,
       "name": "Ostrich",
       "guide": "docs/species/ostrich.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Struthio camelus",
+      "iucn_category": "LC",
+      "assessment_date": "2018-08-09",
+      "publication_year": 2018,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T45020636A132189458.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Decreasing"
     },
     {
       "number": 17,
@@ -220,13 +226,14 @@
       "number": 18,
       "name": "Ring-tailed lemur",
       "guide": "docs/species/ring-tailed-lemur.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Lemur catta",
+      "iucn_category": "EN",
+      "assessment_date": "2018-05-09",
+      "publication_year": 2020,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2020-2.RLTS.T11496A115565760.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Decreasing"
     },
     {
       "number": 19,
@@ -1072,13 +1079,14 @@
       "number": 89,
       "name": "Leopard tortoise (Waterhole planned 2020)",
       "guide": "docs/species/leopard-tortoise-waterhole.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "Species natural history researched; taxon-matched latest IUCN assessment has NOT been individually reviewed."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Stigmochelys pardalis",
+      "iucn_category": "LC",
+      "assessment_date": "2014-08-29",
+      "publication_year": 2022,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T163449A217761530.en",
+      "evidence_note": "Species-level IUCN indexed record located in 2026 web research. Full page fetch blocked by 403; classification/trend/date present in returned source excerpt. Earlier versions may be superseded; check latest assessment. Source type not counted as personally opened full assessment.",
+      "population_trend": "Unknown"
     }
   ]
 }

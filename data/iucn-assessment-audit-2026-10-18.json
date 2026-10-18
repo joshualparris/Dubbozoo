@@ -8,9 +8,11 @@
     "indirect_or_announcement_evidence": 3,
     "additional_government_or_assessor_evidence": 2,
     "not_applicable_or_taxon_not_resolved": 5,
-    "not_checked": 61,
+    "not_checked": 58,
     "primary_iucn_category_change_tables": 1,
-    "iucn_indexed_records_checked": 7
+    "iucn_indexed_records_checked": 8,
+    "latest_iucn_category_from_official_historic_entry": 1,
+    "other_iucn_news_confirmations": 1
   },
   "entries": [
     {
@@ -91,13 +93,14 @@
       "number": 7,
       "name": "Black rhinoceros",
       "guide": "docs/black-rhinoceros.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
+      "assessment_status": "iucn_primary_news_announcement_not_full_assessment",
+      "assessed_taxon": "Diceros bicornis",
+      "iucn_category": "CR",
       "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "publication_year": 2020,
+      "source_url": "https://iucn.org/news/species/202003/conservation-efforts-bring-cautious-hope-african-rhinos-iucn-red-list",
+      "evidence_note": "IUCN announcement says CR despite slowly growing wild numbers. Do not use subspecies specific trend as species total without check.",
+      "population_trend": "Increasing slowly during 2012–2018 survey, longer historic losses severe"
     },
     {
       "number": 8,
@@ -311,13 +314,14 @@
       "number": 25,
       "name": "Asian small-clawed otter",
       "guide": "docs/species/asian-small-clawed-otter.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
-      "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "assessment_status": "iucn_species_assessment_from_search_index_not_live_full_page",
+      "assessed_taxon": "Aonyx cinereus",
+      "iucn_category": "VU",
+      "assessment_date": "2020-02-19",
+      "publication_year": 2021,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T44166A164580923.en",
+      "evidence_note": "Direct taxon-matched IUCN search index shows VU / Decreasing, 19 Feb 2020 assessment, 2021 publication.",
+      "population_trend": "Decreasing"
     },
     {
       "number": 26,
@@ -335,13 +339,14 @@
       "number": 27,
       "name": "Banteng",
       "guide": "docs/species/banteng.md",
-      "assessment_status": "not_independently_checked",
-      "assessed_taxon": null,
-      "iucn_category": null,
+      "assessment_status": "iucn_latest_assessment_status_reported_on_prior_official_record",
+      "assessed_taxon": "Bos javanicus",
+      "iucn_category": "CR",
       "assessment_date": null,
-      "publication_year": null,
-      "source_url": null,
-      "evidence_note": "A guide exists, but a current, same-taxon global IUCN assessment has not been individually read and validated in this batch. Do not copy unsourced status labels."
+      "publication_year": 2025,
+      "source_url": "https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T2888A46362970.en",
+      "evidence_note": "Official IUCN 2016 assessment explicitly identifies latest 2025 global category CR, but the 2025 full assessment and assessed-date were not opened. 2026 peer-reviewed paper independently identifies CR. The 2016 trend was Decreasing; don't claim fresh 2025 trend validated.",
+      "population_trend": "Not independently rechecked in the 2025 detailed assessment; previous 2016 record Decreasing"
     },
     {
       "number": 28,

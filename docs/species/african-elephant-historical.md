@@ -3,6 +3,14 @@
 **Checklist ID:** 2 / 61 · **Taxon:** *Loxodonta sp. — precise zoo species/lineage requires historical accession verification* · **Conservation assessment:** Historical only; do not attach current species-level Red List without exact taxon.  
 **Researched:** 18 October 2026 · **Evidence class:** published Taronga records and taxon background; **no photo from Josh verified for this entry**.
 
+
+## Taxonomy strengthened by Australian tribunal and Taronga's annual report
+
+The court-reviewed [2005 Administrative Appeals Tribunal decision](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage) identifies **two African elephants at Dubbo as *Loxodonta africana***. Taronga's [2008–09 annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2008-09.pdf) also labels African elephants *Loxodonta africana* and names **Cuddles and Yum Yum** as the two then held at the zoo. These mutually independent period documents establish the **historical zoo species identification African savanna elephant** for these individuals. Keep earlier warnings about **unverified lineage of other named historical elephants** if accession documentation is missing; they no longer justify treating the entire Dubbo historical elephant entry as unidentified 'Loxodonta sp.'.
+
+**Taxonomic and conservation distinction:** the modern IUCN recognises *Loxodonta africana* (African savanna elephant, **Endangered**) separately from *Loxodonta cyclotis* (African forest elephant, **Critically Endangered**). The [2021 IUCN separation announcement](https://iucn.org/news/species/202103/african-elephant-species-now-endangered-and-critically-endangered-iucn-red-list) and [IUCN taxon-matched African savanna assessment](https://doi.org/10.2305/IUCN.UK.2021-2.RLTS.T181008073A204401095.en) support this. **Do not mistake the zoo's separate historical 'forest buffalo' exhibit for a forest elephant.**
+
+
 ## Species identity and identification
 
 African elephants have very large ears and a muscular trunk; the two modern recognised species differ in size, tusks, ear outline, range and genetics. A historical exhibit label simply saying 'African elephant' is not enough to establish the specific lineage of every animal kept at Dubbo.

@@ -1,79 +1,247 @@
 {
   "review_date": "2026-10-18",
   "venue": "Taronga Western Plains Zoo, Dubbo, NSW",
+  "scope_note": "Working Dubbo Zoo animal-holdings research checklist, not a certified all-time zoo inventory, and not an in-person sighting list. Guide existence, source verification, exact taxon and real-time zoo occupancy are separate.",
   "source_map": "https://taronga.org.au/dubbo-zoo/map",
   "source_animals": "https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo",
-  "scope_note": "Zoo map labels indicate candidates for research, not individual sightings, live animal inventory, species classification or exact 2026 occupancy; 'research only' is not user-observed.",
+  "summary": {
+    "inventory_entries": 61,
+    "guides_present": 61,
+    "guides_missing": 0,
+    "dubbo_holding_unverified": 10,
+    "taxon_or_subspecies_unverified": 6,
+    "note": "61 checklist research profiles exist; does not verify complete lifetime zoo holdings, zoo species taxon or 2026 occupancy"
+  },
   "researched_species": [
     {
-      "common_name": "African wild dog",
-      "scientific_name": "Lycaon pictus",
-      "guide": "docs/african-wild-dog.md",
-      "record_type": "photographed",
-      "conservation_note": "Endangered"
+      "inventory_number": 1,
+      "common_name": "Addax",
+      "scientific_name": null,
+      "guide": "docs/species/addax.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
-      "common_name": "Giraffe",
-      "scientific_name": "Giraffa sp.",
-      "guide": "docs/giraffe.md",
-      "record_type": "photographed",
-      "conservation_note": "not assigned without verified species"
-    },
-    {
-      "common_name": "Siamang",
-      "scientific_name": "Symphalangus syndactylus",
-      "guide": "docs/siamang.md",
-      "record_type": "photographed",
-      "conservation_note": "Endangered"
-    },
-    {
-      "common_name": "Platypus",
-      "scientific_name": "Ornithorhynchus anatinus",
-      "guide": "docs/platypus.md",
-      "record_type": "research only",
-      "conservation_note": "Near Threatened"
-    },
-    {
-      "common_name": "Black rhinoceros",
-      "scientific_name": "Diceros bicornis",
-      "guide": "docs/black-rhinoceros.md",
-      "record_type": "research only",
-      "conservation_note": "Critically Endangered"
-    },
-    {
-      "common_name": "White rhinoceros",
-      "scientific_name": "Ceratotherium simum",
-      "guide": "docs/white-rhinoceros.md",
-      "record_type": "research only",
-      "conservation_note": "assessment/subspecies recheck"
-    },
-    {
-      "common_name": "Cheetah",
-      "scientific_name": "Acinonyx jubatus",
-      "guide": "docs/cheetah.md",
-      "record_type": "research only",
-      "conservation_note": "Vulnerable"
+      "inventory_number": 2,
+      "common_name": "African elephant",
+      "scientific_name": null,
+      "guide": "docs/species/african-elephant-historical.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "needs_species_or_subspecies_verification"
     },
     {
       "common_name": "African lion",
       "scientific_name": "Panthera leo",
       "guide": "docs/african-lion.md",
       "record_type": "research only",
-      "conservation_note": "Vulnerable"
+      "conservation_note": "Vulnerable",
+      "inventory_number": 3,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "African wild dog",
+      "scientific_name": "Lycaon pictus",
+      "guide": "docs/african-wild-dog.md",
+      "record_type": "photographed",
+      "conservation_note": "Endangered",
+      "inventory_number": 4,
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 5,
+      "common_name": "Barbary sheep (aoudad)",
+      "scientific_name": null,
+      "guide": "docs/species/barbary-sheep.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 6,
+      "common_name": "Black-and-white ruffed lemur",
+      "scientific_name": null,
+      "guide": "docs/species/black-and-white-ruffed-lemur.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "Black rhinoceros",
+      "scientific_name": "Diceros bicornis",
+      "guide": "docs/black-rhinoceros.md",
+      "record_type": "research only",
+      "conservation_note": "Critically Endangered",
+      "inventory_number": 7,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "Cheetah",
+      "scientific_name": "Acinonyx jubatus",
+      "guide": "docs/cheetah.md",
+      "record_type": "research only",
+      "conservation_note": "Vulnerable",
+      "inventory_number": 8,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 9,
+      "common_name": "Common eland",
+      "scientific_name": null,
+      "guide": "docs/species/common-eland.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
       "common_name": "Common hippopotamus",
       "scientific_name": "Hippopotamus amphibius",
       "guide": "docs/common-hippopotamus.md",
       "record_type": "research only",
-      "conservation_note": "Vulnerable"
+      "conservation_note": "Vulnerable",
+      "inventory_number": 10,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 11,
+      "common_name": "Dromedary camel (map just says 'Camel')",
+      "scientific_name": null,
+      "guide": "docs/species/camel-taxon-unverified.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "needs_species_or_subspecies_verification"
+    },
+    {
+      "inventory_number": 12,
+      "common_name": "Eastern bongo",
+      "scientific_name": null,
+      "guide": "docs/species/eastern-bongo.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "Giraffe",
+      "scientific_name": "Giraffa sp.",
+      "guide": "docs/giraffe.md",
+      "record_type": "photographed",
+      "conservation_note": "not assigned without verified species",
+      "inventory_number": 13,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 14,
+      "common_name": "Helmeted guineafowl (map says 'Guineafowl')",
+      "scientific_name": null,
+      "guide": "docs/species/guineafowl-taxon-unverified.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "needs_species_or_subspecies_verification"
+    },
+    {
+      "common_name": "Meerkat",
+      "scientific_name": "Suricata suricatta",
+      "guide": "docs/meerkat.md",
+      "record_type": "photographed_probable",
+      "conservation_note": "Least Concern; photo identification medium confidence",
+      "inventory_number": 15,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 16,
+      "common_name": "Ostrich",
+      "scientific_name": null,
+      "guide": "docs/species/ostrich.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
       "common_name": "Plains zebra",
       "scientific_name": "Equus quagga",
       "guide": "docs/plains-zebra.md",
       "record_type": "research only",
-      "conservation_note": "conflicting Taronga assessments; recheck"
+      "conservation_note": "conflicting Taronga assessments; recheck",
+      "inventory_number": 17,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 18,
+      "common_name": "Ring-tailed lemur",
+      "scientific_name": null,
+      "guide": "docs/species/ring-tailed-lemur.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 19,
+      "common_name": "Scimitar-horned oryx (map says 'Oryx')",
+      "scientific_name": null,
+      "guide": "docs/species/scimitar-horned-oryx.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "White rhinoceros",
+      "scientific_name": "Ceratotherium simum",
+      "guide": "docs/white-rhinoceros.md",
+      "record_type": "research only",
+      "conservation_note": "assessment/subspecies recheck",
+      "inventory_number": 20,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 21,
+      "common_name": "American bison",
+      "scientific_name": null,
+      "guide": "docs/species/american-bison-historical.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 22,
+      "common_name": "Black-handed spider monkey",
+      "scientific_name": null,
+      "guide": "docs/species/black-handed-spider-monkey.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "Galápagos tortoise",
+      "scientific_name": "Chelonoidis sp. (Galápagos complex)",
+      "guide": "docs/galapagos-giant-tortoise.md",
+      "record_type": "photographed",
+      "conservation_note": "island lineage and lineage-specific IUCN classification unverified",
+      "inventory_number": 23,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "needs_species_or_subspecies_verification"
     },
     {
       "common_name": "Asian elephant",
@@ -81,162 +249,465 @@
       "guide": "docs/asian-elephant.md",
       "record_type": "photographed",
       "conservation_note": "Endangered",
-      "photo_evidence_path": "observations/asian-elephants-undated.md"
+      "photo_evidence_path": "observations/asian-elephants-undated.md",
+      "inventory_number": 24,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
-      "common_name": "Sumatran tiger",
-      "scientific_name": "Panthera tigris sumatrae",
-      "guide": "docs/sumatran-tiger.md",
-      "record_type": "research only",
-      "conservation_note": "Critically Endangered per Taronga"
+      "inventory_number": 25,
+      "common_name": "Asian small-clawed otter",
+      "scientific_name": null,
+      "guide": "docs/species/asian-small-clawed-otter.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 26,
+      "common_name": "Asian water buffalo",
+      "scientific_name": null,
+      "guide": "docs/species/asian-water-buffalo.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 27,
+      "common_name": "Banteng",
+      "scientific_name": null,
+      "guide": "docs/species/banteng.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 28,
+      "common_name": "Blackbuck",
+      "scientific_name": null,
+      "guide": "docs/species/blackbuck.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
       "common_name": "Greater one-horned rhinoceros",
       "scientific_name": "Rhinoceros unicornis",
       "guide": "docs/greater-one-horned-rhinoceros.md",
       "record_type": "research only",
-      "conservation_note": "Vulnerable"
+      "conservation_note": "Vulnerable",
+      "inventory_number": 29,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
-      "common_name": "Galápagos tortoise",
-      "scientific_name": "Chelonoidis sp. (Galápagos complex)",
-      "guide": "docs/galapagos-giant-tortoise.md",
+      "inventory_number": 30,
+      "common_name": "Indian peafowl",
+      "scientific_name": null,
+      "guide": "docs/species/indian-peafowl-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 31,
+      "common_name": "Persian onager",
+      "scientific_name": null,
+      "guide": "docs/species/persian-onager-historical.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "Siamang",
+      "scientific_name": "Symphalangus syndactylus",
+      "guide": "docs/siamang.md",
       "record_type": "photographed",
-      "conservation_note": "island lineage and lineage-specific IUCN classification unverified"
+      "conservation_note": "Endangered",
+      "inventory_number": 32,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     },
     {
-      "common_name": "Meerkat",
-      "scientific_name": "Suricata suricatta",
-      "guide": "docs/meerkat.md",
-      "record_type": "photographed_probable",
-      "conservation_note": "Least Concern; photo identification medium confidence"
+      "common_name": "Sumatran tiger",
+      "scientific_name": "Panthera tigris sumatrae",
+      "guide": "docs/sumatran-tiger.md",
+      "record_type": "research only",
+      "conservation_note": "Critically Endangered per Taronga",
+      "inventory_number": 33,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 34,
+      "common_name": "Takhi (Przewalski's horse)",
+      "scientific_name": null,
+      "guide": "docs/species/takhi-przewalskis-horse.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 35,
+      "common_name": "White-handed gibbon",
+      "scientific_name": null,
+      "guide": "docs/species/white-handed-gibbon-historical.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 36,
+      "common_name": "Australian zebra finch",
+      "scientific_name": null,
+      "guide": "docs/species/australian-zebra-finch.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 37,
+      "common_name": "Brush-tailed rock-wallaby",
+      "scientific_name": null,
+      "guide": "docs/species/brush-tailed-rock-wallaby-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 38,
+      "common_name": "Eastern whipbird",
+      "scientific_name": null,
+      "guide": "docs/species/eastern-whipbird.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 39,
+      "common_name": "Emu",
+      "scientific_name": null,
+      "guide": "docs/species/emu.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 40,
+      "common_name": "Greater bilby",
+      "scientific_name": null,
+      "guide": "docs/species/greater-bilby.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 41,
+      "common_name": "Koala",
+      "scientific_name": null,
+      "guide": "docs/species/koala.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 42,
+      "common_name": "Little lorikeet",
+      "scientific_name": null,
+      "guide": "docs/species/little-lorikeet.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 43,
+      "common_name": "Malleefowl",
+      "scientific_name": null,
+      "guide": "docs/species/malleefowl-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 44,
+      "common_name": "Plains-wanderer",
+      "scientific_name": null,
+      "guide": "docs/species/plains-wanderer.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "common_name": "Platypus",
+      "scientific_name": "Ornithorhynchus anatinus",
+      "guide": "docs/platypus.md",
+      "record_type": "research only",
+      "conservation_note": "Near Threatened",
+      "inventory_number": 45,
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 46,
+      "common_name": "Quokka",
+      "scientific_name": null,
+      "guide": "docs/species/quokka.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 47,
+      "common_name": "Red kangaroo",
+      "scientific_name": null,
+      "guide": "docs/species/red-kangaroo-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 48,
+      "common_name": "Red-necked wallaby (precise displayed wallaby species unverified)",
+      "scientific_name": null,
+      "guide": "docs/species/red-necked-wallaby-taxon-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "needs_species_or_subspecies_verification"
+    },
+    {
+      "inventory_number": 49,
+      "common_name": "Regent honeyeater",
+      "scientific_name": null,
+      "guide": "docs/species/regent-honeyeater.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 50,
+      "common_name": "Scaly-breasted lorikeet",
+      "scientific_name": null,
+      "guide": "docs/species/scaly-breasted-lorikeet.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "dated_primary_zoo_exhibit_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 51,
+      "common_name": "Short-beaked echidna",
+      "scientific_name": null,
+      "guide": "docs/species/short-beaked-echidna.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 52,
+      "common_name": "Smooth yabby",
+      "scientific_name": null,
+      "guide": "docs/species/smooth-yabby-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 53,
+      "common_name": "Southern hairy-nosed wombat",
+      "scientific_name": null,
+      "guide": "docs/species/southern-hairy-nosed-wombat-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 54,
+      "common_name": "Southern purple-spotted gudgeon",
+      "scientific_name": null,
+      "guide": "docs/species/southern-purple-spotted-gudgeon.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "dated_primary_dpi_zoo_refuge_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 55,
+      "common_name": "Swamp wallaby (precise displayed wallaby species unverified)",
+      "scientific_name": null,
+      "guide": "docs/species/swamp-wallaby-taxon-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "needs_species_or_subspecies_verification"
+    },
+    {
+      "inventory_number": 56,
+      "common_name": "Tasmanian devil",
+      "scientific_name": null,
+      "guide": "docs/species/tasmanian-devil.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 57,
+      "common_name": "Western quoll (chuditch)",
+      "scientific_name": null,
+      "guide": "docs/species/western-quoll-chuditch.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "historical_or_conservation_holding_confirmed",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 58,
+      "common_name": "White-browed woodswallow",
+      "scientific_name": null,
+      "guide": "docs/species/white-browed-woodswallow-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 59,
+      "common_name": "White-winged chough",
+      "scientific_name": null,
+      "guide": "docs/species/white-winged-chough-holding-unverified.md",
+      "record_type": "species_research_only_zoo_holding_unverified",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "unverified",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 60,
+      "common_name": "Domestic pygmy goat",
+      "scientific_name": null,
+      "guide": "docs/species/domestic-pygmy-goat.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
+    },
+    {
+      "inventory_number": 61,
+      "common_name": "European fallow deer",
+      "scientific_name": null,
+      "guide": "docs/species/european-fallow-deer.md",
+      "record_type": "published_zoo_research_only",
+      "conservation_note": "See guide: exact IUCN/year not independently fully audited",
+      "holding_evidence_status": "published_zoo_map_or_record",
+      "taxon_verification": "species_or_common_label_researched"
     }
   ],
-  "pending_map_labels": [
+  "pending_map_labels": [],
+  "pending_holding_verifications": [
     {
-      "common_name": "Addax",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 30,
+      "name": "Indian peafowl",
+      "guide": "docs/species/indian-peafowl-holding-unverified.md"
     },
     {
-      "common_name": "Barbary sheep",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 37,
+      "name": "Brush-tailed rock-wallaby",
+      "guide": "docs/species/brush-tailed-rock-wallaby-holding-unverified.md"
     },
     {
-      "common_name": "Banteng",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 43,
+      "name": "Malleefowl",
+      "guide": "docs/species/malleefowl-holding-unverified.md"
     },
     {
-      "common_name": "Black-and-white ruffed lemur",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 47,
+      "name": "Red kangaroo",
+      "guide": "docs/species/red-kangaroo-holding-unverified.md"
     },
     {
-      "common_name": "Blackbuck",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 48,
+      "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
+      "guide": "docs/species/red-necked-wallaby-taxon-unverified.md"
     },
     {
-      "common_name": "Bongo (eastern form - verify)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 52,
+      "name": "Smooth yabby",
+      "guide": "docs/species/smooth-yabby-holding-unverified.md"
     },
     {
-      "common_name": "Camel (species verification needed)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 53,
+      "name": "Southern hairy-nosed wombat",
+      "guide": "docs/species/southern-hairy-nosed-wombat-holding-unverified.md"
     },
     {
-      "common_name": "Eland",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 55,
+      "name": "Swamp wallaby (precise displayed wallaby species unverified)",
+      "guide": "docs/species/swamp-wallaby-taxon-unverified.md"
     },
     {
-      "common_name": "Emu",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 58,
+      "name": "White-browed woodswallow",
+      "guide": "docs/species/white-browed-woodswallow-holding-unverified.md"
     },
     {
-      "common_name": "Echidna",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 59,
+      "name": "White-winged chough",
+      "guide": "docs/species/white-winged-chough-holding-unverified.md"
+    }
+  ],
+  "pending_taxon_verifications": [
+    {
+      "number": 2,
+      "name": "African elephant",
+      "guide": "docs/species/african-elephant-historical.md"
     },
     {
-      "common_name": "Fallow deer",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 11,
+      "name": "Dromedary camel (map just says 'Camel')",
+      "guide": "docs/species/camel-taxon-unverified.md"
     },
     {
-      "common_name": "Koala",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 14,
+      "name": "Helmeted guineafowl (map says 'Guineafowl')",
+      "guide": "docs/species/guineafowl-taxon-unverified.md"
     },
     {
-      "common_name": "Oryx (exact species verification needed)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 23,
+      "name": "Galápagos tortoise",
+      "guide": "docs/galapagos-giant-tortoise.md"
     },
     {
-      "common_name": "Ostrich",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 48,
+      "name": "Red-necked wallaby (precise displayed wallaby species unverified)",
+      "guide": "docs/species/red-necked-wallaby-taxon-unverified.md"
     },
     {
-      "common_name": "Otter (exact species verification needed)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Persian onager",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Pygmy goat",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Quokka",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Regent honeyeater",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Ring-tailed lemur",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Spider monkey (exact species verification needed)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Takhi (Przewalski's horse)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Tasmanian devil",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Wallaby (species verification needed)",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
-    },
-    {
-      "common_name": "Water buffalo",
-      "status": "needs_species_verification_and_deep_research",
-      "photo_observed": false
+      "number": 55,
+      "name": "Swamp wallaby (precise displayed wallaby species unverified)",
+      "guide": "docs/species/swamp-wallaby-taxon-unverified.md"
     }
   ]
 }

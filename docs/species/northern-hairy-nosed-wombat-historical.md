@@ -30,3 +30,7 @@ Australia's [DCCEEW priority species profile](https://www.dcceew.gov.au/environm
 5. Were **any** other northern wombats received at Dubbo before/after the 1996–97 event? Parliamentary answer says none at the time of February 1997, not necessarily for all historical years.
 
 **Do not report the 2026 protected wild population as the number ever held at Dubbo.**
+
+## Current IUCN listing versus dated wild numbers
+
+The [IUCN Red List account](https://doi.org/10.2305/IUCN.UK.2016-2.RLTS.T11343A21959050.en) lists *Lasiorhinus krefftii* as **Critically Endangered**, based on assessment **15 June 2015**, published in 2016. This older Red List assessment describes a single location and **80 mature individuals** from its then-available evidence; it must **not** be presented as a current 2026 wild total. The [2025 Queensland reintroduction report](https://www.detsi.qld.gov.au/our-department/news-media/mediareleases/2025/first-wild-born-wombats-sighted) and [2026 Australian priority species profile](https://www.dcceew.gov.au/environment/biodiversity/threatened/action-plan/northern-hairy-nosed-wombat) document subsequent recovery efforts and several sites. IUCN and national population metrics are from different dates, not contradictory live counts.

@@ -33,3 +33,8 @@ Taronga documented **three oriental small-clawed otter pups born 8 January 2015*
 2. [Supplementary zoo/source record](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia)
 
 [Current Dubbo map](https://www.taronga.org.au/dubbo-zoo/map) · [Taronga animal directory](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo). Last reviewed 18 October 2026. **Open questions:** current 2026 holding status (if historical), original taxon/subspecies, current IUCN assessment date, whether photographed by the journal owner.
+
+## Direct IUCN record: Asian small-clawed otter
+
+The [IUCN 2021 *Aonyx cinereus* Red List assessment](https://doi.org/10.2305/IUCN.UK.2021-3.RLTS.T44166A164580923.en), assessed **19 February 2020**, identifies **Vulnerable (VU), population trend Decreasing**. The assessment attributes a suspected over-30% decline over 30 years to wetlands destruction, hunting and illegal trade. This is a **wild-population species assessment**, not a live headcount of Dubbo's historic otter group or proof its 2026 group is visible.
+

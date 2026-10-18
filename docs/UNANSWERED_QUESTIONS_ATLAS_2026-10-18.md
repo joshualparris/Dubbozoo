@@ -5435,3 +5435,480 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 2. Which other biological mechanism or identification could explain the same observation in Eastern whipbird — researched species guide?
 3. What capture date, site and observation would be sufficient to document this without guessing the animal's name?
 
+
+
+---
+
+## Newer provisional species profiles — questions and evidence gaps (batch C2)
+
+### Emu — researched species guide
+
+`docs/species/emu.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0453. Field-research question: Why is emu paternal incubation unusual among large birds and which toes distinguish it from ostriches?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Omnivore feeding on seeds, fruits, shoots and insects. Emus can travel widely with rainfall, spreading seeds; breeding often involves a male incubating eggs and guarding chicks for months. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/emu.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/emu.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Emu — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research
+
+`docs/species/galapagos-giant-tortoise.md`: 1 explicit questions; 4 stated unresolved issues.
+
+**Q0454. Research prompt: Why must island of origin be confirmed before assigning a conservation status?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: A very large terrestrial tortoise with heavy domed or saddle-shaped shell, columnar limbs and a long neck for browsing. Shell shape relates partly to habitat and ancestry, but it cannot definitively identify lineage from an unsourced photo. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. Which year-specific Red List or range-country report directly tests this for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+2. How much variation exists between regions, populations and survey methods for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+3. Which wild-population outcome would independently demonstrate recovery or protection for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+
+**Q0455. What primary evidence establishes current 2026 holding status (if historical) for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0456. What primary evidence establishes original taxon/subspecies for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0457. What primary evidence establishes current IUCN assessment date for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. Which year-specific Red List or range-country report directly tests this for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+2. How much variation exists between regions, populations and survey methods for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+3. Which wild-population outcome would independently demonstrate recovery or protection for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+
+**Q0458. What primary evidence establishes whether photographed by the journal owner for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/galapagos-giant-tortoise.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/galapagos-giant-tortoise.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Galápagos giant tortoise (taxon unresolved) — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Greater bilby — researched species guide
+
+`docs/species/greater-bilby.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0459. Field-research question: How might a single bilby's digging improve desert soils even when nobody sees the bilby?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Nocturnal desert marsupial with very long ears, pointed muzzle, black-and-white tail, soft fur and sturdy digging foreclaws. It is a rabbit-eared bandicoot relative, not a rabbit or rodent. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/greater-bilby.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/greater-bilby.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Greater bilby — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Guineafowl (historical map label) — Dubbozoo researched profile
+
+`docs/species/guineafowl-taxon-unverified.md`: 1 explicit questions; 3 stated unresolved issues.
+
+**Q0460. Field question: Does the bird actually have a helmet-like head casque in verified photographs?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Native range / habitat: Guineafowl as a family are African ground-dwelling birds, but different taxa occupy different habitats. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Guineafowl (historical map label) — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0461. What primary evidence establishes exact current animals for Guineafowl (historical map label) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Guineafowl (historical map label) — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0462. What primary evidence establishes photo identification and any unreported husbandry for Guineafowl (historical map label) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Guineafowl (historical map label) — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0463. What primary evidence establishes health or breeding outcomes for Guineafowl (historical map label) — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/guineafowl-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/guineafowl-taxon-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Guineafowl (historical map label) — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Indian peafowl — Dubbo holdings not established — Dubbozoo species research
+
+`docs/species/indian-peafowl-holding-unverified.md`: 1 explicit questions; 4 stated unresolved issues.
+
+**Q0464. Research prompt: If a peafowl walks freely on zoo grounds, does that establish it belongs to the formal animal collection?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Not typically globally threatened; introduced peafowl may spread beyond grounds and cause local issues. Wild birds wandering into the zoo are not automatically managed animals. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0465. What primary evidence establishes current 2026 holding status (if historical) for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0466. What primary evidence establishes original taxon/subspecies for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0467. What primary evidence establishes current IUCN assessment date for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which year-specific Red List or range-country report directly tests this for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+2. How much variation exists between regions, populations and survey methods for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+3. Which wild-population outcome would independently demonstrate recovery or protection for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+
+**Q0468. What primary evidence establishes whether photographed by the journal owner for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/indian-peafowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/indian-peafowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Indian peafowl — Dubbo holdings not established — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Koala — researched species guide
+
+`docs/species/koala.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0469. Field-research question: How does specialised leaf digestion influence koala rest and the need for suitable eucalypts?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Field-research question: How does specialised leaf digestion influence koala rest and the need for suitable eucalypts? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/koala.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/koala.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Koala — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Little lorikeet — researched species guide
+
+`docs/species/little-lorikeet.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0470. Field-research question: Why can a small nectar-eating parrot still depend on trees that are a century old?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Field-research question: Why can a small nectar-eating parrot still depend on trees that are a century old? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/little-lorikeet.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/little-lorikeet.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Little lorikeet — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Malleefowl (Dubbo holding unverified) — researched species guide
+
+`docs/species/malleefowl-holding-unverified.md`: 1 explicit questions; 1 stated unresolved issues.
+
+**Q0471. Has the Dubbo-specific animal-holding/taxonomy uncertainty been resolved for Malleefowl (Dubbo holding unverified) — researched species guide?**
+
+**Best answer — unresolved:** No. There is no sufficiently direct Taronga Dubbo accession or taxonomic source cited to settle the issue.
+
+**Evidence:** [`docs/species/malleefowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/malleefowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Malleefowl (Dubbo holding unverified) — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0472. Field-research question: How can eggs incubate without an adult bird sitting over them?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Field-research question: How can eggs incubate without an adult bird sitting over them? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/malleefowl-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/malleefowl-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Malleefowl (Dubbo holding unverified) — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Meerkat — Dubbozoo researched profile
+
+`docs/species/meerkat.md`: 1 explicit questions; 3 stated unresolved issues.
+
+**Q0473. Field question: How does cooperative lookout behaviour support a group digging for food?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Native range / habitat: Open dry regions of southern Africa including Kalahari ecosystems. Where the exhibit label lacks a confirmed scientific identification, this description is conditional on future species verification. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Meerkat — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0474. What primary evidence establishes exact current animals for Meerkat — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Meerkat — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0475. What primary evidence establishes photo identification and any unreported husbandry for Meerkat — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Meerkat — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0476. What primary evidence establishes health or breeding outcomes for Meerkat — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/meerkat.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/meerkat.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Meerkat — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Common ostrich — Dubbozoo researched profile
+
+`docs/species/ostrich.md`: 0 explicit questions; 3 stated unresolved issues.
+
+**Q0477. What primary evidence establishes exact current animals for Common ostrich — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/ostrich.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Common ostrich — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0478. What primary evidence establishes photo identification and any unreported husbandry for Common ostrich — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/ostrich.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Common ostrich — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0479. What primary evidence establishes health or breeding outcomes for Common ostrich — Dubbozoo researched profile?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/ostrich.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/ostrich.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Common ostrich — Dubbozoo researched profile?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Persian onager (historical) — Dubbozoo species research
+
+`docs/species/persian-onager-historical.md`: 1 explicit questions; 4 stated unresolved issues.
+
+**Q0480. Research prompt: How can you distinguish a wild ass from a wild horse without relying solely on colour?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: A wild Asian ass with sandy body, dark dorsal stripe and upright mane. Smaller ears than some wild asses and a different body build from Takhi/Przewalski's horses; photo labels should not be swapped. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
+
+**Three further questions:**
+1. Which year-specific Red List or range-country report directly tests this for Persian onager (historical) — Dubbozoo species research?
+2. How much variation exists between regions, populations and survey methods for Persian onager (historical) — Dubbozoo species research?
+3. Which wild-population outcome would independently demonstrate recovery or protection for Persian onager (historical) — Dubbozoo species research?
+
+**Q0481. What primary evidence establishes current 2026 holding status (if historical) for Persian onager (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Persian onager (historical) — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0482. What primary evidence establishes original taxon/subspecies for Persian onager (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Persian onager (historical) — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+**Q0483. What primary evidence establishes current IUCN assessment date for Persian onager (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
+
+**Three further questions:**
+1. Which year-specific Red List or range-country report directly tests this for Persian onager (historical) — Dubbozoo species research?
+2. How much variation exists between regions, populations and survey methods for Persian onager (historical) — Dubbozoo species research?
+3. Which wild-population outcome would independently demonstrate recovery or protection for Persian onager (historical) — Dubbozoo species research?
+
+**Q0484. What primary evidence establishes whether photographed by the journal owner for Persian onager (historical) — Dubbozoo species research?**
+
+**Best answer — unresolved:** **Unresolved.** The draft flags this evidence gap. The available map entry or historical source is insufficient for a current taxon-specific, individual-level or census conclusion. Retain the caveat.
+
+**Evidence:** [`docs/species/persian-onager-historical.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/persian-onager-historical.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Persian onager (historical) — Dubbozoo species research?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Plains-wanderer — researched species guide
+
+`docs/species/plains-wanderer.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0485. Field-research question: What makes protection of native grassland different from rainforest protection?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Field-research question: What makes protection of native grassland different from rainforest protection? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/plains-wanderer.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/plains-wanderer.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Plains-wanderer — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Quokka — researched species guide
+
+`docs/species/quokka.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0486. Field-research question: Why can a single famous island population misrepresent an entire species' conservation outlook?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Browsing/grazing on vegetation, often nocturnal or crepuscular in natural habitats. Native to southwestern Western Australia and associated islands, inhabiting dense cover and using vegetation for shelter; it is not native to Dubbo. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/quokka.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/quokka.md).
+
+**Three further questions:**
+1. Which year-specific Red List or range-country report directly tests this for Quokka — researched species guide?
+2. How much variation exists between regions, populations and survey methods for Quokka — researched species guide?
+3. Which wild-population outcome would independently demonstrate recovery or protection for Quokka — researched species guide?
+
+### Red kangaroo (zoo holding unverified) — researched species guide
+
+`docs/species/red-kangaroo-holding-unverified.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0487. Field-research question: How would you distinguish a free-ranging kangaroo on zoo land from a formally managed exhibit animal?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Australia's largest wild macropod. Adult males often reddish, females frequently blue-grey, but colour overlaps and cannot always sex animals. Large hind limbs and tail support hopping locomotion. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/red-kangaroo-holding-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/red-kangaroo-holding-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Red kangaroo (zoo holding unverified) — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Red-necked wallaby (Dubbo identification unverified) — researched species guide
+
+`docs/species/red-necked-wallaby-taxon-unverified.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0488. Field-research question: What details beyond a reddish neck would make a scientific identification reliable?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Field-research question: What details beyond a reddish neck would make a scientific identification reliable? Make notes about observable motion, feeding signs and substrate/habitat. Do not infer age, sex, stress or parentage without records. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/red-necked-wallaby-taxon-unverified.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/red-necked-wallaby-taxon-unverified.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Red-necked wallaby (Dubbo identification unverified) — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+
+### Regent honeyeater — researched species guide
+
+`docs/species/regent-honeyeater.md`: 1 explicit questions; 0 stated unresolved issues.
+
+**Q0489. Field-research question: Why might song tutoring matter as much as survival in a breeding aviary?**
+
+**Best answer — partial, with evidence boundary:** The draft's species-level context is: Follows flowering eucalypts and mistletoes for nectar while also feeding on insects. Wild birds benefit from social learning of song; limited numbers of singing adults can affect communication and pairing. **Individual-specific behaviour and a modern Dubbo roster are not established by this general account.**
+
+**Evidence:** [`docs/species/regent-honeyeater.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/species/regent-honeyeater.md).
+
+**Three further questions:**
+1. Which peer-reviewed biological result or first-party zoo keeper record addresses this for Regent honeyeater — researched species guide?
+2. How can an observer distinguish the hypothesised adaptation or behaviour from a superficially similar explanation?
+3. What capture date, animal reference match or long-duration observation would make this conclusion auditable?
+

@@ -39,20 +39,20 @@ These are **not yet complete species guides**. Some require a keeper or official
 9. Emu
 10. Echidna
 11. Fallow deer
-13. Koala
-15. Oryx (exact species verification needed)
-16. Ostrich
-17. Otter (exact species verification needed)
-18. Persian onager
-19. Pygmy goat
-20. Quokka
-21. Regent honeyeater
-22. Ring-tailed lemur
-23. Spider monkey (exact species verification needed)
-24. Takhi (Przewalski's horse)
-25. Tasmanian devil
-26. Wallaby (species verification needed)
-27. Water buffalo
+12. Koala
+13. Oryx (exact species verification needed)
+14. Ostrich
+15. Otter (exact species verification needed)
+16. Persian onager
+17. Pygmy goat
+18. Quokka
+19. Regent honeyeater
+20. Ring-tailed lemur
+21. Spider monkey (exact species verification needed)
+22. Takhi (Przewalski's horse)
+23. Tasmanian devil
+24. Wallaby (species verification needed)
+25. Water buffalo
 
 ### How to promote a backlog entry to researched
 - Verify the exact scientific taxon: genus/species/subspecies and recent taxonomic changes, not the enclosure label alone.

@@ -19,13 +19,18 @@
         if (selected === 'strong' && card.dataset.strong !== 'yes') return false;
         return (card.dataset.search || '').includes(query);
       });
-      const shown = new Set(matched.slice(0,visibleLimit));
+      const displayed = Math.min(visibleLimit, matched.length);
+      const remaining = Math.max(0, matched.length - displayed);
+      const shown = new Set(matched.slice(0, displayed));
       cards.forEach(card => card.hidden = !shown.has(card));
-      count.textContent = matched.length + ' of ' + cards.length + ' research records match' + (matched.length > visibleLimit ? ' · showing first ' + visibleLimit : '') + '.';
+      count.textContent = displayed + ' of ' + matched.length + ' matching animals shown (' + cards.length + ' total).';
       if (empty) empty.hidden = matched.length > 0;
       if (loadMore) {
-        loadMore.hidden = matched.length <= visibleLimit;
-        loadMore.textContent = 'Show more animals (' + (matched.length - visibleLimit) + ' remaining) →';
+        loadMore.hidden = remaining === 0;
+        loadMore.disabled = remaining === 0;
+        loadMore.textContent = remaining > 0
+          ? 'Show ' + Math.min(21, remaining) + ' more animals (' + remaining + ' remaining) →'
+          : 'All matching animals shown';
       }
     };
     search.addEventListener('input', () => { visibleLimit = 18; apply(); });
@@ -36,7 +41,22 @@
       regionButtons.forEach(item => item.setAttribute('aria-pressed', String(item === button)));
       apply();
     }));
-    if (loadMore) loadMore.addEventListener('click', () => { visibleLimit += 21; apply(); });
+    if (loadMore) loadMore.addEventListener('click', () => {
+      // Never let repeated clicks, including clicks on a CSS-visible hidden button,
+      // produce a negative count or pages beyond the number of matching animals.
+      const matchingCount = cards.filter(card => {
+        const query = search.value.trim().toLocaleLowerCase();
+        return (region === 'All' || card.dataset.region === region) &&
+          (evidence.value === 'all' ||
+            (evidence.value === 'question' && card.dataset.unverified === 'yes') ||
+            (evidence.value === 'taxonomy' && card.dataset.taxon === 'yes') ||
+            (evidence.value === 'strong' && card.dataset.strong === 'yes')) &&
+          (card.dataset.search || '').includes(query);
+      }).length;
+      if (visibleLimit >= matchingCount) return;
+      visibleLimit = Math.min(matchingCount, visibleLimit + 21);
+      apply();
+    });
     apply();
   }
   const repoCards = Array.from(document.querySelectorAll('.repo-card'));

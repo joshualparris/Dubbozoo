@@ -4,6 +4,16 @@
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
 
+
+## REVISED: historical Dubbo holdings supported by professional keeper records
+
+The previous conclusion "Dubbo unverified" (below) was based on **Taronga's more recent Sydney-specific birth stories**; those stories indeed cannot prove a Dubbo birth. But direct specialist historical evidence is stronger. **Donna Treby's 2004/revised-2020 [Australasian Society of Zoo Keeping Southern Hairy-nosed Wombat Husbandry Manual](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf)** lists **Western Plains Zoo** as an institution holding **Southern Hairy-nosed Wombats (*Lasiorhinus latifrons*)**, describing an off-limits burrow/breeding facility there. This is credible *historic Dubbo holding evidence*, although the table's animal counts and dates were not resolved. [Queensland parliamentary answers dated 19 September 1997](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf) say Dubbo **had not yet established** its southern hairy-nosed wombat colony at that point, but was part of the proposed research initiative. These accounts are compatible if holdings began *after* September 1997.
+
+**Updated result:** historical Dubbo Southern Hairy-nosed Wombat holding supported by a zoo-keeper husbandry manual; exact first accession date, numbers, duration, captive births and public-display status remain unverified. The 2013–14 and 2022 wombat births attributed to **Sydney** must remain Sydney events. The file's historical path retains the older 'unverified' wording to avoid breaking links; the revised finding supersedes that earlier conclusion.
+
+**Species separation:** the same manuals document a **common wombat** facility, while [1997 Queensland Parliament](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf) confirms a short-lived captive programme involving the distinct **northern hairy-nosed wombat** at Dubbo. See [northern hairy-nosed wombat](northern-hairy-nosed-wombat-historical.md) and [common wombat](common-wombat-historical.md).
+
+
 ## Historical attribution check: Sydney, not confirmed Dubbo
 
 The [Taronga 2013–14 annual report](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2013-14.pdf) distinguishes Dubbo tortoise/cheetah births from **Taronga Zoo Sydney**'s southern hairy-nosed wombat joey. A later [October 2022 zoo newsletter](https://www.taronga.org.au/sites/default/files/content/documents/Tales_from_the_Wild_Newsletter_Issue_007_October_2022.pdf) explicitly places wombat Wadu and mother Jedda in **Sydney's Backyard to Bush**. Neither proves a Dubbo wombat holding. Correct status: **Dubbo unverified**; don't migrate cross-zoo species records simply because Taronga is the operator.

@@ -6282,3 +6282,1086 @@ Source: `docs/species/eastern-whipbird.md`. 1 explicit question(s), 0 unresolved
 2. What are the underlying survey uncertainties, regional variations and model assumptions for White-winged chough (Dubbo holding not established) — Dubbozoo research guide?
 3. What habitat-management or field intervention has a measured survival/reproduction benefit for White-winged chough (Dubbo holding not established) — Dubbozoo research guide?
 
+
+
+---
+
+## Structured-data audit: observation JSON, inventory, pending taxonomy and website (complete)
+
+The following directly interrogates `data/*.json` and `index.html` at the pinned research snapshot. A null value is a declared absence of verified evidence; the answer is never reconstructed from a suggestive filename, a zoo press release or an undated photograph.
+
+### Observation dubbozoo-obs-0001: African wild dog
+
+**Recorded photo copies:** 5. All original SHA-256 fields are in the source JSON. This section audits distinct scientific and privacy uncertainty fields rather than inventing a current zoo encounter.
+
+**Q0518. What capture date is verified for the African wild dog photographs?**
+
+**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: capture date?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0519. Do the African wild dog photographs contain independently verified GPS?**
+
+**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: GPS?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0520. Which individual zoo animals are shown in the African wild dog photos?**
+
+**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: name?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0521. Are the photographed African wild dog animals' sex and age verified?**
+
+**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: sex age?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0522. Does the African wild dog record establish the full number of animals at Dubbo?**
+
+**Best answer — answered limitation:** No. The photos support only **visible minimums** at particular viewpoints; they do not establish full holdings, a live 2026 census or off-exhibit individuals.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: animal count?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0523. Were the 5 African wild dog photo binaries actually published to the public GitHub repo?**
+
+**Best answer — verified data status:** No. Every source-copy photo has `committed_binary=false` and `repository_path=null`, regardless of its checksum.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: image binaries?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0524. Is the recorded exact taxon/lineage of African wild dog scientifically verified?**
+
+**Best answer — partly verified:** The record provides a species-level identification but does not independently verify lineage or individual animal parentage.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for African wild dog: taxon?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0525. Is any observed action in the African wild dog images proof of social hierarchy, distress, health or breeding?**
+
+**Best answer — verified limitation:** No. A still image can record position or visible action but not diagnose motivations, care quality, reproductive status or clinical welfare without qualified longitudinal evidence.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for African wild dog: behaviour?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0526. Can the African wild dog images be published without exposing visitors or copyright uncertainty?**
+
+**Best answer — unresolved:** Publication rights are not established; even if no person is noted in the image, copyright approval and any required privacy processing must be verified.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for African wild dog: privacy photo?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+### Observation dubbozoo-obs-0002: Giraffe
+
+**Recorded photo copies:** 2. All original SHA-256 fields are in the source JSON. This section audits distinct scientific and privacy uncertainty fields rather than inventing a current zoo encounter.
+
+**Q0527. What capture date is verified for the Giraffe photographs?**
+
+**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: capture date?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0528. Do the Giraffe photographs contain independently verified GPS?**
+
+**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: GPS?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0529. Which individual zoo animals are shown in the Giraffe photos?**
+
+**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: name?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0530. Are the photographed Giraffe animals' sex and age verified?**
+
+**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: sex age?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0531. Does the Giraffe record establish the full number of animals at Dubbo?**
+
+**Best answer — answered limitation:** No. The photos support only **visible minimums** at particular viewpoints; they do not establish full holdings, a live 2026 census or off-exhibit individuals.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: animal count?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0532. Were the 2 Giraffe photo binaries actually published to the public GitHub repo?**
+
+**Best answer — verified data status:** No. Every source-copy photo has `committed_binary=false` and `repository_path=null`, regardless of its checksum.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: image binaries?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0533. Is the recorded exact taxon/lineage of Giraffe scientifically verified?**
+
+**Best answer — partly verified:** The record explicitly retains taxonomic uncertainty. The photograph is not sufficient to establish an exact species/subspecies lineage or genetic ancestry.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Giraffe: taxon?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0534. Is any observed action in the Giraffe images proof of social hierarchy, distress, health or breeding?**
+
+**Best answer — verified limitation:** No. A still image can record position or visible action but not diagnose motivations, care quality, reproductive status or clinical welfare without qualified longitudinal evidence.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Giraffe: behaviour?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0535. Can the Giraffe images be published without exposing visitors or copyright uncertainty?**
+
+**Best answer — unresolved:** Publication rights are not established; even if no person is noted in the image, copyright approval and any required privacy processing must be verified.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Giraffe: privacy photo?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+### Observation dubbozoo-obs-0003: Siamang
+
+**Recorded photo copies:** 6. All original SHA-256 fields are in the source JSON. This section audits distinct scientific and privacy uncertainty fields rather than inventing a current zoo encounter.
+
+**Q0536. What capture date is verified for the Siamang photographs?**
+
+**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: capture date?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0537. Do the Siamang photographs contain independently verified GPS?**
+
+**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: GPS?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0538. Which individual zoo animals are shown in the Siamang photos?**
+
+**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: name?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0539. Are the photographed Siamang animals' sex and age verified?**
+
+**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: sex age?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0540. Does the Siamang record establish the full number of animals at Dubbo?**
+
+**Best answer — answered limitation:** No. The photos support only **visible minimums** at particular viewpoints; they do not establish full holdings, a live 2026 census or off-exhibit individuals.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: animal count?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0541. Were the 6 Siamang photo binaries actually published to the public GitHub repo?**
+
+**Best answer — verified data status:** No. Every source-copy photo has `committed_binary=false` and `repository_path=null`, regardless of its checksum.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: image binaries?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0542. Is the recorded exact taxon/lineage of Siamang scientifically verified?**
+
+**Best answer — partly verified:** The record provides a species-level identification but does not independently verify lineage or individual animal parentage.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Siamang: taxon?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0543. Is any observed action in the Siamang images proof of social hierarchy, distress, health or breeding?**
+
+**Best answer — verified limitation:** No. A still image can record position or visible action but not diagnose motivations, care quality, reproductive status or clinical welfare without qualified longitudinal evidence.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Siamang: behaviour?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0544. Can the Siamang images be published without exposing visitors or copyright uncertainty?**
+
+**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Siamang: privacy photo?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+### Observation dubbozoo-obs-0004: Galápagos giant tortoise
+
+**Recorded photo copies:** 4. All original SHA-256 fields are in the source JSON. This section audits distinct scientific and privacy uncertainty fields rather than inventing a current zoo encounter.
+
+**Q0545. What capture date is verified for the Galápagos giant tortoise photographs?**
+
+**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: capture date?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0546. Do the Galápagos giant tortoise photographs contain independently verified GPS?**
+
+**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: GPS?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0547. Which individual zoo animals are shown in the Galápagos giant tortoise photos?**
+
+**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: name?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0548. Are the photographed Galápagos giant tortoise animals' sex and age verified?**
+
+**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: sex age?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0549. Does the Galápagos giant tortoise record establish the full number of animals at Dubbo?**
+
+**Best answer — answered limitation:** No. The photos support only **visible minimums** at particular viewpoints; they do not establish full holdings, a live 2026 census or off-exhibit individuals.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: animal count?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0550. Were the 4 Galápagos giant tortoise photo binaries actually published to the public GitHub repo?**
+
+**Best answer — verified data status:** No. Every source-copy photo has `committed_binary=false` and `repository_path=null`, regardless of its checksum.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: image binaries?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0551. Is the recorded exact taxon/lineage of Galápagos giant tortoise scientifically verified?**
+
+**Best answer — partly verified:** The record explicitly retains taxonomic uncertainty. The photograph is not sufficient to establish an exact species/subspecies lineage or genetic ancestry.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Galápagos giant tortoise: taxon?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0552. Is any observed action in the Galápagos giant tortoise images proof of social hierarchy, distress, health or breeding?**
+
+**Best answer — verified limitation:** No. A still image can record position or visible action but not diagnose motivations, care quality, reproductive status or clinical welfare without qualified longitudinal evidence.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Galápagos giant tortoise: behaviour?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0553. Can the Galápagos giant tortoise images be published without exposing visitors or copyright uncertainty?**
+
+**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Galápagos giant tortoise: privacy photo?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+### Observation dubbozoo-obs-0005: Asian elephant
+
+**Recorded photo copies:** 5. All original SHA-256 fields are in the source JSON. This section audits distinct scientific and privacy uncertainty fields rather than inventing a current zoo encounter.
+
+**Q0554. What capture date is verified for the Asian elephant photographs?**
+
+**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: capture date?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0555. Do the Asian elephant photographs contain independently verified GPS?**
+
+**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: GPS?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0556. Which individual zoo animals are shown in the Asian elephant photos?**
+
+**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: name?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0557. Are the photographed Asian elephant animals' sex and age verified?**
+
+**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: sex age?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0558. Does the Asian elephant record establish the full number of animals at Dubbo?**
+
+**Best answer — answered limitation:** No. The photos support only **visible minimums** at particular viewpoints; they do not establish full holdings, a live 2026 census or off-exhibit individuals.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: animal count?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0559. Were the 5 Asian elephant photo binaries actually published to the public GitHub repo?**
+
+**Best answer — verified data status:** No. Every source-copy photo has `committed_binary=false` and `repository_path=null`, regardless of its checksum.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: image binaries?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0560. Is the recorded exact taxon/lineage of Asian elephant scientifically verified?**
+
+**Best answer — partly verified:** The record provides a species-level identification but does not independently verify lineage or individual animal parentage.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Asian elephant: taxon?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0561. Is any observed action in the Asian elephant images proof of social hierarchy, distress, health or breeding?**
+
+**Best answer — verified limitation:** No. A still image can record position or visible action but not diagnose motivations, care quality, reproductive status or clinical welfare without qualified longitudinal evidence.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Asian elephant: behaviour?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0562. Can the Asian elephant images be published without exposing visitors or copyright uncertainty?**
+
+**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Asian elephant: privacy photo?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+### Observation dubbozoo-obs-0006: Meerkat (probable)
+
+**Recorded photo copies:** 1. All original SHA-256 fields are in the source JSON. This section audits distinct scientific and privacy uncertainty fields rather than inventing a current zoo encounter.
+
+**Q0563. What capture date is verified for the Meerkat (probable) photographs?**
+
+**Best answer — unresolved:** No verified capture date is present. The research creation date is not the camera's capture timestamp.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): capture date?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0564. Do the Meerkat (probable) photographs contain independently verified GPS?**
+
+**Best answer — unresolved:** No. The supplied-copy observation record stores GPS as null; the zoo/location hypothesis is not a geospatial coordinate.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): GPS?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0565. Which individual zoo animals are shown in the Meerkat (probable) photos?**
+
+**Best answer — unresolved:** No keeper-backed individual IDs or reliable historical animal name matches are recorded; names must remain null.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): name?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0566. Are the photographed Meerkat (probable) animals' sex and age verified?**
+
+**Best answer — unresolved:** No. Sex and age are not individually established by the recorded photos, even if known biological tendencies can be discussed at species level.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): sex age?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0567. Does the Meerkat (probable) record establish the full number of animals at Dubbo?**
+
+**Best answer — answered limitation:** No. The photos support only **visible minimums** at particular viewpoints; they do not establish full holdings, a live 2026 census or off-exhibit individuals.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): animal count?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0568. Were the 1 Meerkat (probable) photo binaries actually published to the public GitHub repo?**
+
+**Best answer — verified data status:** No. Every source-copy photo has `committed_binary=false` and `repository_path=null`, regardless of its checksum.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): image binaries?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0569. Is the recorded exact taxon/lineage of Meerkat (probable) scientifically verified?**
+
+**Best answer — partly verified:** The record explicitly retains taxonomic uncertainty. The photograph is not sufficient to establish an exact species/subspecies lineage or genetic ancestry.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Meerkat (probable): taxon?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0570. Is any observed action in the Meerkat (probable) images proof of social hierarchy, distress, health or breeding?**
+
+**Best answer — verified limitation:** No. A still image can record position or visible action but not diagnose motivations, care quality, reproductive status or clinical welfare without qualified longitudinal evidence.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Meerkat (probable): behaviour?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0571. Can the Meerkat (probable) images be published without exposing visitors or copyright uncertainty?**
+
+**Best answer — unresolved:** Not as-is. At least one photograph flags recognisable people, and publication/licensing approval is not verified. A public derivative would need privacy processing and a separate integrity hash.
+
+**Evidence:** [`data/observations.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/observations.json).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Meerkat (probable): privacy photo?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+## Catalogue/research status reconciliation: 25 pending map labels
+
+A pending map label does not mean there is no text file about the species: `docs/species/` contains many newer drafts, but the canonical catalogue has not independently promoted them to deep/reviewed status. Each entry must clear substantive evidence criteria rather than being automatically ticked merely because a filename exists.
+
+**Q0572. Why is Addax still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Addax"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Addax?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0573. Why is Barbary sheep still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Barbary sheep"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Barbary sheep?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0574. Why is Banteng still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Banteng"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Banteng?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0575. Why is Black-and-white ruffed lemur still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Black-and-white ruffed lemur"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Black-and-white ruffed lemur?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0576. Why is Blackbuck still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Blackbuck"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Blackbuck?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0577. Why is Bongo (eastern form - verify) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Bongo (eastern form - verify)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Bongo (eastern form - verify)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0578. Why is Camel (species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Camel (species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Camel (species verification needed)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0579. Why is Eland still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Eland"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Eland?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0580. Why is Emu still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Emu"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Emu?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0581. Why is Echidna still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Echidna"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Echidna?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0582. Why is Fallow deer still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Fallow deer"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Fallow deer?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0583. Why is Koala still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Koala"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Koala?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0584. Why is Oryx (exact species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Oryx (exact species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Oryx (exact species verification needed)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0585. Why is Ostrich still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Ostrich"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Ostrich?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0586. Why is Otter (exact species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Otter (exact species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Otter (exact species verification needed)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0587. Why is Persian onager still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Persian onager"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. Can a time-stamped, rights-cleared original or a keeper-signed reference establish this point for Persian onager?
+2. What independent contextual source could corroborate the identification without relying on appearance alone?
+3. Which public fields should remain redacted or null even after private verification?
+
+**Q0588. Why is Pygmy goat still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Pygmy goat"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Pygmy goat?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0589. Why is Quokka still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Quokka"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Quokka?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0590. Why is Regent honeyeater still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Regent honeyeater"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Regent honeyeater?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0591. Why is Ring-tailed lemur still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Ring-tailed lemur"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Ring-tailed lemur?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0592. Why is Spider monkey (exact species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Spider monkey (exact species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Spider monkey (exact species verification needed)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0593. Why is Takhi (Przewalski's horse) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Takhi (Przewalski's horse)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Takhi (Przewalski's horse)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0594. Why is Tasmanian devil still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Tasmanian devil"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Tasmanian devil?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0595. Why is Wallaby (species verification needed) still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Wallaby (species verification needed)"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Wallaby (species verification needed)?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0596. Why is Water buffalo still flagged as a map-label research lead, and what would make its guide accepted?**
+
+**Best answer — unresolved acceptance decision:** The catalogue marks **"Water buffalo"** as `needs_species_verification_and_deep_research`; the presence of a supplemental draft does not prove primary-source verification, exact taxonomic resolution, current Dubbo holding, and taxon-matched IUCN evidence. **Unresolved until an acceptance review.**
+
+**Evidence:** [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json) · [`docs/coverage-audit.md`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/docs/coverage-audit.md).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for Water buffalo?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+## Website, engineering, evidence provenance and scientific-method questions
+
+**Q0597. Does the GitHub repository prove the public Dubbozoo website is live?**
+
+**Best answer — unresolved:** No. GitHub source files do not establish deployment. A deployment URL, HTTP success, branch-to-production provenance and page smoke test are needed.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0598. How many independently photo-backed animal groups are in the JSON observation register?**
+
+**Best answer — answered by JSON:** **6**, with **23** individual source-copy JPEG records. These are catalogued photo metadata, not proof the binaries are public.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0599. Are the extra 46 species drafts equivalent to verified entries in the historical inventory?**
+
+**Best answer — answered by repository status:** No. Historical inventory flags **15** deeply researched entries, while newer species files require separate checks. Document draft presence and reviewed depth as different metrics.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0600. Do the 61 historical animals establish all species ever at the zoo?**
+
+**Best answer — answered limitation:** No. The list contains **61** documented or secondary leads, explicitly not an audited full accession history.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0601. Are all project links and citations checked for live 200 responses?**
+
+**Best answer — unresolved:** No complete live HTTP audit is available from the repository snapshot. A Markdown link existing in a file does not prove the remote resource is accessible or current.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0602. Is the entire static website keyboard accessible and screen-reader verified?**
+
+**Best answer — partial:** The HTML includes semantic headings, navigation and focus styling, but no executed comprehensive screen-reader, keyboard-only and mobile accessibility acceptance suite is evidenced by the files.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0603. Are website facts guaranteed to reflect the newest zoo map and animal-list version?**
+
+**Best answer — unresolved:** No. The static site's data is curated from cited publications and can lag changed Taronga pages. Map references, keeper talks and individual zoo animal availability may shift.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0604. Can source notes be treated as proof of animal welfare or health status?**
+
+**Best answer — verified limitation:** No. Brief visitor images and general husbandry literature cannot substitute for keeper/vet-led welfare assessments.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0605. Is conservation status from an older taxon transferable after species reclassification?**
+
+**Best answer — verified distinction:** Not automatically. Taxa must be linked to the precise IUCN assessment and year; giraffe and Galápagos tortoise taxonomy illustrate why.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0606. What happens if a published zoo source contradicts another official Taronga page?**
+
+**Best answer — documented method:** Record both dated URLs, mark the conflict explicitly, and prefer direct current keeper/map verification over an unsupported choice. The siamang 12Q vs 10G discrepancy is a concrete example.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0607. Does the zoo directory prove every listed animal is accessible to today's visitors?**
+
+**Best answer — verified distinction:** No. A historical directory/map listing is not an individual-level live exhibit or sighting guarantee.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0608. Are current animal photographs safe to publish automatically just because the user uploaded them privately?**
+
+**Best answer — verified limitation:** No. The public repo includes privacy/copyright obligations, and several photos contain children and visitors. Preserve only secure originals and approved anonymised derivatives.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0609. Can the 2026 federal platypus listing decision be equated with a general absence of risk?**
+
+**Best answer — answered:** No. The nomination was not prioritised for formal assessment, while scientific risk models and separate state/global categories still require careful interpretation.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0610. Does the 65-platypus capacity imply a rescue intake of 65?**
+
+**Best answer — answered:** No. It is an upper-bound emergency design capacity, not a historical intake count, current zoo population or total wild census.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0611. Can all 46 provisional guides be promoted just by adding the same list of generic citations?**
+
+**Best answer — unresolved acceptance:** No. Each guide needs species-specific, taxon-matched science, explicit dated Dubbo evidence, historic vs current distinction and a reproducible source review.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+
+**Q0612. Do the latest JSON and website count labels reconcile automatically?**
+
+**Best answer — unresolved engineering:** Not necessarily. Several status counters are manually authored in Markdown/HTML. Tests should compute guide statuses from structured data and detect stale copied numbers.
+
+**Evidence:** [`index.html`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/index.html) · [`data/all-time-animal-inventory.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/all-time-animal-inventory.json) · [`data/species-catalogue.json`](https://github.com/joshualparris/Dubbozoo/blob/5e08328fcdd639f6fd9cbcf872842dcd5efa08d1/data/species-catalogue.json).
+
+**Three further questions:**
+1. What first-party source document or machine-readable schema test would settle this for website and data QA?
+2. How might differing versions of taxonomy, zoo maps or conservation lists affect this answer?
+3. What reproducible check or documented acceptance criterion would prevent this uncertainty recurring?
+

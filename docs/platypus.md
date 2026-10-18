@@ -43,3 +43,11 @@ An animal surfacing for air and diving again is normal behaviour. A closed bill 
 5. What is the difference between **65-place disaster capacity** and animals currently housed?
 
 **Evidence limit:** no platypus photo, individual identity or date-specific sighting has been submitted to this journal. Add an observation only when supported by new primary material.
+
+## 2026 source reconciliation and extended research
+
+A comprehensive companion [platypus evidence review](platypus-2026-evidence-review.md) covers the 2026 federal non-prioritisation of a Vulnerable listing, the 1987/2006 NSW distribution studies, modelled future drought impacts, the 2026 Royal National Park conservation outcome, and NSW fishing-trap rules.
+
+**Two official opening announcements give different construction costs:** the [NSW Government's 14 February 2024 release](https://www.environment.nsw.gov.au/news/state-of-the-art-platypus-rescue-hq-opens-in-dubbo) says **$12.1 million**, while [Taronga's 15 February 2024 release](https://www.taronga.org.au/about/newsroom/posts/platypus-rescue-hq-opens) says **$12.5 million**. They may reflect different reporting scopes or rounding, but this has not been independently reconciled. Preserve each number alongside its source rather than treating either figure as unquestioned.
+
+**No platypus observation is registered** without a supplied first-hand sighting or photograph. The research and photos of other species remain separate.

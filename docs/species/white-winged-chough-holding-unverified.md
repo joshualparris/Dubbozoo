@@ -3,6 +3,11 @@
 **Number:** 59/61 · **Scientific taxon:** *Corcorax melanorhamphos* · **Conservation/context:** Least Concern generally, needs assessment check.  
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
+
+## Archival correction: behind-the-scenes Dubbo holding CONFIRMED
+
+[Taronga's first Regent Honeyeater breeding-season release](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) explicitly names **White-winged Choughs** in the **Taronga Western Plains Zoo flight aviary** with Regent Honeyeaters and Malleefowl. This is verified historical behind-the-scenes care, not proof the species was always accessible to the public. Stable filename still reflects the older evidence assessment.
+
 ## Scientific identification and adaptations
 
 Large black bird with curved bill, distinctive red eyes and hidden white wing panels visible in flight. Not a crow or a magpie; belongs to a different Australian bird lineage.

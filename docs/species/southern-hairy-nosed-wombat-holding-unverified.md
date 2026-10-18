@@ -46,3 +46,9 @@ A **combined Taronga Sydney/Dubbo annual report** mentioned a southern hairy-nos
 2. [Supporting dated record](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo)
 
 Follow up through Taronga species inventory/annual reports, NSW conservation programme documentation and species-specific IUCN assessments. **Unverified Dubbo holdings remain unverified even when the biological species profile is complete.**
+
+## IUCN reassessment checked: Least Concern, published 2025
+
+The [IUCN assessment published in 2025](https://doi.org/10.2305/IUCN.UK.2025-1.RLTS.T40555A258654451.en) (assessed **19 November 2024**) categorises *Lasiorhinus latifrons* **Least Concern (LC)**, replacing the **Near Threatened** category of 2016. This update takes into account strong populations in the Gawler Ranges and Western Australia despite declines in certain local populations. A global LC label does **not** mean all regions are secure or disease-free.
+
+**Correction:** The older opening claim that the species is 'Near Threatened often cited' is historic, not current IUCN status. Preserve dated sources and distinction from the *Critically Endangered* northern hairy-nosed wombat.

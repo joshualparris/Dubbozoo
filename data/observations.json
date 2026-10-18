@@ -126,6 +126,125 @@
           "url": "https://www.painteddog.org/who-we-are"
         }
       ]
+    },
+    {
+      "id": "dubbozoo-obs-0002",
+      "common_name": "Giraffe",
+      "scientific_name": "Giraffa sp.",
+      "taxon_rank": "genus",
+      "species_confirmed": false,
+      "taxon_explanation": "2025 IUCN recognises four species; exact zoo lineage not verified from photographic morphology",
+      "iucn_status": null,
+      "iucn_status_note": "Historic one-species Giraffa camelopardalis Vulnerable listing must not be assigned uncritically to an unidentified giraffe",
+      "iucn_status_assessment_year": null,
+      "subjects_visible_minimum": 6,
+      "subjects_visible_exact": null,
+      "subjects_visible_confidence": "medium",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-10-18",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW",
+      "venue_verified": false,
+      "visitor_map_reference_hypothesis": "14F (main-circuit giraffes); 6F (African Savannah) — exact photographed paddock not verified",
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "observable_behaviours": [
+        "standing",
+        "head orientation toward/away from camera",
+        "co-presence"
+      ],
+      "behaviour_interpretation_limits": "No proof of species, specific identities, age, sex, social hierarchy, calf status, feeding or cause of postures",
+      "photos": [
+        {
+          "original_filename": "image-1792293812729.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 599318,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "03b778779b3580ab76939abe135c2ca2f125f2e52ddb13493f9f1023a1ab6a24",
+          "exif_present": false,
+          "description": "Wide giraffe enclosure view; one large giraffe in foreground and others among trees, green grass, earth, fencing and timber-clad zoo building.",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "image-1792293820522.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 387198,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "cf62857142fd0747fd1d229125e75462591cd79471a84682e8c3292f6adc337c",
+          "exif_present": false,
+          "description": "Tighter near-front view of giraffe with ossicones and geometric coat, other giraffes and building in background.",
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "historical_zoo_numbers": [
+        {
+          "date": "2023-06-22",
+          "animals_at_zoo": 21,
+          "main_herd": 14,
+          "bachelor_group": 7,
+          "source": "https://www.taronga.org.au/about/newsroom/posts/world-giraffe-day-2023"
+        },
+        {
+          "date": "2025-04-07",
+          "animals_at_zoo": 25,
+          "calves_born_since_1990": 65,
+          "source": "https://www.taronga.org.au/about/newsroom/posts/keepers-raise-giraffe-calf-at-dubbo-zoo"
+        }
+      ],
+      "wild_population_estimate": {
+        "source": "Giraffe Conservation Foundation State of Giraffe 2025",
+        "year": 2025,
+        "count_all_species": 140701,
+        "count_reticulated": 20901,
+        "count_masai": 43926,
+        "count_northern": 7037,
+        "count_southern": 68837,
+        "metric": "estimated wild individuals, all ages, not mature individuals",
+        "url": "https://giraffeconservation.org/state-of-giraffe/"
+      },
+      "sources": [
+        {
+          "type": "taxonomy",
+          "url": "https://iucn.org/press-release/202508/four-giraffe-species-officially-recognised-major-conservation-reclassification",
+          "published": "2025-08-21"
+        },
+        {
+          "type": "wild_population_estimates",
+          "url": "https://giraffeconservation.org/state-of-giraffe/",
+          "report_year": 2025
+        },
+        {
+          "type": "historical_zoo_count",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/keepers-raise-giraffe-calf-at-dubbo-zoo",
+          "published": "2025-04-07"
+        },
+        {
+          "type": "historical_zoo_management",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/world-giraffe-day-2023",
+          "published": "2023-06-22"
+        },
+        {
+          "type": "visitor_information",
+          "url": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons"
+        },
+        {
+          "type": "visitor_information",
+          "url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah"
+        },
+        {
+          "type": "species_biology",
+          "url": "https://giraffeconservation.org/facts-about-giraffe/why-do-giraffe-have-spots/"
+        }
+      ]
     }
   ]
 }

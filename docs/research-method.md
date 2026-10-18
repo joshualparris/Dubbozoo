@@ -41,3 +41,11 @@ Old Taronga news pages contain potentially inconsistent combinations of website 
 - Per-visit observations; no guessing who was there.
 - Other species encountered during the zoo visit, each with its own IUCN assessment and sourced zoo notes.
 - A repeatable source-check script or manual checklist for changed IUCN/zoo facts.
+
+## Giraffe evidence rules (18 October 2026 update)
+
+- The IUCN Giraffe and Okapi Specialist Group recognised **four** species in 2025 ([official press release](https://iucn.org/press-release/202508/four-giraffe-species-officially-recognised-major-conservation-reclassification)). Do not apply the older single-species 2016 'Vulnerable' category automatically to each new species.
+- Even if a zoo giraffe resembles a reticulated giraffe, do not assign a precise species or 2018 reticulated Red List status without keeper-supported provenance.
+- GCF's 2025 figures are **wild individuals across age classes**, not zoo totals or IUCN mature-individual metrics ([GCF State of Giraffe](https://giraffeconservation.org/state-of-giraffe/)).
+- Taronga 2023 and April 2025 herd numbers are **historical news**, not verified 2026 inventory.
+- A photographed giraffe can be individually re-identified from unique coat patches only using a verified reference catalogue; neither name nor sex is determinable from these supplied shots.

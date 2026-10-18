@@ -31,3 +31,12 @@ Files should never be silently replaced by AI-generated animals or guessed locat
 - Publish only images authorised by their rights-holder.
 - Do not disclose the faces or identifying information of visitors without permission; the wide photograph includes a person.
 - Do not infer GPS, sex, current pack membership, or health from the photographs.
+
+## Giraffe photos added to the inventory (18 October 2026)
+
+| Submitted filename | Bytes | Dimensions | SHA-256 |
+| --- | ---: | --- | --- |
+| `image-1792293812729.jpg` | 599,318 | 1152 × 1536 | `03b778779b3580ab76939abe135c2ca2f125f2e52ddb13493f9f1023a1ab6a24` |
+| `image-1792293820522.jpg` | 387,198 | 1152 × 1536 | `cf62857142fd0747fd1d229125e75462591cd79471a84682e8c3292f6adc337c` |
+
+Neither JPEG has retained EXIF. The new images are **catalogued, not published as binaries**; an uploaded GitHub asset must be verified before switching `committed_binary` to true. No people are apparent in these two photographs, but authorship and reuse terms are not documented. See [giraffe observations](../observations/giraffes-undated.md).

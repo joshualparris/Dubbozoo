@@ -37,3 +37,7 @@ Observe from designated public areas, noting the actual date/time, site map grid
 2. [Supporting dated record](https://www.taronga.org.au/dubbo-zoo/map)
 
 General zoo map: [Taronga Western Plains Zoo](https://www.taronga.org.au/dubbo-zoo/map). Scientific evidence and IUCN listing require periodic reassessment. **Unknown:** exact current animals, photo identification and any unreported husbandry, health or breeding outcomes.
+
+## Primary IUCN assessment: Barbary sheep
+
+[Aoudad / Barbary sheep (*Ammotragus lervia*) IUCN 2022 amended assessment](https://doi.org/10.2305/IUCN.UK.2022-1.RLTS.T1151A214430287.en) lists the species **Vulnerable (VU), decreasing**, assessment 26 August 2020, publication 2022, with **5,000–10,000 mature wild individuals** estimated at assessment time. The figure covers the species' native populations and is **not a Taronga Zoo headcount or a 2026 population survey**. Habitat and livestock pressure are among the assessed threats. Exact Dubbo animal parentage is not established by the species assessment.

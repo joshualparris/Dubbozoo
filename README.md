@@ -6,7 +6,8 @@ A personal, evidence-led guide to animals observed at **Taronga Western Plains Z
 
 ## Start here
 
-- **[Platypus — complete Dubbo rescue HQ and Australian conservation research](docs/platypus.md)**
+- **[Platypus — species and Dubbo Rescue HQ guide](docs/platypus.md)**
+- **[Full platypus 2026 evidence audit: status, ecology, local and national research](docs/platypus-2026-evidence-review.md)**
 - **[Machine-readable platypus research entry (no invented photo)](data/platypus.json)**
 
 - **[Siamang research: ecology, Dubbo pair, conservation and photo evidence](docs/siamang.md)**

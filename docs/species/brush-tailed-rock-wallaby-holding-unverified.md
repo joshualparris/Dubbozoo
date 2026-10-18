@@ -3,6 +3,11 @@
 **Dubbozoo inventory #37 · Taxon:** *Petrogale penicillata* · **Conservation:** Vulnerable under Australian national assessment; IUCN rank/date check.  
 **Sources reviewed:** 18 October 2026. **Observations:** no supplied photo directly documents this species.
 
+
+## Archival correction: Dubbo holding CONFIRMED
+
+The [Taronga 2010–11 annual report, Appendix 4](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) expressly records **one male Brush-tailed Rock-wallaby transferred *to Taronga Western Plains Zoo, NSW***. This is a direct institution-specific accession movement and is **stronger than the prior ambiguous whole-of-Taronga conservation entry**. It establishes historical Dubbo receipt (not current display or the duration it was held). The original file name retains 'holding-unverified' for stable links, but the historical Dubbo presence is now confirmed.
+
 ## Physical identification and life history
 
 Small-to-medium macropod with a black-tipped bushy tail, facial cheek stripe, grey-brown coat and gripping feet for cliff environments. The tail aids balance but is not used to hang from branches.

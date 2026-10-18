@@ -44,6 +44,11 @@ Newly researched Taronga Dubbo species (research-only; **not personal sightings*
 - [**Species coverage audit**](docs/coverage-audit.md) — 13 guides and 27 map-listed labels still pending verification and deeper research.
 - [Machine-readable guide catalogue](data/species-catalogue.json) — links, conservation cautions and evidence classification.
 
+
+## All-time animal checklist (1977–2026)
+
+**[Open the 61-entry numbered historical checklist](docs/all-time-animal-inventory.md)**. Research status: **13 deeply researched; 48 still pending**, including **12 entries requiring primary-source verification**. Covers current zoo maps, historical publications and behind-the-scenes conservation holdings; not a certified list of every species ever kept. [Machine-readable inventory](data/all-time-animal-inventory.json).
+
 ## What we know
 
 The first set of **five photographs** shows **two African wild dogs** walking, standing and looking toward the camera in a grassy, wooded enclosure. The location is consistent with the African wild dog exhibit at Taronga Western Plains Zoo, but the uploaded images contain **no EXIF date or GPS**, so neither the day photographed nor the individuals' names can be independently verified.

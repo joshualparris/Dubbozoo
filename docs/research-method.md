@@ -77,3 +77,7 @@ Old Taronga news pages contain potentially inconsistent combinations of website 
 - **Asian elephant**: five real photo records; signs about Gung don't confirm the elephant's identity. The [IUCN assessment](https://doi.org/10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en) is EN (2020 publication; 2019 assessment).
 - **Meerkat**: a single mostly rear/side shot behind glass; mark as probable and **medium** species-identification confidence rather than a confident sex, age or zoo mob membership. Smithsonian lists LC: [source](https://nationalzoo.si.edu/animals/meerkat).
 - Preserve [historical zoo list](../data/all-time-animal-inventory.json) as a collection of past and present documented species, not an on-site census. The increase in deep guides does not imply additional animals present today.
+
+## AI-assisted deep research adoption
+
+For AI literature synthesis, source-verification status and safe publication criteria, see the [Dubbozoo AI research evidence adoption standard](AI-RESEARCH-EVIDENCE-ADOPTION-2026-10-18.md). A generated answer or citation is a candidate until a precise primary source has been read and matched; the 622-question atlas is a **research backlog**, not a set of 622 independently verified conclusions.

@@ -67,6 +67,10 @@ Taronga Western Plains Zoo opened **Platypus Rescue HQ in February 2024**. It ha
 
 Four photographs of a **Galápagos giant tortoise**, five of **Asian elephants**, and one **probable meerkat** are catalogued with exact-copy SHA-256, dimensions, image notes and privacy restrictions. [Tortoise photos](observations/galapagos-tortoise-undated.md) · [Elephant photos](observations/asian-elephants-undated.md) · [Meerkat photo](observations/meerkat-undated.md). Zoo documentation, including historic Gung signage, does not establish individual animal identity. The source JPEG binaries are **not** published because visitors and children appear in them and photo rights have not been verified.
 
+## Evidence-first AI research
+
+- [AI deep research verification and question-resolution methodology](docs/AI-RESEARCH-EVIDENCE-ADOPTION-2026-10-18.md) — a practical method for validating the question atlas and refusing unsupported answers. This is a process specification, not proof that all claims were reviewed.
+
 ## Evidence standard
 
 - **Verified source:** an attributed and dated published zoo or scientific source.

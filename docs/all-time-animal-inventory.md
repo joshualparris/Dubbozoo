@@ -1,139 +1,166 @@
-# Taronga Western Plains Zoo — 76-entry historical animal research catalogue
+# Taronga Western Plains Zoo: historical animal research inventory (89 entries)
 
-**Reviewed:** 18 October 2026 · **76 research profiles linked** · **3 formal Dubbo holding claims unverified** · **5 exact taxonomic lineages unresolved** · **2 2009 aviary species with photographic visitor evidence but no recovered accession record**.
+**Reviewed:** 18 October 2026 · **89 research guides** · **2 newly documented formal sanctuary/recovery holdings** · **3 earlier holdings still unresolved** · **11 newly identified candidates requiring original zoo accession records** · **6 unresolved exact taxa/lineages**.
 
-> This is **not a certified total of all animal species ever kept in Dubbo since 1977**. It is a numbered research catalogue built from historical Taronga/government publications, zoos' keeper manuals and visitor evidence. It separates a zoo-owned collection animal, conservation breeder, veterinary patient, species photographed on-site, and wild visitor. Even a confirmed historic holding doesn't prove 2026 presence.
+> This is a **working, evidence-graded historical bibliography**, **not** proof that the zoo has ever held exactly 89 separate biological species. It mixes zoo-held conservation animals, verified old public exhibits, temporary rehabilitation, historic visitor recollections and species photographed on zoo property. Not all were on public display, owned, kept simultaneously or alive today.
 
-**✅** Species guide exists. **⚠️** Dubbo managed holding unverified. **△** precise scientific identification or lineage unresolved. Current IUCN status, year and assessment authority are tracked **separately** in the [conservation evidence audit](iucn-assessment-audit-2026-10-18.md).
+✅ indicates a **guide exists**; ⚠️ indicates **formal accession is unverified**. △ means exact species/subspecies lineage unresolved. Look at evidence links before treating a listed name as officially held.
 
-## Africa (23)
+[1995–99 historic visitor diary and photo investigation](historical-leads-1995-1999-2026-10-18.md) · [Conservation source-grade audit](iucn-assessment-audit-2026-10-18.md) · [Data JSON](../data/all-time-animal-inventory.json)
 
-| # | Animal and research guide | Research | Evidence about Dubbo |
+## Africa (24)
+
+| # | Animal research guide | Research | Historic Dubbo evidence status |
 |---:|---|:---:|---|
-| 1 | [Addax](../docs/species/addax.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 2 | [African savanna elephant (historical; Cuddles/Yum Yum documented)](../docs/species/african-elephant-historical.md) | ✅ | [Historical zoo/conservation record](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage) |
-| 3 | [African lion](../docs/african-lion.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 4 | [African wild dog](../docs/african-wild-dog.md) | ✅ | [Historical zoo/conservation record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) |
-| 5 | [Barbary sheep (aoudad)](../docs/species/barbary-sheep.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole) |
-| 6 | [Black-and-white ruffed lemur](../docs/species/black-and-white-ruffed-lemur.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 7 | [Black rhinoceros](../docs/black-rhinoceros.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 8 | [Cheetah](../docs/cheetah.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 9 | [Common eland](../docs/species/common-eland.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah) |
-| 10 | [Common hippopotamus](../docs/common-hippopotamus.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 11 | [Dromedary (Arabian) camel](../docs/species/camel-taxon-unverified.md) | ✅ | [Taronga keeper species account](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day) |
-| 12 | [Eastern bongo](../docs/species/eastern-bongo.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo) |
-| 13 | [Giraffe (Giraffa, exact zoo taxon unverified)](../docs/giraffe.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 14 | [Helmeted guineafowl (map says 'Guineafowl')](../docs/species/guineafowl-taxon-unverified.md) △ | ✅ | [Zoo map/documentation](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) |
-| 15 | [Meerkat](../docs/meerkat.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole) |
-| 16 | [Ostrich](../docs/species/ostrich.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 17 | [Plains zebra](../docs/plains-zebra.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 18 | [Ring-tailed lemur](../docs/species/ring-tailed-lemur.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 19 | [Scimitar-horned oryx (map says 'Oryx')](../docs/species/scimitar-horned-oryx.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf) |
-| 20 | [White rhinoceros](../docs/white-rhinoceros.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 62 | [Waterbuck](../docs/species/waterbuck.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/sharing-genetics) |
-| 63 | [Sitatunga](../docs/species/sitatunga.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/khewzi-moves-to-african-savannah-exhibit) |
-| 64 | [African forest buffalo (historical)](../docs/species/african-forest-buffalo.md) △ | ✅ | [Historical first-party record](https://taronga.org.au/media/media-release/2018-07-11/mana-hippo-moves-new-home) |
+| 1 | [Addax](../docs/species/addax.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 2 | [African savanna elephant (historical; Cuddles/Yum Yum documented)](../docs/species/african-elephant-historical.md) | ✅ | [Taronga/government/historic research source](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage) |
+| 3 | [African lion](../docs/african-lion.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 4 | [African wild dog](../docs/african-wild-dog.md) | ✅ | [Taronga/government/historic research source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) |
+| 5 | [Barbary sheep (aoudad)](../docs/species/barbary-sheep.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole) |
+| 6 | [Black-and-white ruffed lemur](../docs/species/black-and-white-ruffed-lemur.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 7 | [Black rhinoceros](../docs/black-rhinoceros.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 8 | [Cheetah](../docs/cheetah.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 9 | [Common eland](../docs/species/common-eland.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/african-savannah) |
+| 10 | [Common hippopotamus](../docs/common-hippopotamus.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 11 | [Dromedary (Arabian) camel](../docs/species/camel-taxon-unverified.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/happy-world-camel-day) |
+| 12 | [Eastern bongo](../docs/species/eastern-bongo.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo) |
+| 13 | [Giraffe (Giraffa, exact zoo taxon unverified)](../docs/giraffe.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 14 | [Helmeted guineafowl (map says 'Guineafowl')](../docs/species/guineafowl-taxon-unverified.md) △ | ✅ | [Taronga/government/historic research source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) |
+| 15 | [Meerkat](../docs/meerkat.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole) |
+| 16 | [Ostrich](../docs/species/ostrich.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 17 | [Plains zebra](../docs/plains-zebra.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 18 | [Ring-tailed lemur](../docs/species/ring-tailed-lemur.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 19 | [Scimitar-horned oryx (map says 'Oryx')](../docs/species/scimitar-horned-oryx.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf) |
+| 20 | [White rhinoceros](../docs/white-rhinoceros.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 62 | [Waterbuck](../docs/species/waterbuck.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/sharing-genetics) |
+| 63 | [Sitatunga](../docs/species/sitatunga.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/khewzi-moves-to-african-savannah-exhibit) |
+| 64 | [African forest buffalo (historical)](../docs/species/african-forest-buffalo.md) △ | ✅ | [Taronga/government/historic research source](https://taronga.org.au/media/media-release/2018-07-11/mana-hippo-moves-new-home) |
+| 89 | [Leopard tortoise (Waterhole planned 2020)](../docs/species/leopard-tortoise-waterhole.md) | ✅ | [⚠ Taronga planned habitat; arrival unverified](https://www.taronga.org.au/about/newsroom/posts/world-meerkat-day) |
 
-## Americas (9)
+## Americas (11)
 
-| # | Animal and research guide | Research | Evidence about Dubbo |
+| # | Animal research guide | Research | Historic Dubbo evidence status |
 |---:|---|:---:|---|
-| 21 | [American bison](../docs/species/american-bison-historical.md) | ✅ | [Historical zoo/conservation record](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf) |
-| 22 | [Black-handed spider monkey](../docs/species/black-handed-spider-monkey.md) | ✅ | [Zoo map/documentation](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf) |
-| 23 | [Galápagos tortoise](../docs/galapagos-giant-tortoise.md) △ | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 67 | [Maned wolf (historical)](../docs/species/maned-wolf-historical.md) | ✅ | [Historical first-party record](https://www.parliament.nsw.gov.au/tp/files/29171/tcsa_annual_report_2009.pdf) |
-| 68 | [Brazilian tapir (historical)](../docs/species/brazilian-tapir-historical.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
-| 69 | [Guanaco (historical)](../docs/species/guanaco-historical.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
-| 70 | [Greater rhea (historical)](../docs/species/greater-rhea-historical.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
-| 71 | [Patagonian mara / cavy (historical)](../docs/species/patagonian-mara-historical.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
-| 72 | [Wapiti / elk (historical)](../docs/species/wapiti-historical.md) | ✅ | [Historical first-party record](https://www.taronga.org.au/about/newsroom/posts/wapiti-calf-an-early-christmas-present-for-the-zoo/) |
+| 21 | [American bison](../docs/species/american-bison-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/zoo-welcomes-a-female-bison-calf) |
+| 22 | [Black-handed spider monkey](../docs/species/black-handed-spider-monkey.md) | ✅ | [Taronga/government/historic research source](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Conservation_Society_Australia_Annual_Review_2018_2019.pdf) |
+| 23 | [Galápagos tortoise](../docs/galapagos-giant-tortoise.md) △ | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 67 | [Maned wolf (historical)](../docs/species/maned-wolf-historical.md) | ✅ | [Taronga/government/historic research source](https://www.parliament.nsw.gov.au/tp/files/29171/tcsa_annual_report_2009.pdf) |
+| 68 | [Brazilian tapir (historical)](../docs/species/brazilian-tapir-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
+| 69 | [Guanaco (historical)](../docs/species/guanaco-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
+| 70 | [Greater rhea (historical)](../docs/species/greater-rhea-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
+| 71 | [Patagonian mara / cavy (historical)](../docs/species/patagonian-mara-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/celebrating-world-tapir-day/) |
+| 72 | [Wapiti / elk (historical)](../docs/species/wapiti-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/wapiti-calf-an-early-christmas-present-for-the-zoo/) |
+| 79 | [Collared peccary](../docs/species/collared-peccary-1990s.md) | ✅ | [⚠ Historic visitor photo; no accession](https://www.zoochat.com/community/media/collared-peccary-1999.893351/) |
+| 83 | [Capybara (historic 1995 report)](../docs/species/capybara-1990s-dubbo.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) |
 
-## Asia (13)
+## Asia (16)
 
-| # | Animal and research guide | Research | Evidence about Dubbo |
+| # | Animal research guide | Research | Historic Dubbo evidence status |
 |---:|---|:---:|---|
-| 24 | [Asian elephant (including historic Sri Lankan-origin animals)](../docs/asian-elephant.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 25 | [Asian small-clawed otter](../docs/species/asian-small-clawed-otter.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) |
-| 26 | [Asian water buffalo](../docs/species/asian-water-buffalo.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo) |
-| 27 | [Banteng](../docs/species/banteng.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 28 | [Blackbuck](../docs/species/blackbuck.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 29 | [Greater one-horned rhinoceros](../docs/greater-one-horned-rhinoceros.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 30 | [Indian peafowl](../docs/species/indian-peafowl-holding-unverified.md) | ✅ | [⚠️ Dubbo-managed holding unverified](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo) |
-| 31 | [Persian onager](../docs/species/persian-onager-historical.md) | ✅ | [Historical zoo/conservation record](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo) |
-| 32 | [Siamang](../docs/siamang.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) |
-| 33 | [Sumatran tiger](../docs/sumatran-tiger.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) |
-| 34 | [Takhi (Przewalski's horse)](../docs/species/takhi-przewalskis-horse.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds) |
-| 35 | [White-handed gibbon](../docs/species/white-handed-gibbon-historical.md) | ✅ | [Historical zoo/conservation record](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) |
-| 65 | [Tiger historically labelled Bengal](../docs/species/bengal-tiger-historical.md) △ | ✅ | [Historical parliamentary testimony](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) |
+| 24 | [Asian elephant (including historic Sri Lankan-origin animals)](../docs/asian-elephant.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 25 | [Asian small-clawed otter](../docs/species/asian-small-clawed-otter.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) |
+| 26 | [Asian water buffalo](../docs/species/asian-water-buffalo.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/wildlife-and-conservation/animals/dubbo) |
+| 27 | [Banteng](../docs/species/banteng.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 28 | [Blackbuck](../docs/species/blackbuck.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 29 | [Greater one-horned rhinoceros](../docs/greater-one-horned-rhinoceros.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 30 | [Indian peafowl](../docs/species/indian-peafowl-holding-unverified.md) | ✅ | [⚠ Formal zoo holding not verified](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo) |
+| 31 | [Persian onager](../docs/species/persian-onager-historical.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/baby-boom-for-western-plains-zoo) |
+| 32 | [Siamang](../docs/siamang.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) |
+| 33 | [Sumatran tiger](../docs/sumatran-tiger.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) |
+| 34 | [Takhi (Przewalski's horse)](../docs/species/takhi-przewalskis-horse.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds) |
+| 35 | [White-handed gibbon](../docs/species/white-handed-gibbon-historical.md) | ✅ | [Taronga/government/historic research source](https://taronga.org.au/sites/default/files/2024-03/24-039%20TWPZ%20Map%20ED17v04_EASTERAUTUMNSH_FA_OTL_MAP%20ONLY.pdf) |
+| 65 | [Tiger historically labelled Bengal](../docs/species/bengal-tiger-historical.md) △ | ✅ | [Taronga/government/historic research source](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) |
+| 80 | [Nilgai](../docs/species/nilgai-historical.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) |
+| 81 | [Sambar deer](../docs/species/sambar-deer-historical.md) | ✅ | [⚠ Historic visitor photo; no accession](https://www.zoochat.com/community/media/categories/taronga-western-plains-zoo.504/) |
+| 82 | [Chital / spotted deer](../docs/species/chital-deer-historical.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/twpz-updates.94704/page-5) |
 
-## Australia (29)
+## Australia (35)
 
-| # | Animal and research guide | Research | Evidence about Dubbo |
+| # | Animal research guide | Research | Historic Dubbo evidence status |
 |---:|---|:---:|---|
-| 36 | [Australian zebra finch](../docs/species/australian-zebra-finch.md) | ✅ | [Historic zoo aviary](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
-| 37 | [Brush-tailed rock-wallaby](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md) | ✅ | [Transfer to Dubbo documented](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) |
-| 38 | [Eastern whipbird](../docs/species/eastern-whipbird.md) | ✅ | [Historic zoo aviary](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
-| 39 | [Emu](../docs/species/emu.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
-| 40 | [Greater bilby](../docs/species/greater-bilby.md) | ✅ | [Historical zoo/conservation record](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary) |
-| 41 | [Koala](../docs/species/koala.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
-| 42 | [Little lorikeet](../docs/species/little-lorikeet.md) | ✅ | [Historic zoo aviary](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
-| 43 | [Malleefowl](../docs/species/malleefowl-holding-unverified.md) | ✅ | [Historical conservation aviary](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) |
-| 44 | [Plains-wanderer](../docs/species/plains-wanderer.md) | ✅ | [Historical zoo/conservation record](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo) |
-| 45 | [Platypus](../docs/platypus.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 46 | [Quokka](../docs/species/quokka.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
-| 47 | [Red kangaroo](../docs/species/red-kangaroo-holding-unverified.md) | ✅ | [Hospital rehabilitation only](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays) |
-| 48 | [Red-necked wallaby (precise displayed wallaby species unverified)](../docs/species/red-necked-wallaby-taxon-unverified.md) | ✅ | [Historical zoo exhibit/breeding](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds) |
-| 49 | [Regent honeyeater](../docs/species/regent-honeyeater.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf) |
-| 50 | [Scaly-breasted lorikeet](../docs/species/scaly-breasted-lorikeet.md) | ✅ | [Historic zoo aviary](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
-| 51 | [Short-beaked echidna](../docs/species/short-beaked-echidna.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
-| 52 | [Smooth yabby](../docs/species/smooth-yabby-holding-unverified.md) | ✅ | [⚠️ Dubbo-managed holding unverified](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo) |
-| 53 | [Southern hairy-nosed wombat](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md) | ✅ | [Specialist husbandry history](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf) |
-| 54 | [Southern purple-spotted gudgeon](../docs/species/southern-purple-spotted-gudgeon.md) | ✅ | [NSW Fisheries rescue programme](https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon) |
-| 55 | [Swamp wallaby (precise displayed wallaby species unverified)](../docs/species/swamp-wallaby-taxon-unverified.md) | ✅ | [Historical zoo exhibit/breeding](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough) |
-| 56 | [Tasmanian devil](../docs/species/tasmanian-devil.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
-| 57 | [Western quoll (chuditch)](../docs/species/western-quoll-chuditch.md) | ✅ | [Historical zoo/conservation record](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement) |
-| 58 | [White-browed woodswallow](../docs/species/white-browed-woodswallow-holding-unverified.md) | ✅ | [⚠️ Dubbo-managed holding unverified](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) |
-| 59 | [White-winged chough](../docs/species/white-winged-chough-holding-unverified.md) | ✅ | [Historical conservation aviary](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) |
-| 66 | [Dingo (historical)](../docs/species/dingo-historical.md) △ | ✅ | [Historical parliamentary testimony](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) |
-| 73 | [Northern hairy-nosed wombat (historical 1996–97)](../docs/species/northern-hairy-nosed-wombat-historical.md) | ✅ | [Government archival record](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf) |
-| 74 | [Common (bare-nosed) wombat (historical)](../docs/species/common-wombat-historical.md) | ✅ | [Specialist husbandry history](https://aszk.org.au/wp-content/uploads/2020/05/Wombat-Husbandry.pdf) |
-| 75 | [Superb parrot (historical visitor aviary)](../docs/species/superb-parrot-historical.md) | ✅ | [Dated visitor aviary evidence](https://commons.wikimedia.org/wiki/File:Polytelis_swainsonii_-Taronga_Western_Plains_Zoo,_near_Dubbo,_New_South_Wales,_Australia-8a.jpg) |
-| 76 | [Diamond firetail (historical visitor aviary)](../docs/species/diamond-firetail-historical.md) | ✅ | [Dated visitor aviary evidence](https://www.australiasomuchtosee.com/2009dubbozoo2.htm) |
+| 36 | [Australian zebra finch](../docs/species/australian-zebra-finch.md) | ✅ | [Dated Taronga display record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
+| 37 | [Brush-tailed rock-wallaby](../docs/species/brush-tailed-rock-wallaby-holding-unverified.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) |
+| 38 | [Eastern whipbird](../docs/species/eastern-whipbird.md) | ✅ | [Dated Taronga display record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
+| 39 | [Emu](../docs/species/emu.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
+| 40 | [Greater bilby](../docs/species/greater-bilby.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/bilbies-breeding-in-taronga-sanctuary) |
+| 41 | [Koala](../docs/species/koala.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
+| 42 | [Little lorikeet](../docs/species/little-lorikeet.md) | ✅ | [Dated Taronga display record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
+| 43 | [Malleefowl](../docs/species/malleefowl-holding-unverified.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) |
+| 44 | [Plains-wanderer](../docs/species/plains-wanderer.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/plains-wanderer-finds-new-home-at-dubbo-zoo) |
+| 45 | [Platypus](../docs/platypus.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 46 | [Quokka](../docs/species/quokka.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
+| 47 | [Red kangaroo](../docs/species/red-kangaroo-holding-unverified.md) | ✅ | [Wildlife hospital patient only](https://www.taronga.org.au/about/newsroom/posts/watch-out-for-wildlife-these-school-holidays) |
+| 48 | [Red-necked wallaby (precise displayed wallaby species unverified)](../docs/species/red-necked-wallaby-taxon-unverified.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/new-joey-growing-in-leaps-and-bounds) |
+| 49 | [Regent honeyeater](../docs/species/regent-honeyeater.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/siteassets/about/polices--publications/annual-reports/Taronga_AnnualReport_2024_25.pdf) |
+| 50 | [Scaly-breasted lorikeet](../docs/species/scaly-breasted-lorikeet.md) | ✅ | [Dated Taronga display record](https://www.taronga.org.au/about/newsroom/posts/rare-bird-now-on-display) |
+| 51 | [Short-beaked echidna](../docs/species/short-beaked-echidna.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
+| 52 | [Smooth yabby](../docs/species/smooth-yabby-holding-unverified.md) | ✅ | [⚠ Formal zoo holding not verified](https://en.wikipedia.org/wiki/Taronga_Western_Plains_Zoo) |
+| 53 | [Southern hairy-nosed wombat](../docs/species/southern-hairy-nosed-wombat-holding-unverified.md) | ✅ | [Keeper husbandry source](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf) |
+| 54 | [Southern purple-spotted gudgeon](../docs/species/southern-purple-spotted-gudgeon.md) | ✅ | [NSW species recovery record](https://www.dpird.nsw.gov.au/fishing/species-protection/current-threatened-species-projects/current-projects-on-southern-purple-spotted-gudgeon) |
+| 55 | [Swamp wallaby (precise displayed wallaby species unverified)](../docs/species/swamp-wallaby-taxon-unverified.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/posts/joeys-in-the-aussie-walkthrough) |
+| 56 | [Tasmanian devil](../docs/species/tasmanian-devil.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/australia) |
+| 57 | [Western quoll (chuditch)](../docs/species/western-quoll-chuditch.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/chuditch-program-commencement) |
+| 58 | [White-browed woodswallow](../docs/species/white-browed-woodswallow-holding-unverified.md) | ✅ | [⚠ Formal zoo holding not verified](https://www.taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2010-11.pdf) |
+| 59 | [White-winged chough](../docs/species/white-winged-chough-holding-unverified.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/about/newsroom/media-releases/first-breeding-season-for-rare-bird-a-success) |
+| 66 | [Dingo (historical)](../docs/species/dingo-historical.md) △ | ✅ | [Taronga/government/historic research source](https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-62557&section=HANSARD-1323879322-92247) |
+| 73 | [Northern hairy-nosed wombat (historical 1996–97)](../docs/species/northern-hairy-nosed-wombat-historical.md) | ✅ | [Government archival confirmation](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf) |
+| 74 | [Common (bare-nosed) wombat (historical)](../docs/species/common-wombat-historical.md) | ✅ | [Keeper husbandry source](https://aszk.org.au/wp-content/uploads/2020/05/Wombat-Husbandry.pdf) |
+| 75 | [Superb parrot (historical visitor aviary)](../docs/species/superb-parrot-historical.md) | ✅ | [Photographic aviary lead, not accession](https://commons.wikimedia.org/wiki/File:Polytelis_swainsonii_-Taronga_Western_Plains_Zoo,_near_Dubbo,_New_South_Wales,_Australia-8a.jpg) |
+| 76 | [Diamond firetail (historical visitor aviary)](../docs/species/diamond-firetail-historical.md) | ✅ | [Photographic aviary lead, not accession](https://www.australiasomuchtosee.com/2009dubbozoo2.htm) |
+| 77 | [Bridled nailtail wallaby](../docs/species/bridled-nailtail-wallaby-archival.md) | ✅ | [**NSW parliament verified** sanctuary](https://www.parliament.nsw.gov.au/hp/housepaper/15185/Questions%20and%20Answers%20No.%2042%20Wednesday%2030%20October%201996.pdf) |
+| 78 | [Mala (rufous hare-wallaby)](../docs/species/mala-rufous-hare-wallaby-archival.md) | ✅ | [**Federal plan verified** historical programme](https://www.agriculture.gov.au/sites/default/files/documents/rufous-hare-wallaby.pdf) |
+| 84 | [Western grey kangaroo (historical)](../docs/species/western-grey-kangaroo-historical.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) |
+| 85 | [Whiptail wallaby](../docs/species/whiptail-wallaby-historical.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) |
+| 86 | [Yellow-footed rock-wallaby](../docs/species/yellow-footed-rock-wallaby-historical.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/twpz-updates.94704/page-5) |
+| 87 | [Eastern wallaroo (historic visitor label)](../docs/species/eastern-wallaroo-historical.md) △ | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) |
 
-## Europe and domesticated (2)
+## Europe and domesticated (3)
 
-| # | Animal and research guide | Research | Evidence about Dubbo |
+| # | Animal research guide | Research | Historic Dubbo evidence status |
 |---:|---|:---:|---|
-| 60 | [Domestic pygmy goat](../docs/species/domestic-pygmy-goat.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/map) |
-| 61 | [European fallow deer](../docs/species/european-fallow-deer.md) | ✅ | [Zoo map/documentation](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds) |
+| 60 | [Domestic pygmy goat](../docs/species/domestic-pygmy-goat.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/map) |
+| 61 | [European fallow deer](../docs/species/european-fallow-deer.md) | ✅ | [Taronga/government/historic research source](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-herds) |
+| 88 | [Domestic guinea pig](../docs/species/domestic-guinea-pig-historical.md) | ✅ | [⚠ Historic visitor observation; no accession](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-1995-visit.497022/) |
 
-## Remaining evidence gaps
+## Unresolved evidence register
 
-### Three formal holdings not yet proven
+### 14 cases without sufficient formal accession proof
 
-- [ ] #30 **Indian peafowl** — [guide](../docs/species/indian-peafowl-holding-unverified.md). 2026 visitor describes free-roaming peafowl, but no formal zoo accession is shown.
-- [ ] #52 **Smooth yabby** — [guide](../docs/species/smooth-yabby-holding-unverified.md). 2025 enthusiast list claims smooth yabby, but zoo source and aquarium exhibit remain unverified.
-- [ ] #58 **White-browed woodswallow** — [guide](../docs/species/white-browed-woodswallow-holding-unverified.md). April 2006 dated zoo photograph proves location, **not** that the bird was held captive.
+- [ ] #30 [Indian peafowl](../docs/species/indian-peafowl-holding-unverified.md) — ⚠ Formal zoo holding not verified.
+- [ ] #52 [Smooth yabby](../docs/species/smooth-yabby-holding-unverified.md) — ⚠ Formal zoo holding not verified.
+- [ ] #58 [White-browed woodswallow](../docs/species/white-browed-woodswallow-holding-unverified.md) — ⚠ Formal zoo holding not verified.
+- [ ] #79 [Collared peccary](../docs/species/collared-peccary-1990s.md) — ⚠ Historic visitor photo; no accession.
+- [ ] #80 [Nilgai](../docs/species/nilgai-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #81 [Sambar deer](../docs/species/sambar-deer-historical.md) — ⚠ Historic visitor photo; no accession.
+- [ ] #82 [Chital / spotted deer](../docs/species/chital-deer-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #83 [Capybara (historic 1995 report)](../docs/species/capybara-1990s-dubbo.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #84 [Western grey kangaroo (historical)](../docs/species/western-grey-kangaroo-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #85 [Whiptail wallaby](../docs/species/whiptail-wallaby-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #86 [Yellow-footed rock-wallaby](../docs/species/yellow-footed-rock-wallaby-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #87 [Eastern wallaroo (historic visitor label)](../docs/species/eastern-wallaroo-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #88 [Domestic guinea pig](../docs/species/domestic-guinea-pig-historical.md) — ⚠ Historic visitor observation; no accession.
+- [ ] #89 [Leopard tortoise (Waterhole planned 2020)](../docs/species/leopard-tortoise-waterhole.md) — ⚠ Taronga planned habitat; arrival unverified.
 
-### Five historical taxonomic or lineage gaps
+### 6 taxonomic / captive-lineage questions
 
-- [ ] #14 **Helmeted guineafowl (map says 'Guineafowl')** — [guide](../docs/species/guineafowl-taxon-unverified.md). Full modern scientific identification or animal lineage needs specialist original records.
-- [ ] #23 **Galápagos tortoise** — [guide](../docs/galapagos-giant-tortoise.md). Full modern scientific identification or animal lineage needs specialist original records.
-- [ ] #64 **African forest buffalo (historical)** — [guide](../docs/species/african-forest-buffalo.md). Full modern scientific identification or animal lineage needs specialist original records.
-- [ ] #65 **Tiger historically labelled Bengal** — [guide](../docs/species/bengal-tiger-historical.md). Full modern scientific identification or animal lineage needs specialist original records.
-- [ ] #66 **Dingo (historical)** — [guide](../docs/species/dingo-historical.md). Full modern scientific identification or animal lineage needs specialist original records.
+- [ ] #14 [Helmeted guineafowl (map says 'Guineafowl')](../docs/species/guineafowl-taxon-unverified.md) — obtain original sign or animal register before assigning fine-grained taxon.
+- [ ] #23 [Galápagos tortoise](../docs/galapagos-giant-tortoise.md) — obtain original sign or animal register before assigning fine-grained taxon.
+- [ ] #64 [African forest buffalo (historical)](../docs/species/african-forest-buffalo.md) — obtain original sign or animal register before assigning fine-grained taxon.
+- [ ] #65 [Tiger historically labelled Bengal](../docs/species/bengal-tiger-historical.md) — obtain original sign or animal register before assigning fine-grained taxon.
+- [ ] #66 [Dingo (historical)](../docs/species/dingo-historical.md) — obtain original sign or animal register before assigning fine-grained taxon.
+- [ ] #87 [Eastern wallaroo (historic visitor label)](../docs/species/eastern-wallaroo-historical.md) — obtain original sign or animal register before assigning fine-grained taxon.
 
-### Important archival changes (October 2026)
+### Deliberately **not** added as separate species
 
-- **Northern hairy-nosed wombat (#73):** 1996–97 Dubbo conservation project and an actual animal established from [Queensland parliamentary answers](https://documents.parliament.qld.gov.au/TableOffice/questionsAnswers/2003-1995/Answers1997.pdf); no Northern wombats held there by February 1997.
-- **Common wombat (#74) and southern hairy-nosed wombat (#53):** both appear in historic Dubbo holdings/husbandry evidence: [AZK husbandry manual](https://aszk.org.au/wp-content/uploads/2020/05/Wombat-Husbandry.pdf), [southern wombat manual](https://aszk.org.au/wp-content/uploads/2020/05/SHW.pdf). A 1997 report says the proposed southern colony was not established **by September 1997**, not never established.
-- **African savanna elephant (#2):** an [Australian tribunal](https://www.animallaw.info/case/international-fund-animal-welfare-australia-pty-ltd-and-minister-environment-and-heritage) named *Loxodonta africana* for Dubbo's historical African elephants; forest elephants are distinct.
-- **Superb parrot (#75) and Diamond firetail (#76):** photographic [2009 aviary accounts](https://www.australiasomuchtosee.com/2009dubbozoo2.htm); independent [Superb Parrot geolocated image](https://commons.wikimedia.org/wiki/File:Polytelis_swainsonii_-Taronga_Western_Plains_Zoo,_near_Dubbo,_New_South_Wales,_Australia-8a.jpg).
-- **White-browed woodswallow (#58):** [6 April 2006 photograph at the zoo](https://commons.wikimedia.org/wiki/File:White_Browed_Woodswallow_-_Artamus_superciliosus_(7088986763).jpg), but aviary/collection status remains unproven.
-- **Red kangaroo (#47):** temporary wildlife hospital rehabilitation, **not a verified permanent collection**.
+- **Chester, a white tiger**: [1995 WA Government release](https://www.wa.gov.au/government/media-statements/Court%20Coalition%20Government/Visit-of-rare-white-tiger-to-Perth-Zoo-19951207) confirms prior Dubbo residence, but white is a colour variant, not a second tiger species. [Historical tiger guide](species/bengal-tiger-historical.md).
+- **'Asiatic' lions**: visitor signage and conflicting later accounts do not verify pure Asiatic captive genetics, and they are the same *Panthera leo* species as African lions. [Lion historical notes](african-lion.md).
+- **Giant anteater**: an old-map enthusiast remembers a sign but **did not see an animal**; no authenticated Dubbo accession.
+- **'Wildebeest'**: a childhood label might refer to the **African forest buffalo** known from later zoo evidence; do not double count.
+- **Diamond python, ibis and wood duck**: sketch and possible wild visitors need enclosure/collection evidence.
+- **Other vague 'bettong/rat-kangaroo' recollections**: exact taxon unresolved.
 
-## How to make this all-time list complete
+## What still prevents a certified all-time list?
 
-Taronga is a NSW government agency with an official [information access pathway](https://www.taronga.org.au/about/governance). Request Dubbo-site animal collection/ARKS/ZIMS historical **species holdings and transfers from 1977–2026**, plus archived visitor maps and first/last year per species. Separate animals transferred from Sydney, privately bred or medically treated, and wild animals incidentally present. The [prepared request](archival-records-request.md) is **not yet sent**.
+Taronga holds the decisive information: **1977–2026 Dubbo-specific year-by-year species holdings, old zoo visitor maps, transfer/acquisition/disposal lists, behind-the-scenes breeding and sanctuary programmes**, and consistent treatment of wildlife hospital patients and free-ranging animals. Original ARKS/ZIMS records may not cover pre-digital history. Every age cohort, zoo taxon name and modern scientific synonym must be reconciled. The [request for original archives](archival-records-request.md) is a draft, **not sent**.
 
-This public-source study cannot establish completeness, individual animal names, 2026 current occupancy or every IUCN status for all 76. See [source quality audit](coverage-audit.md) and [structured JSON](../data/all-time-animal-inventory.json).
+The scientific [IUCN conservation audit](iucn-assessment-audit-2026-10-18.md) remains partial. It independently records date/rank/source confidence rather than copying every apparent conservation category from visitor placards or online summaries.

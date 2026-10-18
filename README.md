@@ -2,9 +2,12 @@
 
 A personal, evidence-led guide to animals observed at **Taronga Western Plains Zoo, Dubbo, NSW, Australia**.
 
-**Documented subjects:** African wild dogs / African painted dogs (*Lycaon pictus*) giraffes (*Giraffa* sp., precise species unverified), and siamangs (*Symphalangus syndactylus*).
+**Documented subjects:** African wild dogs / African painted dogs (*Lycaon pictus*) giraffes (*Giraffa* sp., precise species unverified), siamangs (*Symphalangus syndactylus*), and platypus (*Ornithorhynchus anatinus*; research-only, no personal sighting supplied).
 
 ## Start here
+
+- **[Platypus — complete Dubbo rescue HQ and Australian conservation research](docs/platypus.md)**
+- **[Machine-readable platypus research entry (no invented photo)](data/platypus.json)**
 
 - **[Siamang research: ecology, Dubbo pair, conservation and photo evidence](docs/siamang.md)**
 - [Siamang Islands six-photo observation with integrity hashes](observations/siamang-undated.md)
@@ -32,6 +35,10 @@ Two additional giraffe photographs were supplied on 18 October 2026. They show m
 ### Siamangs added
 
 Six new photos document a pond-and-ropes island habitat and at least one likely siamang hanging from a rope. Taronga named **Kasarna and Kasem** as its resident pair in early 2026, but the photographed animal is **not individually identified**. Taronga visitor sources disagree on map location **12Q vs 10G**. All photos lack retained EXIF and four show identifiable visitors. See the [siamang guide](docs/siamang.md), with all uncertainties preserved.
+
+### Platypus Rescue HQ research — no sighting invented
+
+Taronga Western Plains Zoo opened **Platypus Rescue HQ in February 2024**. It has **capacity for 65 platypuses during emergencies** (not an occupancy count), map **21M**, and Taronga lists an adult male public ambassador named **Mackenzie**. Platypus remains **Near Threatened internationally**; federal legal listing and state classifications differ. The Commonwealth's **2026 Vulnerable nomination was not prioritised for assessment**, with possible reconsideration in 2027. There were **no platypus photos or personally verified sightings supplied**, so this is intentionally a **species research record**, not a fourth photographic observation. See [full study](docs/platypus.md) for ecological research, rescue timelines, modelling uncertainties and cited primary sources.
 
 ## Evidence standard
 

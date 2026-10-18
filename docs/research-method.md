@@ -58,3 +58,13 @@ Old Taronga news pages contain potentially inconsistent combinations of website 
 - Taronga's [Wild Asia](https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia) says **12Q**, while [species page](https://www.taronga.org.au/wildlife-and-conservation/animals/detail/siamang) says **10G**. Preserve source conflict, not a guessed map ref.
 - Conservation numbers require a source with matching year and population metric. No verified current global siamang headcount was established.
 - Palm oil certification has evidence of benefits and serious limitations: [PNAS 2018 satellite study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5776786/).
+
+## Platypus research-only entry — 18 October 2026
+
+- A zoo visitor page is evidence that a species is publicly **listed/exhibited**, not evidence that Josh observed the species. Store unsupplied observation fields as `null` in any dataset, **never manufacture a photo record**.
+- The 65 animals at Dubbo's Platypus Rescue HQ are a **design refuge capacity**, not a currently documented census; four research animals announced Feb 2025 are a dated facility subgroup.
+- Mackenzie's name and sex are published by Taronga, not inferred from any user photograph. Map reference 21M and keeper talk schedule may change.
+- The IUCN **Near Threatened** category (2016 assessment), federal threatened-species legal listing, NSW protection law, and state Victoria/South Australia listings must be distinguished. In [Aug 2026 federal published decision](https://www.dcceew.gov.au/environment/biodiversity/threatened/nominations/species-not-prioritised-assessment), a Vulnerable nomination was **not prioritised** for assessment, although scientific models report risks.
+- Treat UNSW projected future declines as **model-dependent scenarios**. The [2026 NSW study](https://doi.org/10.1071/AZ25060) comparing **1987 and 2006** questionnaires does not prove that wild populations have been stable up to 2026.
+- The [May 2026 Royal National Park report](https://www.unsw.edu.au/newsroom/news/2026/05/platypus-population-expands-to-20-in-royal-national-park-latest-survey) refers to a **Sydney-area reintroduction with multiple releases**, not population counts for the Dubbo zoo or the Macquarie River.
+- Do not disclose any future observed precise nest location in a public dataset; generalise sensitive wildlife coordinates.

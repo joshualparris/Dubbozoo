@@ -4,6 +4,16 @@
 **Reviewed:** 18 October 2026 · **Photo evidence:** none supplied for this animal; claims are sourced zoo/species research, not observations.
 
 
+
+## New dated zoo-ground photographic evidence — NOT proof of captive status
+
+A [Wikimedia Commons photographic record by David Lochlin / Moonlight0551](https://commons.wikimedia.org/wiki/File:White_Browed_Woodswallow_-_Artamus_superciliosus_(7088986763).jpg) explicitly states a **white-browed woodswallow at Western Plains Zoo in Dubbo**. It gives **6 April 2006, 11:32 am**, and viewpoint **-32.276756, 148.581590**, plus original [Flickr image](https://www.flickr.com/photos/dlochlin/7088986763/). The Commons copy has verified historical CC BY 2.0 licensing and photographer/date/location attribution.
+
+This resolves **a Dubbo site sighting**. It does **not** establish whether the bird was: (a) a wild migrating woodswallow stopping at the open-range zoo, (b) a managed zoo aviary animal, or (c) a hospital patient. The [July 2025 ZooChat visitor recollection](https://www.zoochat.com/community/threads/taronga-western-plains-zoo-news-2025.492828/page-4) lists white-browed woodswallow among additional birds seen on a paid early-morning walk, an independently described but **non-primary** report supporting possible managed aviary presence. A keeper census/aviary animal list is still required to upgrade the **formal collection holding** field.
+
+**Updated result:** **confirmed 2006 on-site photographed occurrence; historically managed collection remains unverified**. This distinction should be maintained in the master inventory, even though the filename still says 'holding-unverified'.
+
+
 ## Holdings evidence check: cross-site confusion remains unresolved
 
 In [Taronga's 2014–15 annual report, Appendix 3](https://taronga.org.au/sites/default/files/content/pdf/Taronga_Annual_Report_2014-15.pdf), the White-browed Woodswallow listing belongs to the Taronga-wide species-management table, and transfers listed in Appendix 4 are **not expressly identified as departures from Dubbo**. Until a site-specific record is found, **Dubbo holdings remain unverified**. Similar-sounding **White-winged Chough** is separately confirmed at the Dubbo aviary and must not be conflated.

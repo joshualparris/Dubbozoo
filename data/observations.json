@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "last_reviewed": "2026-10-18",
+  "last_reviewed": "2026-11-15",
   "observations": [
     {
       "id": "dubbozoo-obs-0001",
@@ -147,7 +147,7 @@
       "observation_date_verified": false,
       "record_created_at": "2026-10-18",
       "timezone": "Australia/Sydney",
-      "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW",
+      "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW; the 15 Nov supplied set is visually consistent with the Giraffe Boardwalk/feeding-platform area, but no GPS is retained",
       "venue_verified": false,
       "visitor_map_reference_hypothesis": "14F (main-circuit giraffes); 6F (African Savannah) — exact photographed paddock not verified",
       "gps": null,
@@ -156,9 +156,12 @@
       "observable_behaviours": [
         "standing",
         "head orientation toward/away from camera",
-        "co-presence"
+        "co-presence",
+        "standing close to the visitor boardwalk",
+        "head/neck extended toward an elevated feeder",
+        "co-presence with multiple giraffes"
       ],
-      "behaviour_interpretation_limits": "No proof of species, specific identities, age, sex, social hierarchy, calf status, feeding or cause of postures",
+      "behaviour_interpretation_limits": "Do not infer exact taxon, specific identities, age, sex, social hierarchy, welfare, motivation, feeding schedule or whether the photographs were taken during a paid encounter. A head positioned at a feeder is directly visible in one image; it is not evidence of the animal's full diet or daily routine.",
       "photos": [
         {
           "original_filename": "image-1792293812729.jpg",
@@ -183,6 +186,101 @@
           "description": "Tighter near-front view of giraffe with ossicones and geometric coat, other giraffes and building in background.",
           "committed_binary": false,
           "repository_path": null
+        },
+        {
+          "original_filename": "image-1794713510228.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 649477,
+          "width": 1536,
+          "height": 1152,
+          "sha256": "5223992fe772daf228dda08a9b0cd4d4d467493838d7c89b60d0f8523fe07373",
+          "exif_present": false,
+          "description": "Wide visitor-boardwalk view. Multiple giraffes are visible near the platform/feeder area and farther back among mature trees. The frame is not a census of the full zoo herd.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-01.b64",
+          "web_derivative_sha256": "4bff907453fdcaef22611b5eb3d4d96263c283781ec40f6eeff63311591752b1",
+          "web_derivative_width": 180,
+          "web_derivative_height": 135,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "image-1794713528976.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 544016,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "2450596a66ad349d6de4d930985b5b5c7207a5863136bd2a7a943c57258bdaf4",
+          "exif_present": false,
+          "description": "Close boardwalk view with two giraffes extending their necks toward the elevated visitor-platform/feeder area. Individual identity and exact activity are not independently verified.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-02.b64",
+          "web_derivative_sha256": "f590a35b4f4898404db04f7c173df283a00fcdb49ab73622fbb9d6659af9ede1",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "image-1794713538063.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 528220,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "eaa0256b36ebebe0990667b589fb4faab9270f13f4381703993abf576ced39b9",
+          "exif_present": false,
+          "description": "Close head-and-neck view of one giraffe showing ossicones, ears, face and coat pattern. Appearance alone does not establish taxon, sex, age or name.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-03.b64",
+          "web_derivative_sha256": "a368ba024894715dd0d9965999520e284bcfd2f4e4c4882decafca79cdd43663",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "image-1794713545508.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 396035,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "55bd203857b7cddf180086c4192a137d90a21de1c77bcfab33dec6e80d9f83cb",
+          "exif_present": false,
+          "description": "Giraffe head positioned at the elevated green feeder area. An ibis-like bird is visible on the lower rail; its presence is a field co-occurrence, not evidence that the bird belongs to the zoo collection.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-04.b64",
+          "web_derivative_sha256": "5343aad13e1dfbdeef811250442e5a764e70945f7d819ce8b2136bd0cbf1454c",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "image-1794713553183.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 555643,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "6de54a3f3edefaaa37258c337d60ce44b69abcf8b4a697e490ce7864dae67dcc",
+          "exif_present": false,
+          "description": "Profile head-and-neck view of one giraffe near the boardwalk. Coat pattern and ossicones are clear, but no individual identification is supported.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-05.b64",
+          "web_derivative_sha256": "d4f690d9ab8cee66487b0ab02d91475ac6cbb8f1417120221504f3f55912097d",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         }
       ],
       "historical_zoo_numbers": [
@@ -243,6 +341,38 @@
         {
           "type": "species_biology",
           "url": "https://giraffeconservation.org/facts-about-giraffe/why-do-giraffe-have-spots/"
+        },
+        {
+          "type": "zoo_behaviour_research",
+          "url": "https://peerj.com/articles/18164/",
+          "published": "2024-10-31",
+          "note": "Multi-institutional daytime behaviour data from 66 giraffes across 18 AZA zoos; useful for ethogram context, not a Dubbo-specific welfare assessment."
+        },
+        {
+          "type": "zoo_behaviour_research",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324248",
+          "published": "2025-05-28",
+          "note": "Multi-institutional study of factors associated with giraffe behaviour in U.S. zoos; context only, not a Dubbo-specific assessment."
+        },
+        {
+          "type": "current_zoo_visitor_information",
+          "url": "https://www.taronga.org.au/dubbo-zoo/encounters-and-experiences/animal-encounters",
+          "checked": "2026-11-15",
+          "note": "Taronga currently describes a daily Giraffe Encounter feeding giraffes from the Giraffe Boardwalk; this does not prove Josh's photos were taken during the encounter."
+        }
+      ],
+      "record_last_updated": "2026-11-15",
+      "venue_evidence": "User-supplied Dubbozoo photographs plus visual boardwalk/feeder context; not independently geo-verified from image metadata",
+      "submission_batches": [
+        {
+          "submitted_at": "2026-10-18",
+          "photo_count": 2,
+          "note": "Earlier two-photo giraffe set; capture date unknown."
+        },
+        {
+          "submitted_at": "2026-11-15",
+          "photo_count": 5,
+          "note": "Boardwalk/feeder-area set supplied by Josh; capture date unknown and no retained EXIF/GPS."
         }
       ]
     },

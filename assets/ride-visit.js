@@ -1,116 +1,129 @@
-/* Dubbozoo private safari journal — local browser storage only. */
+/* Dubbozoo safari journal — no network, no GPS in journal records. */
 (() => {
   'use strict';
-  const el=id=>document.getElementById(id);
-  const KEY='dubbozoo-private-safari-v1';
-  const S={selected:null,records:{}};
-  const safeText=(v,max=1000)=>String(v??'').trim().slice(0,max);
-  const load=()=>{
+  const $=id=>document.getElementById(id);
+  const KEY='dubbozoo-safari-journal-v1';
+  const records=new Map();
+  let current=null,dirty=false;
+  const safeText=t=>String(t||'').replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f]/g,'').slice(0,1000);
+  const showMessage=t=>{$('visit-status').textContent=t};
+  function getEntry(){
+    if(!current)return null;
+    const key=String(current.animalNumber);
+    if(!records.has(key))records.set(key,{number:current.animalNumber,name:current.name,seen:false,seenAt:null,note:'',updatedAt:null});
+    return records.get(key);
+  }
+  function persist(){
+    try {
+      const values=Array.from(records.values()).filter(x=>x.seen||x.note);
+      localStorage.setItem(KEY,JSON.stringify({version:1,entries:values}));
+      return true;
+    } catch(err) {showMessage('Browser storage is unavailable. Export your notes before leaving.');return false}
+  }
+  function load(){
     try{
-      const data=JSON.parse(localStorage.getItem(KEY)||'{}');
-      if(data&&typeof data==='object'&&!Array.isArray(data)){
-        for(const [id,r] of Object.entries(data)){
-          if(!/^[a-z0-9-]{1,60}$/.test(id)||!r||typeof r!=='object')continue;
-          S.records[id]={
-            id,
-            name:safeText(r.name,120)||id,
-            animalNumber:Number.isFinite(Number(r.animalNumber))?Number(r.animalNumber):null,
-            seen:Boolean(r.seen),
-            note:safeText(r.note),
-            updatedAt:safeText(r.updatedAt,40)
-          };
-        }
+      const j=JSON.parse(localStorage.getItem(KEY)||'{}');
+      if(!Array.isArray(j.entries))return;
+      for(const x of j.entries){
+        if(!x||!Number.isInteger(x.number)||x.number<1||x.number>200||typeof x.name!=='string')continue;
+        if(records.size>=100)break;
+        records.set(String(x.number),{number:x.number,name:safeText(x.name).slice(0,90),
+          seen:x.seen===true,seenAt:typeof x.seenAt==='string'?x.seenAt.slice(0,50):null,
+          note:safeText(x.note),updatedAt:typeof x.updatedAt==='string'?x.updatedAt.slice(0,50):null});
       }
-    }catch(e){}
-  };
-  const save=()=>{
-    try{localStorage.setItem(KEY,JSON.stringify(S.records));return true}catch(e){return false}
-  };
-  const fmtDate=s=>{
-    if(!s)return'';
-    const d=new Date(s);return Number.isNaN(d.getTime())?'':d.toLocaleString('en-AU',{dateStyle:'medium',timeStyle:'short'});
-  };
-  const selectedRecord=()=>S.selected?S.records[S.selected.id]||null:null;
-  const status=msg=>{const n=el('visit-status');if(n)n.textContent=msg};
+    }catch(err){}
+  }
   function render(){
-    const records=Object.values(S.records).sort((a,b)=>(b.updatedAt||'').localeCompare(a.updatedAt||''));
-    const seen=records.filter(r=>r.seen);
-    if(el('visit-count'))el('visit-count').textContent=seen.length+' animal'+(seen.length===1?'':'s')+' seen · '+records.length+' recorded';
-    if(el('visit-current'))el('visit-current').textContent=S.selected?'Selected: '+S.selected.name:'Choose an animal first';
-    const rec=selectedRecord();
-    if(el('visit-note'))el('visit-note').value=rec?.note||'';
-    if(el('mark-seen'))el('mark-seen').setAttribute('aria-pressed',String(Boolean(rec?.seen)));
-    if(el('mark-not-seen'))el('mark-not-seen').setAttribute('aria-pressed',String(Boolean(rec&&!rec.seen)));
-    for(const id of ['mark-seen','mark-not-seen','save-visit-note'])if(el(id))el(id).disabled=!S.selected;
-    const list=el('visit-list');if(!list)return;
-    list.replaceChildren();
-    if(!records.length){
-      const p=document.createElement('p');p.className='hint';p.textContent='Nothing recorded yet. Select an animal, then mark what you actually saw.';list.append(p);return;
+    const found=Array.from(records.values()).filter(x=>x.seen);
+    $('visit-count').textContent=found.length+' species seen';
+    const root=$('visit-list');root.replaceChildren();
+    if(!found.length){
+      const p=document.createElement('p');p.className='hint';
+      p.textContent='Your list is empty. Tap “I saw this animal” only when you actually see it.';
+      root.append(p);
+    }else{
+      for(const x of found.sort((a,b)=>(a.seenAt||'').localeCompare(b.seenAt||''))){
+        const card=document.createElement('article');card.className='visit-entry';
+        const heading=document.createElement('strong');heading.textContent='✓ '+x.name;
+        const date=document.createElement('span');date.className='hint';
+        try{date.textContent=x.seenAt?new Date(x.seenAt).toLocaleString('en-AU'):'Date unknown'}
+        catch(e){date.textContent='Date unknown'}
+        card.append(heading,date);
+        if(x.note){const note=document.createElement('p');note.textContent=x.note;card.append(note)}
+        root.append(card);
+      }
     }
-    for(const r of records){
-      const item=document.createElement('article');item.className='visit-item';
-      const h=document.createElement('strong');h.textContent=(r.seen?'✓ ':'○ ')+r.name;
-      const meta=document.createElement('small');meta.textContent=(r.seen?'Seen':'Not seen')+(fmtDate(r.updatedAt)?' · '+fmtDate(r.updatedAt):'');
-      item.append(h,meta);
-      if(r.note){const p=document.createElement('p');p.textContent=r.note;item.append(p)}
-      list.append(item);
-    }
+    const entry=current?getEntry():null;
+    $('visit-current').textContent=current?(entry.seen?'✓ Seen: ':'Current animal: ')+current.name:'Choose an animal';
+    $('mark-seen').disabled=!current;
+    $('mark-not-seen').disabled=!current||!entry.seen;
+    $('save-visit-note').disabled=!current;
+    if(entry && !dirty)$('visit-note').value=entry.note||'';
   }
-  function ensureRecord(seen){
-    if(!S.selected)return null;
-    const old=S.records[S.selected.id]||{};
-    const r=S.records[S.selected.id]={
-      id:S.selected.id,
-      name:S.selected.name,
-      animalNumber:S.selected.animalNumber,
-      seen:Boolean(seen),
-      note:safeText(old.note),
-      updatedAt:new Date().toISOString()
-    };
-    return r;
+  function changedSelection(e){
+    const info=e.detail||{},num=Number(info.animalNumber);
+    if(!Number.isInteger(num)||num<1)return;
+    // Store unfinished notes before an automatic GPS card change.
+    flushDraft();
+    current={animalNumber:num,name:safeText(info.name).slice(0,90),stopId:safeText(info.id).slice(0,60)};
+    dirty=false;
+    render();
+    showMessage('Journal is private to this browser. Nearby GPS alone never marks an animal seen.');
   }
-  function mark(seen){
-    if(!S.selected){status('Choose an animal first.');return}
-    ensureRecord(seen);const ok=save();render();
-    status(ok?(seen?'Marked as seen on this device.':'Marked as not seen yet on this device.'):'Browser storage is unavailable; this may not persist.');
+  function flushDraft(){
+    if(!dirty||!current)return;
+    const entry=getEntry();entry.note=safeText($('visit-note').value).trim();
+    entry.updatedAt=new Date().toISOString();
+    dirty=false;persist();
   }
-  function saveNote(){
-    if(!S.selected){status('Choose an animal first.');return}
-    const old=S.records[S.selected.id];
-    const r=ensureRecord(old?.seen||false);r.note=safeText(el('visit-note')?.value);r.updatedAt=new Date().toISOString();
-    const ok=save();render();status(ok?'Safari note saved on this device.':'Browser storage is unavailable; this may not persist.');
+  function seen(){
+    if(!current)return;
+    flushDraft();
+    const entry=getEntry();entry.seen=true;
+    if(!entry.seenAt)entry.seenAt=new Date().toISOString();
+    entry.updatedAt=new Date().toISOString();persist();render();showMessage('Marked as seen — saved only on this device.');
   }
-  function exportMarkdown(){
-    const records=Object.values(S.records).sort((a,b)=>(a.name||'').localeCompare(b.name||''));
-    if(!records.length){status('Nothing to export yet.');return}
-    const lines=['# My Dubbo Zoo Safari','','Exported '+new Date().toLocaleString('en-AU')+'.',''];
-    for(const r of records){
-      lines.push('## '+(r.seen?'✓ ':'○ ')+r.name,'',r.seen?'Status: Seen':'Status: Not seen yet');
-      if(r.note)lines.push('',r.note);
+  function notSeen(){
+    if(!current)return;
+    flushDraft();
+    const entry=getEntry();entry.seen=false;entry.seenAt=null;entry.updatedAt=new Date().toISOString();
+    persist();render();showMessage('Removed from seen list. Any notes remain saved.');
+  }
+  function exportJournal(){
+    flushDraft();
+    const data=Array.from(records.values()).filter(x=>x.seen||x.note).sort((a,b)=>a.name.localeCompare(b.name));
+    if(!data.length){showMessage('Record a sighting or note before exporting.');return}
+    const lines=['# My Dubbozoo safari field journal','','Exported '+new Date().toLocaleString('en-AU')+'.','','This is my personal observation notebook, not a verified current animal census. No GPS coordinates are included.',''];
+    for(const x of data){
+      lines.push('## '+x.name,'','Seen: '+(x.seen?'Yes':'Not recorded'));
+      if(x.seenAt)lines.push('First marked seen: '+x.seenAt);
+      if(x.note)lines.push('','My notes:',...x.note.split('\n').map(z=>'  '+z));
       lines.push('');
     }
     const blob=new Blob([lines.join('\n')],{type:'text/markdown;charset=utf-8'});
     const url=URL.createObjectURL(blob),a=document.createElement('a');
-    a.href=url;a.download='my-dubbo-zoo-safari.md';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
-    status('Safari journal exported.');
+    a.href=url;a.download='dubbozoo-safari-'+new Date().toISOString().slice(0,10)+'.md';
+    a.style.display='none';document.body.append(a);a.click();a.remove();
+    window.setTimeout(()=>URL.revokeObjectURL(url),2000);
+    showMessage('Export created on your device. Check Downloads for the Markdown journal.');
   }
   function clearAll(){
-    if(!Object.keys(S.records).length)return;
-    if(!window.confirm('Erase your safari journal from this browser?'))return;
-    S.records={};try{localStorage.removeItem(KEY)}catch(e){}
-    render();status('Safari journal erased from this browser.');
-  }
-  function select(detail){
-    if(!detail||typeof detail.id!=='string')return;
-    S.selected={id:detail.id,name:safeText(detail.name,120)||detail.id,animalNumber:Number(detail.animalNumber)||null};
-    render();status(selectedRecord()?'Loaded your saved record for this animal.':'Ready to record what you actually saw.');
+    if(!records.size)return;
+    if(!window.confirm('Permanently erase your saved safari sightings and notes from this browser?'))return;
+    records.clear();dirty=false;
+    try{localStorage.removeItem(KEY)}catch(err){}
+    $('visit-note').value='';render();showMessage('Saved safari journal cleared on this browser.');
   }
   load();
-  document.addEventListener('dubbozoo:stop-selected',e=>select(e.detail));
-  el('mark-seen')?.addEventListener('click',()=>mark(true));
-  el('mark-not-seen')?.addEventListener('click',()=>mark(false));
-  el('save-visit-note')?.addEventListener('click',saveNote);
-  el('export-safari')?.addEventListener('click',exportMarkdown);
-  el('clear-safari')?.addEventListener('click',clearAll);
+  $('mark-seen').addEventListener('click',seen);
+  $('mark-not-seen').addEventListener('click',notSeen);
+  $('save-visit-note').addEventListener('click',()=>{
+    if(!current)return;dirty=true;flushDraft();render();showMessage('Note saved locally. It is not marked as a sighting unless you choose “I saw this animal”.');
+  });
+  $('visit-note').addEventListener('input',()=>{dirty=true;$('visit-status').textContent='Draft note — tap Save note, or it will be saved when you change animal.'});
+  $('export-safari').addEventListener('click',exportJournal);
+  $('clear-safari').addEventListener('click',clearAll);
+  document.addEventListener('dubbozoo:stop-selected',changedSelection);
+  window.addEventListener('pagehide',flushDraft);
   render();
 })();

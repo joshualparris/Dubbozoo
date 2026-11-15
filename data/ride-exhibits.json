@@ -283,7 +283,7 @@
       "mapRef": "Keeper talk 23L",
       "fact": "Galápagos giant tortoises belong to different island lineages; shell shape alone cannot confirm an individual animal's origin.",
       "prompt": "Look at the shell, feet and head and describe what is visible before guessing age or sex.",
-      "profile": "/animals/023-galapagos-giant-tortoise",
+      "profile": "/animals/023-gal-pagos-tortoise",
       "officialVideo": true,
       "lat": null,
       "lon": null,

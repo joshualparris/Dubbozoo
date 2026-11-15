@@ -50,10 +50,10 @@ The rebuilt [static website source](index.html) includes a responsive wildlife d
 
 The public portal now promotes research that previously required browsing the GitHub tree:
 
-- **Josh's Field Journal** surfaces all six photo-backed observation records (wild dogs, giraffes, siamangs, Galápagos tortoise, Asian elephants and probable meerkat) while keeping private/rights-unclear original JPEGs unpublished.
+- **Josh's Field Journal** now surfaces eight photo-backed observation records: wild dogs, giraffes, siamangs, Galápagos tortoise, two Asian-elephant submissions, probable meerkat and African lion. Core evidence stays inside Dubbozoo; full-resolution originals remain separate while privacy-screened local derivatives are displayed where appropriate.
 - **Dubbo Zoo Through Time** turns the 1977–2026 archival research into a filterable timeline and exposes the 1995–1999 archive investigation, unsent archival request, coverage audit, IUCN audit and raw 622-question evidence ledger.
 - **Field-note pages stay inside Dubbozoo** at `/field-notes/...`, with frame-by-frame evidence, uncertainty, provenance and sources. GitHub is now only an optional raw-source link.
-- **Real Dubbo zoo media** replaces synthetic narration. Six official Taronga Zoo Sydney videos cover the same six field-journal animals, with real keeper voices, animal footage and animal sounds where present.
+- **Real Dubbo zoo media** replaces synthetic narration. Eight field-note media entries now map to official Taronga Zoo Sydney footage, including the real Dubbo lion keeper talk; the second elephant record intentionally reuses the verified elephant footage rather than inventing new media.
 - **Privacy-first video embedding:** YouTube is not contacted until the visitor explicitly chooses to play a video; playback uses YouTube's privacy-enhanced embed domain.
 
 Implementation and follow-up checklist: [Discovery experience to-do](docs/TODO-DISCOVERY-EXPERIENCE-2026-11-15.md).
@@ -177,3 +177,14 @@ The giraffe experience now stays inside Dubbozoo end-to-end:
 - The giraffe field note embeds the official Taronga Western Plains Zoo keeper video with its **real keeper/animal audio**. Synthetic speech is not used.
 - The giraffe research guide now includes 2025 four-species taxonomy, current Boardwalk visitor context, species-by-species wild estimates, and multi-institutional zoo-behaviour research.
 - Core field-note evidence, frame descriptions, uncertainties and source metadata are rendered in Dubbozoo; GitHub is not required to read the field note.
+
+
+## African lion field-journal expansion — 15 November 2026
+
+Josh's six newly supplied lion photographs are now represented as **observation 0008** with exact-copy SHA-256 provenance, frame-by-frame evidence and six privacy-screened web derivatives. Three frames show a mane-bearing lion resting in shade and three show a mane-bearing lion standing on elevated fallen timber. The record deliberately does **not** identify the animal as Lwazi, Bahati or Jabari, and does not assume the two photo sequences show the same individual.
+
+The African lion guide was re-reviewed against current Taronga and IUCN/Cat Specialist Group material. Key corrections/additions include the current **Lion Pride Lands map reference 19R**, the published nine-lion main pride plus Bahati/Jabari bachelor coalition, recent family/breeding history, modern lion taxonomy, wild conservation context and stricter behaviour-observation safeguards.
+
+The official Taronga **Lion Keeper Talk at Taronga Western Plains Zoo** is mapped to observation 0008 and plays inside Dubbozoo with its real keeper voice and original animal/zoo audio.
+
+During integration, an existing November Asian-elephant submission already labelled **observation 0007** was found. Rather than duplicate that ID, it has been added to the internal structured field journal as 0007 and the lion record is 0008. The homepage no longer sends that newer elephant record to GitHub just to read its field notes.

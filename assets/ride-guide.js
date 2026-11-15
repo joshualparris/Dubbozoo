@@ -238,7 +238,7 @@
       S.stops=data.points.filter(s=>typeof s.id==='string'&&typeof s.name==='string');
       if(p.ok){const imgs=await p.json();for(const x of imgs.entries||[])if(x.image_url&&x.licence)S.photos.set(x.number,x)}
       if(m.ok){const vids=await m.json();for(const x of vids.videos||[])if(x.youtube_id)S.videos.set(x.animal_number,x)}
-      renderUnmapped();renderList();renderMap();selectStop('giraffe-north');
+      renderUnmapped();renderList();renderMap();selectStop('giraffe-north',true);
     } catch(e) {
       el('nearby').textContent='Could not load the animal map. Please check your connection and reload.';
       setStatus('Animal map failed to load',String(e.message||e));

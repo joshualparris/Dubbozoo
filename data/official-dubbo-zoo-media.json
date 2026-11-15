@@ -62,6 +62,26 @@
       "channel": "Taronga Zoo Sydney",
       "kind": "keeper talk",
       "audio_note": "Real Dubbo keeper Karen, meerkat footage and zoo audio."
+    },
+    {
+      "observation": 7,
+      "animal_number": 24,
+      "title": "Asian Elephants at Taronga Western Plains Zoo — real zoo footage",
+      "youtube_id": "wCH405sp7zI",
+      "published": "2020-04-03",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "animal footage",
+      "audio_note": "Real Taronga Western Plains Zoo elephant footage and ambient zoo audio, reused for the second elephant field-note submission; not evidence of the pictured individual's identity."
+    },
+    {
+      "observation": 8,
+      "animal_number": 3,
+      "title": "Lion Keeper Talk at Taronga Western Plains Zoo",
+      "youtube_id": "8egyUfDK1U4",
+      "published": "2020-05-10",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "keeper talk",
+      "audio_note": "Real Taronga Western Plains Zoo keeper voice with lion footage and original zoo audio; older media, not evidence of the 2026 pride roster."
     }
   ]
 }

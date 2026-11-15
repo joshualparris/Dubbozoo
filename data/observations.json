@@ -806,6 +806,274 @@
           "url": "https://www.taronga.org.au/about/newsroom/posts/new-meerkat-exhibit-now-open"
         }
       ]
+    },
+    {
+      "id": "dubbozoo-obs-0007",
+      "common_name": "Asian elephant",
+      "scientific_name": "Elephas maximus",
+      "taxon_rank": "species",
+      "species_confirmed": false,
+      "taxon_explanation": "High-confidence photographic morphology is consistent with Asian elephant, but individual identity is not independently verified.",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-11-15",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Zoo exhibit consistent with Taronga Western Plains Zoo from conversation context; no photographic GPS evidence.",
+      "venue_verified": false,
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "subjects_visible_simultaneously": 1,
+      "subjects_visible_exact": null,
+      "subjects_visible_note": "One elephant is visible in each supplied frame; the stills do not prove both frames show the same individual.",
+      "observable_behaviours": [
+        "rear-left three-quarter standing/moving posture with trunk extended downward",
+        "side-profile posture with trunk curled upward near lower head"
+      ],
+      "behaviour_interpretation_limits": "Do not infer feeding, smelling, drinking, playing, self-touching, identity, sex, age, family relationship, clinical status, emotional state, direction of travel over time or gait from the stills.",
+      "photos": [
+        {
+          "original_filename": "image-1794714282696.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 382226,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "c22d25fa2e0264fc9c8b5ad6e6b5810cf425138196849deed0b76b305ca23c61",
+          "exif_present": false,
+          "description": "One elephant from a rear-left three-quarter angle in a sunlit sandy/grassy open enclosure; one hind leg appears advanced and the trunk is extended downward.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "image-1794714301993.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 382114,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "97203bbdb2918726daa421d90d5708470d4edc92598bf74bfbdbae32e9ed0bec",
+          "exif_present": false,
+          "description": "One elephant in left-side profile behind a horizontal log, trunk curled upward near the lower head; a vehicle is faintly visible beyond exhibit fencing.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "sources": [
+        {
+          "type": "internal_research_review",
+          "url": "/docs/elephant-frontiers-2024-2026-2026-11-15.md",
+          "checked": "2026-11-15",
+          "note": "Recent elephant science review; species-level research must not be projected onto the pictured individual."
+        },
+        {
+          "type": "internal_observation_record",
+          "url": "/observations/asian-elephants-2026-11-15-submission.md",
+          "checked": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": "dubbozoo-obs-0008",
+      "common_name": "African lion",
+      "scientific_name": "Panthera leo",
+      "taxon_rank": "species",
+      "species_confirmed": true,
+      "iucn_status": "VU",
+      "iucn_assessment_year": 2024,
+      "iucn_assessment_url": "https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T15951A266696959.en",
+      "subjects_visible_simultaneously": 1,
+      "subjects_visible_minimum_across_set": 1,
+      "subjects_visible_exact": null,
+      "subjects_visible_note": "One mane-bearing lion is visible in each frame. The six photographs form two visual sequences, but the photographs alone do not establish whether both sequences show the same individual.",
+      "individual_names": null,
+      "sex": null,
+      "sex_visual_hypothesis": "Male strongly suggested by the developed mane; not keeper-verified.",
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-11-15",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW — Lion Pride Lands context is consistent with the project and current zoo precinct, but the JPEGs contain no retained GPS.",
+      "venue_evidence": "User-supplied Dubbozoo photographs plus current Taronga Lion Pride Lands context; no retained image geolocation.",
+      "venue_verified": false,
+      "visitor_map_reference_current": "19R",
+      "visitor_map_reference_checked": "2026-11-15",
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "observable_behaviours": [
+        "lying/resting posture in shade",
+        "head orientation changes between resting frames",
+        "standing on elevated fallen timber",
+        "open-mouth facial posture in some standing frames"
+      ],
+      "behaviour_interpretation_limits": "Do not infer the lion's name, exact age, emotional state, health, dominance, reason for resting, reason for climbing, or whether the mouth opening represents panting, vocalising or another behaviour from still images alone. Do not identify the lion as Lwazi, Bahati or Jabari without a keeper-verified image match.",
+      "photos": [
+        {
+          "original_filename": "1000109714.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 496294,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "64e35d443f55cc14eaea270a2705cefd2332ab4af8243c398718559c47c86ac7",
+          "exif_present": false,
+          "description": "Mane-bearing lion lying on short grass in deep shade with forelegs extended; open habitat, fallen timber, track and tree line behind.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-01.b64",
+          "web_derivative_sha256": "792454ffedd19b73ae23a31043251dc179c9a9b180e8a8da03968f0a35c12c3d",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "1000109712.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 540939,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "15d9b64508b04f2f3e60239725fb36cbae27f0b9bce9118dcb383d67ea69fb54",
+          "exif_present": false,
+          "description": "Second shaded resting frame; lion remains lying with forelegs extended and head turned left relative to camera.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-02.b64",
+          "web_derivative_sha256": "292c607b0249ffcacde3c6ffc6670ea76db8a395b21a3df2c55e73f2a936dbc0",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "1000109713.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 542927,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "a92a7d1f9aca53ee0f8fd3a203903b73d9719c3f6e4f5611198b8cd0bc5de50c",
+          "exif_present": false,
+          "description": "Third shaded resting frame; similar body posture with a slightly different head position. Same-versus-different individual across the full six-photo set remains unresolved.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-03.b64",
+          "web_derivative_sha256": "1a20136022db33fe61ef755f7e0021913ecf711c9c7e606bf8fb385a4f24de69",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "1000109706.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 629830,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "11c9d07a48230f742133059fe374cb07479d9143f1d025f8b8e01d2a026baabf",
+          "exif_present": false,
+          "description": "Mane-bearing lion standing on a large elevated fallen trunk, body side-on and face oriented toward camera; mouth visibly open.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-04.b64",
+          "web_derivative_sha256": "b0206f920dcd870ec8a77e959333347c1ce6b130a37d9e9123bfeae133a1a3d4",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "1000109705.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 625129,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "91f0c3db01da863cf67ba2d4524318a38dad632cbac4468c8df3b4c018945174",
+          "exif_present": false,
+          "description": "Second elevated-trunk frame, similar stance with all four paws supported by the timber and tail hanging behind.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-05.b64",
+          "web_derivative_sha256": "48e93beb431560822ee4b9d23d025617502e6d6b15d163aa2be3fbac4a4656b7",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        },
+        {
+          "original_filename": "1000109704.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 430071,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "a0ff62602bf9cb71f4d16a9a51d875a8bb093cc614161a6a6674820ff18db9c3",
+          "exif_present": false,
+          "description": "Closer elevated-trunk view showing face, developed mane, forequarters and open mouth; exact behavioural cause is not inferable from the still.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-06.b64",
+          "web_derivative_sha256": "b6cecdf9a22c375128aa3d64c5252e3ff8495188e9f4479494cdda9c4546b607",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
+        }
+      ],
+      "sources": [
+        {
+          "type": "current_zoo_precinct",
+          "url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/lion-pride-lands",
+          "checked": "2026-11-15",
+          "note": "Current Lion Pride Lands page; map ref 19R and named lions."
+        },
+        {
+          "type": "current_zoo_tour",
+          "url": "https://www.taronga.org.au/dubbo-zoo/encounters-and-experiences/tours",
+          "checked": "2026-11-15",
+          "note": "Current Pride Lands Patrol information describing a nine-strong main pride."
+        },
+        {
+          "type": "zoo_news",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/lion-cubs-debut-at-dubbo-zoo",
+          "published": "2025-06-04",
+          "note": "Dated 11-lion overall snapshot; nine main-pride lions plus Bahati/Jabari bachelor coalition."
+        },
+        {
+          "type": "zoo_news",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/lion-cubs-on-patrol",
+          "published": "2025-09-19",
+          "note": "Nine-lion main pride documented in larger three-hectare habitat."
+        },
+        {
+          "type": "zoo_news",
+          "url": "https://www.taronga.org.au/about/newsroom/posts/new-arrivals-make-a-splash",
+          "published": "2026-01-15",
+          "note": "Early-2026 update on Marion, Lwazi and 2025 cubs."
+        },
+        {
+          "type": "authoritative_conservation_status",
+          "url": "https://doi.org/10.2305/IUCN.UK.2024-2.RLTS.T15951A266696959.en",
+          "last_assessed": "2023-02-01",
+          "publication_year": 2024
+        },
+        {
+          "type": "iucn_cat_specialist_group",
+          "url": "https://www.catsg.org/living-species-lions",
+          "checked": "2026-11-15",
+          "note": "Current status, taxonomy, range and population context."
+        }
+      ]
     }
   ]
 }

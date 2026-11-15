@@ -197,7 +197,8 @@
     journalCards.forEach((card,index) => {
       const button = card.querySelector('.real-media-inline');
       if (button) button.addEventListener('click', () => {
-        selectMedia(index + 1);
+        const observation = Number(card.dataset.observation || (index + 1));
+        selectMedia(observation);
         document.getElementById('real-media')?.scrollIntoView({behavior:'smooth',block:'start'});
       });
     });

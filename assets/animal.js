@@ -111,7 +111,7 @@
  $('quick-source').textContent='Evidence is included in this page ↓';
  $('quick-source').onclick=event=>{event.preventDefault();tab('research');};
  $('original-research').href='#research-sections';
- const fieldNotes={4:'/field-notes/001-african-wild-dogs',13:'/field-notes/002-giraffe-herd',32:'/field-notes/003-siamang-islands',23:'/field-notes/004-galapagos-giant-tortoise',24:'/field-notes/005-asian-elephants',15:'/field-notes/006-probable-meerkat'};
+ const fieldNotes={4:'/field-notes/001-african-wild-dogs',13:'/field-notes/002-giraffe-herd',32:'/field-notes/003-siamang-islands',23:'/field-notes/004-galapagos-giant-tortoise',24:'/field-notes/005-asian-elephants',15:'/field-notes/006-probable-meerkat',3:'/field-notes/008-african-lion'};
  const fieldLink=$('animal-field-note-link');
  if(fieldLink&&fieldNotes[number]){fieldLink.hidden=false;fieldLink.href=fieldNotes[number];fieldLink.textContent='Open Josh\'s field note →';}
  if(media){

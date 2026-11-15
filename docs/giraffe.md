@@ -1,18 +1,31 @@
 # Giraffes at Taronga Western Plains Zoo — researched field guide
 
-**Reviewed:** 18 October 2026 · **Evidence:** two user-provided JPEGs + IUCN, Giraffe Conservation Foundation (GCF), and Taronga Conservation Society publications.
+**Reviewed:** 15 November 2026 · **Evidence:** seven user-provided JPEGs across two submission batches + IUCN, Giraffe Conservation Foundation (GCF), Taronga Conservation Society publications, and multi-institutional zoo-behaviour research.
 
 > **Identification standard:** The photographs show giraffes (**genus `Giraffa`**, high confidence). Their exact taxon/species, names, sex, age, kinship, the number currently living at the zoo, and the time the pictures were taken **cannot be established** from these photographs alone. Some animals show regular polygonal patches with cream-coloured borders, superficially reminiscent of reticulated giraffes; a coat-pattern resemblance is **not proof** of their species or ancestry.
 
-## 1. What the two photographs actually document
+## 1. What Josh's seven supplied photographs actually document
 
-The first photograph is a wider view of a wooded giraffe paddock. One tall giraffe stands in the foreground on compacted earth beside patches of green grass; several other giraffes are visible between trees around a timber-clad building with a pale roof, with fencing behind them. The foreground animal appears to be standing/turning its head, not eating. The animals are not reliably countable as a full herd because trees and bodies overlap; **at least six giraffes are visually discernible** in the wider image.
+The first two photographs, supplied in October 2026, show a wooded giraffe paddock. One tall giraffe stands in the foreground on compacted earth beside patches of green grass; several other giraffes are visible between trees around a timber-clad building with a pale roof, with fencing behind them. The foreground animal appears to be standing/turning its head, not eating. The animals are not reliably countable as a full herd because trees and bodies overlap; **at least six giraffes are visually discernible** in the wider image.
 
-The second image is a tighter view of a giraffe facing roughly toward the camera, with its paired ossicones (horn-like head structures), ears, long neck, forelegs and unique coat pattern visible; several giraffes are behind it. It may show the same foreground animal as the first image, but without a matching verified individual record, do not assert the same individual is proven.
+The second of that earlier pair is a tighter view of a giraffe facing roughly toward the camera, with its paired ossicones (horn-like head structures), ears, long neck, forelegs and unique coat pattern visible; several giraffes are behind it. It may show the same foreground animal as the first image, but without a matching verified individual record, do not assert the same individual is proven.
 
-Neither supplied copy has embedded EXIF/GPS metadata. They were **submitted** on 18 October 2026; that is **not** evidence of the capture date. The exhibit's appearance is consistent with Taronga Western Plains Zoo in Dubbo given the project context, but the photographs themselves do not geolocate the scene.
+None of the seven supplied copies has embedded EXIF/GPS metadata. The first pair was **submitted** on 18 October 2026 and a second five-photo boardwalk set was supplied on **15 November 2026**; those are submission dates, **not** evidence of capture dates. The exhibit's appearance is consistent with Taronga Western Plains Zoo in Dubbo given the project context, but the photographs themselves do not geolocate the scene.
 
 See [observation record](../observations/giraffes-undated.md) and [structured data](../data/observations.json) for per-photo checksums and uncertainties.
+
+
+### The five-photo boardwalk set supplied 15 November 2026
+
+The newer set adds a different kind of field evidence: the visitor-facing **boardwalk / elevated feeder area** rather than only a wider paddock view.
+
+- A landscape frame shows multiple giraffes close to the visitor platform and additional animals farther back among mature trees. It is useful context, but still not a complete herd census.
+- A close frame shows **two giraffes extending their necks toward the elevated feeder/platform area**.
+- Two portrait frames show head-and-neck detail, including ossicones, ears, face and individual coat patterns. Those patterns could support future photo-matching against a keeper-verified reference set, but do not reveal names or taxon by themselves.
+- One frame shows a giraffe with its head positioned at the **green elevated feeder**, with an ibis-like bird on the lower rail. The bird is simply a co-occurring animal in the frame; this photograph does not establish whether it is wild, habituated or part of any managed collection.
+- No recognisable visitors appear in these five supplied frames.
+
+Taronga's current visitor information independently says that its **daily Giraffe Encounter** allows guests to feed giraffes from the Zoo's Giraffe Boardwalk. That makes the boardwalk/feeder interpretation plausible, but it would be wrong to say Josh's photographs were taken during the paid encounter without a dated visit record or confirmation from Josh. [Taronga animal encounters](https://www.taronga.org.au/dubbo-zoo/encounters-and-experiences/animal-encounters).
 
 ## 2. Why giraffe taxonomy changed in 2025
 
@@ -78,11 +91,49 @@ Taronga's published [Giants & Aussie Icons itinerary](https://www.taronga.org.au
 4. Where do you think a long tongue is useful when browsing leaves?
 5. Why is protecting giraffes **in Africa**, as well as caring for them in zoos, important?
 
+
+## 9. Behaviour research — how to describe a moment without over-reading it
+
+A 2024 multi-institutional study analysed **66 giraffes across 18 AZA-accredited zoos**, using repeated 10-minute daytime observations. Feeding/foraging was the most common behaviour category in the study, averaging **38.6% of visible time**, but individuals varied widely. That is useful context for building an observation vocabulary; it is **not** a normal-range test for a giraffe photographed once at Dubbo and it cannot diagnose welfare from a still image. [Wark & Cronin 2024, PeerJ 12:e18164](https://peerj.com/articles/18164/).
+
+A 2025 follow-up multi-institutional analysis examined how housing, husbandry and other factors were associated with zoo giraffe behaviour. The practical lesson for this project is that behaviour needs **context, repeated observation and environmental information**. A single frame at a feeder should be coded as something like “head positioned at elevated feeder” or, if food/contact is directly visible, “feeding/foraging”; it should not be expanded into claims such as hunger, stress, dominance, preference or a routine daily schedule. [Wark & Cronin 2025, PLOS ONE 20:e0324248](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0324248).
+
+For Josh's field journal, useful visible categories include:
+
+| Directly codeable from a still/short sequence | Needs stronger evidence |
+| --- | --- |
+| standing, walking, head orientation | emotion or motivation |
+| head at/inside a feeder | exact food consumed or quantity |
+| browsing/feeding when mouth-food contact is visible | diet quality or hunger |
+| proximity/co-presence | friendship, kinship or dominance |
+| one or more animals visible | total herd size |
+| coat-pattern features | animal name or species lineage |
+
+This is deliberately conservative: **observation first, interpretation second**.
+
+## 10. Current visitor context checked 15 November 2026
+
+Taronga's current giraffe page still lists a **10:00 am Giraffe Encounter for Dubbo**, and its current encounter page describes the activity as feeding giraffes from the Zoo's **Giraffe Boardwalk** while keepers share information. The Giants & Aussie Icons itinerary also places the 10:00 am stop at **Map Ref. 14F**. These are current visitor-planning facts as checked on 15 November 2026; they can change and should be timestamped rather than hard-coded forever.
+
+The same Taronga giraffe page currently retains the older single-species label *Giraffa camelopardalis* and “Vulnerable”, while IUCN's specialist group now recognises **four species**. Dubbozoo therefore keeps the photographed animals at **Giraffa sp.** until their managed lineage is independently confirmed. A current visitor page and a current taxonomy authority are answering different questions; neither should silently overwrite the other.
+
+## 11. The 2025 conservation picture, species by species
+
+The IUCN SSC Giraffe and Okapi Specialist Group's 2025 review formally recognises four giraffe species after integrating genetic/genomic, morphological and biogeographic evidence. GCF's State of Giraffe 2025 estimates approximately:
+
+- **Northern giraffe:** 7,037; reported as increasing by roughly 20%, while remaining highly threatened.
+- **Reticulated giraffe:** 20,901; encouraging/increasing indications, with important survey-access limitations.
+- **Masai giraffe:** 43,926; broadly stable in the 2025 synthesis.
+- **Southern giraffe:** 68,837; reported strongly higher, with GCF explicitly noting that improved survey coverage contributes to the apparent increase.
+- **Combined estimate:** 140,701 wild giraffes across the four species.
+
+The headline should therefore not be “giraffes are recovered”. Three species show encouraging trends in the 2025 synthesis, but threats and uneven data quality remain, and conservation status now needs to be assessed **species by species** rather than through a single inherited global label.
+
 ## 8. Evidence and limitations
 
 - **Observed:** giraffe morphology, multiple animals, a wooded/grass-and-earth exhibit, building, fencing, approximate postures.
 - **Inferred:** Taronga Western Plains Zoo is plausible from project context; the animals may resemble reticulated giraffes.
 - **Published, dated:** IUCN/GCF taxonomy and wild estimates; Taronga herd updates and visitor information.
 - **Unknown:** sex, individuals' names, genetic lineage, birth dates, exhibit identity, photograph capture date, live zoo herd count.
-- **Photo archive:** SHA-256 values are retained in [observation register](../observations/giraffes-undated.md); binaries are **not yet in GitHub**. Do not misrepresent a missing image as displayed.
+- **Photo archive:** SHA-256 values and per-frame descriptions are retained in the structured observation register. Privacy-screened web derivatives of the five 15 November boardwalk photos are displayed inside Dubbozoo when available; the original full-resolution files remain separate from the public site.
 - **Future verification:** with keeper confirmation, store specific IDs and species classification with a dated reference; preserve this original uncertainty rather than rewriting the observation as if it had always been verified.

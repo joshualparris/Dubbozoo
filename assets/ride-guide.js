@@ -3,7 +3,7 @@
   'use strict';
   const el = id => document.getElementById(id);
   const KEY = 'dubbozoo-ride-viewing-pins-v1';
-  const S = {stops:[], photos:new Map(), videos:new Map(), stories:new Map(), photoEvidence:new Map(), photoAudit:null, audioMode:'family', speechToken:0, saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
+  const S = {stops:[], photos:new Map(), videos:new Map(), stories:new Map(), photoEvidence:new Map(), photoAudit:null, audioMode:'family', speechToken:0, playerActive:false, saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
   const radians = n => n * Math.PI / 180;
   function metres(a,b,c,d) {
     const deltaLat=radians(c-a),deltaLon=radians(d-b);
@@ -135,9 +135,98 @@
       b.addEventListener('click',()=>selectStop(stop.id));root.append(b);
     }
   }
+  // Video embeds are deliberately click-to-load: no YouTube requests before consent.
+  function closeKeeperVideo() {
+    const stage=el('keeper-stage');
+    stage.replaceChildren(); // Removing the iframe stops active YouTube playback.
+    stage.hidden=true;
+    el('keeper-play').hidden=false;
+    el('keeper-close').hidden=true;
+    S.playerActive=false;
+    el('keeper-privacy').textContent='Player closed. YouTube is not loaded again until you tap Play.';
+  }
+  function showKeeperFor(stop) {
+    const media=S.videos.get(stop.animalNumber);
+    const box=el('keeper-video');
+    closeKeeperVideo();
+    box.hidden=!media;
+    if(!media) {
+      el('video-link').hidden=true;
+      return;
+    }
+    el('keeper-title').textContent=media.title;
+    const kind=media.kind==='keeper talk'?'Keeper talk':'Real animal footage';
+    el('keeper-kind').textContent=kind;
+    el('keeper-info').textContent='Official '+media.channel+' · '+kind+
+      ' · published '+media.published+'. Historical recording, not a live feed or current animal roster.';
+    el('keeper-privacy').textContent='Tap Play to load the privacy-enhanced YouTube player here. The video will stop if you choose another animal.';
+    const external=el('video-link');
+    external.href='https://www.youtube.com/watch?v='+encodeURIComponent(media.youtube_id);
+    external.hidden=false;
+  }
+  function loadKeeperVideo() {
+    const stop=S.stops.find(x=>x.id===S.selected);
+    const media=stop&&S.videos.get(stop.animalNumber);
+    if(!media || !/^[A-Za-z0-9_-]{11}$/.test(media.youtube_id)) {
+      el('keeper-privacy').textContent='No valid official video is available for this animal.';
+      return;
+    }
+    stopVoice(); // Don't play synthetic narration over recorded keeper sound.
+    closeKeeperVideo();
+    const iframe=document.createElement('iframe');
+    iframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(media.youtube_id)+'?rel=0&playsinline=1';
+    iframe.title=media.title+' — official Taronga Zoo Sydney video';
+    iframe.allow='encrypted-media; picture-in-picture; fullscreen';
+    iframe.allowFullscreen=true;
+    iframe.referrerPolicy='strict-origin-when-cross-origin';
+    iframe.loading='eager';
+    el('keeper-stage').replaceChildren(iframe);
+    el('keeper-stage').hidden=false;
+    el('keeper-play').hidden=true;
+    el('keeper-close').hidden=false;
+    S.playerActive=true;
+    el('keeper-privacy').textContent='YouTube player loaded. Press Play inside the video. Stop & close removes the player and stops its sound.';
+  }
+  function renderKeeperLibrary() {
+    const root=el('keeper-library-items');
+    root.replaceChildren();
+    let talks=0, footage=0;
+    for(const media of S.videos.values()) {
+      const stop=S.stops.find(x=>x.animalNumber===media.animal_number);
+      if(!stop)continue;
+      if(media.kind==='keeper talk') talks++; else footage++;
+      const btn=document.createElement('button');
+      btn.type='button';
+      btn.className='keeper-library-item';
+      const name=document.createElement('strong');
+      name.textContent=stop.name.replace(/\s*·.*$/,'');
+      const kind=document.createElement('small');
+      kind.textContent=(media.kind==='keeper talk'?'🎙 Keeper talk':'🎥 Animal footage')+
+        ' · Taronga · '+media.published;
+      btn.append(name,kind);
+      btn.setAttribute('aria-label','Load official '+media.title+' in the ride guide');
+      btn.addEventListener('click',()=>{
+        // A deliberate choice from the library should override GPS auto-selection.
+        selectStop(stop.id,true);
+        S.manualUntil=Date.now()+120000;
+        loadKeeperVideo();
+        el('keeper-video').scrollIntoView({
+          behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'
+        });
+      });
+      root.append(btn);
+    }
+    el('keeper-count').textContent=talks+' keeper talks · '+footage+' animal video'+(footage===1?'':'s');
+    if(!root.children.length) {
+      const p=document.createElement('p');
+      p.textContent='No official keeper videos could be loaded from the local catalogue.';
+      root.append(p);
+    }
+  }
   function selectStop(id, automatic=false) {
     const stop=S.stops.find(s=>s.id===id);if(!stop)return;
     S.selected=id; if(!automatic) S.manualUntil=Date.now()+120000; stopVoice();
+    showKeeperFor(stop);
     el('animal-title').textContent=stop.name;
     el('animal-fact').textContent=stop.fact;
     el('animal-prompt').textContent=stop.prompt;
@@ -166,9 +255,6 @@
       img.onerror=()=>{el('image-empty').textContent='Photo unavailable; the research guide still works.'};
       img.src=pic.image_url;
     }
-    const media=S.videos.get(stop.animalNumber),video=el('video-link');
-    video.hidden=!media;
-    if(media)video.href='https://www.youtube.com/watch?v='+encodeURIComponent(media.youtube_id);
     renderList();renderMap();
     document.body.dataset.activeStopId=id;
     document.dispatchEvent(new CustomEvent('dubbozoo:stop-selected',{detail:{id,name:stop.name,animalNumber:stop.animalNumber}}));
@@ -186,7 +272,7 @@
   function maybeAutoSelect(speed) {
     // Two agreeing GPS fixes, close to a mapped exhibit and accurate enough.
     // Selecting the card does not start speech unless the visitor opted into audio.
-    if(!S.gps||S.demo||S.accuracy>65||Date.now()<S.manualUntil) return;
+    if(!S.gps||S.demo||S.accuracy>65||S.playerActive||Date.now()<S.manualUntil) return;
     if(metres(S.gps.lat,S.gps.lon,-32.279,148.582)>2500) return;
     const possible=S.stops.filter(s=>point(s)).map(s=>({stop:s,d:distanceTo(s)}))
       .sort((a,b)=>a.d-b.d);
@@ -291,9 +377,9 @@
         auditText.textContent=S.photoAudit.trackedPhotoCount+' exact supplied zoo JPEGs checked: '+S.photoAudit.filesWithGps+' retained GPS tags and '+S.photoAudit.filesWithAnyExif+' retained EXIF fields. Photos support animal/exhibit context but do not supply coordinates.';
       }
       if(p.ok){const imgs=await p.json();for(const x of imgs.entries||[])if(x.image_url&&x.licence)S.photos.set(x.number,x)}
-      if(m.ok){const vids=await m.json();for(const x of vids.videos||[])if(x.youtube_id)S.videos.set(x.animal_number,x)}
+      if(m.ok){const vids=await m.json();for(const x of vids.videos||[])if(x.youtube_id&&!S.videos.has(x.animal_number))S.videos.set(x.animal_number,x)}
       if(stories.ok){const aud=await stories.json();for(const x of aud.entries||[])if(x.family&&x.deep)S.stories.set(x.animalNumber,x)}
-      renderUnmapped();renderList();renderMap();selectStop('giraffe-north',true);
+      renderUnmapped();renderList();renderMap();renderKeeperLibrary();selectStop('giraffe-north',true);
     } catch(e) {
       el('nearby').textContent='Could not load the animal map. Please check your connection and reload.';
       setStatus('Animal map failed to load',String(e.message||e));
@@ -319,6 +405,8 @@
     S.audioMode=mode==='deep'?'deep':'family';stopVoice();
     const stop=S.stops.find(x=>x.id===S.selected);if(stop)displayScript(stop);
   });
+  el('keeper-play').addEventListener('click',loadKeeperVideo);
+  el('keeper-close').addEventListener('click',closeKeeperVideo);
   el('play-audio').addEventListener('click',listen);
   el('stop-audio').addEventListener('click',stopVoice);
   el('save-point').addEventListener('click',savePoint);
@@ -331,7 +419,7 @@
     S.saved={};try{localStorage.removeItem(KEY)}catch(e){}
     updatePosition();if(S.selected)selectStop(S.selected);
   });
-  document.addEventListener('visibilitychange',()=>{if(document.hidden)stopVoice()});
-  window.addEventListener('pagehide',()=>{stopVoice();if(S.watch!==null)stopGPS()});
+  document.addEventListener('visibilitychange',()=>{if(document.hidden){stopVoice();closeKeeperVideo()}});
+  window.addEventListener('pagehide',()=>{closeKeeperVideo();stopVoice();if(S.watch!==null)stopGPS()});
   init();
 })();

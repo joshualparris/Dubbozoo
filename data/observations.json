@@ -199,7 +199,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-01.b64",
+          "web_derivative_sha256": "4bff907453fdcaef22611b5eb3d4d96263c283781ec40f6eeff63311591752b1",
+          "web_derivative_width": 180,
+          "web_derivative_height": 135,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "image-1794713528976.jpg",
@@ -213,7 +218,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-02.b64",
+          "web_derivative_sha256": "f590a35b4f4898404db04f7c173df283a00fcdb49ab73622fbb9d6659af9ede1",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "image-1794713538063.jpg",
@@ -227,7 +237,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-03.b64",
+          "web_derivative_sha256": "a368ba024894715dd0d9965999520e284bcfd2f4e4c4882decafca79cdd43663",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "image-1794713545508.jpg",
@@ -241,7 +256,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-04.b64",
+          "web_derivative_sha256": "5343aad13e1dfbdeef811250442e5a764e70945f7d819ce8b2136bd0cbf1454c",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "image-1794713553183.jpg",
@@ -255,7 +275,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/giraffe-boardwalk-05.b64",
+          "web_derivative_sha256": "d4f690d9ab8cee66487b0ab02d91475ac6cbb8f1417120221504f3f55912097d",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         }
       ],
       "historical_zoo_numbers": [

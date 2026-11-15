@@ -809,6 +809,77 @@
     },
     {
       "id": "dubbozoo-obs-0007",
+      "common_name": "Asian elephant",
+      "scientific_name": "Elephas maximus",
+      "taxon_rank": "species",
+      "species_confirmed": false,
+      "taxon_explanation": "High-confidence photographic morphology is consistent with Asian elephant, but individual identity is not independently verified.",
+      "individual_names": null,
+      "sex": null,
+      "age": null,
+      "observed_at": null,
+      "observation_date_verified": false,
+      "record_created_at": "2026-11-15",
+      "timezone": "Australia/Sydney",
+      "venue_hypothesis": "Zoo exhibit consistent with Taronga Western Plains Zoo from conversation context; no photographic GPS evidence.",
+      "venue_verified": false,
+      "gps": null,
+      "source_type": "user_supplied_photographs",
+      "exif_present": false,
+      "subjects_visible_simultaneously": 1,
+      "subjects_visible_exact": null,
+      "subjects_visible_note": "One elephant is visible in each supplied frame; the stills do not prove both frames show the same individual.",
+      "observable_behaviours": [
+        "rear-left three-quarter standing/moving posture with trunk extended downward",
+        "side-profile posture with trunk curled upward near lower head"
+      ],
+      "behaviour_interpretation_limits": "Do not infer feeding, smelling, drinking, playing, self-touching, identity, sex, age, family relationship, clinical status, emotional state, direction of travel over time or gait from the stills.",
+      "photos": [
+        {
+          "original_filename": "image-1794714282696.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 382226,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "c22d25fa2e0264fc9c8b5ad6e6b5810cf425138196849deed0b76b305ca23c61",
+          "exif_present": false,
+          "description": "One elephant from a rear-left three-quarter angle in a sunlit sandy/grassy open enclosure; one hind leg appears advanced and the trunk is extended downward.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null
+        },
+        {
+          "original_filename": "image-1794714301993.jpg",
+          "mime_type": "image/jpeg",
+          "size_bytes": 382114,
+          "width": 1152,
+          "height": 1536,
+          "sha256": "97203bbdb2918726daa421d90d5708470d4edc92598bf74bfbdbae32e9ed0bec",
+          "exif_present": false,
+          "description": "One elephant in left-side profile behind a horizontal log, trunk curled upward near the lower head; a vehicle is faintly visible beyond exhibit fencing.",
+          "recognisable_people_visible": false,
+          "submission_batch": "2026-11-15",
+          "committed_binary": false,
+          "repository_path": null
+        }
+      ],
+      "sources": [
+        {
+          "type": "internal_research_review",
+          "url": "/docs/elephant-frontiers-2024-2026-2026-11-15.md",
+          "checked": "2026-11-15",
+          "note": "Recent elephant science review; species-level research must not be projected onto the pictured individual."
+        },
+        {
+          "type": "internal_observation_record",
+          "url": "/observations/asian-elephants-2026-11-15-submission.md",
+          "checked": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": "dubbozoo-obs-0008",
       "common_name": "African lion",
       "scientific_name": "Panthera leo",
       "taxon_rank": "species",
@@ -856,7 +927,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-01.b64",
+          "web_derivative_sha256": "792454ffedd19b73ae23a31043251dc179c9a9b180e8a8da03968f0a35c12c3d",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "1000109712.jpg",
@@ -870,7 +946,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-02.b64",
+          "web_derivative_sha256": "292c607b0249ffcacde3c6ffc6670ea76db8a395b21a3df2c55e73f2a936dbc0",
+          "web_derivative_width": 135,
+          "web_derivative_height": 180,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "1000109713.jpg",
@@ -884,7 +965,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-03.b64",
+          "web_derivative_sha256": "1a20136022db33fe61ef755f7e0021913ecf711c9c7e606bf8fb385a4f24de69",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "1000109706.jpg",
@@ -898,7 +984,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-04.b64",
+          "web_derivative_sha256": "b0206f920dcd870ec8a77e959333347c1ce6b130a37d9e9123bfeae133a1a3d4",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "1000109705.jpg",
@@ -912,7 +1003,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-05.b64",
+          "web_derivative_sha256": "48e93beb431560822ee4b9d23d025617502e6d6b15d163aa2be3fbac4a4656b7",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         },
         {
           "original_filename": "1000109704.jpg",
@@ -926,7 +1022,12 @@
           "recognisable_people_visible": false,
           "submission_batch": "2026-11-15",
           "committed_binary": false,
-          "repository_path": null
+          "repository_path": null,
+          "web_derivative_path": "data/lion-field-06.b64",
+          "web_derivative_sha256": "b6cecdf9a22c375128aa3d64c5252e3ff8495188e9f4479494cdda9c4546b607",
+          "web_derivative_width": 90,
+          "web_derivative_height": 120,
+          "web_derivative_note": "Privacy-screened, downscaled JPEG derivative for public Dubbozoo display; original full-resolution supplied copy remains separate."
         }
       ],
       "sources": [

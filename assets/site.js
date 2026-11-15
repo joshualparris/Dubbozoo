@@ -126,3 +126,117 @@
     questionSearch.addEventListener('input',renderQuestions);
   }
 })();
+
+'use strict';
+(() => {
+  // Dubbozoo discovery media — field journal, timeline and privacy-safe story player.
+  const journalCards = Array.from(document.querySelectorAll('.journal-card'));
+  const animalCards = Array.from(document.querySelectorAll('.animal-card'));
+  const findAnimalCard = number => animalCards.find(card => {
+    const label = card.querySelector('.animal-number');
+    return label && label.textContent.replace(/\D/g,'').padStart(3,'0') === String(number).padStart(3,'0');
+  });
+  journalCards.forEach(card => {
+    const source = findAnimalCard(card.dataset.animalNumber);
+    const img = source && source.querySelector('.animal-photo img');
+    const target = card.querySelector('.journal-photo');
+    if (img && target) target.style.backgroundImage = 'linear-gradient(0deg,rgba(13,45,37,.12),rgba(13,45,37,.04)),url("' + img.src.replace(/"/g,'%22') + '")';
+  });
+
+  document.querySelectorAll('[data-timeline-filter]').forEach(button => button.addEventListener('click', () => {
+    const selected = button.dataset.timelineFilter;
+    document.querySelectorAll('[data-timeline-filter]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+    document.querySelectorAll('.timeline-item').forEach(item => item.hidden = selected !== 'all' && item.dataset.timelineKind !== selected);
+  }));
+
+  const speechSupport = document.getElementById('speech-support');
+  const narrationNow = document.getElementById('narration-now');
+  const canSpeak = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+  let currentUtterance = null;
+  const speak = (text, label) => {
+    if (!canSpeak || !text) {
+      if (narrationNow) narrationNow.textContent = 'Narration is not available in this browser.';
+      return;
+    }
+    window.speechSynthesis.cancel();
+    currentUtterance = new SpeechSynthesisUtterance(text);
+    currentUtterance.lang = 'en-AU';
+    currentUtterance.rate = 0.96;
+    currentUtterance.onend = () => { currentUtterance = null; };
+    if (narrationNow) narrationNow.textContent = 'Now listening: ' + (label || 'Dubbozoo field journal');
+    window.speechSynthesis.speak(currentUtterance);
+  };
+  if (speechSupport) speechSupport.textContent = canSpeak ? 'Narration available on this device ✓' : 'Narration unavailable in this browser';
+  journalCards.forEach(card => {
+    const button = card.querySelector('.listen-inline');
+    if (button) button.addEventListener('click', () => speak(card.dataset.narration, card.dataset.storyTitle));
+  });
+  const tourButton = document.getElementById('listen-tour');
+  if (tourButton) tourButton.addEventListener('click', () => {
+    const tour = journalCards.map(card => card.dataset.narration).filter(Boolean).join(' Next stop. ');
+    speak('Welcome to the Dubbozoo field journal highlights tour. ' + tour, 'six-stop highlights tour');
+  });
+  const pauseButton = document.getElementById('pause-narration');
+  if (pauseButton) pauseButton.addEventListener('click', () => {
+    if (!canSpeak) return;
+    if (window.speechSynthesis.paused) window.speechSynthesis.resume(); else if (window.speechSynthesis.speaking) window.speechSynthesis.pause();
+  });
+  const stopButton = document.getElementById('stop-narration');
+  if (stopButton) stopButton.addEventListener('click', () => {
+    if (canSpeak) window.speechSynthesis.cancel();
+    currentUtterance = null;
+    if (narrationNow) narrationNow.textContent = 'Narration stopped. Choose a story whenever you are ready.';
+  });
+
+  const stories = journalCards.map(card => {
+    const photo = card.querySelector('.journal-photo');
+    return {
+      title: card.dataset.storyTitle || '',
+      caption: card.dataset.storyCaption || '',
+      image: photo ? photo.style.backgroundImage : ''
+    };
+  });
+  let storyIndex = 0, storyTimer = null;
+  const storyImage = document.getElementById('story-image');
+  const storyTitle = document.getElementById('story-title');
+  const storyCaption = document.getElementById('story-caption');
+  const storyCounter = document.getElementById('story-counter');
+  const storyPlay = document.getElementById('story-play');
+  const renderStory = index => {
+    if (!stories.length) return;
+    storyIndex = (index + stories.length) % stories.length;
+    const story = stories[storyIndex];
+    if (storyImage) {
+      storyImage.style.backgroundImage = story.image || 'linear-gradient(145deg,#426953,#162f28)';
+      storyImage.classList.remove('story-fade');
+      void storyImage.offsetWidth;
+      storyImage.classList.add('story-fade');
+    }
+    if (storyTitle) storyTitle.textContent = story.title;
+    if (storyCaption) storyCaption.textContent = story.caption;
+    if (storyCounter) storyCounter.textContent = 'Story ' + (storyIndex + 1) + ' of ' + stories.length;
+  };
+  const stopStory = () => {
+    if (storyTimer) window.clearInterval(storyTimer);
+    storyTimer = null;
+    if (storyPlay) storyPlay.textContent = '▶ Auto-play';
+  };
+  const startStory = () => {
+    stopStory();
+    storyTimer = window.setInterval(() => renderStory(storyIndex + 1), 6500);
+    if (storyPlay) storyPlay.textContent = 'Ⅱ Pause story';
+  };
+  const prev = document.getElementById('story-prev'), next = document.getElementById('story-next');
+  if (prev) prev.addEventListener('click', () => { stopStory(); renderStory(storyIndex - 1); });
+  if (next) next.addEventListener('click', () => { stopStory(); renderStory(storyIndex + 1); });
+  if (storyPlay) storyPlay.addEventListener('click', () => storyTimer ? stopStory() : startStory());
+  journalCards.forEach((card, index) => {
+    const button = card.querySelector('.watch-inline');
+    if (button) button.addEventListener('click', () => {
+      stopStory(); renderStory(index);
+      const target = document.getElementById('listen-watch');
+      if (target) target.scrollIntoView({behavior:'smooth',block:'start'});
+    });
+  });
+  renderStory(0);
+})();

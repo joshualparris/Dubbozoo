@@ -1,12 +1,18 @@
 {
-  "version": 1,
+  "version": 2,
   "reviewed": "2026-11-15",
   "site": "Taronga Western Plains Zoo, Dubbo, NSW, Australia",
-  "method": "Mapped points are OpenStreetMap community animal-attraction pins and may be approximate, out of date, or inside exhibits, not public viewpoint or route coordinates. Unmapped exhibits have no invented coordinates: user can save viewing spots on device. Official zoo map grids are independent of GPS.",
+  "method": "GPS coordinates remain source-graded. Existing finite coordinates are OpenStreetMap community animal-attraction points and may be approximate, outdated, or inside habitats rather than public viewing positions. All 36 exact supplied zoo JPEG copies currently tracked in data/observations.json were audited for EXIF: none retains EXIF, GPS or capture timestamps. Therefore photographs are used only as animal/exhibit evidence, never converted into invented latitude/longitude. Official Taronga map-grid references remain non-GPS until a reliable coordinate source or an explicitly saved on-site viewing position exists.",
   "mapSource": "https://www.taronga.org.au/siteassets/tzwp/files/twpz-map-online.pdf",
   "mapSourcesExtra": [
     "https://www.taronga.org.au/dubbo-zoo/plan/visitor-information",
-    "https://www.openstreetmap.org/copyright"
+    "https://www.openstreetmap.org/copyright",
+    "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons",
+    "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/african-adventure",
+    "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/around-the-globe-express",
+    "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/lion-pride-lands",
+    "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia",
+    "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole"
   ],
   "points": [
     {
@@ -21,7 +27,11 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093046",
       "fact": "Giraffes have remarkable circulation systems that help supply blood to their brains despite their height.",
       "prompt": "Look for individual coat-pattern shapes. Each giraffe has a distinctive pattern, but matching an animal to a name needs keeper records.",
-      "profile": "/animals/013-giraffe"
+      "profile": "/animals/013-giraffe",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point",
+      "officialMapRef": "Giraffe Boardwalk / encounter 14F (current web itinerary)",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons"
     },
     {
       "id": "giraffe-south",
@@ -35,7 +45,11 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147234681",
       "fact": "Giraffes use a long, prehensile tongue and flexible lips to browse trees.",
       "prompt": "Can you see browsing versus simply standing? Don't assume every giraffe you see has the same name or lineage.",
-      "profile": "/animals/013-giraffe"
+      "profile": "/animals/013-giraffe",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point",
+      "officialMapRef": "Giraffe visitor area 14F (current web itinerary; this OSM point is not claimed as the photo camera position)",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons"
     },
     {
       "id": "zebra-east",
@@ -49,7 +63,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093045",
       "fact": "Zebra stripes vary between individuals and may help reduce biting-fly landings in some settings.",
       "prompt": "Notice how the stripes continue across the legs and shoulders. Patterns can help identify individuals with verified photos.",
-      "profile": "/animals/017-plains-zebra"
+      "profile": "/animals/017-plains-zebra",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "zebra-south",
@@ -63,7 +79,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147234680",
       "fact": "Wild zebras live with complex social relationships and use body posture, sound and smell to communicate.",
       "prompt": "Try watching whether two zebras stay close or take turns moving — without guessing why from a single moment.",
-      "profile": "/animals/017-plains-zebra"
+      "profile": "/animals/017-plains-zebra",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "hippo",
@@ -77,7 +95,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093146",
       "fact": "Hippos spend much of the day in or near water, but they feed mainly on land.",
       "prompt": "Check what is directly visible above the waterline. A submerged hippo can be hard to count.",
-      "profile": "/animals/010-common-hippopotamus"
+      "profile": "/animals/010-common-hippopotamus",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "bongo",
@@ -91,7 +111,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093047",
       "fact": "Bongos are forest antelopes with striking vertical stripes that help break up their outline among vegetation.",
       "prompt": "Can you spot the ears before the body? A stripe is a camouflage feature, not proof of an animal's sex.",
-      "profile": "/animals/012-eastern-bongo"
+      "profile": "/animals/012-eastern-bongo",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "eland",
@@ -105,7 +127,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093101",
       "fact": "Eland are among the world's largest antelopes and can move with surprising agility.",
       "prompt": "Compare the body shape and horns with other antelopes nearby. What can you identify confidently?",
-      "profile": "/animals/009-common-eland"
+      "profile": "/animals/009-common-eland",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "white-rhino",
@@ -119,7 +143,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093159",
       "fact": "The white rhino's broad lips suit grazing. Its name does not mean it must be white in colour.",
       "prompt": "Watch how the muzzle comes close to grass. Contrast a grazer's lip shape with browsing black rhinos.",
-      "profile": "/animals/020-white-rhinoceros"
+      "profile": "/animals/020-white-rhinoceros",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "black-rhino",
@@ -133,7 +159,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093012",
       "fact": "Black rhinos have an upper lip that helps grasp leaves and twigs.",
       "prompt": "See whether it browses branches instead of short grass. Keep a respectful distance and never feed wildlife.",
-      "profile": "/animals/007-black-rhinoceros"
+      "profile": "/animals/007-black-rhinoceros",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "siamang",
@@ -147,7 +175,11 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10148489372",
       "fact": "Siamangs move through trees using long arms; they also have a throat sac used in powerful calls.",
       "prompt": "Listen for a duet if the animals are calling; silence is also normal. The keeper video records real siamang sounds.",
-      "profile": "/animals/032-siamang"
+      "profile": "/animals/032-siamang",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point",
+      "officialMapRef": "Wild Asia / siamang 12Q",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/wild-asia"
     },
     {
       "id": "otters",
@@ -161,7 +193,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10148489380",
       "fact": "Asian small-clawed otters use their sensitive front paws to explore food and surfaces.",
       "prompt": "Look for paw movements near the water rather than assuming a particular activity without seeing it.",
-      "profile": "/animals/025-asian-small-clawed-otter"
+      "profile": "/animals/025-asian-small-clawed-otter",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "tiger-east",
@@ -175,7 +209,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/12533019501",
       "fact": "Sumatran tigers are forest-adapted predators, and individuals can be difficult to spot among dense vegetation.",
       "prompt": "What colours and shapes blend into the foliage? A hidden tiger does not mean the exhibit is empty.",
-      "profile": "/animals/033-sumatran-tiger"
+      "profile": "/animals/033-sumatran-tiger",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "tiger-west",
@@ -189,7 +225,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/12533019601",
       "fact": "A tiger's stripe pattern is individual, but a distant visitor photo does not prove which named tiger is visible.",
       "prompt": "Notice the difference between observing an animal and knowing its identity.",
-      "profile": "/animals/033-sumatran-tiger"
+      "profile": "/animals/033-sumatran-tiger",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "lemurs",
@@ -203,7 +241,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147093121",
       "fact": "Ring-tailed lemurs use their long striped tails in visual communication and balance.",
       "prompt": "Count how many are clearly visible; don't assume you have counted the entire group.",
-      "profile": "/animals/018-ring-tailed-lemur"
+      "profile": "/animals/018-ring-tailed-lemur",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "fallow-deer",
@@ -217,7 +257,9 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10155973751",
       "fact": "Fallow deer are highly variable in colour, even within one species.",
       "prompt": "Can you distinguish body markings from shadow in the trees?",
-      "profile": "/animals/061-european-fallow-deer"
+      "profile": "/animals/061-european-fallow-deer",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "addax",
@@ -231,102 +273,196 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10147293058",
       "fact": "Addax are desert-adapted antelopes, with broad hooves that help when moving over sandy ground.",
       "prompt": "Look for their distinctive spiral horns and where their hooves contact the ground.",
-      "profile": "/animals/001-addax"
+      "profile": "/animals/001-addax",
+      "coordinateClass": "community_osm",
+      "coordinateLabel": "OpenStreetMap community exhibit point"
     },
     {
       "id": "elephant",
       "name": "Asian elephants",
       "animalNumber": 24,
       "kind": "elephant",
-      "mapRef": "Keeper talk 9J; encounter 8K",
+      "mapRef": "9J (current keeper-viewing itinerary); encounter 8K",
       "fact": "Asian elephants use trunk whiskers and sensitive skin to examine objects. Recent research reveals just how specialised these structures are.",
       "prompt": "Watch what the trunk touches, but don't infer the elephant's identity or intention from a still.",
       "profile": "/animals/024-asian-elephant",
       "officialVideo": true,
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga map-grid references + photo-backed field observation; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons"
     },
     {
       "id": "wild-dog",
       "name": "African wild dogs",
       "animalNumber": 4,
       "kind": "dog",
-      "mapRef": "Gateway to Africa area",
+      "mapRef": "19B (current African Adventure)",
       "fact": "Wild dogs have complex pack cooperation, but the number visible from a path is not a full pack count.",
       "prompt": "Notice markings, direction of travel and interactions rather than naming an individual without confirmation.",
       "profile": "/animals/004-african-wild-dog",
       "officialVideo": true,
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga map-grid reference + photo-backed field observation; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/african-adventure"
     },
     {
       "id": "meerkat",
       "name": "Meerkats · The Waterhole",
       "animalNumber": 15,
       "kind": "meerkat",
-      "mapRef": "The Waterhole 2R",
+      "mapRef": "The Waterhole 3R; keeper talk 2R",
       "fact": "Meerkats live in social groups and take turns watching for danger, but standing upright does not by itself identify the duty an individual has.",
       "prompt": "Can you see more than one animal using different positions?",
       "profile": "/animals/015-meerkat",
       "officialVideo": true,
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga Waterhole/map-grid context + photo-backed probable-meerkat observation; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/waterhole"
     },
     {
       "id": "galapagos-tortoise",
       "name": "Galápagos giant tortoises",
       "animalNumber": 23,
       "kind": "tortoise",
-      "mapRef": "Keeper talk 23L",
+      "mapRef": "23L (current keeper talk)",
       "fact": "Galápagos giant tortoises belong to different island lineages; shell shape alone cannot confirm an individual animal's origin.",
       "prompt": "Look at the shell, feet and head and describe what is visible before guessing age or sex.",
       "profile": "/animals/023-gal-pagos-tortoise",
       "officialVideo": true,
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga map-grid reference + photo-backed field observation; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/giants-aussie-icons"
     },
     {
       "id": "lion",
       "name": "African lions · Pride Lands",
       "animalNumber": 3,
       "kind": "lion",
-      "mapRef": "Lion Pride Lands area",
+      "mapRef": "Lion Pride Lands 19R; secondary African Adventure view 17P",
       "fact": "Lions often rest for long periods, especially in warm weather. The whole pride may not be visible at once.",
       "prompt": "How many lions can you actually see, and how many might be behind vegetation?",
       "profile": "/animals/003-african-lion",
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga Lion Pride Lands/map-grid references + photo-backed field observation; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/lion-pride-lands"
     },
     {
       "id": "cheetah",
       "name": "Cheetahs",
       "animalNumber": 8,
       "kind": "cheetah",
-      "mapRef": "Keeper talk 9G",
+      "mapRef": "9G (current African Adventure)",
       "fact": "Cheetahs are built for acceleration, with a flexible spine and long legs.",
       "prompt": "Can you spot the dark facial tear marks? Remember their exhibit space is not a racing track.",
       "profile": "/animals/008-cheetah",
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga map-grid reference; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/african-adventure"
     },
     {
       "id": "one-horned-rhino",
       "name": "Greater one-horned rhinoceroses",
       "animalNumber": 29,
       "kind": "rhino",
-      "mapRef": "Wild Asia, encounter point 9S",
+      "mapRef": "9R (current visitor stop); encounter 9S",
       "fact": "The folds of one-horned rhino skin can resemble armour plates, but the skin is living, sensitive tissue.",
       "prompt": "Compare its single horn and body folds with the African rhinoceroses.",
       "profile": "/animals/029-greater-one-horned-rhinoceros",
       "lat": null,
       "lon": null,
-      "sourceType": "Official zoo map label / keeper point only; GPS not verified"
+      "sourceType": "Current Taronga map-grid references; GPS not verified",
+      "coordinateClass": "official_grid_only",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/plan/get-the-most-out-of-your-visit/around-the-globe-express"
     }
-  ]
+  ],
+  "photoGeodataAudit": {
+    "auditedAt": "2026-11-15",
+    "trackedPhotoCount": 36,
+    "observationCount": 8,
+    "animalGroups": 7,
+    "filesWithAnyExif": 0,
+    "filesWithGps": 0,
+    "filesWithCaptureTimestamp": 0,
+    "conclusion": "No embedded camera geodata survived in any of the 36 exact supplied JPEG copies. Photo sets support animal/exhibit context only; they do not independently verify a GPS pin.",
+    "method": "Matched observation filenames and byte sizes to exact Library JPEG copies, then inspected raw JPEG EXIF/GPS metadata.",
+    "source": "data/observations.json + exact user-supplied JPEG copies"
+  },
+  "photoEvidenceByAnimal": {
+    "3": {
+      "commonName": "African lion",
+      "count": 6,
+      "observationIds": [
+        "dubbozoo-obs-0008"
+      ],
+      "gpsTagsPresent": false,
+      "note": "Three shaded-resting frames and three elevated-log frames. No retained GPS/EXIF; photos do not identify the exact lion or camera position."
+    },
+    "4": {
+      "commonName": "African wild dog",
+      "count": 5,
+      "observationIds": [
+        "dubbozoo-obs-0001"
+      ],
+      "gpsTagsPresent": false,
+      "note": "Five supplied wild-dog frames support a Dubbo zoo field observation, but contain no retained GPS/EXIF."
+    },
+    "13": {
+      "commonName": "Giraffe",
+      "count": 7,
+      "observationIds": [
+        "dubbozoo-obs-0002"
+      ],
+      "gpsTagsPresent": false,
+      "note": "Seven giraffe photos include Boardwalk/feeder-area context. No retained GPS/EXIF; the photos do not establish which OSM giraffe point was the camera position."
+    },
+    "15": {
+      "commonName": "Meerkat (probable)",
+      "count": 1,
+      "observationIds": [
+        "dubbozoo-obs-0006"
+      ],
+      "gpsTagsPresent": false,
+      "note": "One probable-meerkat frame. No retained GPS/EXIF; current Waterhole map context is external evidence, not image geodata."
+    },
+    "23": {
+      "commonName": "Galápagos giant tortoise",
+      "count": 4,
+      "observationIds": [
+        "dubbozoo-obs-0004"
+      ],
+      "gpsTagsPresent": false,
+      "note": "Four supplied tortoise frames. No retained GPS/EXIF; current 23L map reference is external official-map evidence."
+    },
+    "24": {
+      "commonName": "Asian elephant",
+      "count": 7,
+      "observationIds": [
+        "dubbozoo-obs-0005",
+        "dubbozoo-obs-0007"
+      ],
+      "gpsTagsPresent": false,
+      "note": "Seven elephant photos across two submissions. No retained GPS/EXIF; current elephant map references are external official-map evidence."
+    },
+    "32": {
+      "commonName": "Siamang",
+      "count": 6,
+      "observationIds": [
+        "dubbozoo-obs-0003"
+      ],
+      "gpsTagsPresent": false,
+      "note": "Six supplied siamang/habitat frames. No retained GPS/EXIF; the OSM point remains community geodata rather than camera geodata."
+    }
+  }
 }

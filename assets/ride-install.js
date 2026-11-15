@@ -44,10 +44,11 @@
   }
   if(installed()){install.disabled=true;status('App mode is active.')}
   else status('Add this guide to your Android home screen for easy access.');
+  offlineCheck();
   if('serviceWorker' in navigator){
     navigator.serviceWorker.ready.then(offlineCheck).catch(offlineCheck);
     navigator.serviceWorker.addEventListener('controllerchange',offlineCheck);
-  }else offlineCheck();
+  }
   window.addEventListener('online',offlineCheck);
   window.addEventListener('offline',()=>{
     offlineCheck();

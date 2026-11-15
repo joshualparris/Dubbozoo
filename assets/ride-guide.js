@@ -3,7 +3,7 @@
   'use strict';
   const el = id => document.getElementById(id);
   const KEY = 'dubbozoo-ride-viewing-pins-v1';
-  const S = {stops:[], photos:new Map(), videos:new Map(), saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false};
+  const S = {stops:[], photos:new Map(), videos:new Map(), saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
   const radians = n => n * Math.PI / 180;
   function metres(a,b,c,d) {
     const deltaLat=radians(c-a),deltaLon=radians(d-b);
@@ -111,9 +111,9 @@
       b.textContent=stop.name;b.addEventListener('click',()=>selectStop(stop.id));root.append(b);
     }
   }
-  function selectStop(id) {
+  function selectStop(id, automatic=false) {
     const stop=S.stops.find(s=>s.id===id);if(!stop)return;
-    S.selected=id;stopVoice();
+    S.selected=id; if(!automatic) S.manualUntil=Date.now()+120000; stopVoice();
     el('animal-title').textContent=stop.name;
     el('animal-fact').textContent=stop.fact;
     el('animal-prompt').textContent=stop.prompt;
@@ -144,7 +144,7 @@
     video.hidden=!media;
     if(media)video.href='https://www.youtube.com/watch?v='+encodeURIComponent(media.youtube_id);
     renderList();renderMap();
-    el('animal-section').scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    if(!automatic) el('animal-section').scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
   }
   function updatePosition() {
     const stop=S.stops.find(s=>s.id===S.selected);
@@ -155,6 +155,21 @@
     }
     renderList();renderMap();
   }
+  function maybeAutoSelect(speed) {
+    // Two agreeing GPS fixes, close to a mapped exhibit and accurate enough.
+    // Selecting the card does not start speech unless the visitor opted into audio.
+    if(!S.gps||S.demo||S.accuracy>65||Date.now()<S.manualUntil) return;
+    const possible=S.stops.filter(s=>point(s)).map(s=>({stop:s,d:distanceTo(s)}))
+      .sort((a,b)=>a.d-b.d);
+    const first=possible[0];
+    if(!first||first.d>Math.max(65,115-S.accuracy)){S.candidate=null;S.candidateHits=0;return}
+    if(S.candidate===first.stop.id) S.candidateHits++; else {S.candidate=first.stop.id;S.candidateHits=1}
+    if(S.candidateHits<2||S.selected===first.stop.id)return;
+    selectStop(first.stop.id,true);
+    if(S.autoNotes&&!document.hidden&&Number.isFinite(speed)&&speed<=0.8&&S.lastAutoNarrated!==first.stop.id){
+      listen();S.lastAutoNarrated=first.stop.id;
+    }
+  }
   function onPosition(pos) {
     const lat=pos.coords.latitude,lon=pos.coords.longitude,accuracy=pos.coords.accuracy;
     if(!Number.isFinite(lat)||!Number.isFinite(lon))return;
@@ -162,11 +177,12 @@
     const within=metres(lat,lon,-32.279,148.582)<2500;
     setStatus(within?'GPS active — exhibit distances updating':'GPS active — apparently outside the zoo',
       'Approximate accuracy '+Math.round(S.accuracy)+' m. The phone locates you, not individual animals.');
+    maybeAutoSelect(pos.coords.speed);
     updatePosition();
   }
   function stopGPS() {
     if(S.watch!==null&&navigator.geolocation) navigator.geolocation.clearWatch(S.watch);
-    S.watch=null;S.gps=null;S.accuracy=Infinity;S.demo=false;
+    S.watch=null;S.gps=null;S.accuracy=Infinity;S.demo=false;S.candidate=null;S.candidateHits=0;stopVoice();
     el('start-gps').disabled=false;el('stop-gps').disabled=true;
     setStatus('Location switched off','No position is sent to this site. You can explore animals manually.');
     updatePosition();
@@ -180,7 +196,7 @@
   function startGPS() {
     if(!window.isSecureContext||!navigator.geolocation){setStatus('GPS is unavailable','Open the HTTPS site in a browser with location permissions.');return}
     if(S.watch!==null)navigator.geolocation.clearWatch(S.watch);
-    S.watch=null;S.demo=false;
+    S.watch=null;S.demo=false;S.manualUntil=0;
     setStatus('Finding your GPS position…','Allow precise location when your browser asks.');
     el('start-gps').disabled=true;el('stop-gps').disabled=false;
     S.watch=navigator.geolocation.watchPosition(onPosition,onGeoError,{enableHighAccuracy:true,timeout:20000,maximumAge:8000});
@@ -236,6 +252,12 @@
     setStatus('Demo preview — not actual GPS','This is a simulated position near a mapped giraffe point. Use Start GPS for your location.');
     selectStop('giraffe-north');
   });
+  el('auto-notes').addEventListener('click',()=>{
+    S.autoNotes=!S.autoNotes;
+    el('auto-notes').setAttribute('aria-pressed',String(S.autoNotes));
+    el('auto-notes').textContent=S.autoNotes?'Auto-audio on (when stopped)':'Auto-audio off';
+    if(!S.autoNotes)stopVoice();
+  });
   el('show-all').addEventListener('click',()=>{S.expanded=!S.expanded;renderList()});
   el('play-audio').addEventListener('click',listen);
   el('stop-audio').addEventListener('click',stopVoice);
@@ -249,6 +271,7 @@
     S.saved={};try{localStorage.removeItem(KEY)}catch(e){}
     updatePosition();if(S.selected)selectStop(S.selected);
   });
+  document.addEventListener('visibilitychange',()=>{if(document.hidden)stopVoice()});
   window.addEventListener('pagehide',()=>{stopVoice();if(S.watch!==null)stopGPS()});
   init();
 })();

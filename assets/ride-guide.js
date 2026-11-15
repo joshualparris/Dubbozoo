@@ -3,7 +3,7 @@
   'use strict';
   const el = id => document.getElementById(id);
   const KEY = 'dubbozoo-ride-viewing-pins-v1';
-  const S = {stops:[], photos:new Map(), videos:new Map(), stories:new Map(), audioMode:'family', speechToken:0, saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
+  const S = {stops:[], photos:new Map(), videos:new Map(), stories:new Map(), photoEvidence:new Map(), photoAudit:null, audioMode:'family', speechToken:0, saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
   const radians = n => n * Math.PI / 180;
   function metres(a,b,c,d) {
     const deltaLat=radians(c-a),deltaLon=radians(d-b);
@@ -25,9 +25,14 @@
     } catch(e) {}
   }
   function saveSaved() {try{localStorage.setItem(KEY,JSON.stringify(S.saved));return true}catch(e){return false}}
+  function evidenceFor(stop) {return S.photoEvidence.get(Number(stop.animalNumber))||null}
+  function photoLine(stop) {
+    const e=evidenceFor(stop);
+    return e ? '📷 '+e.count+' supplied photo'+(e.count===1?'':'s')+' audited · no embedded GPS/EXIF' : '';
+  }
   function point(stop) {
     if (valid(S.saved[stop.id])) return {...S.saved[stop.id],from:'my saved viewing spot'};
-    if (Number.isFinite(stop.lat)&&Number.isFinite(stop.lon)) return {lat:stop.lat,lon:stop.lon,from:'OpenStreetMap exhibit point'};
+    if (Number.isFinite(stop.lat)&&Number.isFinite(stop.lon)) return {lat:stop.lat,lon:stop.lon,from:stop.coordinateLabel||'community-mapped exhibit point'};
     return null;
   }
   function distanceTo(stop) {const p=point(stop);return p&&S.gps?metres(S.gps.lat,S.gps.lon,p.lat,p.lon):null}
@@ -72,7 +77,8 @@
     for(const stop of S.stops){
       const p=point(stop);if(!p)continue;
       const c=xy(p.lat,p.lon);if(!Number.isFinite(c.x)||!Number.isFinite(c.y))continue;
-      const marker=make('circle',{cx:c.x,cy:c.y,r:stop.id===S.selected?10:6,class:stop.id===S.selected?'map-pin active':'map-pin',role:'button',tabindex:'0','aria-label':'Open '+stop.name});
+      const hasPhotos=!!evidenceFor(stop);
+      const marker=make('circle',{cx:c.x,cy:c.y,r:stop.id===S.selected?11:(hasPhotos?8:6),class:(stop.id===S.selected?'map-pin active':'map-pin')+(hasPhotos?' photo-backed':''),role:'button',tabindex:'0','aria-label':'Open '+stop.name+(hasPhotos?' — supported by supplied photo observations':'')});
       marker.addEventListener('click',()=>selectStop(stop.id));
       marker.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();selectStop(stop.id)}});
       shown++;
@@ -89,7 +95,8 @@
     el('map-note').textContent=S.demo?'SIMULATED location — this is not your GPS.':
       S.gps?'Your green dot represents phone GPS; the ring shows reported uncertainty.':
       'Activate GPS to place your location on this plot.';
-    el('map-count').textContent=shown+' point markers';
+    const photoGroups=new Set(S.stops.filter(s=>evidenceFor(s)).map(s=>Number(s.animalNumber))).size;
+    el('map-count').textContent=shown+' GPS points · '+photoGroups+' photo-backed animal groups';
   }
   function renderList() {
     const list=el('nearby');list.replaceChildren();
@@ -109,7 +116,8 @@
       b.setAttribute('aria-pressed',String(stop.id===S.selected));
       const left=document.createElement('span'),title=document.createElement('strong'),hint=document.createElement('small'),right=document.createElement('span');
       title.textContent=stop.name;
-      hint.textContent=S.saved[stop.id]?'Your saved viewing spot':'Community-mapped exhibit';
+      const ev=evidenceFor(stop);
+      hint.textContent=S.saved[stop.id]?'Your saved viewing spot':ev?'📷 '+ev.count+' supplied photos · community GPS pin':'Community-mapped exhibit';
       right.className='dist';const d=distanceTo(stop);right.textContent=d===null?'Explore':fmt(d);
       left.append(title,hint);b.append(left,right);b.addEventListener('click',()=>selectStop(stop.id));list.append(b);
     }
@@ -121,7 +129,10 @@
     const root=el('unmapped-items');root.replaceChildren();
     for(const stop of S.stops.filter(s=>!Number.isFinite(s.lat))) {
       const b=document.createElement('button');b.className='small-stop';b.type='button';
-      b.textContent=stop.name;b.addEventListener('click',()=>selectStop(stop.id));root.append(b);
+      const ev=evidenceFor(stop);
+      b.textContent=(ev?'📷 ':'')+stop.name+(stop.mapRef?' · '+stop.mapRef:'');
+      b.title=ev?ev.count+' supplied photos audited; no embedded GPS/EXIF. Official map-grid only.':'Official map-grid only; no verified GPS point.';
+      b.addEventListener('click',()=>selectStop(stop.id));root.append(b);
     }
   }
   function selectStop(id, automatic=false) {
@@ -134,10 +145,11 @@
     displayScript(stop);
     const p=point(stop),dist=distanceTo(stop);
     el('animal-distance').textContent=dist===null?'Explore this stop':fmt(dist)+' straight-line';
-    el('animal-place').textContent=p?p.from+' · not a verified public gate':'Official map: '+(stop.mapRef||'no published grid');
-    el('map-source').textContent=S.saved[id]?'You saved this point locally on this phone.':
-      stop.osmNode?'Community-mapped OpenStreetMap node '+stop.osmNode+'. Exhibit or viewing position may have changed.':
-      'There is no verified GPS point for this stop. You can save one when you arrive.';
+    const ev=evidenceFor(stop), photoNote=photoLine(stop);
+    el('animal-place').textContent=p?p.from+' · not a verified public gate':'Official map: '+(stop.mapRef||'no published grid')+' · GPS not verified';
+    el('map-source').textContent=S.saved[id]?'You saved this point locally on this phone.'+(photoNote?' '+photoNote+'.':''):
+      stop.osmNode?'Community-mapped OpenStreetMap node '+stop.osmNode+'. Exhibit or viewing position may have changed.'+(photoNote?' '+photoNote+'; the photos do not verify this pin.':''):
+      'Official map-grid evidence only: '+(stop.mapRef||'no current grid reference')+'. '+(photoNote?photoNote+'; the photos do not contain coordinates. ':'')+'Save a precise public viewing position on this device when you arrive.';
     el('save-point').disabled=!S.gps||S.demo||S.accuracy>75;
     el('remove-point').hidden=!S.saved[id];
     el('save-message').textContent=S.saved[id]?'This viewing point is only stored in your browser.':
@@ -272,6 +284,12 @@
       const data=await r.json();
       if(!Array.isArray(data.points)||data.points.length<15)throw new Error('Animal map data was incomplete.');
       S.stops=data.points.filter(s=>typeof s.id==='string'&&typeof s.name==='string');
+      S.photoAudit=data.photoGeodataAudit||null;
+      S.photoEvidence=new Map(Object.entries(data.photoEvidenceByAnimal||{}).map(([k,v])=>[Number(k),v]));
+      const auditText=el('photo-audit-text');
+      if(auditText&&S.photoAudit){
+        auditText.textContent=S.photoAudit.trackedPhotoCount+' exact supplied zoo JPEGs checked: '+S.photoAudit.filesWithGps+' retained GPS tags and '+S.photoAudit.filesWithAnyExif+' retained EXIF fields. Photos support animal/exhibit context but do not supply coordinates.';
+      }
       if(p.ok){const imgs=await p.json();for(const x of imgs.entries||[])if(x.image_url&&x.licence)S.photos.set(x.number,x)}
       if(m.ok){const vids=await m.json();for(const x of vids.videos||[])if(x.youtube_id)S.videos.set(x.animal_number,x)}
       if(stories.ok){const aud=await stories.json();for(const x of aud.entries||[])if(x.family&&x.deep)S.stories.set(x.animalNumber,x)}

@@ -156,3 +156,14 @@ This is an **independent field journal, not an official Taronga website**. Speci
 - [Per-question JSON ledger](data/question-verification-ledger-2026-10-18.json): original answer retained, revised answer, source-review grade and provenance.
 
 **Hosting check:** the Vercel production deployment is READY, but a separate live browser visual/HTTP test and external-source-link audit have not been completed.
+
+
+### Giraffe field-journal expansion — 15 November 2026
+
+The giraffe experience now stays inside Dubbozoo end-to-end:
+
+- Josh's structured giraffe observation contains **seven supplied photographs across two batches**, including five new boardwalk/feeder-area images.
+- Five privacy-screened, downscaled derivatives are stored as local site media for the internal giraffe field-note gallery; original full-resolution supplied files remain separate.
+- The giraffe field note embeds the official Taronga Western Plains Zoo keeper video with its **real keeper/animal audio**. Synthetic speech is not used.
+- The giraffe research guide now includes 2025 four-species taxonomy, current Boardwalk visitor context, species-by-species wild estimates, and multi-institutional zoo-behaviour research.
+- Core field-note evidence, frame descriptions, uncertainties and source metadata are rendered in Dubbozoo; GitHub is not required to read the field note.

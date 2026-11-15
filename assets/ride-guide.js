@@ -326,6 +326,7 @@
   function listen() {
     const stop=S.stops.find(s=>s.id===S.selected);
     if(!stop||!('speechSynthesis' in window))return;
+    closeKeeperVideo(); // Keep recorded keeper audio and synthetic narration from overlapping.
     stopVoice();
     const token=S.speechToken;
     const sentences=scriptFor(stop).split(/(?<=[.!?])\s+/);

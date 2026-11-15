@@ -1,5 +1,5 @@
 /* Offline starter for the GPS Ride Guide. No caching or transmission of GPS position. */
-const CACHE='dubbozoo-ride-v5-20261115-photo-geodata';
+const CACHE='dubbozoo-ride-v6-20261115-keeper-video';
 const ASSETS=['/ride-guide.html','/assets/ride-guide.js','/assets/ride-visit.js','/assets/ride-install.js','/assets/ride-guide.css','/data/ride-exhibits.json','/data/ride-audio-stories.json','/data/curated-wildlife-images.json','/data/official-dubbo-zoo-media.json','/ride.webmanifest','/assets/ride-icon.svg'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));

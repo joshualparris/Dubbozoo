@@ -80,7 +80,7 @@
       const p=point(stop);if(!p)continue;
       const c=xy(p.lat,p.lon);if(!Number.isFinite(c.x)||!Number.isFinite(c.y))continue;
       const hasPhotos=!!evidenceFor(stop);
-      const marker=make('circle',{cx:c.x,cy:c.y,r:stop.id===S.selected?11:(hasPhotos?8:6),class:(stop.id===S.selected?'map-pin active':'map-pin')+(hasPhotos?' photo-backed':''),role:'button',tabindex:'0','aria-label':'Open '+stop.name+(hasPhotos?' — supported by supplied photo observations':'')});
+      const marker=make('circle',{cx:c.x,cy:c.y,r:stop.id===S.selected?11:(hasPhotos?8:6),class:(stop.id===S.selected?'map-pin active':'map-pin')+(hasPhotos?' photo-backed':'')+(stop.coordinateClass==='user_photo_gps'?' photo-gps':''),role:'button',tabindex:'0','aria-label':'Open '+stop.name+(hasPhotos?' — supported by supplied photo observations':'')});
       marker.addEventListener('click',()=>selectStop(stop.id));
       marker.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();selectStop(stop.id)}});
       shown++;

@@ -23,12 +23,12 @@
 
 ## Listen / Watch
 
-- [x] Add **Listen** buttons to every field-journal story.
-- [x] Add a six-stop highlights audio guide using browser/device speech synthesis.
-- [x] Add pause/resume and stop narration controls.
-- [x] Keep narration local to the user's device; do not upload recordings or add tracking.
-- [x] Add a six-stop **Watch** visual story player with previous/next/auto-play controls.
-- [x] State clearly that Watch is an interactive visual story using public reference imagery, not recorded zoo footage.
+- [x] Replace GitHub-first field-note links with full internal Dubbozoo field-note pages.
+- [x] Remove synthetic browser speech narration.
+- [x] Curate six official Taronga Western Plains Zoo videos matching the six field-journal animals.
+- [x] Use click-to-load YouTube privacy-enhanced embeds so third-party video requests happen only after user action.
+- [x] Play real keeper voices, zoo footage and animal audio inside Dubbozoo instead of a synthetic story player.
+- [x] Label official media as historical, dated Taronga footage rather than a live animal roster.
 - [x] Add direct links to the evidence-method and verification-status documents.
 
 ## Navigation and documentation

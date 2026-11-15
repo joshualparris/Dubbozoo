@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "last_reviewed": "2026-11-15",
+  "note": "Official Taronga Zoo Sydney YouTube videos filmed at or explicitly about Taronga Western Plains Zoo, Dubbo. YouTube is not loaded until the user chooses a video.",
+  "videos": [
+    {
+      "observation": 1,
+      "animal_number": 4,
+      "title": "African Wild Dog Keeper Talk at Taronga Western Plains Zoo",
+      "youtube_id": "UfumK0kY2AY",
+      "published": "2021-08-29",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "keeper talk",
+      "audio_note": "Real Dubbo keeper voice and zoo animal footage."
+    },
+    {
+      "observation": 2,
+      "animal_number": 13,
+      "title": "Giraffe Keeper Talk at Taronga Western Plains Zoo Dubbo",
+      "youtube_id": "-WBcpBkVCEo",
+      "published": "2021-08-04",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "keeper talk",
+      "audio_note": "Real Dubbo keeper Bobby-Jo and giraffe footage."
+    },
+    {
+      "observation": 3,
+      "animal_number": 32,
+      "title": "Siamang Ape Keeper Talk at Taronga Western Plains Zoo",
+      "youtube_id": "Ug7WfyUdOfU",
+      "published": "2020-04-29",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "keeper talk",
+      "audio_note": "Real keeper audio with siamang calls and animal footage."
+    },
+    {
+      "observation": 4,
+      "animal_number": 23,
+      "title": "Galapagos Tortoise Keeper Talk at Taronga Western Plains Zoo",
+      "youtube_id": "_MyCf9Aj1J4",
+      "published": "2020-04-08",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "keeper talk",
+      "audio_note": "Real Dubbo keeper Jordy and tortoise footage."
+    },
+    {
+      "observation": 5,
+      "animal_number": 24,
+      "title": "Asian Elephants Swimming in the Rain at Taronga Western Plains Zoo",
+      "youtube_id": "wCH405sp7zI",
+      "published": "2020-04-03",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "animal footage",
+      "audio_note": "Real Dubbo elephant footage and ambient zoo audio."
+    },
+    {
+      "observation": 6,
+      "animal_number": 15,
+      "title": "Meerkat Keeper Talk at Taronga Western Plains Zoo in Dubbo",
+      "youtube_id": "rYyWRFo3ckw",
+      "published": "2020-04-01",
+      "channel": "Taronga Zoo Sydney",
+      "kind": "keeper talk",
+      "audio_note": "Real Dubbo keeper Karen, meerkat footage and zoo audio."
+    }
+  ]
+}

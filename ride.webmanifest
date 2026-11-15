@@ -1,0 +1,18 @@
+{
+  "name": "Dubbozoo — GPS Ride Guide",
+  "short_name": "Dubbozoo Ride",
+  "description": "Privacy-first animal exhibit GPS and audio tour for Taronga Western Plains Zoo, Dubbo.",
+  "start_url": "/ride-guide.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d2c23",
+  "theme_color": "#103328",
+  "icons": [
+    {
+      "src": "/assets/ride-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -28,7 +28,9 @@
   function evidenceFor(stop) {return S.photoEvidence.get(Number(stop.animalNumber))||null}
   function photoLine(stop) {
     const e=evidenceFor(stop);
-    return e ? '📷 '+e.count+' supplied photo'+(e.count===1?'':'s')+' audited · no embedded GPS/EXIF' : '';
+    if(!e)return '';
+    if(e.gpsTagsPresent&&e.gpsOriginalFiles)return '📍 '+e.gpsOriginalFiles+' GPS-tagged original camera files · 📷 '+e.count+' field-note photo'+(e.count===1?'':'s');
+    return '📷 '+e.count+' supplied photo'+(e.count===1?'':'s')+' audited · no embedded GPS/EXIF';
   }
   function point(stop) {
     if (valid(S.saved[stop.id])) return {...S.saved[stop.id],from:'my saved viewing spot'};
@@ -78,7 +80,7 @@
       const p=point(stop);if(!p)continue;
       const c=xy(p.lat,p.lon);if(!Number.isFinite(c.x)||!Number.isFinite(c.y))continue;
       const hasPhotos=!!evidenceFor(stop);
-      const marker=make('circle',{cx:c.x,cy:c.y,r:stop.id===S.selected?11:(hasPhotos?8:6),class:(stop.id===S.selected?'map-pin active':'map-pin')+(hasPhotos?' photo-backed':''),role:'button',tabindex:'0','aria-label':'Open '+stop.name+(hasPhotos?' — supported by supplied photo observations':'')});
+      const marker=make('circle',{cx:c.x,cy:c.y,r:stop.id===S.selected?11:(hasPhotos?8:6),class:(stop.id===S.selected?'map-pin active':'map-pin')+(hasPhotos?' photo-backed':'')+(stop.coordinateClass==='user_photo_gps'?' photo-gps':''),role:'button',tabindex:'0','aria-label':'Open '+stop.name+(hasPhotos?' — supported by supplied photo observations':'')});
       marker.addEventListener('click',()=>selectStop(stop.id));
       marker.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();selectStop(stop.id)}});
       shown++;
@@ -237,6 +239,7 @@
     const ev=evidenceFor(stop), photoNote=photoLine(stop);
     el('animal-place').textContent=p?p.from+' · not a verified public gate':'Official map: '+(stop.mapRef||'no published grid')+' · GPS not verified';
     el('map-source').textContent=S.saved[id]?'You saved this point locally on this phone.'+(photoNote?' '+photoNote+'.':''):
+      stop.coordinateClass==='user_photo_gps'?'Photo-derived viewing-area GPS from original camera metadata. '+photoNote+'. The public map stores only the aggregate median position, not your individual photo route.':
       stop.osmNode?'Community-mapped OpenStreetMap node '+stop.osmNode+'. Exhibit or viewing position may have changed.'+(photoNote?' '+photoNote+'; the photos do not verify this pin.':''):
       'Official map-grid evidence only: '+(stop.mapRef||'no current grid reference')+'. '+(photoNote?photoNote+'; the photos do not contain coordinates. ':'')+'Save a precise public viewing position on this device when you arrive.';
     el('save-point').disabled=!S.gps||S.demo||S.accuracy>75;
@@ -375,7 +378,11 @@
       S.photoEvidence=new Map(Object.entries(data.photoEvidenceByAnimal||{}).map(([k,v])=>[Number(k),v]));
       const auditText=el('photo-audit-text');
       if(auditText&&S.photoAudit){
-        auditText.textContent=S.photoAudit.trackedPhotoCount+' exact supplied zoo JPEGs checked: '+S.photoAudit.filesWithGps+' retained GPS tags and '+S.photoAudit.filesWithAnyExif+' retained EXIF fields. Photos support animal/exhibit context but do not supply coordinates.';
+        if(S.photoAudit.supplementalOriginalFilesWithGps){
+          auditText.textContent=S.photoAudit.fileCopiesCheckedTotal+' supplied JPEG file copies audited. '+S.photoAudit.supplementalOriginalFilesWithGps+' original lion-area camera files retain EXIF GPS; their median now anchors Lion Pride Lands. Giraffe and elephant copies in the ZIP still have no GPS.';
+        }else{
+          auditText.textContent=S.photoAudit.trackedPhotoCount+' exact supplied zoo JPEGs checked: '+S.photoAudit.filesWithGps+' retained GPS tags and '+S.photoAudit.filesWithAnyExif+' retained EXIF fields.';
+        }
       }
       if(p.ok){const imgs=await p.json();for(const x of imgs.entries||[])if(x.image_url&&x.licence)S.photos.set(x.number,x)}
       if(m.ok){const vids=await m.json();for(const x of vids.videos||[])if(x.youtube_id&&!S.videos.has(x.animal_number))S.videos.set(x.animal_number,x)}

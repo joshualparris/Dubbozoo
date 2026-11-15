@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "reviewed": "2026-11-15",
   "site": "Taronga Western Plains Zoo, Dubbo, NSW, Australia",
-  "method": "GPS coordinates remain source-graded. Existing finite coordinates are OpenStreetMap community animal-attraction points and may be approximate, outdated, or inside habitats rather than public viewing positions. All 36 exact supplied zoo JPEG copies currently tracked in data/observations.json were audited for EXIF: none retains EXIF, GPS or capture timestamps. Therefore photographs are used only as animal/exhibit evidence, never converted into invented latitude/longitude. Official Taronga map-grid references remain non-GPS until a reliable coordinate source or an explicitly saved on-site viewing position exists.",
+  "method": "GPS coordinates are source-graded. Existing community points remain OpenStreetMap-derived unless replaced by stronger evidence. A supplemental ZIP of original Samsung camera files was audited on 15 November 2026: 13 original Lion Pride Lands-area JPEGs retain EXIF GPS and DateTimeOriginal (+11:00), while seven additional giraffe/elephant copies in that ZIP contain no GPS. The lion stop now uses the median camera position from those 13 GPS-tagged originals. Individual photo coordinates/timestamps are not published; only an aggregate viewing-area point and spread are committed.",
   "mapSource": "https://www.taronga.org.au/siteassets/tzwp/files/twpz-map-online.pdf",
   "mapSourcesExtra": [
     "https://www.taronga.org.au/dubbo-zoo/plan/visitor-information",
@@ -350,11 +350,26 @@
       "fact": "Lions often rest for long periods, especially in warm weather. The whole pride may not be visible at once.",
       "prompt": "How many lions can you actually see, and how many might be behind vegetation?",
       "profile": "/animals/003-african-lion",
-      "lat": null,
-      "lon": null,
-      "sourceType": "Current Taronga Lion Pride Lands/map-grid references + photo-backed field observation; GPS not verified",
-      "coordinateClass": "official_grid_only",
-      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/lion-pride-lands"
+      "lat": -32.275371999722225,
+      "lon": 148.5801494,
+      "sourceType": "User-supplied original Samsung camera GPS: median of 13 Lion Pride Lands-area photos captured 15 Nov 2026; current Taronga map context retained.",
+      "coordinateClass": "user_photo_gps",
+      "officialMapUrl": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/lion-pride-lands",
+      "coordinateLabel": "Photo-derived Lion Pride Lands viewing area",
+      "photoGpsEvidence": {
+        "originalFileCount": 13,
+        "gpsTaggedCount": 13,
+        "cameraModel": "Samsung Galaxy A55 5G",
+        "captureDate": "2026-11-15",
+        "timezoneOffset": "+11:00",
+        "firstCaptureLocal": "15:12:57",
+        "lastCaptureLocal": "15:20:01",
+        "medianLat": -32.275371999722225,
+        "medianLon": 148.5801494,
+        "maximumDistanceFromMedianM": 24.6,
+        "approximateGpsClusters": 5,
+        "privacyNote": "Aggregate viewing-area coordinate only; individual photo coordinates/timestamps are not published."
+      }
     },
     {
       "id": "cheetah",
@@ -389,15 +404,28 @@
   ],
   "photoGeodataAudit": {
     "auditedAt": "2026-11-15",
-    "trackedPhotoCount": 36,
-    "observationCount": 8,
-    "animalGroups": 7,
-    "filesWithAnyExif": 0,
-    "filesWithGps": 0,
-    "filesWithCaptureTimestamp": 0,
-    "conclusion": "No embedded camera geodata survived in any of the 36 exact supplied JPEG copies. Photo sets support animal/exhibit context only; they do not independently verify a GPS pin.",
-    "method": "Matched observation filenames and byte sizes to exact Library JPEG copies, then inspected raw JPEG EXIF/GPS metadata.",
-    "source": "data/observations.json + exact user-supplied JPEG copies"
+    "existingFieldJournalCopiesChecked": 36,
+    "existingFieldJournalCopiesWithExif": 0,
+    "existingFieldJournalCopiesWithGps": 0,
+    "supplementalZipFilesChecked": 20,
+    "supplementalOriginalCameraFiles": 13,
+    "supplementalOriginalFilesWithExif": 13,
+    "supplementalOriginalFilesWithGps": 13,
+    "supplementalCopiesWithoutGps": 7,
+    "fileCopiesCheckedTotal": 56,
+    "gpsTaggedFileCopiesTotal": 13,
+    "cameraModel": "Samsung Galaxy A55 5G",
+    "gpsAnimalContext": "African lion / Lion Pride Lands",
+    "captureTimeRangeLocal": "2026-11-15T15:12:57+11:00/2026-11-15T15:20:01+11:00",
+    "aggregatePolicy": "Median of the 13 GPS-tagged lion-area camera positions; raw per-photo coordinates and timestamp trail are not committed.",
+    "medianCameraPosition": {
+      "lat": -32.275371999722225,
+      "lon": 148.5801494
+    },
+    "maximumDistanceFromMedianM": 24.6,
+    "approximateGpsClusters": 5,
+    "conclusion": "Original lion camera files preserve usable GPS. The lion can therefore use a genuine photo-derived viewing-area coordinate. Giraffe and elephant copies in the ZIP remain non-GPS and keep their existing coordinate status.",
+    "source": "User-supplied original-photo ZIP from Google Drive; raw originals inspected locally and not committed."
   },
   "photoEvidenceByAnimal": {
     "3": {
@@ -406,8 +434,9 @@
       "observationIds": [
         "dubbozoo-obs-0008"
       ],
-      "gpsTagsPresent": false,
-      "note": "Three shaded-resting frames and three elevated-log frames. No retained GPS/EXIF; photos do not identify the exact lion or camera position."
+      "gpsTagsPresent": true,
+      "note": "Six published field-note frames are part of a larger 13-file original Lion Pride Lands camera sequence. All 13 originals retain EXIF GPS and DateTimeOriginal. The map uses their median camera position; the individual movement trail is not published.",
+      "gpsOriginalFiles": 13
     },
     "4": {
       "commonName": "African wild dog",

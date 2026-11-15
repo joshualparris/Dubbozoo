@@ -1,75 +1,73 @@
 # Photo geodata audit — Dubbozoo GPS Ride Guide
 
 **Audit date:** 15 November 2026  
-**Scope:** every exact user-supplied zoo JPEG currently registered in `data/observations.json`  
-**Result:** **36/36 files contain no retained EXIF; 0/36 contain GPS tags; 0/36 contain a retained camera capture timestamp.**
+**Status:** updated after original-camera ZIP was supplied.
 
-## Why this matters
+## Result
 
-Josh asked for the GPS interactive zoo map to use geodata from his photographs. The exact JPEG copies available to Dubbozoo were therefore matched to the structured observation register and inspected as raw image files before any map coordinate was changed.
+The first audit checked the **36 field-journal JPEG copies** already registered in `data/observations.json`. All 36 had been stripped of EXIF/GPS.
 
-The uploaded copies do **not** contain camera geodata. A photo can still provide strong evidence that an animal or habitat was visited, but it cannot be converted into a latitude/longitude coordinate when its GPS fields are absent. Dubbozoo therefore does **not** infer a precise camera position from scenery, animal identity, upload time, or an illustrated map grid.
+Josh then supplied a Google Drive ZIP containing **20 additional JPEG file copies**:
 
-## Files audited
+- **13 original Samsung Galaxy A55 5G lion-area camera files** with retained EXIF GPS and capture time.
+- **7 giraffe/elephant copies** without retained GPS.
 
-| Field observation | Animal | Supplied JPEGs | EXIF retained | GPS retained |
-| --- | --- | ---: | ---: | ---: |
-| 0001 | African wild dog | 5 | 0 | 0 |
-| 0002 | Giraffe | 7 | 0 | 0 |
-| 0003 | Siamang | 6 | 0 | 0 |
-| 0004 | Galápagos giant tortoise | 4 | 0 | 0 |
-| 0005 | Asian elephant | 5 | 0 | 0 |
-| 0006 | Probable meerkat | 1 | 0 | 0 |
-| 0007 | Asian elephant | 2 | 0 | 0 |
-| 0008 | African lion | 6 | 0 | 0 |
-| **Total** | **7 animal groups / 8 observation records** | **36** | **0** | **0** |
+Across both audit passes, **56 JPEG file copies** were inspected and **13 retained GPS**. Those 13 are all from the Lion Pride Lands-area sequence.
 
-The filenames, byte sizes and SHA-256 provenance remain in `data/observations.json`. The audit used the exact Library copies matching those filenames and sizes rather than screenshots or resized website derivatives.
+## Lion GPS evidence
 
-## How the map now uses photo evidence
+The 13 original lion-area images contain:
 
-The ride-guide catalogue records two separate evidence dimensions:
+- `DateTimeOriginal` from **15:12:57 to 15:20:01 on 15 November 2026**.
+- `OffsetTimeOriginal`: **+11:00**.
+- Camera: **Samsung Galaxy A55 5G**.
+- GPS coordinates clustered within roughly **25 m** of their median.
+- Approximate distinct GPS clusters: **5**.
 
-1. **Coordinate evidence** — a finite GPS point from the existing OpenStreetMap community dataset, or a public viewing position explicitly saved by the user on the device.
-2. **Photo evidence** — Josh has supplied one or more photographs for that animal/exhibit context.
+For privacy, Dubbozoo does **not** publish every timestamped camera coordinate. The map stores only the median viewing-area point:
 
-A photo-backed animal can therefore appear as:
+- **Latitude:** -32.2753719997
+- **Longitude:** 148.5801494
+- **Maximum source-photo distance from median:** 24.6 m
 
-- **GPS mapped + photo backed** — currently giraffe and siamang. Their photographs support the field observation, while their latitude/longitude remains independently sourced from OpenStreetMap.
-- **Official map-grid only + photo backed** — African wild dogs, Asian elephants, probable meerkat, Galápagos tortoises and African lions. Their photographs strengthen the exhibit/animal record but do not make a GPS coordinate available.
-- **GPS mapped without supplied field photos** — other OSM-mapped species.
-- **Official map-grid only without supplied field photos** — cheetahs and greater one-horned rhinoceroses.
+This is treated as a **photo-derived public viewing-area anchor**, not the animal's exact position and not a surveyed exhibit boundary.
 
-No photo-derived coordinate is used for automatic nearest-exhibit detection unless actual GPS metadata is present in a future source file.
+## Map consequence
 
-## Current official map-grid references checked for the ride guide
+The Ride Guide changes from:
 
-These are **map-grid references, not latitude/longitude**:
+- **16 finite coordinate points / 7 grid-only stops**
 
-- Giraffe Boardwalk / encounter: **14F** on current Taronga web itinerary.
-- Asian elephants: **9J**; encounter **8K**.
-- African wild dogs: **19B**.
-- Meerkats / Waterhole context: **3R**; keeper talk **2R**.
-- Galápagos giant tortoises: **23L**.
-- Lion Pride Lands: **19R**; African Adventure also provides a secondary lion view around **17P**.
-- Cheetahs: **9G**.
-- Greater one-horned rhinoceroses: **9R**; encounter **9S**.
-- Siamangs / Wild Asia: **12Q**.
+to:
 
-Map grids can move when Taronga revises visitor maps. Every reference is therefore stored with a review date and should be rechecked periodically.
+- **17 finite coordinate points / 6 grid-only stops**.
 
-## Accuracy safeguard
+African lions / Lion Pride Lands now use genuine photo-derived GPS. The six remaining grid-only stops are:
 
-An attempted grid-to-GPS conversion was rejected. The official illustrated zoo map is not a surveyed/georeferenced GIS layer; fitting its grid to known community GPS points produced errors too large for reliable proximity detection. Publishing those estimates as precise coordinates would create false accuracy.
+- Asian elephants
+- African wild dogs
+- Meerkats / The Waterhole
+- Galápagos giant tortoises
+- Cheetahs
+- Greater one-horned rhinoceroses
 
-The safe path is:
+Giraffe and siamang still have independently sourced OSM points. Their uploaded copies do not contain camera GPS.
 
-- retain independently sourced OSM points where available;
-- show official Taronga map-grid evidence separately;
-- mark photo-backed animal groups visibly;
-- let Josh save a precise public viewing position using live phone GPS while safely stopped;
-- replace community/locally saved points only when a stronger surveyed or authoritative coordinate source becomes available.
+## Evidence rule
+
+Dubbozoo now distinguishes four coordinate classes:
+
+1. **User photo GPS** — original camera metadata supplied by Josh; only an aggregate public viewing coordinate is published.
+2. **Locally saved viewing spot** — saved by the visitor in that browser while physically present.
+3. **OpenStreetMap community point** — useful but not an authoritative surveyed public gate.
+4. **Official Taronga map-grid only** — useful visitor-map context, but no precise lat/lon.
+
+Automatic nearby-exhibit detection only uses finite coordinates from classes 1–3. A Taronga map-grid reference is never converted into a fake coordinate.
 
 ## Privacy
 
-No user live GPS coordinates are included in this audit or committed to GitHub. The existing Ride Guide processes live phone position in the browser. Locally saved viewing positions stay on that device unless the user separately chooses to export them.
+The source ZIP and full-resolution originals are not committed to the repository. Individual GPS coordinates, per-photo timestamps and the user's movement path are not published. The repository stores the aggregate lion viewing point, capture-date range, source count and spread needed to justify the map update.
+
+## Remaining opportunity
+
+If original camera files for the giraffe, elephant, wild dog, meerkat, tortoise or other zoo observations are supplied later and still contain GPS, repeat this process and replace grid-only/community positions only where the original metadata provides stronger evidence.

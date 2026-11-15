@@ -895,16 +895,22 @@
       "sex": null,
       "sex_visual_hypothesis": "Male strongly suggested by the developed mane; not keeper-verified.",
       "age": null,
-      "observed_at": null,
-      "observation_date_verified": false,
+      "observed_at": "2026-11-15T15:12:57+11:00/2026-11-15T15:20:01+11:00",
+      "observation_date_verified": true,
       "record_created_at": "2026-11-15",
       "timezone": "Australia/Sydney",
       "venue_hypothesis": "Taronga Western Plains Zoo, Dubbo NSW — Lion Pride Lands context is consistent with the project and current zoo precinct, but the JPEGs contain no retained GPS.",
-      "venue_evidence": "User-supplied Dubbozoo photographs plus current Taronga Lion Pride Lands context; no retained image geolocation.",
+      "venue_evidence": "User-supplied original Samsung camera GPS places the 13-file lion-area sequence at the current Lion Pride Lands vicinity within the Dubbo zoo project context; current Taronga Lion Pride Lands map reference 19R is retained separately.",
       "venue_verified": false,
       "visitor_map_reference_current": "19R",
       "visitor_map_reference_checked": "2026-11-15",
-      "gps": null,
+      "gps": {
+        "lat": -32.275371999722225,
+        "lon": 148.5801494,
+        "kind": "aggregate_camera_position",
+        "method": "median of 13 GPS-tagged original Samsung lion-area JPEGs",
+        "maximum_distance_from_median_m": 24.6
+      },
       "source_type": "user_supplied_photographs",
       "exif_present": false,
       "observable_behaviours": [
@@ -1032,6 +1038,11 @@
       ],
       "sources": [
         {
+          "type": "user_supplied_original_camera_metadata",
+          "checked": "2026-11-15",
+          "note": "13 original Galaxy A55 5G JPEGs from the lion-area sequence retain EXIF GPS and DateTimeOriginal (+11:00). Public data stores only the median camera position and spread, not the per-photo route."
+        },
+        {
           "type": "current_zoo_precinct",
           "url": "https://www.taronga.org.au/dubbo-zoo/precincts-and-pitstops/lion-pride-lands",
           "checked": "2026-11-15",
@@ -1073,7 +1084,20 @@
           "checked": "2026-11-15",
           "note": "Current status, taxonomy, range and population context."
         }
-      ]
+      ],
+      "gps_verified": true,
+      "gps_privacy_note": "Only the aggregate median camera position is stored publicly. Individual photo coordinates and the timestamped movement trail remain uncommitted.",
+      "original_camera_metadata": {
+        "source_file_count": 13,
+        "files_with_exif": 13,
+        "files_with_gps": 13,
+        "camera_make": "samsung",
+        "camera_model": "Galaxy A55 5G",
+        "offset_time_original": "+11:00",
+        "capture_time_range_local": "2026-11-15 15:12:57–15:20:01",
+        "approximate_gps_clusters": 5,
+        "public_coordinate_policy": "aggregate median only"
+      }
     }
   ]
 }

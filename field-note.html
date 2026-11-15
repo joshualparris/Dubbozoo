@@ -21,7 +21,7 @@
 <h1 id="note-title">Opening field note…</h1>
 <p class="field-note-scientific" id="note-scientific">Loading observation record</p>
 <p class="field-note-lead" id="note-lead">This page keeps what was actually visible separate from what remains uncertain.</p>
-<div class="field-note-actions"><a class="btn lime" id="real-media-link" href="/#real-media">▶ Watch & hear real Dubbo zoo media</a><button class="btn outline" id="copy-note-url" type="button">Copy page link</button></div>
+<div class="field-note-actions"><a class="btn lime" id="real-media-link" href="#field-real-media">▶ Real keeper video + audio</a><button class="btn outline" id="copy-note-url" type="button">Copy page link</button></div>
 <p class="field-note-privacy">Josh's original supplied photographs remain unpublished where visitor privacy or image rights are unresolved.</p>
 </div><figure class="field-note-reference" id="note-reference"><div class="field-note-photo-placeholder">Loading public species-reference image…</div></figure></div>
 </div></header>
@@ -32,16 +32,29 @@
 <article class="summary-tile"><span>Visible animals</span><strong id="summary-subjects">—</strong></article>
 <article class="summary-tile"><span>Capture date</span><strong id="summary-date">Unknown</strong></article>
 </section>
+<section class="field-note-box field-real-media" id="field-real-media" aria-labelledby="field-media-heading">
+  <span class="eyebrow">REAL DUBBO ZOO VIDEO + AUDIO</span>
+  <h2 id="field-media-heading">Official keeper media for this animal</h2>
+  <p class="field-note-muted" id="field-media-summary">Loading the official Taronga media record…</p>
+  <div class="field-media-stage" id="field-media-stage"><button type="button" class="btn" id="field-media-play" disabled>▶ Load real keeper video + audio</button></div>
+  <p class="field-note-muted field-media-fine">This is the real audio track from an official Taronga video, not an AI voice. The embedded player is sandboxed so the field-note experience stays inside Dubbozoo. YouTube is contacted only after you choose play.</p>
+</section>
+<section class="field-note-box user-photo-section" id="user-photo-section" hidden>
+  <span class="eyebrow">JOSH'S SUPPLIED PHOTOS</span>
+  <h2>Giraffe Boardwalk observation gallery</h2>
+  <p class="field-note-muted" id="user-photo-note">Privacy-screened web copies of Josh's supplied photographs. Upload/submission date is not treated as capture date because the copies contain no retained EXIF/GPS.</p>
+  <div class="user-photo-gallery" id="user-photo-gallery"></div>
+</section>
 <section class="field-note-layout"><div class="field-note-primary">
 <article class="field-note-box"><span class="eyebrow">WHAT THE PHOTOS SUPPORT</span><h2>Direct observations</h2><div id="direct-observations"></div></article>
 <article class="field-note-box"><span class="eyebrow">FRAME BY FRAME</span><h2>What is visible in each supplied image</h2><p class="field-note-muted">These descriptions are evidence records, not substitutes for publishing the original JPEGs.</p><div class="frame-list" id="frame-list"></div></article>
 <article class="field-note-box"><span class="eyebrow">EVIDENCE BOUNDARIES</span><h2>What we should not infer</h2><p id="limits-text"></p><div class="unknown-grid" id="unknown-grid"></div></article>
-<article class="field-note-box"><span class="eyebrow">SOURCES</span><h2>Research behind this record</h2><p class="field-note-muted">These are external evidence sources. The complete field-note experience stays on Dubbozoo.</p><div class="source-list" id="source-list"></div></article>
+<article class="field-note-box"><span class="eyebrow">SOURCES</span><h2>Research behind this record</h2><p class="field-note-muted">Source details are recorded here so you can stay in Dubbozoo. Use “Copy source URL” only if you want to inspect the original elsewhere.</p><div class="source-list" id="source-list"></div></article>
 </div><aside class="field-note-aside"><article class="field-note-box sticky-note">
 <span class="eyebrow">PHOTO PROVENANCE</span><h3>Why the originals aren't shown</h3><p id="privacy-detail">The supplied copies may contain identifiable visitors or children and publication rights have not been independently confirmed.</p>
 <dl class="evidence-list"><div><dt>EXIF retained</dt><dd id="evidence-exif">—</dd></div><div><dt>GPS verified</dt><dd id="evidence-gps">—</dd></div><div><dt>Venue verified</dt><dd id="evidence-venue">—</dd></div><div><dt>Original binaries public</dt><dd>No</dd></div></dl>
 <a class="btn paper field-note-animal-link" id="related-animal" href="/#archive">Explore this animal →</a>
-<a class="source-file-link" id="source-file-link" href="#" target="_blank" rel="noopener noreferrer">View raw source file on GitHub ↗</a>
+<p class="source-file-note">The underlying observation record is rendered on this page; GitHub is not required to read it.</p>
 </article></aside></section>
 <nav class="field-note-pagination" aria-label="Previous and next field observation"><a id="previous-note" href="/#journal">← Previous field note</a><a href="/#journal">All six field notes</a><a id="next-note" href="/#journal">Next field note →</a></nav>
 </main>

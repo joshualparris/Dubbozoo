@@ -45,7 +45,8 @@ Source references:
 - [x] JavaScript syntax checked before publication with V8 parser.
 - [x] Page has all 32 required control IDs; UI and JS use matching selectors; manifest and service worker files committed.
 - [x] Gallery/research link references tied to project-owned catalogues. Route audit caught and corrected a Galápagos tortoise slug.
-- [x] Every file committed to GitHub default branch with readback verification planned after final deployment.
+- [x] All files committed to GitHub default branch and re-read. Production deployment recorded as READY at a checked commit on Vercel; real HTTP-browser acceptance remains outstanding.
+- [x] **Simulated browser runtime**: with mocked geolocation, all data loads, a nearby siamang is automatically selected after two accurate fixes, a viewing pin saves locally, and the watch can be stopped. This is not a phone/location test.
 - [ ] **Real-device acceptance**: on-site Android GPS accuracy, prompt permissions, distance sorting against actual signs/route, auto-selection stability, background/lock-screen behaviour and speech engine playback. Do not call this verified without a live field test.
 - [ ] **Exhibit geolocation audit**: verify actual public viewing points with Taronga's up-to-date maps or keeper, and refine the seven missing GPS locations. A community pin can lie inside an exhibit.
 - [ ] **Photograph network QA**: ensure each remote Wikimedia image loads in Chrome Android (remote websites may throttle or change).

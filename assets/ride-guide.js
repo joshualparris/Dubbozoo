@@ -3,7 +3,7 @@
   'use strict';
   const el = id => document.getElementById(id);
   const KEY = 'dubbozoo-ride-viewing-pins-v1';
-  const S = {stops:[], photos:new Map(), videos:new Map(), saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
+  const S = {stops:[], photos:new Map(), videos:new Map(), stories:new Map(), audioMode:'family', speechToken:0, saved:{}, gps:null, accuracy:Infinity, watch:null, demo:false, selected:null, expanded:false, candidate:null, candidateHits:0, autoNotes:false, lastAutoNarrated:null, manualUntil:0};
   const radians = n => n * Math.PI / 180;
   function metres(a,b,c,d) {
     const deltaLat=radians(c-a),deltaLon=radians(d-b);
@@ -34,8 +34,21 @@
   function fmt(d) {return d<1000?Math.round(d/10)*10+' m':(d/1000).toFixed(1)+' km'}
   function setStatus(title, detail) {el('gps-state').textContent=title;el('gps-detail').textContent=detail}
   function stopVoice() {
+    S.speechToken++;
     if ('speechSynthesis' in window) window.speechSynthesis.cancel();
     el('stop-audio').disabled=true;
+  }
+  function scriptFor(stop) {
+    const episode=S.stories.get(stop.animalNumber);
+    return episode && typeof episode[S.audioMode]==='string' ? episode[S.audioMode] :
+      stop.fact+' '+stop.prompt+' Ask zoo staff to verify the animals currently here.';
+  }
+  function displayScript(stop) {
+    const episode=S.stories.get(stop.animalNumber);
+    const words=scriptFor(stop).trim().split(/\s+/).length;
+    el('audio-title').textContent=episode ? episode.title : 'Field note';
+    el('audio-length').textContent=episode ? 'Around '+Math.max(1,Math.round(words/140))+' minute spoken guide' : 'Short field note';
+    el('audio-transcript').textContent=scriptFor(stop);
   }
   function renderMap() {
     const svg=el('geo-plot'),ns='http://www.w3.org/2000/svg';
@@ -118,6 +131,7 @@
     el('animal-fact').textContent=stop.fact;
     el('animal-prompt').textContent=stop.prompt;
     el('profile-link').href=stop.profile;
+    displayScript(stop);
     const p=point(stop),dist=distanceTo(stop);
     el('animal-distance').textContent=dist===null?'Explore this stop':fmt(dist)+' straight-line';
     el('animal-place').textContent=p?p.from+' · not a verified public gate':'Official map: '+(stop.mapRef||'no published grid');
@@ -144,6 +158,8 @@
     video.hidden=!media;
     if(media)video.href='https://www.youtube.com/watch?v='+encodeURIComponent(media.youtube_id);
     renderList();renderMap();
+    document.body.dataset.activeStopId=id;
+    document.dispatchEvent(new CustomEvent('dubbozoo:stop-selected',{detail:{id,name:stop.name,animalNumber:stop.animalNumber}}));
     if(!automatic) el('animal-section').scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
   }
   function updatePosition() {
@@ -159,6 +175,7 @@
     // Two agreeing GPS fixes, close to a mapped exhibit and accurate enough.
     // Selecting the card does not start speech unless the visitor opted into audio.
     if(!S.gps||S.demo||S.accuracy>65||Date.now()<S.manualUntil) return;
+    if(metres(S.gps.lat,S.gps.lon,-32.279,148.582)>2500) return;
     const possible=S.stops.filter(s=>point(s)).map(s=>({stop:s,d:distanceTo(s)}))
       .sort((a,b)=>a.d-b.d);
     const first=possible[0];
@@ -173,6 +190,13 @@
   function onPosition(pos) {
     const lat=pos.coords.latitude,lon=pos.coords.longitude,accuracy=pos.coords.accuracy;
     if(!Number.isFinite(lat)||!Number.isFinite(lon))return;
+    if(Number.isFinite(pos.timestamp)&&Math.abs(Date.now()-pos.timestamp)>30000){
+      setStatus('Waiting for a fresh GPS fix','The last position update was too old to use.');
+      return;
+    }
+    if(!Number.isFinite(accuracy)||accuracy<0){
+      setStatus('GPS accuracy unavailable','Waiting for a usable accuracy reading.');return;
+    }
     S.gps={lat,lon};S.accuracy=Number.isFinite(accuracy)?accuracy:9999;S.demo=false;
     const within=metres(lat,lon,-32.279,148.582)<2500;
     setStatus(within?'GPS active — exhibit distances updating':'GPS active — apparently outside the zoo',
@@ -205,16 +229,27 @@
     const stop=S.stops.find(s=>s.id===S.selected);
     if(!stop||!('speechSynthesis' in window))return;
     stopVoice();
-    const u=new SpeechSynthesisUtterance('At the '+stop.name+' exhibit. '+stop.fact+
-      ' Here is something to look out for. '+stop.prompt+
-      ' This audio describes the species and does not confirm which animal is visible right now.');
-    u.lang='en-AU';u.rate=.94;
-    u.onend=()=>{el('stop-audio').disabled=true};
-    u.onerror=()=>{el('stop-audio').disabled=true};
-    el('stop-audio').disabled=false;
-    window.speechSynthesis.speak(u);
+    const token=S.speechToken;
+    const sentences=scriptFor(stop).split(/(?<=[.!?])\s+/);
+    const pieces=[];let part='';
+    for(const sentence of sentences){
+      if((part+' '+sentence).length>210 && part){pieces.push(part);part=''}
+      if(sentence.length>210){const chunks=sentence.match(/.{1,180}(?:\s|$)/g)||[sentence];for(const chunk of chunks){if(part){pieces.push(part);part=''}pieces.push(chunk.trim())}}
+      else part+=(part?' ':'')+sentence;
+    }
+    if(part)pieces.push(part);
+    let index=0;
+    const next=()=>{
+      if(token!==S.speechToken||document.hidden)return;
+      if(index>=pieces.length){el('stop-audio').disabled=true;return}
+      const u=new SpeechSynthesisUtterance(pieces[index++]);u.lang='en-AU';u.rate=.96;
+      u.onend=next;
+      u.onerror=()=>{if(token===S.speechToken)el('stop-audio').disabled=true};
+      window.speechSynthesis.speak(u);
+    };
+    el('stop-audio').disabled=false;next();
   }
-  function savePoint() {
+    function savePoint() {
     const stop=S.stops.find(s=>s.id===S.selected);
     if(!stop||!S.gps||S.demo||S.accuracy>75){
       el('save-message').textContent='Please stop at a signed viewing area, enable live GPS and get accuracy of 75 m or better.';
@@ -227,10 +262,11 @@
   async function init() {
     loadSaved();
     try {
-      const [r,p,m]=await Promise.all([
+      const [r,p,m,stories]=await Promise.all([
         fetch('/data/ride-exhibits.json',{credentials:'omit'}),
         fetch('/data/curated-wildlife-images.json',{credentials:'omit'}),
-        fetch('/data/official-dubbo-zoo-media.json',{credentials:'omit'})
+        fetch('/data/official-dubbo-zoo-media.json',{credentials:'omit'}),
+        fetch('/data/ride-audio-stories.json',{credentials:'omit'})
       ]);
       if(!r.ok)throw new Error('Animal map data was not available.');
       const data=await r.json();
@@ -238,6 +274,7 @@
       S.stops=data.points.filter(s=>typeof s.id==='string'&&typeof s.name==='string');
       if(p.ok){const imgs=await p.json();for(const x of imgs.entries||[])if(x.image_url&&x.licence)S.photos.set(x.number,x)}
       if(m.ok){const vids=await m.json();for(const x of vids.videos||[])if(x.youtube_id)S.videos.set(x.animal_number,x)}
+      if(stories.ok){const aud=await stories.json();for(const x of aud.entries||[])if(x.family&&x.deep)S.stories.set(x.animalNumber,x)}
       renderUnmapped();renderList();renderMap();selectStop('giraffe-north',true);
     } catch(e) {
       el('nearby').textContent='Could not load the animal map. Please check your connection and reload.';
@@ -259,6 +296,11 @@
     if(!S.autoNotes)stopVoice();
   });
   el('show-all').addEventListener('click',()=>{S.expanded=!S.expanded;renderList()});
+  el('audio-mode').addEventListener('change',()=>{
+    const mode=el('audio-mode').value;
+    S.audioMode=mode==='deep'?'deep':'family';stopVoice();
+    const stop=S.stops.find(x=>x.id===S.selected);if(stop)displayScript(stop);
+  });
   el('play-audio').addEventListener('click',listen);
   el('stop-audio').addEventListener('click',stopVoice);
   el('save-point').addEventListener('click',savePoint);

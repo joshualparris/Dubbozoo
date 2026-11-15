@@ -1,6 +1,6 @@
 # Asian elephant — Dubbo Zoo deep research guide
 
-**Scientific name:** *Elephas maximus* · **IUCN:** Endangered (EN) · **Reviewed:** 18 October 2026. No user photo sighting documented.
+**Scientific name:** *Elephas maximus* · **IUCN:** Endangered (EN) · **Baseline reviewed:** 18 October 2026. Later user photographs are separately catalogued; named individuals and capture dates remain unverified.
 
 ## Anatomy, family and ecology
 Asian elephants are large herbivores and **ecosystem engineers**: their movement, browsing, tree disturbance and seed dispersal modify vegetation and shape opportunities for other species. They use a sensitive, muscular trunk for smell, communication, drinking (transferring water into the mouth), manipulation and exploration. Unlike African elephants they have relatively smaller ears; Asian females usually lack large external tusks, while some males also have very small or no visible tusks. A visible tusk is **not sufficient by itself** to assign a sex or species in a distant photo.
@@ -48,3 +48,9 @@ One image includes an exhibit sign whose title appears to read **“Meet Gung”
 3. Can you see two elephants clearly? Do you have enough evidence to name either?
 4. What are the fence, pool/wallow and tall poles for? If uncertain, ask a keeper.
 5. Why do elephants need movement corridors in their wild habitats?
+
+## November 2026 research update — recent discoveries
+
+**[Read seven new peer-reviewed findings on elephant biology and welfare](https://github.com/joshualparris/Dubbozoo/blob/main/docs/elephant-frontiers-2024-2026-2026-11-15.md)** (reviewed 15 November 2026). These add new evidence on **Asian elephant trunk whisker touch (Science 2026)**, **the trunk's protective versus grasping skin (PNAS Nexus 2026)**, **water-hose tool use**, **bioacoustic early warning limitations**, **AI-assisted human–elephant coexistence**, and an **Australian Melbourne Zoo welfare study published 11 November 2026**. A seventh comparative paper studies name-like calls in **African**, not Asian, elephants. Every finding includes the study date, DOI and limits on interpretation.
+
+**[Two additional Asian elephant photos (submitted 15 November 2026)](https://github.com/joshualparris/Dubbozoo/blob/main/observations/asian-elephants-2026-11-15-submission.md)** have exact-copy hashes, visual observations, missing-EXIF notes and no invented animal identification. The original two image files remain unshared publicly.

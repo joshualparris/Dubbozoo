@@ -46,8 +46,9 @@ The public portal now promotes research that previously required browsing the Gi
 
 - **Josh's Field Journal** surfaces all six photo-backed observation records (wild dogs, giraffes, siamangs, Galápagos tortoise, Asian elephants and probable meerkat) while keeping private/rights-unclear original JPEGs unpublished.
 - **Dubbo Zoo Through Time** turns the 1977–2026 archival research into a filterable timeline and exposes the 1995–1999 archive investigation, unsent archival request, coverage audit, IUCN audit and raw 622-question evidence ledger.
-- **Listen** uses the visitor's own browser/device speech engine to narrate evidence-safe field summaries; no recorded audio or analytics is uploaded.
-- **Watch** is a six-stop interactive visual story player using the existing credited public species-reference imagery. It is explicitly not represented as zoo footage.
+- **Field-note pages stay inside Dubbozoo** at `/field-notes/...`, with frame-by-frame evidence, uncertainty, provenance and sources. GitHub is now only an optional raw-source link.
+- **Real Dubbo zoo media** replaces synthetic narration. Six official Taronga Zoo Sydney videos cover the same six field-journal animals, with real keeper voices, animal footage and animal sounds where present.
+- **Privacy-first video embedding:** YouTube is not contacted until the visitor explicitly chooses to play a video; playback uses YouTube's privacy-enhanced embed domain.
 
 Implementation and follow-up checklist: [Discovery experience to-do](docs/TODO-DISCOVERY-EXPERIENCE-2026-11-15.md).
 

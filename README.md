@@ -40,6 +40,17 @@ The rebuilt [static website source](index.html) includes a responsive wildlife d
 **Dewey 590 integration:** Dubbozoo is reciprocally indexed by the **[private ResearchLibrary](https://github.com/joshualparris/ResearchLibrary)** (authorised accounts only). [The public-safe cross-repository index](data/research-network.json) contains *only* repositories checked as public and does not mirror private research documents, Drive filenames or personal information. [Read the integration and QA record](docs/RESEARCH-PORTAL-INTEGRATION-2026-10-18.md).
 
 
+## Discoverable field journal, timeline and Listen / Watch
+
+The public portal now promotes research that previously required browsing the GitHub tree:
+
+- **Josh's Field Journal** surfaces all six photo-backed observation records (wild dogs, giraffes, siamangs, Galápagos tortoise, Asian elephants and probable meerkat) while keeping private/rights-unclear original JPEGs unpublished.
+- **Dubbo Zoo Through Time** turns the 1977–2026 archival research into a filterable timeline and exposes the 1995–1999 archive investigation, unsent archival request, coverage audit, IUCN audit and raw 622-question evidence ledger.
+- **Listen** uses the visitor's own browser/device speech engine to narrate evidence-safe field summaries; no recorded audio or analytics is uploaded.
+- **Watch** is a six-stop interactive visual story player using the existing credited public species-reference imagery. It is explicitly not represented as zoo footage.
+
+Implementation and follow-up checklist: [Discovery experience to-do](docs/TODO-DISCOVERY-EXPERIENCE-2026-11-15.md).
+
 ## Comprehensive unanswered-question research atlas (18 October 2026)
 
 **[Read the corrected answers to all 622 parent research questions](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md)**. The old 61-animal snapshot contained answerable questions incorrectly labelled 'unresolved', including Q0007. **[Verification status and examples](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md)** document 49 dated AI source-text checks, 573 parent questions without an independent question-specific source review, no human verification and 1,866 generated follow-up questions still open. A written answer or specific evidence requirement is not certification that an unpublished fact has been found.

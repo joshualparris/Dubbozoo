@@ -76,11 +76,12 @@
  }
  if(number<1||number>89){error('No valid animal number was supplied.');return;}
  try{
-   const [inventory,audit,photoData]=await Promise.all([load('all-time-animal-inventory.json'),load('iucn-assessment-audit-2026-10-18.json'),load('curated-wildlife-images.json')]);
+   const [inventory,audit,photoData,mediaData]=await Promise.all([load('all-time-animal-inventory.json'),load('iucn-assessment-audit-2026-10-18.json'),load('curated-wildlife-images.json'),load('official-dubbo-zoo-media.json')]);
    species=inventory.entries;animal=species.find(x=>x.number===number);
    scientific=audit.entries.find(x=>x.number===number);
    if(!animal)throw Error('This animal is not in the catalogue.');
    const pic=(photoData.entries||[]).find(x=>x.number===number);
+   const media=(mediaData.videos||[]).find(x=>Number(x.animal_number)===number);
    const slot=document.querySelector('#animal-portrait .animal-photo-slot');
    if(pic&&slot){
       const figure=el('figure','','animal-photo'),img=el('img');
@@ -106,8 +107,26 @@
  $('animal-meta').append(el('span',animal.region),el('span',label(animal.holding_evidence_status)));
  $('overview-heading').textContent='Meet '+animal.name;
  $('quick-evidence').textContent=label(animal.holding_evidence_status)+'. Historical research does not establish a current 2026 zoo census.';
- $('quick-source').href=animal.source_url||root+animal.guide;
- $('original-research').href=root+animal.guide;
+ $('quick-source').href='#panel-research';
+ $('quick-source').textContent='Evidence is included in this page ↓';
+ $('quick-source').onclick=event=>{event.preventDefault();tab('research');};
+ $('original-research').href='#research-sections';
+ const fieldNotes={4:'/field-notes/001-african-wild-dogs',13:'/field-notes/002-giraffe-herd',32:'/field-notes/003-siamang-islands',23:'/field-notes/004-galapagos-giant-tortoise',24:'/field-notes/005-asian-elephants',15:'/field-notes/006-probable-meerkat'};
+ const fieldLink=$('animal-field-note-link');
+ if(fieldLink&&fieldNotes[number]){fieldLink.hidden=false;fieldLink.href=fieldNotes[number];fieldLink.textContent='Open Josh\'s field note →';}
+ if(media){
+   const box=$('animal-real-media');if(box)box.hidden=false;
+   if($('animal-media-title'))$('animal-media-title').textContent=media.title;
+   if($('animal-media-summary'))$('animal-media-summary').textContent=media.audio_note+' Published '+media.published+' by '+media.channel+'.';
+   const play=$('animal-media-play');
+   if(play)play.addEventListener('click',()=>{
+     const iframe=document.createElement('iframe');
+     iframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(media.youtube_id)+'?rel=0&modestbranding=1&playsinline=1';
+     iframe.title=media.title;iframe.allow='autoplay; encrypted-media; picture-in-picture';iframe.allowFullscreen=true;
+     iframe.referrerPolicy='strict-origin-when-cross-origin';iframe.setAttribute('sandbox','allow-scripts allow-same-origin allow-presentation');
+     $('animal-media-stage').replaceChildren(iframe);
+   },{once:true});
+ }
  const cat=scientific?.iucn_category;
  $('quick-conservation').append(el('div',codes[cat]||'Not individually verified','detail-status-value'));
  if(cat)$('quick-conservation').append(el('p','IUCN '+cat+' · source year '+(scientific.publication_year||'not recorded'),'detail-small'));
@@ -142,9 +161,9 @@
      body.append(markdown(part.body,animal.guide));card.append(summary,body);$('research-sections').append(card);
    });
  }catch(e){
-   $('animal-intro').textContent='Original research text is not available from this deployment, but the research guide can be opened on GitHub.';
+   $('animal-intro').textContent='The research guide could not be loaded in this deployment. Please return to the animal archive and retry.';
    $('overview-text').replaceChildren(el('p','Guide text unavailable: '+String(e)));
-   $('research-sections').replaceChildren(el('p','Please read the guide on GitHub.'),href('Open original research ↗',root+animal.guide));
+   $('research-sections').replaceChildren(el('p','The internal research guide could not be loaded. Please refresh this page or return to the animal archive.'));
  }
  const sameRegion=species.filter(x=>x.region===animal.region&&x.number!==number);
  const prefix=(scientific?.assessed_taxon||animal.scientific_name||'').split(' ')[0];
@@ -170,7 +189,7 @@
      } else {
        const state=el('div','','animal-blank-state');
        state.append(el('p','The source guide predates a separately numbered question set for this historical entry. Open the detailed source sections to see remaining research and archival evidence gaps.'));
-       state.append(href('Read full guide on GitHub ↗',root+animal.guide));
+       const readGuide=el('button','Read full guide ↓');readGuide.type='button';readGuide.onclick=()=>tab('research');state.append(readGuide);
        node.append(state);
      }
      return;

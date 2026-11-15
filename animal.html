@@ -17,7 +17,7 @@
 <header class="animal-detail-top" id="top"><div class="wrap">
 <div class="nav-wrap">
 <a class="brand" href="/"><span class="brand-glyph" aria-hidden="true">✳</span> dubbozoo</a>
-<nav class="main-nav" aria-label="Research navigation"><a href="/#archive">All 89 animals</a><a href="/#questions">Question atlas</a><a href="/#network">Dewey network</a><a href="https://github.com/joshualparris/Dubbozoo">GitHub ↗</a></nav>
+<nav class="main-nav" aria-label="Research navigation"><a href="/#archive">All 89 animals</a><a href="/#journal">Field journal</a><a href="/#real-media">Real zoo media</a><a href="/#questions">Question atlas</a></nav>
 </div>
 <nav class="animal-trail" aria-label="Breadcrumb"><a href="/">Dubbozoo</a><span aria-hidden="true">›</span><a href="/#archive">Animal archive</a><span aria-hidden="true">›</span><span id="animal-breadcrumb">Loading…</span></nav>
 <div class="animal-detail-head"><div>
@@ -46,8 +46,9 @@
 <section class="animal-tab-panel" id="panel-overview" role="tabpanel" aria-labelledby="tab-overview">
 <div class="detail-layout"><div class="detail-main">
 <div class="detail-box"><span class="eyebrow">THE ANIMAL</span><h2 id="overview-heading">About this animal</h2><div class="detail-section-body" id="overview-text"><p>Loading researched species information…</p></div></div>
-<div class="detail-box" style="margin-top:16px"><h2>Research highlights</h2><div class="detail-control-row"><button type="button" id="go-research">Read the full guide ↗</button><button type="button" id="go-questions">Explore research questions ↗</button></div>
+<div class="detail-box" style="margin-top:16px"><h2>Research highlights</h2><div class="detail-control-row"><button type="button" id="go-research">Read the full guide ↓</button><button type="button" id="go-questions">Explore research questions ↓</button><a id="animal-field-note-link" class="internal-action" href="/#journal" hidden>Open Josh's field note →</a></div>
 <div class="detail-notice"><strong>Evidence first.</strong> Species science is different from identifying a particular captive animal. Historical sources do not prove this animal is on display today.</div></div>
+<div class="detail-box animal-real-media" id="animal-real-media" hidden><span class="eyebrow">REAL DUBBO ZOO VIDEO + AUDIO</span><h2 id="animal-media-title">Official keeper media</h2><p id="animal-media-summary"></p><div class="animal-media-stage" id="animal-media-stage"><button class="btn" type="button" id="animal-media-play">▶ Play real keeper video + audio</button></div><p class="detail-small">Official Taronga media embedded inside Dubbozoo. The player is loaded only when you choose play.</p></div>
 </div><aside class="detail-aside">
 <div class="detail-box"><h3>Conservation snapshot</h3><div id="quick-conservation">Status source being checked…</div><p class="detail-small">Global IUCN listings refer to wild populations, not zoo attendance.</p></div>
 <div class="detail-box"><h3>Dubbo record</h3><p id="quick-evidence">Looking up the evidence category…</p><a id="quick-source" href="https://github.com/joshualparris/Dubbozoo">Primary source ↗</a></div>
@@ -55,7 +56,7 @@
 </section>
 <section class="animal-tab-panel" id="panel-research" role="tabpanel" aria-labelledby="tab-research" hidden>
 <div class="section-head"><div><span class="eyebrow">FULL RESEARCH GUIDE</span><h2>Explore the evidence.</h2><p>Original source sections appear below. Expand any heading, or open all sections to read the complete guide.</p></div></div>
-<div class="detail-control-row"><button type="button" id="expand-sections">Expand all sections</button><button type="button" id="collapse-sections">Collapse sections</button><a id="original-research" href="https://github.com/joshualparris/Dubbozoo" target="_blank" rel="noopener noreferrer">Original Markdown on GitHub ↗</a></div>
+<div class="detail-control-row"><button type="button" id="expand-sections">Expand all sections</button><button type="button" id="collapse-sections">Collapse sections</button><a id="original-research" href="#research-sections">Research is rendered here in Dubbozoo ↓</a></div>
 <div id="research-sections" aria-live="polite"><div class="animal-blank-state">Loading original animal research…</div></div>
 </section>
 <section class="animal-tab-panel" id="panel-conservation" role="tabpanel" aria-labelledby="tab-conservation" hidden>
@@ -86,7 +87,7 @@
 <div id="related-animals" class="related-grid"></div><nav class="animal-pagination" aria-label="Previous and next animal"><a href="/#archive" id="previous-animal">← Animal archive</a><a href="/#archive" class="next" id="next-animal">All animals →</a></nav>
 </section>
 </main>
-<footer class="footer"><div class="wrap footer-inner"><div><strong>✳ Dubbozoo • Independent wildlife research</strong><p>This is not Taronga's official website. Wildlife photos are reference images from separately credited open sources. Dated zoo holdings and IUCN data are not current 2026 rosters.</p></div><nav class="footer-links" aria-label="Footer links"><a href="/">All animals</a><a href="https://github.com/joshualparris/Dubbozoo">Research source ↗</a><a href="#top">Top ↑</a></nav></div></footer>
+<footer class="footer"><div class="wrap footer-inner"><div><strong>✳ Dubbozoo • Independent wildlife research</strong><p>This is not Taronga's official website. Wildlife photos are reference images from separately credited open sources. Dated zoo holdings and IUCN data are not current 2026 rosters.</p></div><nav class="footer-links" aria-label="Footer links"><a href="/">All animals</a><a href="/#journal">Field journal</a><a href="/#real-media">Real zoo media</a><a href="#top">Top ↑</a></nav></div></footer>
 <script>
 (function(){
  var pathMatch=location.pathname.match(/\/animals\/(\d{1,3})(?:-|\/|$)/);

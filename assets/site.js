@@ -129,7 +129,7 @@
 
 'use strict';
 (() => {
-  // Dubbozoo discovery media — field journal, timeline and privacy-safe story player.
+  // Dubbozoo discovery interactions: journal imagery, timeline filters and official real-media player.
   const journalCards = Array.from(document.querySelectorAll('.journal-card'));
   const animalCards = Array.from(document.querySelectorAll('.animal-card'));
   const findAnimalCard = number => animalCards.find(card => {
@@ -149,94 +149,66 @@
     document.querySelectorAll('.timeline-item').forEach(item => item.hidden = selected !== 'all' && item.dataset.timelineKind !== selected);
   }));
 
-  const speechSupport = document.getElementById('speech-support');
-  const narrationNow = document.getElementById('narration-now');
-  const canSpeak = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
-  let currentUtterance = null;
-  const speak = (text, label) => {
-    if (!canSpeak || !text) {
-      if (narrationNow) narrationNow.textContent = 'Narration is not available in this browser.';
-      return;
-    }
-    window.speechSynthesis.cancel();
-    currentUtterance = new SpeechSynthesisUtterance(text);
-    currentUtterance.lang = 'en-AU';
-    currentUtterance.rate = 0.96;
-    currentUtterance.onend = () => { currentUtterance = null; };
-    if (narrationNow) narrationNow.textContent = 'Now listening: ' + (label || 'Dubbozoo field journal');
-    window.speechSynthesis.speak(currentUtterance);
-  };
-  if (speechSupport) speechSupport.textContent = canSpeak ? 'Narration available on this device ✓' : 'Narration unavailable in this browser';
-  journalCards.forEach(card => {
-    const button = card.querySelector('.listen-inline');
-    if (button) button.addEventListener('click', () => speak(card.dataset.narration, card.dataset.storyTitle));
-  });
-  const tourButton = document.getElementById('listen-tour');
-  if (tourButton) tourButton.addEventListener('click', () => {
-    const tour = journalCards.map(card => card.dataset.narration).filter(Boolean).join(' Next stop. ');
-    speak('Welcome to the Dubbozoo field journal highlights tour. ' + tour, 'six-stop highlights tour');
-  });
-  const pauseButton = document.getElementById('pause-narration');
-  if (pauseButton) pauseButton.addEventListener('click', () => {
-    if (!canSpeak) return;
-    if (window.speechSynthesis.paused) window.speechSynthesis.resume(); else if (window.speechSynthesis.speaking) window.speechSynthesis.pause();
-  });
-  const stopButton = document.getElementById('stop-narration');
-  if (stopButton) stopButton.addEventListener('click', () => {
-    if (canSpeak) window.speechSynthesis.cancel();
-    currentUtterance = null;
-    if (narrationNow) narrationNow.textContent = 'Narration stopped. Choose a story whenever you are ready.';
-  });
+  const choices = Array.from(document.querySelectorAll('.real-media-choice'));
+  const loadButton = document.getElementById('load-real-media');
+  const title = document.getElementById('real-media-title');
+  const description = document.getElementById('real-media-description');
+  const meta = document.getElementById('real-media-meta');
+  const stage = document.getElementById('youtube-stage');
+  let media = [], selected = null;
 
-  const stories = journalCards.map(card => {
-    const photo = card.querySelector('.journal-photo');
-    return {
-      title: card.dataset.storyTitle || '',
-      caption: card.dataset.storyCaption || '',
-      image: photo ? photo.style.backgroundImage : ''
-    };
-  });
-  let storyIndex = 0, storyTimer = null;
-  const storyImage = document.getElementById('story-image');
-  const storyTitle = document.getElementById('story-title');
-  const storyCaption = document.getElementById('story-caption');
-  const storyCounter = document.getElementById('story-counter');
-  const storyPlay = document.getElementById('story-play');
-  const renderStory = index => {
-    if (!stories.length) return;
-    storyIndex = (index + stories.length) % stories.length;
-    const story = stories[storyIndex];
-    if (storyImage) {
-      storyImage.style.backgroundImage = story.image || 'linear-gradient(145deg,#426953,#162f28)';
-      storyImage.classList.remove('story-fade');
-      void storyImage.offsetWidth;
-      storyImage.classList.add('story-fade');
+  const selectMedia = observation => {
+    const item = media.find(v => Number(v.observation) === Number(observation));
+    if (!item) return;
+    selected = item;
+    choices.forEach(b => b.setAttribute('aria-pressed', String(Number(b.dataset.observation) === Number(observation))));
+    if (title) title.textContent = item.title;
+    if (description) description.textContent = item.audio_note;
+    if (meta) meta.textContent = 'Official ' + item.channel + ' · ' + item.kind + ' · published ' + item.published + '. Historical footage; not a live roster.';
+    if (loadButton) {
+      loadButton.disabled = false;
+      loadButton.textContent = '▶ Play real Dubbo zoo video + audio';
     }
-    if (storyTitle) storyTitle.textContent = story.title;
-    if (storyCaption) storyCaption.textContent = story.caption;
-    if (storyCounter) storyCounter.textContent = 'Story ' + (storyIndex + 1) + ' of ' + stories.length;
+    if (stage) {
+      stage.hidden = true;
+      stage.replaceChildren();
+    }
   };
-  const stopStory = () => {
-    if (storyTimer) window.clearInterval(storyTimer);
-    storyTimer = null;
-    if (storyPlay) storyPlay.textContent = '▶ Auto-play';
+
+  const loadSelected = () => {
+    if (!selected || !stage) return;
+    const iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(selected.youtube_id) + '?rel=0&modestbranding=1';
+    iframe.title = selected.title;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.allowFullscreen = true;
+    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+    stage.replaceChildren(iframe);
+    stage.hidden = false;
+    if (loadButton) loadButton.textContent = 'Video loaded ✓';
   };
-  const startStory = () => {
-    stopStory();
-    storyTimer = window.setInterval(() => renderStory(storyIndex + 1), 6500);
-    if (storyPlay) storyPlay.textContent = 'Ⅱ Pause story';
-  };
-  const prev = document.getElementById('story-prev'), next = document.getElementById('story-next');
-  if (prev) prev.addEventListener('click', () => { stopStory(); renderStory(storyIndex - 1); });
-  if (next) next.addEventListener('click', () => { stopStory(); renderStory(storyIndex + 1); });
-  if (storyPlay) storyPlay.addEventListener('click', () => storyTimer ? stopStory() : startStory());
-  journalCards.forEach((card, index) => {
-    const button = card.querySelector('.watch-inline');
-    if (button) button.addEventListener('click', () => {
-      stopStory(); renderStory(index);
-      const target = document.getElementById('listen-watch');
-      if (target) target.scrollIntoView({behavior:'smooth',block:'start'});
+
+  fetch('/data/official-dubbo-zoo-media.json', {credentials:'omit'}).then(r => r.ok ? r.json() : Promise.reject(new Error('media '+r.status))).then(data => {
+    media = Array.isArray(data.videos) ? data.videos : [];
+    choices.forEach(button => button.addEventListener('click', () => {
+      selectMedia(button.dataset.observation);
+      if (loadButton) loadButton.focus();
+    }));
+    journalCards.forEach((card,index) => {
+      const button = card.querySelector('.real-media-inline');
+      if (button) button.addEventListener('click', () => {
+        selectMedia(index + 1);
+        document.getElementById('real-media')?.scrollIntoView({behavior:'smooth',block:'start'});
+      });
     });
+    if (loadButton) loadButton.addEventListener('click', loadSelected);
+    const hash = location.hash.match(/^#real-media-(\d{3})$/);
+    if (hash) {
+      selectMedia(Number(hash[1]));
+      document.getElementById('real-media')?.scrollIntoView({block:'start'});
+    } else if (media.length) selectMedia(1);
+  }).catch(() => {
+    if (title) title.textContent = 'Official media list could not be loaded';
+    if (description) description.textContent = 'The rest of Dubbozoo is still available.';
   });
-  renderStory(0);
 })();

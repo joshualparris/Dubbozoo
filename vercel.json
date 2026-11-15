@@ -4,6 +4,10 @@
     {
       "source": "/animals/:slug",
       "destination": "/animal.html"
+    },
+    {
+      "source": "/field-notes/:slug",
+      "destination": "/field-note.html"
     }
   ]
 }

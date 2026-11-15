@@ -52,6 +52,11 @@ The public portal now promotes research that previously required browsing the Gi
 
 Implementation and follow-up checklist: [Discovery experience to-do](docs/TODO-DISCOVERY-EXPERIENCE-2026-11-15.md).
 
+
+## Zoo app & website benchmark backlog
+
+A 15 November 2026 benchmark against Taronga Western Plains Zoo, San Diego Zoo, Chester Zoo, Mandai Wildlife Reserve, Smithsonian National Zoo and Zoos Victoria identified **120 concrete visitor-experience features not yet implemented**. See the [numbered benchmark to-do list](docs/TODO-ZOO-APP-WEBSITE-BENCHMARK-2026-11-15.md).
+
 ## Comprehensive unanswered-question research atlas (18 October 2026)
 
 **[Read the corrected answers to all 622 parent research questions](docs/UNANSWERED_QUESTIONS_ATLAS_2026-10-18.md)**. The old 61-animal snapshot contained answerable questions incorrectly labelled 'unresolved', including Q0007. **[Verification status and examples](docs/QUESTION-VERIFICATION-STATUS-2026-10-18.md)** document 49 dated AI source-text checks, 573 parent questions without an independent question-specific source review, no human verification and 1,866 generated follow-up questions still open. A written answer or specific evidence requirement is not certification that an unpublished fact has been found.

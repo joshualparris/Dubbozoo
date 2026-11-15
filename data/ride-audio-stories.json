@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "reviewed": "2026-11-15",
+  "notes": "Original short spoken field-guide scripts grounded in Dubbozoo animal research. Not official Taronga keeper audio. Stories intentionally omit claims about which individual animal is in view. Deep and family versions are on-device speech synthesis unless offline audio is separately licensed and hosted.",
+  "entries": [
+    {
+      "animalNumber": 24,
+      "title": "The elephant's extraordinary trunk",
+      "family": "Look at the trunk. It works a little like a nose, a hand, and a snorkel, but an elephant doesn't drink straight through it. The trunk brings water to its mouth. It can pick up a big branch and also handle tiny pieces of food. Its whiskers and sensitive skin help it explore things it touches. If you can see an elephant, watch how the tip moves. Is it reaching, curling, resting, or touching something? We can't tell which individual it is from a distant view.",
+      "deep": "An Asian elephant's trunk combines smell, breathing, touch, communication and precise muscular movement. New research in twenty twenty-six studied how the whiskers change stiffness from base to tip, potentially helping the animal locate contact along a whisker. A different study found that the upper and lower surfaces of trunk skin have different mechanical properties: one suited more to protection, the other to gripping. Elephants also use trunks to transfer water to the mouth, rather than sucking water directly into the lungs. Look for contact with a log, vegetation, soil or the elephant's own body. Describe what you can actually see before deciding what motivated the action. Asian elephants are endangered, and protecting connected habitat and reducing dangerous encounters with people are crucial to their future. The elephants you encounter here are individuals with histories; a public sign or body size is not enough to identify one.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 13,
+      "title": "Giraffes: the long and short of it",
+      "family": "A giraffe's neck is amazing, but so is its tongue. Watch for the way its lips and tongue collect leaves. Those small horn-like bumps on top of the head are called ossicones. Every giraffe has its own pattern of patches, a little like the differences between people's fingerprints. If you can see more than one, try counting only those in plain sight. Others might be hidden behind trees. Can you spot one browsing, rather than just standing?",
+      "deep": "To send blood up a long neck, giraffes have specialised cardiovascular systems and high blood pressure, balanced with adaptations that protect tissues. Their ossicones are bony structures covered with skin, not horns identical to an antelope's. Giraffes use a mobile tongue and lips to select foliage, and their coat patches have distinctive individual patterns. The zoo's precise giraffe lineage cannot be established just from visual resemblance to one of the recently recognised giraffe species. During a visit, spend a few moments watching whether an animal is browsing, walking, looking around or standing still. Count the animals truly visible rather than treating an overlapping group as the zoo's complete herd. Giraffe conservation depends on functioning habitat, reducing conflict and understanding local populations, not just on keeping animals in care.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 32,
+      "title": "The singing siamang",
+      "family": "The siamang is an ape, not a monkey. It doesn't have a tail, and its long arms help it swing between trees and ropes. A siamang has a special throat sac that can inflate as it makes powerful calls. If the siamangs start calling, listen for the sounds and try to notice whether the pattern changes. They might be silent, too, and that's completely normal. See if you can spot the difference between swinging by the arms and walking along a support.",
+      "deep": "Siamangs are the largest living gibbons, and, like other apes, they have no tails. Their long arms and highly mobile shoulders make them specialists at brachiation: travelling hand over hand along branches and ropes. They can also move upright along supports, using their arms for balance. A large inflatable throat sac helps project their powerful songs. Pairs often produce coordinated vocal sequences, but you cannot infer that a duet has occurred from a silent still photograph. At Dubbo, the island habitat gives animals vertical structures and water-separated space. Observe how they choose supports, pause, swing or hold position, then record only those movements that were visible. In the wild, forest habitat loss and fragmentation affect these endangered apes. A keeper can give you today's verified identities and husbandry details.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 4,
+      "title": "Wild dogs: the painted pack",
+      "family": "These animals are African wild dogs, not domestic dogs or hyenas. Look at their enormous round ears and the wonderful patches of tan, black and white on their fur. The pattern is different on each animal. In the wild, painted dogs work together to raise pups and hunt. Can you see two animals paying attention to each other? Perhaps they are walking together, or perhaps one is resting. Watch before you guess what they're doing.",
+      "deep": "African wild dogs are strongly social members of the dog family. Each individual has a distinctive patchwork coat, large rounded ears and a light tail tip. Packs coordinate movement, hunting and raising young. They are not simply feral domestic dogs, and their social structures are one reason population counts must distinguish a whole pack from breeding mature individuals. The twenty twenty-five IUCN assessment categorises them as endangered and describes a decreasing trend; its mature-individual estimates are not a count of every adult and pup alive. Habitat fragmentation, disease and contact with people create pressures across their remaining range. At the enclosure, observe who is actually in view and the pattern of movement. You cannot identify a named individual solely from an unverified photograph, and the number visible is not necessarily the full resident pack.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 10,
+      "title": "Hippos: giants in the water",
+      "family": "A hippo can look like a rock with eyes! See where its eyes, ears and nostrils are. They sit high on the head, so a hippo can stay mostly underwater while still looking and breathing. Common hippos spend a lot of time near water, but most of their normal food is grass, not fish. If you can see a hippo, count only the heads and bodies that are clearly showing. Another one might be hidden under the water.",
+      "deep": "Common hippopotamuses are large, semi-aquatic mammals. Their nostrils, ears and eyes sit high on the head, allowing much of the body to remain submerged. Their skin needs protection against drying, so water and damp habitats are important. They often rest in or beside water during the day, while feeding mainly on grass on land, commonly at night. Hippos can move powerfully through shallow water and are dangerous wild animals, even if an animal appears calm from a distance. The species is currently listed as vulnerable. At Dubbo, watch the waterline closely and report only what you can actually see; a partly visible head is not a reliable measure of the full group size. The common hippo is not the same species as the smaller pygmy hippo exhibited at Taronga Zoo Sydney.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 7,
+      "title": "The black rhinoceros",
+      "family": "Despite its name, a black rhino isn't necessarily black. One of the best clues is the upper lip. It is shaped a bit like a hook and helps pull leaves and twigs from plants. That makes a black rhino a browser. A white rhino, by contrast, has a wider mouth for grazing grass. Both have horns made mostly from keratin, a material found in our hair and nails. Can you watch which part of the plant the rhino is choosing?",
+      "deep": "Black and white African rhinoceroses differ in feeding ecology, not simply colour. Black rhinos have a pointed, prehensile upper lip suited to taking browse from branches and shrubs. White rhinos have broad, square lips suited to grazing. Rhino horns are made primarily of keratin, not bone. Black rhinos are critically endangered because of persistent poaching and the challenge of keeping small populations connected and protected. Taronga Western Plains Zoo has a significant black-rhino conservation breeding history, including animals in areas not visible to the public. Watch the animal's lip and how it selects food. A public animal may be resting or partly hidden, and a historical birth announcement does not establish the identity of today's animal.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 33,
+      "title": "A tiger built for forest",
+      "family": "Look carefully at the tiger's stripes. In a forest, those dark lines can help break up the animal's outline in shadows and tall plants. Sumatran tigers are from the Indonesian island of Sumatra. They need forest, prey and space to move in the wild. You may not see one straight away — a tiger can be very hard to spot, even from a good viewing area. Search with your eyes, not by climbing or getting closer than the signs allow.",
+      "deep": "Sumatran tigers live in forest landscapes on the Indonesian island of Sumatra. Stripes can help disguise their outline among changing light and vegetation. Tigers are powerful, largely solitary carnivores with large home ranges and requirements for adequate prey. Habitat fragmentation, hunting of prey animals, poaching and conflict with people all put pressure on remaining wild populations. Taronga uses the traditional Sumatran subspecies name, although taxonomic schemes differ, so a global tiger conservation assessment cannot always be applied to a regional lineage unchanged. Dubbo has a Wild Asia tiger habitat, but there is no guarantee that an animal is visible from the public path at any given moment. Notice how hard a tiger can be to see without assuming the enclosure is empty, and record sightings only when an animal is actually visible.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 3,
+      "title": "Lion Pride Lands",
+      "family": "Lions are big cats that often spend lots of time resting. A lion with a mane is often a male, but a mane doesn't tell us the animal's name. Look at the way the ears move and how the body rests or stands. Lions can live in social groups called prides, unlike most other big cats. If a lion is asleep, that's still something interesting to notice: big animals need rest too. How many can you really see?",
+      "deep": "Lions are unusually social among the big cats, living in groups called prides, although group structure varies. Resting for long periods is normal lion behaviour, especially in warm conditions. A mane can help identify a likely adult male, but photographs alone cannot establish age, genetics or individual name. Taronga's published Lion Pride Lands stories describe particular animals at particular times, not proof that the lion visible on your visit is one of those named animals. At the viewing area, note whether a lion is resting, standing, moving or interacting with another individual. Avoid interpreting an open mouth or a changed head posture as aggression, boredom or illness based on a single glance. In the wild, habitat connectivity and coexistence with people and livestock are central conservation challenges.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 15,
+      "title": "Meerkats: little lookouts",
+      "family": "Meerkats often stand upright to look around, but they do many other things too: digging, grooming, resting and investigating their surroundings. They live in social groups. Look at the sandy ground and try to see whether any animal is moving between burrows or watching from a raised place. If one disappears, it may be behind a log or underground. Don't count it as gone from the group just because you can't see it.",
+      "deep": "Meerkats are social mongooses adapted to open, often dry habitats in southern Africa. Their groups cooperate in activities including caring for young and keeping watch. Individuals change roles depending on context, so a single upright pose does not establish that the animal is serving as the group's official lookout. Watch for movement between burrows, digging, investigating, grooming and resting. Describe those visible actions and avoid assuming the motivations or identities of particular animals. Meerkats have a complex sound repertoire, but a visitor should not infer a specific call or warning from a silent photograph. At Dubbo's Waterhole area, distinguish an animal that is out of view from one that has actually left the exhibit.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 23,
+      "title": "The ancient giant tortoise",
+      "family": "A Galápagos giant tortoise carries a huge shell around its body, but it isn't like a house the animal can step out of. Its shell is part of its skeleton. Look at the thick, strong legs and the way it moves. Tortoises can live for a very long time, but you can't tell the exact age of one just by looking at the shell. Watch for a slow step, a head movement or a bite of food, and describe it carefully.",
+      "deep": "Galápagos giant tortoises evolved into multiple island lineages with differences in shell shape and ecology. Their shells include bone and keratin and are living parts of the animals' bodies, not detachable protection. These tortoises can be exceptionally long lived, but an exact age, island lineage or sex cannot be established just from the shell in a visitor photograph. Differences among taxonomic checklists also mean that one broad global conservation category should not be carelessly assigned to every island form. At Dubbo, look for deliberate locomotion, head position, plant selection and how the shell relates to the legs. Slow movement does not by itself establish that an animal is ill. Ask a keeper if you are curious about the verified lineage of particular zoo animals.",
+      "language": "en-AU",
+      "sourceGuide": "docs/galapagos-giant-tortoise.md",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 17,
+      "title": "Why zebras wear stripes",
+      "family": "Zebras have different stripe patterns on their bodies, heads and legs. No two look exactly alike. Scientists investigate how stripes work, and one well-studied possibility is that they reduce the landing of biting flies. Zebras also communicate by moving their bodies and making sounds. If several are standing together, look for changes in who moves first and who stays beside whom. Their stripes aren't a sign of which one is the oldest.",
+      "deep": "A zebra's stripes vary among individuals and may serve more than one function. Research has investigated temperature, camouflage, social recognition and fly avoidance; the evidence is particularly strong that stripes can interfere with landing by certain biting flies, though not every proposed explanation is equally supported. Plains zebras live with substantial social relationships, and groups may include overlapping individuals and family units. Watch their body language and movement without assuming you know each relationship from a short visit. On Dubbo's broader paddocks, visible animals are often only a fraction of an exhibit's full range. A community map pin represents an approximate habitat location, not an exact position of a named zebra.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 20,
+      "title": "The grazing white rhinoceros",
+      "family": "A white rhinoceros may look grey — the name isn't a promise about colour. Watch its broad mouth. The lips are shaped to help the animal graze grass, a different feeding style from the black rhinoceros, which reaches for leaves. A rhino's horn is made mainly of keratin, like our hair and nails. Try comparing the head shape and the food it chooses if you see both species on your ride.",
+      "deep": "White rhinoceroses are mostly grazers. Their relatively broad, square lips help crop grass efficiently, in contrast to the pointed, browsing upper lip of the black rhinoceros. Both African rhinos are threatened by poaching for horn, and their conservation depends on secure habitat, effective management and community support. The white rhino is not normally white in colour: the name's origin is debated and its appearance can be affected by dust or mud. A distant rhino is not identifiable as a named individual just from apparent body size or colour. Watch for mouth shape and the position of the head when the animal is feeding, and ask keepers for details about the zoo's current animals.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 25,
+      "title": "Otters: hands on explorers",
+      "family": "These are Asian small-clawed otters. Their front paws are brilliant for feeling and handling things. They swim, investigate, groom and often communicate with each other. Watch for the paws if an otter comes close enough to see safely. What is it touching, and does it use its mouth or hands first? Otters can hide among rocks and water plants, so seeing one doesn't tell you how many are in the habitat.",
+      "deep": "Asian small-clawed otters are among the smallest otters. Their sensitive front paws help them search for and handle food in wetland environments. As with other otters, their social and communication behaviour can be complex, but a brief visitor observation does not establish a particular animal's identity or group role. Their natural habitats are affected by wetland conversion, water pollution and human activity. At the Wild Asia habitat, watch for differences between swimming, grooming, exploration and resting. Do not assume every movement toward a visitor is a request for food. It is the zoo's responsibility to manage diets, so visitors must not feed wildlife.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    },
+    {
+      "animalNumber": 1,
+      "title": "Addax and life in the desert",
+      "family": "The addax is an antelope that lives in very dry places. Look at its spiralling horns and broad hooves. Its body is adapted for sandy ground where food and water can be difficult to find. At the zoo, you might spot one standing quietly in the shade. Can you describe the shape of the horns or the way its hooves meet the ground? Don't assume a resting animal is bored.",
+      "deep": "The addax is a desert-adapted antelope from the Sahara region. Broad hooves help it move across loose ground, while its spiral horns are a striking identification feature. Animals in arid landscapes must manage heat and irregular resources, although the temperature and moisture of a zoo habitat are not the same as their native range. Wild addax populations have been severely reduced by hunting, disturbance and habitat pressures. Conservation requires effective protection of remaining habitat and carefully managed populations. On your visit, look for the shape of the horns, where the animal is standing, and the position of its feet. Avoid equating an animal's temporary behaviour with permanent welfare conclusions.",
+      "language": "en-AU",
+      "sourceGuide": "data/all-time-animal-inventory.json",
+      "disclaimer": "Species story, not live animal identification or a current zoo roster."
+    }
+  ]
+}

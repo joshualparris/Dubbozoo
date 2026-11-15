@@ -22,6 +22,8 @@ Every animal card has a real image URL, visible photographer and licence credit,
 
 **Not an animal tracker, exact exhibit survey or public route map.** OpenStreetMap points may be old or inside habitats, phone GPS may drift, animals may be hidden, and some stops await geolocation. Official route directions, talks and updates remain with Taronga. **Real-device on-site Android validation is still outstanding.** [Implementation, sources, limitations and QA](docs/GPS-RIDE-GUIDE-2026-11-15.md) · [23-point location catalogue](data/ride-exhibits.json).
 
+**Phase 2 upgrade (15 November 2026):** the ride guide now offers **14 original two-level spoken stories** (family and deeper science), complete transcripts, automatic rejection of stale GPS fixes, an **on-device “My Safari” journal** with explicit sighting check-ins, notes and Markdown export, plus Android home-screen installation guidance and an offline-cache readiness check. User-entered notes are private to the device; no GPS coordinates appear in the exported journal. These features passed source and simulated runtime tests, **not an on-site Android acceptance test**. [Read the full phase-2 verification report](docs/GPS-RIDE-GUIDE-PHASE-2-2026-11-15.md) · [Listen to or inspect the 14 scripts](data/ride-audio-stories.json).
+
 ## Start here
 
 ## 89 individual interactive animal websites
